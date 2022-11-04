@@ -1,4 +1,4 @@
-title: Title
+title: "Anglo-Chinese Junior College "
 url: https://acjc.moe.edu.sg
 favicon: /images/Anglo-Chinese_School_Crest.png
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: ACJC is a Methodist Institution committed to an all-round education
+  of the highest standards based on Christian principles
 permalink: none
 baseurl: ""
 exclude:
