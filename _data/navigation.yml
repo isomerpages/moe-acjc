@@ -2,3 +2,13 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
+  - title: Student Life
+    collection: student-life
+  - title: Showcase
+    collection: showcase
+  - title: Events
+    collection: events
+  - title: Parents
+    collection: parents
+  - title: Alumni
+    collection: alumni
