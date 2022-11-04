@@ -5,7 +5,7 @@ description: ACJC is a Methodist Institution committed to an all-round education
   of the highest standards based on Christian principles
 image: /images/Anglo-Chinese_School_Crest.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
@@ -30,6 +30,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
