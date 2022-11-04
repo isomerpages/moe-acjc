@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: "Anglo-Chinese Junior College "
+description: ACJC is a Methodist Institution committed to an all-round education
+  of the highest standards based on Christian principles
 image: /images/Anglo-Chinese_School_Crest.png
 permalink: /
 notification: Here's a notification bar you can use!
@@ -29,5 +30,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
