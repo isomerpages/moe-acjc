@@ -2,4 +2,5 @@ collections:
   alumni:
     output: true
     order:
+      - Alumni in the News.md
       - Join the ACSOBA.md
