@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Fun O Rama.md
       - AC Celebrations/.keep
       - AC Celebrations/AC Celebrations.md
       - AC Celebrations/AC Celebrations 2020.md
