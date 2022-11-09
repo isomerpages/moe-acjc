@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Circulars/Assessment Schedules.md
       - Circulars/.keep
       - Parents Action Team/.keep
       - Parents Action Team/Parents Action Team.md
