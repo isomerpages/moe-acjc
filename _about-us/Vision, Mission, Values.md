@@ -3,7 +3,7 @@ title: Vision, Mission, Values
 permalink: /about-us/Vision-Mission-Values/
 description: ""
 ---
-## Vision, Mission, Values
+## <center> Vision, Mission, Values </center>
 
 ### Vision
 
@@ -39,4 +39,3 @@ We inspire passion with empathy in service and leadership.</center>**
 **<center>IN ORDER TO MAKE A DIFFERENCE.</center>**
 
 ![](/images/Cheer2.jpeg)
-
