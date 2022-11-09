@@ -82,10 +82,8 @@ The _extension topics_ are based on emerging fields in biology, and require st
 Details on the syllabus learning outcomes and scheme of assessment can be found in the published SEAB syllabi.
 
   
-
 [H1 Biology Syllabus](/files/8876_y22_sy.pdf)  
 
 [H2 Biology Syllabus](/files/9744_y22_sy.pdf)
 
 [H3 Biology Syllabus](/files/9816_y22_sy.pdf)
-
