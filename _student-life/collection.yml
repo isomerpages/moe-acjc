@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Humanities Scholarship Programme.md
       - Academics.md
       - Subjects/.keep
       - Subjects/Subjects.md
