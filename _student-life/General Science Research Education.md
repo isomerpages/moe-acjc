@@ -28,5 +28,3 @@ The ACJC Science Excellence programme started with the General Science Research 
 *   A\*STAR Science Award (JC) – Research Attachment Programme (RAP)
 *   Local Student Attachment Programme (LSAP)
 *   Overseas Student Attachment Programme (OSAP)
-
-
