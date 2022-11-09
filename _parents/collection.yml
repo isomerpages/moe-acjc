@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - Parents Action Team/Parents Action Team.md
       - Parents Action Team/.keep
