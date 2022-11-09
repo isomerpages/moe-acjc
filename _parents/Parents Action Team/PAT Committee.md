@@ -17,7 +17,7 @@ third_nav_title: Parents Action Team
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-ktyi">Chairperson<br><br><br>Treasurer<br><br>Fathers’ Prayer<br><br>Friday Prayer<br><br><br>Teachers’ Day<br><br><br><br><br>Exam Food Ministry<br><br><span style="background-color:initial">Foreign Scholars’ Programme</span><br><br>Fun-O-Rama <br></td>
+		<td class="tg-ktyi"><b>Chairperson</b><br><br><br><b>Treasurer</b><br><br><b>Fathers’ Prayer</b><br><br><b>Friday Prayer</b><br><br><br><b>Teachers’ Day</b><br><br><br><br><br><b>Exam Food Ministry</b><br><br><span style="background-color:initial"><b>Foreign Scholars’ Programme</b></span><br><br><b>Fun-O-Rama</b><br></td>
     <td class="tg-ktyi">Li-Anne Fones, lfones@gmail.com<br>Mark Leong, markleong@yahoo.com<br><br><span style="background-color:initial">Tan Mia Kee, billwinnie48@gmail.com</span><br><br>Gideon Mak, gideonmakkt@gmail.com<br><br>Desmond Lim, <span style="background-color:initial">Deslimwt@singnet.com.sg</span><br>Willy Lau, <span style="background-color:initial">Willylauyw@gmail.com</span><br><br>Mark Lee, marknluci@hotmail.com<br><br>Luci Goh, marknluci@hotmail.com<br><br>Pauline Koh, pokecity34@gmail.com<br><br>Anna Chew, scarletstrengthhonor@gmail.com<br><br>Eunice Seow, eseah.biz@gmail.com<br><br><br>Lim May Yee, mayyee.chow@gmail.com<br><br>Jasmine Koh, acjc.fsmp@gmail.com<br>Gary Loh, Gary@firstalverstone.com<br>Samantha Woo, woorus@gmail.com</td>
   </tr>
 </thead>
