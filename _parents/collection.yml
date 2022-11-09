@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Parents Action Team/Note from PAT Chair.md
       - Parents Action Team/Parents Action Team.md
       - Parents Action Team/.keep
