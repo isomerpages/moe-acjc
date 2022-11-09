@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Humanities Scholarship Programme.md
       - Academics.md
       - Subjects/.keep
       - Subjects/Subjects.md
@@ -11,3 +10,4 @@ collections:
       - Subjects/Chemistry.md
       - Electives/.keep
       - General Science Research Education.md
+      - Humanities Scholarship Programme.md
