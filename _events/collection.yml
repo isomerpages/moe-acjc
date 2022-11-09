@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Honours Day.md
       - AC Celebrations/.keep
       - AC Celebrations/AC Celebrations.md
       - AC Celebrations/AC Celebrations 2020.md
@@ -12,3 +11,4 @@ collections:
       - Founder's Day/Methodist Walk 2021.md
       - Founder's Day/Founder's Day 2020.md
       - Fun O Rama.md
+      - Honours Day.md
