@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Founder's Day/.keep
       - AC Celebrations/.keep
       - AC Celebrations/AC Celebrations.md
       - AC Celebrations/AC Celebrations 2020.md
