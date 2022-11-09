@@ -26,3 +26,10 @@ Dr Shirleen Chee
 
 Principal
 
+
+
+<img style="width: 20%;" src="/images/Dr%20Shirleen%20Chee.jpg" align = "left" /> 
+
+
+
+
