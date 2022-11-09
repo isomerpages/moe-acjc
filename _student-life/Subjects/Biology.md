@@ -35,3 +35,17 @@ In addition to the desired student outcomes described for H1 biology, we hope to
 <u>Requirements</u>
 <br>Pass in ‘O’ level biology OR<br>
 Indicative recommendation of min. ‘B3’ for combined science with biology
+
+### H3 BIOLOGY (SYLLABUS 9816)
+
+
+The H3 biology syllabus aims to cater to students with a strong foundation in H2 biology and keen to pursue a more comprehensive understanding of the discipline in both depth and breadth.  
+
+  
+
+We envision each H3 biology student deepening their knowledge and skills, and fostering attitudes necessary for further studies in biology-related fields; developing the skills to think deeply, laterally and critically about biological issues; critically analysing information by building well-structured arguments that integrate knowledge and skills acquired from different areas of biology; and developing the skills needed for effective engagement in scientific discourse.
+
+  
+Requirements
+
+Excellent results in H2 biology and commendable results in other subjects at the JC1 Promotional Examinations
