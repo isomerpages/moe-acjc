@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Open House.md
       - AC Celebrations/.keep
       - AC Celebrations/AC Celebrations.md
       - AC Celebrations/AC Celebrations 2020.md
@@ -13,3 +12,4 @@ collections:
       - Founder's Day/Founder's Day 2020.md
       - Fun O Rama.md
       - Honours Day.md
+      - Open House.md
