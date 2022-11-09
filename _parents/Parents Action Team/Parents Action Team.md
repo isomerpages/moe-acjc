@@ -13,7 +13,7 @@ third_nav_title: Parents Action Team
 ***
 _<center>"Together, Touching lives"</center>_
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXc5D4Jz6vnftVkmYMeo7nVUJXXgEB9bHhu4PBzsZrUt_PyUsEBe8Rnx-zN0ID6VP7OoNWIMw9w3T6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXc5D4Jz6vnftVkmYMeo7nVUJXXgEB9bHhu4PBzsZrUt_PyUsEBe8Rnx-zN0ID6VP7OoNWIMw9w3T6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 
 ### Mission Statement
