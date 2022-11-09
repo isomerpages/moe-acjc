@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Baccalaureate Service.md
       - AC Celebrations/.keep
       - AC Celebrations/AC Celebrations.md
       - AC Celebrations/AC Celebrations 2020.md
+      - Baccalaureate Service.md
