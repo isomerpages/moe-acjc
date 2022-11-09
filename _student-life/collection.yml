@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - General Science Research Education.md
       - Academics.md
       - Subjects/.keep
       - Subjects/Subjects.md
