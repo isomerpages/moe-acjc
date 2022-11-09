@@ -8,7 +8,7 @@ third_nav_title: Subjects
 
 **Knowledge Skills**  
 
-> [General Paper](https://acjc.moe.edu.sg/student-life/academics/subjects/general-paper)  
+[General Paper](https://acjc.moe.edu.sg/student-life/academics/subjects/general-paper)  
 > [Knowledge & Inquiry](https://acjc.moe.edu.sg/student-life/academics/subjects/knowledge-and-inquiry) (NB: Last year of examination 2022)  
 > [Project Work](https://acjc.moe.edu.sg/student-life/academics/subjects/project-work)  
 >   
