@@ -99,7 +99,7 @@ In addition to practical experiences, students will investigate artistic convent
 
   
 
-Paper 1: Study of Visual Arts
+<u>Paper 1: Study of Visual Arts</u>
 
 This is a two-year course in which we aim to nurture visual literacy by taking a systematic approach to Art criticism through formal analysis - description, analysis, interpretation and evaluation. At the end of the course, students will develop a vocabulary to discuss works of art and be able to appreciate Art and its role in society.
 
@@ -115,12 +115,50 @@ At the end of the two-year period, in addition to submitting their project and p
 
   
 
-Final grades are based on the following:
-
-Coursework 60%
-
+Final grades are based on the following:<br>
+[]()Coursework 60%<br>
 Study of Visual Arts 40%
 
   
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9750\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9750_y21_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9750\_y21\_sy.pdf](/files/9750_y21_sy.pdf)
+
+### H3 ART (SYLLABUS 9818)
+
+
+##### Aims
+
+  
+
+The Higher 3 (H3) Level Art syllabus complements the Higher 2 (H2) Level Art syllabus by providing students who have exceptional interest and ability with opportunities to be engaged in the Theory of Art. The H3 Level Art syllabus enhances the competencies acquired in the H2 Level and further challenges students to think beyond the making and appreciation of Art. It engages students in theoretical and critical discourses of Art in the way it is perceived, defined and pracised. The H3 Level Art syllabus lays a foundation for academic engagement in Art at the tertiary level.
+
+  
+
+The aims of the syllabus are to:
+
+*   nurture an informed understanding and appreciation of the purpose of Art in society and culture
+*   foster critical inquiry and independent thought
+*   lay a foundation for the academic pursuit of Art at tertiary level
+*   cultivate a life-long passion for the visual arts and a strong disposition for aesthetic valuing and criticism
+
+### Approach
+
+  
+
+A flipped classroom approach prepares students for similar modes of learning at university levels, H3 Theory of Art (TOA) requires students to perform independent reading and research before and after classes, where the primary mode of delivery on top of content lectures will be through group discussions, presentations, critiques and learning journeys. Apart from acquiring content knowledge and theories, students learn to draw connections between the art and other disciplines, as well as the wider socio political context through observation, critical thinking and reflection. At the end of their studies, students will be able to ask critical questions, formulate original thoughts and insightful arguments about the functions, values and challenges of visual arts in the larger context.
+
+### Programme
+
+  
+
+<u>Paper 1: Theory of Art</u>
+
+Theory of Art will be made available for application to eligible and interested students at the end of year one. This course engages students in theoretical and critical art discourses and aims to nurture critical and independent thinkers, giving them a chance to reflect on the definition of art and its role in society. i.e. “How much power does art have to make a difference in our society/world? How much control does consumers have over the artist and what the artist produces?”
+
+  
+
+Students will sit for a 2hr paper and respond to two essay questions from a choice of four.
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9818\_y21\_sy.pdf](/files/9750_y21_sy.pdf)
+
+
