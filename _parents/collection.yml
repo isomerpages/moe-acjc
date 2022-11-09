@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Sexuality Education.md
       - Parents Action Team/.keep
       - Parents Action Team/Parents Action Team.md
       - Parents Action Team/Note from PAT Chair.md
