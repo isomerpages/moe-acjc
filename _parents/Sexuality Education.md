@@ -13,7 +13,7 @@ description: ""
 
 2.  The goals of Sexuality Education are to:
 
-1\.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+&nbsp; i.  To help students make wise, responsible and &nbsp; informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity.
 
   
 
