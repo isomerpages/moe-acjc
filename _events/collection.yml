@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - AC Celebrations/AC Celebrations 2021.md
       - AC Celebrations/.keep
