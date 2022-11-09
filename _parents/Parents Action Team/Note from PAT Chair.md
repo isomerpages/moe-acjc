@@ -6,6 +6,7 @@ third_nav_title: Parents Action Team
 ---
 ## <center> Note from PAT Chair </center>
 
+
 Dear Parents,
 
 Welcome back to the 2022 school year!  
@@ -21,4 +22,3 @@ However it is through dedicated partnership with you that we can role model and 
 With God’s blessings,  
 
 Li-Anne Fones-Leong & Mark Leong
-
