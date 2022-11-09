@@ -83,8 +83,9 @@ Details on the syllabus learning outcomes and scheme of assessment can be found 
 
   
 
-[H1 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8876_y22_sy.pdf)  
+[H1 Biology Syllabus](/files/8876_y22_sy.pdf)  
 
-[H2 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744_y22_sy.pdf)
+[H2 Biology Syllabus](/files/9744_y22_sy.pdf)
 
-[H3 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9816_y22_sy.pdf)
+[H3 Biology Syllabus](/files/9816_y22_sy.pdf)
+
