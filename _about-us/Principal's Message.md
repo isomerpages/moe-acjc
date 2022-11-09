@@ -3,9 +3,9 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-## Principal’s Message
+## <center> Principal’s Message </center>
 
-#### <center>Principal’s Message</center>
+<br>
 
 
 **A College of Choice and Distinction**
