@@ -2,10 +2,10 @@ collections:
   student-life:
     output: true
     order:
-      - Electives/.keep
       - Academics.md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Higher Art.md
       - Subjects/Biology.md
       - Subjects/Chemistry.md
+      - Electives/.keep
