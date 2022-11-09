@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Faculty/.keep
       - Faculty/Faculty.md
       - Faculty/Management Team.md
-      - Faculty/.keep
       - Vision, Mission, Values.md
       - Principal's Message.md
