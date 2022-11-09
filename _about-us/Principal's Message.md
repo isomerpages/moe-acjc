@@ -22,14 +22,8 @@ ACJC moves into the 21st century with the commitment to nurture values-driven le
 
 Generations of ACSians have passed our gates and discovered their purpose and place in society. Many others will continue to receive the blessings of an education at ACJC. We pledge to do our utmost for the service of God and nation. To God be the Glory. The Best is Yet to Be.
 
-Dr Shirleen Chee
+**Dr Shirleen Chee**
+<br>
+**Principal**
 
-Principal
-
-
-
-<img style="width: 20%;" src="/images/Dr%20Shirleen%20Chee.jpg" align = "left" /> 
-
-
-
-
+<img style="width: 20%;" src="/images/Dr%20Shirleen%20Chee.jpg" align = "left" />
