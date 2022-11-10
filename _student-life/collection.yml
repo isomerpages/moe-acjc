@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academics.md
-      - Subjects/Economics.md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Higher Art.md
@@ -11,6 +10,7 @@ collections:
       - Subjects/Chemistry.md
       - Subjects/China Studies in English.md
       - Subjects/Computing.md
+      - Subjects/Economics.md
       - Electives/.keep
       - Electives/Electives.md
       - Electives/Drama Elective Programme.md
