@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Academics.md
-      - Subjects/Computing.md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Higher Art.md
       - Subjects/Biology.md
       - Subjects/Chemistry.md
       - Subjects/China Studies in English.md
+      - Subjects/Computing.md
       - Electives/.keep
       - Electives/Electives.md
       - Electives/Drama Elective Programme.md
