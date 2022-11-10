@@ -5,7 +5,6 @@ description: ""
 ---
 ## <center> Humanities Scholarship Programme </center>
 
-<br>
 
 <img style="width: 55%;" src="/images/IMG_0155.jpeg"/> 
 
