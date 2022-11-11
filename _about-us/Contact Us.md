@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
 ---
-##  Contact Us 
+##  <center> Contact Us </center> 
 
 **ADDRESS**<br>
 Anglo-Chinese Junior College<br>
