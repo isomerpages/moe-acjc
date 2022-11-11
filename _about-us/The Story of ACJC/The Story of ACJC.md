@@ -46,4 +46,3 @@ Principals:
 |  |  |  |
 | -------- | -------- | -------- |
 | The ACJC main gate in 1977     |      | Dr Tan Sri Tan Chin Tuan laying the foundation stone     |
-
