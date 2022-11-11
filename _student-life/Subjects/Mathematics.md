@@ -97,6 +97,3 @@ The A Level Examination for H2 Mathematics comprises two 3 hour papers with abou
 The syllabus document may be accessed at the following link:
 
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9758\_y21\_sy.pdf](/files/9758_y21_sy.pdf)
-
-
-
