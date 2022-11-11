@@ -8,49 +8,42 @@ third_nav_title: Subjects
 
 **Knowledge Skills**  
 
-[General Paper](https://acjc.moe.edu.sg/student-life/academics/subjects/general-paper)  
-> [Knowledge & Inquiry](https://acjc.moe.edu.sg/student-life/academics/subjects/knowledge-and-inquiry) (NB: Last year of examination 2022)  
-> [Project Work](https://acjc.moe.edu.sg/student-life/academics/subjects/project-work)  
->   
+>[General Paper](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/General-Paper/)  
+>[Knowledge & Inquiry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Knowledge-and-Inquiry/)  
+>[Project Work](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Project-Work/)  
 
-**Humanities & The Arts  
-**
 
-> [Art](https://acjc.moe.edu.sg/student-life/academics/subjects/art)  
-> [China Studies in English](https://acjc.moe.edu.sg/student-life/academics/subjects/china-studies-in-english)  
-> [Economics](https://acjc.moe.edu.sg/student-life/academics/subjects/economics)  
-> [English Language & Linguistics](https://acjc.moe.edu.sg/student-life/academics/subjects/english-language-and-linguistics)  
-> [Geography](https://acjc.moe.edu.sg/student-life/academics/subjects/geography)  
-> [History](https://acjc.moe.edu.sg/student-life/academics/subjects/history)  
-> [Literature in English](https://acjc.moe.edu.sg/student-life/academics/subjects/literature-in-english)  
-> [Theatre Studies](https://acjc.moe.edu.sg/student-life/academics/subjects/theatre-studies)  
-> [Music](https://acjc.moe.edu.sg/student-life/academics/subjects/music)
+**Humanities & The Arts**
 
-  
-**Mathematics & Sciences  
-**
-
-> [Biology](https://acjc.moe.edu.sg/student-life/academics/subjects/biology)  
-> [Chemistry](https://acjc.moe.edu.sg/student-life/academics/subjects/chemistry)  
-> [Computing](https://acjc.moe.edu.sg/student-life/academics/subjects/computing)  
-> [Mathematics](https://acjc.moe.edu.sg/student-life/academics/subjects/mathematics)  
-> [Further Mathematics](https://acjc.moe.edu.sg/student-life/academics/subjects/further-mathematics)  
-> [Physics](https://acjc.moe.edu.sg/student-life/academics/subjects/physics)
+> [Art](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Higher-Art/)  
+> [China Studies in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/China-Studies-in-English/)  
+> [Economics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Economics/)  
+> [English Language & Linguistics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/English-Language-and-Linguistics/)  
+> [Geography](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Geography/)  
+> [History](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/History/)  
+> [Literature in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Literature-in-English/)  
+> [Theatre Studies](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Theatre-Studies/)  
+> [Music](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Music/)
 
   
-**Languages  
-**
+**Mathematics & Sciences**
 
-> [Mother Tongue Languages & Literature](https://acjc.moe.edu.sg/student-life/academics/subjects/mother-tongue-languages-and-literature)  
+> [Biology](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Biology/)  
+> [Chemistry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Chemistry/)  
+> [Computing](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Computing/)  
+> [Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mathematics/)  
+> [Further Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Further-Mathematics/)  
+> [Physics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physics/
 
-> > Chinese Language & Literature
+  
+**Languages**
 
-> > Malay Language & Literature  
-> > Tamil Language & Literature
+> [Mother Tongue Languages & Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/)  > Chinese Language & Literature
+> Malay Language & Literature  
+> Tamil Language & Literature
 
->   
+   
 
-**Life Skills  
-**
+**Life Skills**
 
-> [Physical Education](https://acjc.moe.edu.sg/student-life/academics/subjects/physical-education)
+> [Physical Education](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physical-Education/)
