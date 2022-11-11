@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academics.md
-      - Subjects/History.md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Higher Art.md
@@ -15,6 +14,7 @@ collections:
       - Subjects/English Language and Linguistics.md
       - Subjects/General Paper.md
       - Subjects/Geography.md
+      - Subjects/History.md
       - Electives/.keep
       - Electives/Electives.md
       - Electives/Drama Elective Programme.md
