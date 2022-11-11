@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Admissions.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
       - Faculty/Faculty.md
       - Faculty/Management Team.md
       - Faculty/Admin, Counsellors, Ops & Technical.md
+      - Admissions.md
