@@ -42,6 +42,8 @@ Principals:
 
 <img src="/images/Dr%20Tan%20Sri%20Tan%20Chin%20Tuan%20laying%20the%20foundation%20stone.jpeg" 
      style="width:49%;float:left">
+		
+<br clear = "left">
 		 
 |  |  |  |
 | -------- | -------- | -------- |
