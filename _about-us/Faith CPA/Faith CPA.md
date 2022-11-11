@@ -4,8 +4,22 @@ permalink: /about-us/Faith-CPA/Faith-CPA/
 description: ""
 third_nav_title: Faith CPA
 ---
+## <center> Facith CPA </center>
 
-## <center> Facilities </center>
+![](/images/CPA%20Front.jpeg)
 
-In addition to the academic block with its classrooms and lecture theatres, the College also has facilities to support its programmes in sports and the performing arts. The ACJC Sports Complex has a large, fully equipped gym and 2 swimming pools in addition to tennis courts, a running track, and an artificially turfed playing field in addition to other facilities to support sporting activities. The Faith Centre for Performing Arts has a 458-seater theatre, Black Box, drama studios, and seminar rooms.
+The Anglo-Chinese Junior College Faith Centre for Performing Arts (CPA) is the centrepiece of the vibrant performing arts programmes at the College.
+
+  
+
+Commissioned in May 2008, it hosts a slew of facilities such as a fully-equipped theatre, a black box, a dance studio and other places for learning to keep the College's vigour for performing arts alive.
+
+  
+
+The CPA is home to many of the College's outstanding musical and theatrical productions and the facilities are also available for use by the community.
+
+![](/images/CPA_Building.jpeg)
+
+
+
 
