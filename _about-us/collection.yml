@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - The Story of ACJC/The Story of ACJC.md
       - The Story of ACJC/.keep
       - Vision, Mission, Values.md
       - Principal's Message.md
