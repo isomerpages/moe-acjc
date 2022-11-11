@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Links.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
@@ -17,3 +16,4 @@ collections:
       - Calendar.md
       - Financial Information.md
       - Contact Us.md
+      - Links.md
