@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academics.md
-      - Subjects/Project Work.md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Higher Art.md
@@ -24,6 +23,7 @@ collections:
       - Subjects/Music.md
       - Subjects/Physics.md
       - Subjects/Physical Education.md
+      - Subjects/Project Work.md
       - Electives/.keep
       - Electives/Electives.md
       - Electives/Drama Elective Programme.md
