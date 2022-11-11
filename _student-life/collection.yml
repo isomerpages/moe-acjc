@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academics.md
-      - Subjects/Physics.md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Higher Art.md
@@ -22,6 +21,7 @@ collections:
       - Subjects/Further Mathematics.md
       - Subjects/Mother Tongue Languages and Literature.md
       - Subjects/Music.md
+      - Subjects/Physics.md
       - Electives/.keep
       - Electives/Electives.md
       - Electives/Drama Elective Programme.md
