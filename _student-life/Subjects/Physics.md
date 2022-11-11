@@ -111,7 +111,8 @@ H1 Physics provides students with a thorough understanding of the main principle
 
 The syllabus document may be accessed at the following link:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8867\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8867_y21_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8867\_y21\_sy.pdf](/files/8867_y21_sy.pdf)
+
 
   
 
@@ -128,7 +129,7 @@ H2 Physics provides students with a thorough understanding of the main principle
 
 The syllabus document may be accessed at the following link:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9749\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9749_y21_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9749\_y21\_sy.pdf](/files/9749_y21_sy.pdf)
 
   
 
@@ -145,4 +146,5 @@ H3 Physics provides students with a thorough understanding of the main principle
 
 The syllabus document may be accessed at the following link:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9814\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9814_y21_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9814\_y21\_sy.pdf](/files/9814_y21_sy.pdf)
+
