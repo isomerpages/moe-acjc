@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Calendar.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
@@ -14,3 +13,4 @@ collections:
       - The Story of ACJC/The Story of ACJC.md
       - Facilities/.keep
       - Facilities/Facilities.md
+      - Calendar.md
