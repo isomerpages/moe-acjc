@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Facilities/Facilities.md
-      - Facilities/.keep
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
@@ -13,3 +11,5 @@ collections:
       - Admissions.md
       - The Story of ACJC/.keep
       - The Story of ACJC/The Story of ACJC.md
+      - Facilities/.keep
+      - Facilities/Facilities.md
