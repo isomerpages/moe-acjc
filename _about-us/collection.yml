@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - The Story of ACJC/The Story of ACJC.md
-      - The Story of ACJC/.keep
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
@@ -11,3 +9,5 @@ collections:
       - Faculty/Management Team.md
       - Faculty/Admin, Counsellors, Ops & Technical.md
       - Admissions.md
+      - The Story of ACJC/.keep
+      - The Story of ACJC/The Story of ACJC.md
