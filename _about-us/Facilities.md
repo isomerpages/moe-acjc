@@ -12,21 +12,22 @@ In addition to the academic block with its classrooms and lecture theatres, the 
 <img src="/images/A%20view%20of%20the%20concourse,%20bleachers,%20and%20Oldham%20Wing.jpeg" 
      style="width:70%;">
 <figcaption>A view of the concourse, bleachers and Oldham Wing
-	</figure>
+</figure>
+	
+<br>
 	
 	
 <figure>
 <img src="/images/The%20ACJC%20Faith%20Centre%20for%20Performing%20Arts.jpeg" 
      style="width:70%;">
 <figcaption>The ACJC Faith Centre for Performing Arts
-	</figure>
+</figure>
 	
+<br>
 
 
 <figure>
 <img src="/images/The%20Sports%20Complex.jpeg" 
      style="width:70%;">
 <figcaption>The Sports Complex
-	</figure>
-
-
+</figure>
