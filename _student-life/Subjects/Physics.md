@@ -26,10 +26,8 @@ It will enable students to become scientifically literate citizens who are well-
 
   
 
-Requirements
-
-Pass in ‘O’ Level Physics OR
-
+<u>Requirements</u><br>
+Pass in ‘O’ Level Physics OR<br>
 Pass in Combined Science with Physics
 
   
@@ -45,10 +43,8 @@ Based on the syllabus, the course aims to provide students with an experience th
 
   
 
-Requirements
-
-Pass in ‘O’ Level Physics OR
-
+<u>Requirements</u><br>
+Pass in ‘O’ Level Physics OR<br>
 Indicative recommendation of min B3 for Combined Science with Physics
 
   
@@ -60,8 +56,7 @@ The aims of a course based on this syllabus is to provide students an experience
 
   
 
-Requirements
-
+<u>Requirements</u><br>
 Excellent results in H2 Physics and commendable results in other subjects at the JC1 Promotional Examinations
 
   
