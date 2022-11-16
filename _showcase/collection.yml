@@ -2,7 +2,6 @@ collections:
   showcase:
     output: true
     order:
-      - 2022/ACSian Theatre Presents 'Mulan'.md
       - 2022/.keep
       - 2022/ACJC Celebrates the Class of 2021.md
       - 2022/ACJC Cherishes the Class of 2021.md
@@ -19,3 +18,4 @@ collections:
       - 2022/SAF Young Leaders' Award.md
       - 2022/DEP Skills Showcase.md
       - 2022/Dover Heritage Field Trip.md
+      - 2022/ACSian Theatre Presents 'Mulan'.md
