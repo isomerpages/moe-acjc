@@ -2,7 +2,6 @@ collections:
   showcase:
     output: true
     order:
-      - 2022/International Biomedical Quiz 2022.md
       - 2022/.keep
       - 2022/ACJC Celebrates the Class of 2021.md
       - 2022/ACJC Cherishes the Class of 2021.md
@@ -15,3 +14,4 @@ collections:
       - 2022/Theasthai.md
       - 2022/Culminatio.md
       - 2022/Science Week 2022.md
+      - 2022/International Biomedical Quiz 2022.md
