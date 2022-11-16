@@ -19,8 +19,7 @@ We are also proud to announce that Kenneth Hubert Suhardjo received the Merit Aw
 ![](/images/Charlene%20Brielle%20Luke%20Dennis%20Kenneth%203.jpeg)
 _From left to right: Charlene, Brielle, Luke, Dennis, Kenneth_
 
-“_This year's LKCMed Anatomy Challenge delved into the theme of the Thorax which included the cardiorespiratory system. At first, I thought that I was going to be able to breeze through the syllabus with ease, but I realised that there were so many different vessels and tissues that i have never heard of before. However, with the help of our trainers, Phoebe and Charis, and the countless tips and tricks they gave us to remember the names and functions of the different parts, I was able to clearly see the relationships between the different tissues, vessels and ultimately the connections and relationships between the heart and lungs. This experience has certainly piqued my interest in exploring more and potentially pursuing a career in Cardiology!_”
-
+“This year's LKCMed Anatomy Challenge delved into the theme of the Thorax which included the cardiorespiratory system. At first, I thought that I was going to be able to breeze through the syllabus with ease, but I realised that there were so many different vessels and tissues that i have never heard of before. However, with the help of our trainers, Phoebe and Charis, and the countless tips and tricks they gave us to remember the names and functions of the different parts, I was able to clearly see the relationships between the different tissues, vessels and ultimately the connections and relationships between the heart and lungs. This experience has certainly piqued my interest in exploring more and potentially pursuing a career in Cardiology!”
 \- reflections by Kenneth Suhardjo from 1SC2
 
   
