@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - "Pixel Labs: Lions Home School Video Competition 2022.md"
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
