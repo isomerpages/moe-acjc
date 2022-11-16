@@ -2,7 +2,6 @@ collections:
   showcase:
     output: true
     order:
-      - "2022/SYF 2022: ACSian Theatre's 'The Fall of Icarus'.md"
       - 2022/.keep
       - 2022/ACJC Celebrates the Class of 2021.md
       - 2022/ACJC Cherishes the Class of 2021.md
@@ -10,3 +9,4 @@ collections:
       - 2022/Alice in Wonderland (An Immersive Experience).md
       - 2022/ACJC Canoeing 2022.md
       - "2022/Pixel Labs: Lions Home School Video Competition 2022.md"
+      - "2022/SYF 2022: ACSian Theatre's 'The Fall of Icarus'.md"
