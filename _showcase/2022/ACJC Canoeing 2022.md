@@ -31,7 +31,12 @@ Other than physical conditioning and water training, our paddlers learned the va
   
 _To God be the Glory, the Best is yet to Be!_
 
+<figure>
+<img src="/images/ACJC%20Canoeing%20NSG%20Pix%203.jpeg" 
+     style="width:80%;">
+	<figcaption>Team ACJC medallists at the 2022 Canoeing National School Games competition</figcaption>
+</figure>
 
-
-
+By the ACJC Canoe Teacher ICs<br>
+(All photo credits: ACJC Canoeing)
 
