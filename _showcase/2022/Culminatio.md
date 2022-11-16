@@ -19,7 +19,7 @@ Next, we journeyed back to the Holocaust, where And a Child Shall Lead showed us
 
 
 <figure>
-<img style="width:70%;" src="/images/Culminatio.jpeg">
+<img style="width:80%;" src="/images/Culminatio.jpeg">
 	<figcaption>The DEP Class of 2022</figcaption>
 </figure>
 
