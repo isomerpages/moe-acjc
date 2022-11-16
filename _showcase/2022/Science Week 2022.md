@@ -15,7 +15,7 @@ _<center>Students carrying out gram-staining</center>_
 
 JC1 Chemistry students investigate the relative strengths of intermolecular forces of attraction, using a variety of organic alcohols, as well as food dyes containing sorbitol and sugar. Our JC2 Chemistry students explored spherification, one of the techniques in molecular gastronomy. Physics students used the smartphone app Phyphox to conduct experiments during science week.
 
-_<center>Students carrying out spherification</center>
+_<center>Students carrying out spherification</center>_
 
 In addition, there were special guest lecturers from NParks and A\*STAR. Dr. Wang Ruohan from A\*STAR shared about machine learning and how it impacts video game bots, customer chatbot and computer-assisted drug discovery. Dr. Matias Caldez shared about hepatic diseases, liver metabolism and regeneration. Ms Kelly Tan, Ms Goh Wei Xuan and Ms Alyssa Li from NParks lectured about Singapore’s efforts in conserving local marine turtles as well as coral reefs. 
 
