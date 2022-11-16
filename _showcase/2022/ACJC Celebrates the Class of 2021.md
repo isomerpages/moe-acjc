@@ -10,4 +10,3 @@ On the 22nd of February 2022, ACJC received the GCE A-Level examination results 
 
 
 ![](/images/P%20in%20conferecne%20rm.jpeg)
-
