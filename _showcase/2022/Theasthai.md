@@ -35,7 +35,3 @@ The Best Is Yet To Be!
 
 Written by:&nbsp;<br>
 Syrov Danil (1SA6) and Ong Jun Hao Bryan (1AA2)
-
-
-
-
