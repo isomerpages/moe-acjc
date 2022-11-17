@@ -28,6 +28,16 @@ This production would not have been possible without the wholehearted support an
 
 We would also like to extend our deepest gratitude to our beloved alumni, Justine, Sarah, Josef, Hui Xing, Yeshedoji, Nathaniel, Izzy, Bella, E-wen and Farha, for their never-ending support, guidance and love. 
 
-<img src="/images/20210407_7700_MWP_WEBRES.jpeg" style= "width: 50%; margin-left:15px;" align = "right"> 
+<img src="/images/20210407_7700_MWP_WEBRES.jpeg" style= "width: 50%; margin-left:10px;" align = "right"> 
 
 We thank out school leaders, teachers, family and friends for all their unwavering confidence in our work.
+
+![](/images/20210407_7497_MWP_WEBRES.jpeg)
+
+To God be the Glory; the Best is Yet to Be!
+
+  
+
+Written by: <br>
+Victoria Lam and Ewan Lim 1MD2
+
