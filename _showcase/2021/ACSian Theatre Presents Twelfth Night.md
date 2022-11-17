@@ -31,6 +31,3 @@ We would also like to extend our deepest gratitude to our beloved alumni, Justin
 <img src="/images/20210407_7700_MWP_WEBRES.jpeg" style= "width: 50%; margin-left:15px;" align = "right"> 
 
 We thank out school leaders, teachers, family and friends for all their unwavering confidence in our work.
-
-
-
