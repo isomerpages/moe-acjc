@@ -2,7 +2,6 @@ collections:
   showcase:
     output: true
     order:
-      - 2021/.keep
       - 2022/.keep
       - 2022/ACJC Celebrates the Class of 2021.md
       - 2022/ACJC Cherishes the Class of 2021.md
@@ -23,3 +22,4 @@ collections:
       - 2022/Lee Kong Chian School of Medicine Anatomy Challenge.md
       - 2022/Singapore Science and Engineering Fair 2022 & 23rd International
         Elementz Fair.md
+      - 2021/.keep
