@@ -64,6 +64,11 @@ Olympiad.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <img src="/images/Tan%20Shan%20Yi.jpeg" style= "width: 40%; margin-right:10px;" align = "left"> Tan Shan Yi from 2MD2 won a Bronze medal at the 21st Singapore Biology Olympiad.
 
@@ -82,4 +87,3 @@ We are also thankful for the support of the School Leaders, form tutors, subject
 
 
 <center>To God be the Glory, the Best is Yet to Be!</center>
-
