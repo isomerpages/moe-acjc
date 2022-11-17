@@ -26,12 +26,4 @@ This production would not have been possible without the wholehearted support an
 
 <img src="/images/20210407_7651_MWP_WEBRES.jpeg" style= "width: 40%; margin-right:15px;" align = "left">  
 
-We would also like to extend our deepest gratitude to our beloved alumni, Justine, Sarah, Josef, Hui Xing, Yeshedoji, Nathaniel, Izzy, Bella, E-wen and Farha, for their never-ending support, guidance and love. We thank out school leaders, teachers, family and friends for all their unwavering confidence in our work. 
-
-
-
-
-
-
-
-
+We would also like to extend our deepest gratitude to our beloved alumni, Justine, Sarah, Josef, Hui Xing, Yeshedoji, Nathaniel, Izzy, Bella, E-wen and Farha, for their never-ending support, guidance and love. We thank out school leaders, teachers, family and friends for all their unwavering confidence in our work.
