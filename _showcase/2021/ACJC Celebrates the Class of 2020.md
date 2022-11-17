@@ -55,5 +55,3 @@ Most of all, we give thanks to God for His infinite goodness.
   
 
 To God be the Glory! The Best is Yet to Be
-
-
