@@ -54,5 +54,32 @@ Our students won 2 Silver medals and 2 Bronze medals in the 32nd Singapore Chemi
 ![](/images/Daniel%20Isaac%20Wonjun%20Benjamin.jpeg)
 _From left to right, Daniel, Isaac, Wonjun, Benjamin_
 
-Liang Yusen from 2SA5 won a Silver medal at the 33rd Singapore Physics Olympiad.
+
+<img src="/images/Yusen.jpeg" style= "width: 40%; margin-left:10px;" align = "right"> Liang Yusen from 2SA5 won a Silver medal at the 33rd Singapore Physics 
+Olympiad.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img src="/images/Tan%20Shan%20Yi.jpeg" style= "width: 40%; margin-right:10px;" align = "left"> Tan Shan Yi from 2MD2 won a Bronze medal at the 21st Singapore Biology Olympiad.
+
+
+The College appreciates our Science tutors for their dedication in guiding and mentoring the teams:
+
+  
+
+Singapore Chemistry Olympiad – Mr Marcus Yip
+
+Singapore Physics Olympiad – Mrs Fabiola Soong
+
+Singapore Biology Olympiad – Ms Lam Kar Mun, Ms Amanda Tan, Ms Stephanie Tan and Mr Jackson Koh
+
+We are also thankful for the support of the School Leaders, form tutors, subject tutors and CCA teachers of the Olympiad participants.
+
+
+<center>To God be the Glory, the Best is Yet to Be!</center>
 
