@@ -4,7 +4,7 @@ permalink: /showcase/2021/permalink/
 description: ""
 third_nav_title: "2021"
 ---
-## </center> 42nd International C.B. Paul Science Quiz </center>
+## <center> 42nd International C.B. Paul Science Quiz </center>
 
 The 42nd International C. B. Paul Science Quiz 2021 was reconceptualised and launched in a new format on 19 February 2021 where both the Preliminary and Final Rounds were carried out from 11:30 to 18:00 (GMT+8). The Science and Mathematics Council (SMC) is happy to share that the event was successfully executed by an organising committee with 12 SMC members and 3 teachers, and concluded with over 1000 participants from local and overseas secondary schools taking the Online Quiz.
 
