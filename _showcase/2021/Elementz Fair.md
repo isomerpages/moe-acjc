@@ -14,6 +14,9 @@ We are pleased to announce our achievements for the Fair.
 
   
 
-Gold Award:
+Gold Award:  <img src="/images/Libut.jpeg" style= "width: 40%">
 
-![](/images/Libut.jpeg)
+Libut Jaztynn Phoemela Barairo (2SC1) _(above)_ together with her teammates (Chua Yong Liang and Sampson Bong Shun Hoong from RVHS) received the Gold award for a project on “Vision-Based Intelligence towards Self-Driving Vehicles”.
+
+Silver Awards:
+
