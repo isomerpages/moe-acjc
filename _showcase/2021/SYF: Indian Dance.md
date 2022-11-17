@@ -24,7 +24,7 @@ We were also fortunate to be able to do a two-day masterclass with Indian dance 
 
 <img src="/images/Indiandance4.jpeg" style= "width: 40%; margin-left:15px;" align = "right">
 
-<br><br>
+<br><br><br><br><br>
 
 To God Be The Glory! The Best Is Yet To Be!
 
