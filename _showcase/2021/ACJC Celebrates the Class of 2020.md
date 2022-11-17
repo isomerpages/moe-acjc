@@ -32,4 +32,28 @@ The College is proud to announce that  the Class of 2020 have achieved excellen
 Despite the pandemic, the Class of 2020 embarked on community projects like AC Care as part of the Be Kind SG’s efforts to convey Singapore’s gratitude to our healthcare workers. They took the opportunity to appreciate our cleaners. Each class designed a poster to show their appreciation for the school cleaners who had to step up tremendously to ensure that the College is well-sanitised to combat the COVID-19 virus and a group also organised a small appreciation tea session and presented a gift pack for each of the cleaners. Another notable project was the collaboration with our brother schools from ACS (Barker), ACS (Junior) and ACS (Primary) to bless the foreign dormitory workers at Chancery Court, Dunearn Road.
 
 
+<figure>
+<img src="/images/Students%20from%20the%20Class%20of%202020%20preparing%20care%20packages.jpg">
+	<figcaption>The Class of 2020 preparing care packages for healthcare workers. The photograph was taken in 2020 before mask wearing became a requirement.</figcaption>
+</figure>
+
+
+At the end of the year, they took their A-Level examinations with additional safety measures with calm purpose, in the assurance that they had done their best, with the support of their teachers, parents, and the whole ACJC community. 
+
+  
+
+We give thanks for each and every member of the Class of 2020, and wish them all the best for the next phase of their journey. 
+
+  
+
+The College would like to thank all who have played a part in the success of the Class of 2020: our dedicated staff, the ever-supportive parents, and the wider ACS and Methodist family.
+
+  
+
+Most of all, we give thanks to God for His infinite goodness.
+
+  
+
+To God be the Glory! The Best is Yet to Be
+
 
