@@ -86,13 +86,6 @@ Singapore Physics Olympiad – Mrs Fabiola Soong
 
 Singapore Biology Olympiad – Ms Eng Tze Hwee, Ms Sun Weiling, Ms Stephanie Tan and Ms Lee Sok Ee
 
-  
-
 We are also thankful for the support of the School Leaders, form tutors, subject tutors and CCA teachers of the Olympiad participants.
 
-  
-
 To God be the Glory, the Best is yet to be!
-
-
-
