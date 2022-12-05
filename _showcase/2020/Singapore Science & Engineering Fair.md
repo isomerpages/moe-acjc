@@ -62,3 +62,11 @@ Zheng Shun Ren (2SA2), Tong Yi Xuan, Simon (2SA6) and Chan Yong Kai (2SA2)
 
 We are pleased to share that Henry Lam Wing Ha (pictured below) won the Bronze Award and Special Award given by Singapore Association for Advancement of Science for his project ‘Design of a Low-Cost Dielectric Lens for 5G Gain Enhancement’.
 
+<img src="/images/Photo%20of%20Henry%20Lam.jpeg" style= "width: 40%; margin-right:15px;" align = "left"> Throughout my year-long journey in A\*STAR and SSEF, my research into the design of a Low-Cost Dielectric Lens for 5G Gain Enhancement has not only opened my eyes to the world of research but further fueled my passion for STEM-based research. The programme has really allowed me to understand how the knowledge that we are learning today can be used and applied to make significant changes to the world around us, changing my perception of how we learn today and how it can be utilised in the future.
+
+While the project was initially a challenge to comprehend, my professors and peers in A\*STAR were understanding and helpful throughout my time there. It is important for all aspiring researchers at AC to know that it is not as daunting as it seems. You are not alone in this journey; you will have the support of not only teachers from the College and your professors but also peers who will stick with you throughout your research journey.” – Henry Lam
+
+We are thankful to our Science teachers who have provided guidance and advice to the research students. We will continue to support our research students through our Science Excellence Programme so that they can excel at every step of their journey as growing scientists.
+
+_To God Be The Glory, The Best Is Yet To Be!_
+
