@@ -33,12 +33,13 @@ third_nav_title: Subjects
 > [Computing](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Computing/)  
 > [Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mathematics/)  
 > [Further Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Further-Mathematics/)  
-> [Physics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physics/
+> [Physics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physics/)
 
   
 **Languages**
 
-> [Mother Tongue Languages & Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/)  > Chinese Language & Literature
+> [Mother Tongue Languages & Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/) 
+>  Chinese Language & Literature
 > Malay Language & Literature  
 > Tamil Language & Literature
 
