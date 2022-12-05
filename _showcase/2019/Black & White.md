@@ -22,6 +22,25 @@ _<center>Ethel Yap</center>_
 
 _<center>Lavie</center>_
 
+![](/images/Just%20For%20Fun.jpeg)
+
+_<center>Just For Fun</center>_
+
+![](/images/Treblemakers.jpeg)
+
+_<center>The Treblemakers</center>_
+
+![](/images/16Feb2019-17-MALCOLMFU-WEBRES.jpeg)
+
+_<center>The Red Pens</center>_
+
+![](/images/The%20Sam%20Willows%20&%20Nathan%20Hartono.jpeg)
+
+_<center>The Sam Willows & Nathan Hartono</center>_
+
+
+
+
 
 
 
