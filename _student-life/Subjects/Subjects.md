@@ -38,7 +38,7 @@ third_nav_title: Subjects
   
 **Languages**
 
-> [Mother Tongue Languages & Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/) 
+> [Mother Tongue Languages & Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/) <br>
 >  Chinese Language & Literature
 > Malay Language & Literature  
 > Tamil Language & Literature
