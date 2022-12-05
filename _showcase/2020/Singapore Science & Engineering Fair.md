@@ -62,4 +62,3 @@ Zheng Shun Ren (2SA2), Tong Yi Xuan, Simon (2SA6) and Chan Yong Kai (2SA2)
 
 We are pleased to share that Henry Lam Wing Ha (pictured below) won the Bronze Award and Special Award given by Singapore Association for Advancement of Science for his project ‘Design of a Low-Cost Dielectric Lens for 5G Gain Enhancement’.
 
-
