@@ -41,3 +41,23 @@ CAYLEE CHUA (2MD6)<br>
 DAISY SU KHAING (2SC1)<br>
 MYRA SHAM (2SC5)<br>
 XIAO LIYANG (1SC1)
+
+![](/images/Photo%202.jpeg)
+
+Myra & Zachary share their reflections on the journey:
+
+  
+
+_"Going into this challenge, i didn't think that it would be so rich in information, including clinical-based situations, and everything you would learn at a university level. This challenge helped open my eyes to the realm of and i have benefitted immensely through the challenge, the sessions we had with the alumni, as well as the various exhibitions we were able to attend on the day itself. It was such an enriching experience and i wouldn't exchange it for anything else." - Myra_
+
+  
+
+_"LKCAnatomy Challenge 2019 was one of the most memorable events I have attended, thanks to the talented students of LKC School of Medicine who organised this. This event was not only a competition to test our knowledge of the human body, but also comprised a workshop on various intriguing ideas and insights with regard to the medical field. This challenge has allowed me to understand many things about human physiology & anatomy, all while having a tremendous amount of fun. This event has undoubtedly heightened my interest for medicine and I would highly recommend this to those with similar interests." - Zachary_
+
+  
+
+We hope their juniors will be inspired to take on this experience!
+
+  
+
+_To God be the Glory, the Best is Yet to Be!_
