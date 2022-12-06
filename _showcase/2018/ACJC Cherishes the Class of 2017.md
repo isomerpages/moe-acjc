@@ -42,8 +42,21 @@ She was also a member of the ACJC Softball Team which won the SSSC National Soft
 
 Ayumi was also a recipient of the 2017 ECHA award, a clear testament to her character and outstanding personal qualities.
 
+<br clear = left>
 
+<img src="/images/Jerrica1.jpeg" style= "width: 50%; margin-right:15px;" align = "left"> **Jerrica Ang**. Jerrica has achieved outstanding academic results, scoring 7 Distinctions in H2 Chemistry, H2 Biology, H2 Economics, H1 Mathematics, General Paper, Chinese Language and Project Work.
 
+  
+
+A member-elect of The Principal’s Honour Roll (2017), Jerrica consistently demonstrated her leadership ability throughout her time in college, as the President of the ACJC Interact Club, and a member of the CCAB executive committee (Clubs and Societies). She was heavily involved in the Interact Club’s activities, Project Cheer by the Tan Chin Tuan Foundation, OCIP to Chiang Mai, and was also a performer in the 2017 SYF Central Judging for Indian Dance. Jerrica was a recipient of the Outstanding Service awards for Interact and VIA, as well as the ECHA award.
+
+<br clear = left>
+
+<img src="/images/Danish1.jpeg" style= "width: 50%; margin-right:15px;" align = "left"> **Muhammad Danish B Massuryono**. Danish scored an excellent 6 distinctions at A-level. His thirst for knowledge is exemplified by his love for Biology. He was a participant of the National University of Singapore - Science Research Programme (NUS-SRP), which was organised by the NUS Faculty of Science, in collaboration with the Gifted Education Branch to enable very capable students who aspire to a higher level of challenge to undertake projects under the supervision of academics in a real research environment. As part of the NUS-SRP, Danish undertook a research attachment at the Institute of Medical Biology, Agency of Science, Technology and Research and presented his research project at the annual SRP Congress.
+
+  
+
+Danish’s leadership abilities saw him being selected for the National Youth Council, Youth Corps Singapore Leaders Programme. Through the programme, he spearheaded Project Hope, a community project from December 2016 to July 2017 to impact the lives of low-income children living in rental flats in Bukit Ho Swee. He interacted with the beneficiaries weekly and attended team meetings after school. Danish also presented on inclusivity for the disabled in Singapore at the 2017 NUS Chancellor’s Challenge Shield.
 
 
 
