@@ -15,3 +15,4 @@ We wouldn’t have been able to attain this distinction without the support of e
 The ACJC String Ensemble is thankful for the support and encouragement that we received through the preparation for SYF, especially from our school leaders, parents, teachers and friends. We also give thanks to God for blessing us and watching over through the entire journey. May the String Ensemble continue to reach greater heights of excellence in music making, and to bring joy to those who hear our music.
 
 _To God be the Glory, The Best is Yet to Be!_
+
