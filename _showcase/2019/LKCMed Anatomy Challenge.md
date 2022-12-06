@@ -27,4 +27,10 @@ XIAO LIYANG (1SC1)<br>
 SOH JING XUAN ASHLEY (1SC2)<br>
 INGRID WEN-HUI JEANETTE MOREL GAN (1SC2)
 
+For the individual round, we are pleased to announce the achievements of the following students:
 
+YEE QIN SHENG (1SB2) : DISTINCTION<br>
+TAN SERN WEI (2MD4) : MERIT<br>
+MYRA SHAM (2SC5) : MERIT<br>
+ZACHARY HO (2SC5) : MERIT<br>
+XIAO LIYANG (1SC1) : MERIT
