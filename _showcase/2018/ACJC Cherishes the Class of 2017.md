@@ -58,7 +58,19 @@ A member-elect of The Principal’s Honour Roll (2017), Jerrica consistently dem
 
 Danish’s leadership abilities saw him being selected for the National Youth Council, Youth Corps Singapore Leaders Programme. Through the programme, he spearheaded Project Hope, a community project from December 2016 to July 2017 to impact the lives of low-income children living in rental flats in Bukit Ho Swee. He interacted with the beneficiaries weekly and attended team meetings after school. Danish also presented on inclusivity for the disabled in Singapore at the 2017 NUS Chancellor’s Challenge Shield.
 
+<img src="/images/Darshan1.jpeg" style= "width: 50%; margin-right:15px;" align = "left"> **Ayyadarshan Kasivishvanaa**. A tenacious sportsman, Ayyadarshan Kasivishvanaa toiled relentlessly to pursue excellence in his sport. Darshan’s commitment and zest for football were evident in the countless hours he invested into the college’s football team. His football team finished 3rd and 4th overall in the National A Division Championships for the two years in which he competed. Darshan also participated in the Singapore Youth Olympic Festival where his team was placed 2nd and he was once again awarded the top scorer and Man of the Tournament award. In addition to football, he also participated in the athletic scene. He won 3 individual medals in the school track and field meet in his first year in college.
 
+  
 
+Darshan’s tenacity in sport also translates to his academic pursuits. Darshan’s natural flair even earned him an internship in BeWell Hospital, Chennai, to be an understudy to Dr. Santhosh Jacob, Medical Director, Director of Orthopedics and Trauma Surgery.
 
+  
+
+His desire to make a difference in healthcare is also manifested in other projects. Darshan has also volunteered at Brain Tumour Society Singapore to raise awareness for brain tumour on Tumour Awareness Day, and is not hesitant to donate blood for cancer patients at blood donation drives, all gestures depicting his compassionate and empathetic nature.  
+
+<br clear = left>
+
+The College takes deep pride in these exemplary ACSians, and in each and every single member of the Class of 2017.
+
+To God be the Glory- The Best is Yet to Be!
 
