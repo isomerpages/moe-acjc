@@ -24,6 +24,3 @@ Bringing in some cultural context and comparing _The Tempest_ to the other wor
 We would like to extend our appreciation to Ms Annabel Tan for taking time out of her busy schedule—amidst judging debates for the Oldham Cup—to provide us with such an enlightening overview of the text. Her involvement is testament to the strong culture of service characteristic of ACJC Alumni. We would also like to thank the College, and particularly our HoD of Arts, Mrs Geetha Creffield, for arranging this opportunity for us to gain a broader insight to this fascinating text.
 
 Sharlene Lim, 2AH
-
-
-
