@@ -27,3 +27,16 @@ Zhang Yijie(2SA5)
 Chen Zhao(2MD1)<br>
 Liu Zhilan(2SA1)<br>
 Chiong Wai Teng(2MD4)
+
+![](/images/NRP%20Photo%201.jpeg)
+_“Over the course of my research, I have learnt countless new skills, ranging from theories that are not covered in school to data analysis technique. When I first started out with zero knowledge on orbital mechanics, it was intimating to be thrown with concepts that are difficult to grasp. However NRP has allowed my curiosity to be piqued and found myself wanting to learn more.”_
+
+Chan Chi Kei Rachel(2SB4)
+
+![](/images/NRP%20Photo%202.jpeg)
+"_My NRP journey has not been an easy one. I had to strike a fine balance between CCA and NRP in order to make progress in both commitments. In conclusion, NRP had made me learn valuable lessons in perseverance and good time management.”_
+
+Donny Suriyanto(2SC1)
+
+To God be the Glory! The Best is Yet to Be!
+
