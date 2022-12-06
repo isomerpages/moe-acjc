@@ -34,3 +34,10 @@ TAN SERN WEI (2MD4) : MERIT<br>
 MYRA SHAM (2SC5) : MERIT<br>
 ZACHARY HO (2SC5) : MERIT<br>
 XIAO LIYANG (1SC1) : MERIT
+
+In the team round, despite the strong competition, one of our teams made it to the finals and emerged in 4th place. The team comprised:
+
+CAYLEE CHUA (2MD6)<br>
+DAISY SU KHAING (2SC1)<br>
+MYRA SHAM (2SC5)<br>
+XIAO LIYANG (1SC1)
