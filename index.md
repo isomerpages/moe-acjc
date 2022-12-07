@@ -13,10 +13,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/Singapore-Youth-Festival-Arts-Presentation-2022/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - resources:
+      title: News
+      button: Read mOre
 ---
