@@ -20,3 +20,12 @@ The showcase itself, however, was merely the culmination of a rigorous programme
 
 Excellent line delivery and strong characterisation made Theasthai a meaningful and thought-provoking night for both the audience and performers, standing testament to their passion for the subject and to the art.
 
+![](/images/Theasthai%203.jpeg)
+_The Cast and Crew of Theastai_
+
+A few weeks after their juniors presented the beginning of their performative journey, the J2 students DEP cohort presented their final examination showcase, Culminatio, on the 23rd June 2018. As the name suggests, the showcase serves as the culmination of the class’ performative practice over the past two years.
+
+  
+
+The night consisted of three impactful performances that explored a diverse range of dramatic styles and thematic concerns. The first, Power Play, was a moving performance that discussed teenage violence and the struggle for power within the social fabric of high school. The next piece, Medusa, made use of movement and combat to highlight the downfall of the Medusa due to her hubris. Falling ended the night with a thought-provoking performance about autism and a family’s struggles to love someone who is difficult to love.
+
