@@ -14,5 +14,5 @@ As the West Zone Centre of Excellence for Language Arts, ACJC is delighted to ha
 
 The year began with laughter. Barrel of Laughs V3.0—a fourth-wall breaking, meta play about a drama society was staged by ACSian theatre and alumni. Full of shenanigans and Farcical irreverent humour, the play was loved by audiences of all ages.
 
-![](/images/retrospective%204.jpeg)
+<img src="/images/retrospective%204.jpeg" style= "width: 33%;" align = "left"> 
 
