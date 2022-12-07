@@ -16,3 +16,17 @@ The experience is definitely not one that will be easily forgotten as the DEP J1
 
 Since idea of presenting text and movement simultaneously was new to us, we required much practice to ensure that both our words and actions carried the same affective weight to reach out and touch our audience through physical translation of our interpretations of the poems. Moreover, as an ensemble, we strengthened our ability to feel each other’s energy. This enabled us to collectively present a performance that spoke to the audience.
 
+<img src="/images/National%20Book%20Council%20Poetry%20Launch3.jpeg" style= "width: 33%;" align = "left"> 
+
+<img src="/images/National%20Book%20Council%20Poetry%20Launch2.jpeg" style= "width: 33%;" align = "left"> 
+
+<img src="/images/National%20Book%20Council%20Poetry%20Launch.jpeg" style= "width: 33%;" align = "left"> 
+
+_<center>From stillness to movement</center>_
+
+Overall, it was a challenging yet fruitful and fresh experience that was appreciated by both the poet and his audience. We thank our School Leaders, Teachers, choreographers, and of course Mr Maniam, for this wonderful opportunity.
+
+_To God be the Glory, The Best Is Yet To Be!_
+
+Ng Sze Xuan<br>
+DEP Class of 2019
