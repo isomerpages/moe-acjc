@@ -15,5 +15,5 @@ sections:
           url: /announcements/Singapore-Youth-Festival-Arts-Presentation-2022/
   - resources:
       title: News
-      button: Read mOre
+      button: Read More
 ---
