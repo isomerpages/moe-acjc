@@ -13,6 +13,4 @@ _The combined Performing Arts groups wowing the audience_
 
 Each Performing Arts group took their turn to enthrall the guests and the musical feast culminated in a stirring combined rendition of Irish Blessings that conveyed the performers' well wishes aptly:
 
-_'And until we meet again, until we meet again,_<br>
-_May God hold you in the palm of His hand.'_
-
+_<center>'And until we meet again, until we meet again,<br>May God hold you in the palm of His hand.'</center>_
