@@ -11,8 +11,8 @@ sections:
       background: /images/Banner.gif
       key_highlights:
         - title: Announcements
-          description: Announcement
-          url: /privacy/
+          description: ""
+          url: /announcements/Singapore-Youth-Festival-Arts-Presentation-2022/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
