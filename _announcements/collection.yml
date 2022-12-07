@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - Singapore Youth Festival Arts Presentation (SYF) 2022.md
