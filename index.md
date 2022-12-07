@@ -13,6 +13,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/Singapore-Youth-Festival-Arts-Presentation-2022/
+      title: Anglo-Chinese Junior College
   - resources:
       title: News
       button: Read More
