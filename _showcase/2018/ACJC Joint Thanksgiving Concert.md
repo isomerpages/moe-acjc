@@ -4,3 +4,15 @@ permalink: /showcase/2018/ACJC-Joint-Thanksgiving-Concert/
 description: ""
 third_nav_title: "2018"
 ---
+## <center> ACJC Joint Thanksgiving Concert </center>
+
+The four performing arts groups, the Harp, String, Guitar Ensembles and the Choir, collaborated in late November 2018 to present an engaging and festive repertoire to our school leaders, partners, family and friends. The aim of this concert was to express our gratitude for the support rendered to the performers over the course of the year, to use music as a medium to convey heartfelt thanks and appreciation.
+
+![](/images/Combined.jpeg)
+_The combined Performing Arts groups wowing the audience_
+
+Each Performing Arts group took their turn to enthrall the guests and the musical feast culminated in a stirring combined rendition of Irish Blessings that conveyed the performers' well wishes aptly:
+
+_'And until we meet again, until we meet again,_<br>
+_May God hold you in the palm of His hand.'_
+
