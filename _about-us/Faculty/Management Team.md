@@ -28,7 +28,7 @@ Principal, Vice-Principals, Heads of Department, Subject Heads and Level Heads
 <tbody>
   <tr>
     <td class="tg-dgl5">Vice-Principals (Education)<br>Ms Audrey Lim<br>Mrs Choo Hong Kiang<br></td>
-    <td class="tg-dgl5">Vice-Principal (Admin)<br>Ms Jamie Yee</td>
+    <td class="tg-dgl5">Vice-Principal (Admin)<br>Ms Callista Lim</td>
   </tr>
   <tr>
     <td class="tg-dgl5">School Staff Developer<br>Ms Dorine Chia<br></td>
