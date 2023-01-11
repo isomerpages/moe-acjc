@@ -36,7 +36,7 @@ Principal, Vice-Principals, Heads of Department, Subject Heads and Level Heads
   </tr>
   <tr>
     <td class="tg-ktyi"></td>
-    <td class="tg-dgl5">JC1 Year Head<br>Mr Patrick Sum<br><br>JC2 Year Head<br>Mr Calvin Choo<br></td>
+    <td class="tg-dgl5">JC2 Year Head<br>Mr Patrick Sum<br><br>JC1 Year Head<br>Mr Calvin Choo<br></td>
   </tr>
   <tr>
     <td class="tg-dgl5">HOD Arts<br>Mrs Geetha Creffield</td>
