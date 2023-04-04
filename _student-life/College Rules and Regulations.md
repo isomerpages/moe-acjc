@@ -208,12 +208,9 @@ While the above demerit points serve as a guide to the College’s implementatio
 
   
 
-VII. ACJC UNIFORM AND GROOMING MATTERS
---------------------------------------
+### VII. ACJC UNIFORM AND GROOMING MATTERS
 
-1.  Students are to wear the prescribed College uniform and no modification to the uniform is allowed.
-    
-    (Please refer to the dress codes listed below.)
+1.  Students are to wear the prescribed College uniform and no modification to the uniform is allowed. <br>(Please refer to the dress codes listed below.)
     
 
   
@@ -251,9 +248,9 @@ VII. ACJC UNIFORM AND GROOMING MATTERS
 
 2.  The dress code for daily classroom activities is&nbsp;**Dress Code 3**, as follows:-
 
-1.  Boys - White shirt and navy blue trousers straight-cut, in accordance with the approved style shown in figure, plain white/navy blue socks and low-cut sport shoes (no metallic or neon coloured sports shoes).
-2.  Girls - White blouse with short-sleeved, navy blue knee-length skirt, A-line; not more than 2cm above kneecap; approved style shown in figure, ankle-length plain white/navy blue socks and low-cut, sports shoes (no metallic or neon coloured sports shoes).
-3.  Shirt/blouse must always be tucked in.
+	a.  Boys - White shirt and navy blue trousers straight-cut, in accordance with the approved style shown in figure, plain white/navy blue socks and low-cut sport shoes (no metallic or neon coloured sports shoes). <br>
+	b.  Girls - White blouse with short-sleeved, navy blue knee-length skirt, A-line; not more than 2cm above kneecap; approved style shown in figure, ankle-length plain white/navy blue socks and low-cut, sports shoes (no metallic or neon coloured sports shoes). <br>
+	c.  Shirt/blouse must always be tucked in.
 
   
 
