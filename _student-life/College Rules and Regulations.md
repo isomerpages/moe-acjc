@@ -219,14 +219,41 @@ While the above demerit points serve as a guide to the College’s implementatio
 
   
 
-| Boys | Girls |
-| --- | --- |
-| Cream trousers | Cream skirts |
-| White long-sleeved shirt | White long-sleeved blouse |
-| College blazer and tie  
- | College blazer and tie |
-| Plain black leather shoes and long black socks | Plain black leather court shoes (no high heels)  
- |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table style="border: 1px solid grey" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Boys</span></th>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Girls</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-zr06">Cream trousers</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Cream skirts</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-zr06">White long-sleeved shirt</td>
+    <td style="border: 1px solid grey" class="tg-zr06">White long-sleeved blouse</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-zr06">College blazer and tie<br></td>
+    <td style="border: 1px solid grey" class="tg-zr06">College blazer and tie</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-zr06">Plain black leather shoes and long black socks</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Plain black leather court shoes (no high heels)</td>
+  </tr>
+</tbody>
+</table>
 
   
 
