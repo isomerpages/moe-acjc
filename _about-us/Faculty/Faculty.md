@@ -4,54 +4,48 @@ permalink: /about-us/Faculty/Faculty/
 description: ""
 third_nav_title: Faculty
 ---
-## <center> Faculty </center>
-
-**Management** 
-<br> » Management Team
-
-
-**Non-Teaching** 
-<br>
-» Admin, Counsellors, Operations and Technical
-<br>
-» Christian Ministry
-
-  
-**Arts & Humanities** <br> 
-» Economics <br>
-» English Literature / Drama Elective Programme <br>
-» Humanities <br>
-» Art <br> 
-» Music Elective Programme
+**Management** <br>
+»&nbsp;[Management Team](/about-us/faculty/management-team)
 
   
 
-**English** 
-<br> » General Paper / Knowledge and Inquiry / English Language Elective Programme
+**Non-Teaching** <br>
+»&nbsp;[Admin, Counsellors, Operations and Technical](/about-us/faculty/admin-counsellors-ops-n-technical) <br>
+»&nbsp;[Christian Ministry](/about-us/faculty/christian-ministry)
 
   
 
-**Mathematics & Sciences** 
-<br> » Biology 
-<br>
-» Chemistry <br> 
-» Mathematics <br>
-» Physics
+**Arts &amp; Humanities** <br>
+»&nbsp;[Economics](/about-us/faculty/economics) <br>
+»&nbsp;[English Literature / Drama Elective Programme](/about-us/faculty/english-literature-drama-elective-programme) <br>
+»&nbsp;[Humanities](/about-us/faculty/humanities) <br>
+»&nbsp;[Art](https://acjc.moe.edu.sg/about-us/faculty/art) <br>
+»&nbsp;[Music Elective Programme](/about-us/faculty/music-elective-programme)
 
   
 
-**Mother Tongue Languages** 
-<br>
-» Mother Tongue Languages
+**English** <br>
+»&nbsp;[General Paper / Knowledge and Inquiry / English Language Elective Programme](/about-us/faculty/english-general-paper-knowledge-and-inquiry-english-language-elective-programme)
 
   
 
-**Physical Education** 
-<br> 
-» Physical Education
+**Mathematics &amp; Sciences** <br>
+»&nbsp;[Biology](/about-us/faculty/biology) <br>
+»&nbsp;[Chemistry](/about-us/faculty/chemistry) <br>
+»&nbsp;[Mathematics](/about-us/faculty/mathematics) <br>
+»&nbsp;[Physics](/about-us/faculty/physics)
+
+  
+
+**Mother Tongue Languages** <br>
+»&nbsp;[Mother Tongue Languages](/about-us/faculty/mother-tongue-languages)
+
+  
+
+**Physical Education** <br>
+»&nbsp;[Physical Education](/about-us/faculty/physical-education)
 
   
 
 **Project Work** <br>
-» Project Work
-
+»&nbsp;[Project Work](/about-us/faculty/project-work)
