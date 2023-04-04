@@ -3,9 +3,9 @@ title: Academics
 permalink: /student-life/Academics/
 description: ""
 ---
-## <center> Academics </center>
-
 _The College’s vision is for students to be ready for the complex and ambiguous world beyond school. We aim to build collaborative learning communities to equip our students with 21st century skills and dispositions to be successful._
+
+  
 
 To achieve these aims, the College offers the Singapore-Cambridge GCE A-level curriculum taught over a two-year academic programme. The A-level curriculum seeks to develop higher order thinking skills – primarily application, analysis, evaluation and synthesis. In addition, it develops skills in communication, project management, research, and scientific methodology. The curriculum offers a significant increase in the complexity of knowledge and level of critical thinking required compared to the O-levels.
 
@@ -19,4 +19,4 @@ Students must adhere to the MOE prescribed standard of at least 3 H2 and 1 H1 co
 
   
 
-Please [click here](https://acjc-moe-edu-sg-admin.cwp.sg/student-life/academics/subjects) for a list of the subjects offered at ACJC.
+Please [click here](/student-life/academics/subjects) for a list of the subjects offered at ACJC.
