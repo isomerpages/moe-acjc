@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Services/Students' Council.md
       - Services/.keep
       - Sports/Badminton.md
       - Sports/Basketball.md
