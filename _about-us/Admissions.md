@@ -37,7 +37,7 @@ The annual DSA Exercise is held from May to August each year. The exact dates, e
 
   
 
-### INTERNATIONAL STUDENTS
+### RETURNING SINGAPOREANS
 ----------------------
 
 Students are advised to go to the following MOE website for more information regarding admission procedures for returning Singaporeans:  
