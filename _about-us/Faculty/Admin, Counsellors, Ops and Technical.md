@@ -36,20 +36,16 @@ Miss Thevani
 
   
 
-**ICT EXECUTIVE**
-
+**ICT EXECUTIVE** <br>
 Mr Gek Hon Joo
 
   
 
-**TECHNICAL ASSISTANT**
-
-Mr Breyon Yeo  
-
+**TECHNICAL ASSISTANT** <br>
+Mr Breyon Yeo   <br>
 Mr Loki Lin
 
   
 
-**AVA TECHNICIAN**
-
+**AVA TECHNICIAN** <br>
 Mr Mohammad Ilham
