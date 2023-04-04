@@ -2,8 +2,11 @@ logo: /images/ACJC School Crest_Full Colour_black.png
 links:
   - title: About Us
     collection: about-us
-  - title: Academics
-    collection: academics
+  - title: Student Life
+    url: /student-life/academics
+    sublinks:
+      - title: Academics
+        url: /student-life/academics
   - title: Showcase
     collection: showcase
   - title: Events
