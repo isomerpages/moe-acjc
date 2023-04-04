@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academics.md
-      - Academics/.keep
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Biology.md
