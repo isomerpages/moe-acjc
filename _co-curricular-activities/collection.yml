@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Technology Council.md
       - Clubs and Societies/AC Uniformed Groups.md
       - Clubs and Societies/.keep
       - Performing Arts/ACSian Theatre.md
