@@ -2,5 +2,6 @@ collections:
   student-life:
     output: true
     order:
+      - Co Curricular Activities.md
       - Financial Assistance.md
       - College Rules and Regulations.md
