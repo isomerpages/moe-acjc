@@ -1,4 +1,5 @@
 collections:
   student-life:
     output: true
-    order: []
+    order:
+      - College Rules and Regulations.md
