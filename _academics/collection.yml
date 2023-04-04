@@ -1,5 +1,5 @@
 collections:
-  student-life:
+  academics:
     output: true
     order:
       - Academics.md
