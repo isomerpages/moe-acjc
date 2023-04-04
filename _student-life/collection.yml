@@ -2,7 +2,6 @@ collections:
   student-life:
     output: true
     order:
-      - Academics/Academics.md
       - Academics/.keep
       - Subjects/.keep
       - Subjects/Subjects.md
