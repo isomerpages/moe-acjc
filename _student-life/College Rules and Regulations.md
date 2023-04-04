@@ -170,25 +170,102 @@ All teachers are responsible for implementing the system in their roles as disci
 
 As a guide, the following is a list of offences and the respective demerit points:
 
-  
-
-|  | Offence | Points |
-| --- | --- | --- |
-| 1 | Late for school | 1\* |
-| 2 | Absent from class without a valid reason | 1 |
-| 3 | Improper dress code for various College activities/functions | 1 |
-| 4 | Long hair/untidy hairstyles | 1 |
-| 5 | Failure to comply with specific instructions | 1 |
-| 6 | Absent from college without a valid reason | 1 |
-| 7 | Leaving college without prior permission from the Principal/Vice-Principal/DM/Class teacher before stipulated times | 3 |
-| 8 | Misconduct (i.e. rude/defiance, talking in the library, eating/drinking outside canteen area, rowdy behaviour or any such conduct unacceptable to an atmosphere for study and learning, inappropriate social media posts, and so on) | 1-3 |
-| 9 | Littering and failure to return empty plates and cutlery to receptacles. | 1 |
-| 10 | Dishonesty i.e. incessant lying, plagiarism, cheating in exams/test, falsifying reports, documents and certificates. | 6-12 |
-| 11 | Failure to show proper conduct at flag raising ceremony or absence from college functions without valid reason. | 12 |
-| 12 | Vandalism and graffiti | 12 |
-| 13 | Smoking/consumption of drugs/glue sniffing | 12 |
-| 14 | Stealing | 12 |
-| 15 | Extortion and threatening behaviour | 12 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table style="border: 1px solid grey" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid grey" class="tg-feqv"></th>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Offence</span></th>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Points</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Late for school</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1*</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">2</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Absent from class without a valid reason</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">3</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Improper dress code for various College activities/functions</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">4</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Long hair/untidy hairstyles</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">5</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Failure to comply with specific instructions</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">6</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Absent from college without a valid reason</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">7</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Leaving college without prior permission from the Principal/Vice-Principal/DM/Class teacher before stipulated times</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">3</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">8</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Misconduct (i.e. rude/defiance, talking in the library, eating/drinking outside canteen area, rowdy behaviour or any such conduct unacceptable to an atmosphere for study and learning, inappropriate social media posts, and so on)</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1-3</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">9</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Littering and failure to return empty plates and cutlery to receptacles.</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">1</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">10</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Dishonesty i.e. incessant lying, plagiarism, cheating in exams/test, falsifying reports, documents and certificates.</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">6-12</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">11</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Failure to show proper conduct at flag raising ceremony or absence from college functions without valid reason.</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">12</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">12</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Vandalism and graffiti</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">12</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">13</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Smoking/consumption of drugs/glue sniffing</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">12</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">14</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Stealing</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">12</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">15</td>
+    <td style="border: 1px solid grey" class="tg-zr06">Extortion and threatening behaviour</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">12</td>
+  </tr>
+</tbody>
+</table>
 
   
 
