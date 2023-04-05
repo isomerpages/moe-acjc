@@ -23,7 +23,7 @@ Students are not permitted to play for an external club or represent any externa
 	[Chinese Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society)  <br>
 	[Christian Fellowship](/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship)   <br>
 	[Debate and Oratorical Society](/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society)   <br>
-	Indian Cultural Society   <br>
+	[Indian Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society)   <br>
 	[Interact Club](/e-open-house/cca-showcase/clubs-and-societies/interact-club)  <br>
 	[Malay Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society)  <br>
 	[Pixel Labs (Digital Media &amp; Film Society)](/e-open-house/cca-showcase/clubs-and-societies/pixel-labs)  <br>
