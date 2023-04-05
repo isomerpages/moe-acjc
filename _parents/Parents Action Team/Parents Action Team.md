@@ -4,11 +4,7 @@ permalink: /parents/parents-action-team/
 description: ""
 third_nav_title: Parents Action Team
 ---
-## <center> Parents Action Team </center>
-
-### <center> Parents Action Team (PAT) </center>
-
-**<center> Anglo-Chinese Junior College&nbsp;|&nbsp;Parent Support Group</center>**
+<h5 style="text-align:center;"><font color="#0100F5">Anglo-Chinese Junior College</font> |<font color="#B89130"> Parent Support Group</font></h5>
 
 ***
 _<center>"Together, Touching lives"</center>_
