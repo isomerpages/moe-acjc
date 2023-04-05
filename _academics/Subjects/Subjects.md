@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Subjects
 ---
 **Knowledge Skills**  <br>
-&gt;[General Paper](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/General-Paper/)  
-&gt;[Knowledge &amp; Inquiry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Knowledge-and-Inquiry/)  
-&gt;[Project Work](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Project-Work/)  
+&gt;[General Paper](/student-life/academics/subjects/general-paper-8881-j1-2023/)  (Syllabus 8881, for&nbsp;**J1**&nbsp;students, 2023)
+&gt;[General Paper](/student-life/academics/subjects/general-paper-8807-j2-2023/)  (Syllabus 8807, for&nbsp;**J2**&nbsp;students, 2023)
+&gt;[Project Work](/student-life/academics/subjects/project-work/)  
 
 
 **Humanities &amp; The Arts** <br>
