@@ -53,10 +53,6 @@ This season ends on a victorious note, for us all; for all the swimmers who won 
 
 And of course, behind every victory, there will always be a team of people behind the scenes who helped us come this far. To our friends and supporters, a big Thank You for being there for us. To our Principal, our Vice-Principals, our Swim Team teachers and our coaches, we thank you with humility and gratitude for guiding and encouraging us.
 
-  
-
-![Team Pic 8.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Team%20Pic%208.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -64,16 +60,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/team%20pic%208.jpg)">  
   
-   
-
 The next season will be equally hard for us as we shift gears and move towards striving to do well academically. However, we know that with the values we have learnt from swimming and strong bonds that we have formed throughout the course of the year, we will yet again come together to challenge each other to achieve the best that we can.
 
-  
-
-![Team Pic 7.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Team%20Pic%207.jpg)  
-
 <style>  
 img {  
   display: block;  
@@ -81,7 +71,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/team%20pic%207.jpg)">  
   
  
 
