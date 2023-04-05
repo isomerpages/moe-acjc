@@ -18,9 +18,6 @@ The showcase itself, however, was merely the culmination of a rigorous programme
 
 Excellent line delivery and strong characterisation made Theasthai a meaningful and thought-provoking night for both the audience and performers, standing testament to their passion for the subject and to the art.
 
-![](/images/Theasthai%203.jpeg)
-_The Cast and Crew of Theastai_
-
 <style>  
 img {  
   display: block;  
@@ -28,10 +25,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" src="/images/Theasthai%203.jpeg">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<figcaption style="text-align:center;"><em>The Cast and Crew of Theastai</em></figcaption> 
 
 A few weeks after their juniors presented the beginning of their performative journey, the J2 students DEP cohort presented their final examination showcase, Culminatio, on the 23rd June 2018. As the name suggests, the showcase serves as the culmination of the class’ performative practice over the past two years.
 
@@ -46,17 +43,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" src="LMAOOO">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
-
-_Power Play, Medusa, Falling (l-r)_
+<figcaption style="text-align:center;"><em>Power Play, Medusa, Falling (l-r)</em></figcaption> 
 
 Culminatio was a meaningful experience for both the audience and performers. The students brought to the stage the clear passion they had for the art, and the nuanced performances were a testament to the time and effort that they put into their craft.
-
-![](/images/Culminatio%204.jpeg)
-_The Cast and Crew of Culminatio_
 
 <style>  
 img {  
@@ -65,10 +57,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:70%;" src="/images/Culminatio%204.jpeg">  
   
   
-<figcaption style="text-align:center;">LMAOOOO</figcaption> 
+<figcaption style="text-align:center;"><em>The Cast and Crew of Culminatio</em></figcaption> 
 
 If you were not able to catch our J1s in action during Theasthai, you can watch them in their upcoming Group Skills showcase, Inventio, on the 3th of September at 7.30pm at ACJC’s Faith Centre for the Performing Arts.
 
