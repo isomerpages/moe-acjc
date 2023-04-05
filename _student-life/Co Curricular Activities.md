@@ -15,8 +15,7 @@ Students are not permitted to play for an external club or represent any externa
 
 ### Programme
 
-*   **Clubs and Societies**
-
+*   **Clubs and Societies** <br>
 	[ACpress](/e-open-house/cca-showcase/clubs-and-societies/acpress)&nbsp;(Student Blog)  <br>
 	[Art Club](/e-open-house/cca-showcase/clubs-and-societies/art-club)  <br>
 	[Arts Council](/e-open-house/cca-showcase/clubs-and-societies/arts-council)&nbsp;(Non Sequitur, Economics Society, Geography Society, History Society)  <br>
@@ -33,8 +32,7 @@ Students are not permitted to play for an external club or represent any externa
 
 <br>
 
-*   **Performing Arts**
-
+*   **Performing Arts** <br>
 	[ACSian Theatre](/e-open-house/cca-showcase/performing-arts/acsian-theatre)  <br>
 	[Choir](/e-open-house/cca-showcase/performing-arts/choir)  <br>
 	[Concert band](/e-open-house/cca-showcase/performing-arts/concert-band)  <br>
@@ -44,8 +42,7 @@ Students are not permitted to play for an external club or represent any externa
 
 <br>
 
-*   **Services**
-
+*   **Services** <br>
 	[First Aid](/e-open-house/cca-showcase/services/first-aid)  <br>
 	[Library Council](/e-open-house/cca-showcase/services/library-council)   <br>
 	[Media Resource Crew](/e-open-house/cca-showcase/services/media-resource-crew)  <br>
@@ -54,8 +51,7 @@ Students are not permitted to play for an external club or represent any externa
 
 <br> 
 
-*   **Sports**
-
+*   **Sports** <br>
 	[Badminton](/e-open-house/cca-showcase/sports/badminton)  <br>
 	[Basketball](/e-open-house/cca-showcase/sports/basketball)  <br>
 	[Bowling](/e-open-house/cca-showcase/sports/bowling)  <br>
