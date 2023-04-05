@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/theatre-studies/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Theatre Studies </center>
-
 ### H2 THEATRE STUDIES AND DRAMA (SYLLABUS 9519)
 
 ##### Aims
