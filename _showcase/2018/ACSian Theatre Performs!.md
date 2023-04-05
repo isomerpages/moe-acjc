@@ -4,8 +4,6 @@ permalink: /showcase/2018/acsian-theatre-performs/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> ACSian Theatre Performs! </center>
-
 The month of March 2018 has been an eventful and exciting one for ACSian Theatre.
 
   
@@ -20,9 +18,17 @@ _Hand Clap_&nbsp;was an upbeat flash mob put together to reflect the strong sens
 
 ACSian Theatre was also invited to perform at the National Book Council’s All In! Young Writers Festival on the 17th March 2018. Along with Hand Clap and This is Me, the club also performed an upbeat Bollywood-style dance, titled&nbsp;_Radha on the Dance Floor_.
 
-![](/images/All%20In!%20Young%20Writers%20Festival%201.jpeg)
-
-_ACSian Theatre at the Young Writer's Festival_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/All%20In!%20Young%20Writers%20Festival%201.jpeg">  
+  
+ <br>
+<figcaption style="text-align:center;"><em>ACSian Theatre at the Young Writer's Festival</em></figcaption>
 
 The Young Writers Festival is an annual event held by the National Book Council to celebrate and inspire the young writers of today, and ACSian Theatre is honoured to have been given the opportunity to perform at such a meaningful event.
 
