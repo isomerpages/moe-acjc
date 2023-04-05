@@ -4,8 +4,6 @@ permalink: /showcase/2019/hero/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> Hero </center>
-
 On the 6 and 7 of August, ACSian Theatre’s J1 batch of 2019 staged our first club production: Hero. The play was adapted from the script of the 2002 wuxia movie Hero directed by Zhang Yimou, based on the story of Jing Ke’s assassination attempt on the king of Qin in 227 BC. A tale of deception and sacrifice, this show encourages its audience to ponder what they are willing to do, or to give up, for the greater good.
 
   
