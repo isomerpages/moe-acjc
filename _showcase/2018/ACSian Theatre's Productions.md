@@ -21,10 +21,6 @@ img {
   
 This year’s Barrel of Laughs continued the narrative of the (fictional) ACJC Drama Society and the discord amongst its members in deciding on a play to put up. This set the stage for conflict-induced repartee and comic delivery through stunts in a riveting play. Showcasing the theatre company’s strong alumni performance standard, the production displayed an array of modes of comedy, leaving audiences for both matinee and evening performances rolling in their seats with laughter. Through breaking the fourth wall, viewers of the production not only admired the comic stagework but were immersed in the play’s dramatic journey and spectacle.
 
-  
-
-![Barrel of Laughs 3.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/Barrel%20of%20Laughs%203.jpg)
-
 <style>  
 img {  
   display: block;  
