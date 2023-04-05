@@ -11,11 +11,11 @@ third_nav_title: Subjects
 
 
 **Humanities &amp; The Arts** <br>
-&gt; [Art](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Higher-Art/)  
-&gt; [China Studies in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/China-Studies-in-English/)  
-&gt; [Economics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Economics/)  
-&gt; [English Language &amp; Linguistics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/English-Language-and-Linguistics/)  
-&gt; [Geography](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Geography/)  
+&gt; [Art](/student-life/academics/subjects/art/)  
+&gt; [China Studies in English](/student-life/academics/subjects/china-studies-in-english/)  
+&gt; [Economics](/student-life/academics/subjects/economics/)  
+&gt; [English Language &amp; Linguistics](/student-life/academics/subjects/english-language-and-linguistics/)  
+&gt; [Geography](/student-life/academics/subjects/geography-j1-2023/)  
 &gt; [History](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/History/)  
 &gt; [Literature in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Literature-in-English/)  
 &gt; [Theatre Studies](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Theatre-Studies/)  
