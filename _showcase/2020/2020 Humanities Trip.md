@@ -4,8 +4,6 @@ permalink: /showcase/2020/2020-humanities-trip/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> 2020 Humanities Trip </center>
-
 From the 24th to the 29th of November, the AH class of 2020 and the recipients of the MOE Humanities Scholarship participated in a learning journey to Chengdu, China. As an economy close to Singapore as well as a geopolitical powerhouse of Asia, China presented many fascinating learning opportunities for the class. The participants of the trip were accompanied by Mr Mori Toshiyuki, Ms Michelle Wong and Mrs Geetha Creffield, who played crucial roles in organising and chaperoning throughout the trip.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-jgvO_CeDHtdIRpogKGu24CCGED5ZTipiUtaDV68VpbdqNExa1nyZmBCZ7e-VlTD0644_e0vtSb64/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
