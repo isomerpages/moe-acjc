@@ -4,8 +4,6 @@ permalink: /events/ac-celebrations/ac-celebrations-2020/
 description: ""
 third_nav_title: AC Celebrations
 ---
-## <center> AC Celebrations 2020 </center>
-
 As seconds passed and 8 am drew nearer, the seats in the hall began to fill up. Students rushed into the hall, just before assembly began. This day, however, was different from any other typical school day. There were no lessons, no lectures, and no tests. With everyone dressed in their red t-shirts, the mood for AC Celebrations was set. In the spirit of the festive season, the celebration started off with an appreciation for our teachers and the college staff an offering of oranges by some of our students. Next, the elderly residents of Ghim Moh were welcomed into the hall to join the celebration by our very own Chinese Orchestra.
 
   
