@@ -4,47 +4,45 @@ permalink: /student-life/Subjects/Subjects/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Subjects </center>
-
 **Knowledge Skills**  
 
->[General Paper](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/General-Paper/)  
->[Knowledge & Inquiry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Knowledge-and-Inquiry/)  
->[Project Work](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Project-Work/)  
+&gt;[General Paper](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/General-Paper/)  
+&gt;[Knowledge &amp; Inquiry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Knowledge-and-Inquiry/)  
+&gt;[Project Work](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Project-Work/)  
 
 
-**Humanities & The Arts**
+**Humanities &amp; The Arts**
 
-> [Art](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Higher-Art/)  
-> [China Studies in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/China-Studies-in-English/)  
-> [Economics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Economics/)  
-> [English Language & Linguistics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/English-Language-and-Linguistics/)  
-> [Geography](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Geography/)  
-> [History](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/History/)  
-> [Literature in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Literature-in-English/)  
-> [Theatre Studies](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Theatre-Studies/)  
-> [Music](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Music/)
+&gt; [Art](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Higher-Art/)  
+&gt; [China Studies in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/China-Studies-in-English/)  
+&gt; [Economics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Economics/)  
+&gt; [English Language &amp; Linguistics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/English-Language-and-Linguistics/)  
+&gt; [Geography](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Geography/)  
+&gt; [History](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/History/)  
+&gt; [Literature in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Literature-in-English/)  
+&gt; [Theatre Studies](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Theatre-Studies/)  
+&gt; [Music](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Music/)
 
   
-**Mathematics & Sciences**
+**Mathematics &amp; Sciences**
 
-> [Biology](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Biology/)  
-> [Chemistry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Chemistry/)  
-> [Computing](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Computing/)  
-> [Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mathematics/)  
-> [Further Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Further-Mathematics/)  
-> [Physics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physics/)
+&gt; [Biology](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Biology/)  
+&gt; [Chemistry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Chemistry/)  
+&gt; [Computing](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Computing/)  
+&gt; [Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mathematics/)  
+&gt; [Further Mathematics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Further-Mathematics/)  
+&gt; [Physics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physics/)
 
   
 **Languages**
 
-> [Mother Tongue Languages & Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/) <br>
-> Chinese Language & Literature <br>
-> Malay Language & Literature   <br>
-> Tamil Language & Literature
+&gt; [Mother Tongue Languages &amp; Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/) <br>
+&gt; Chinese Language &amp; Literature <br>
+&gt; Malay Language &amp; Literature   <br>
+&gt; Tamil Language &amp; Literature
 
    
 
 **Life Skills**
 
-> [Physical Education](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physical-Education/)
+&gt; [Physical Education](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physical-Education/)
