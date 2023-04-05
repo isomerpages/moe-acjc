@@ -3,11 +3,16 @@ title: Humanities Scholarship Programme
 permalink: /student-life/academics/humanities-scholarship-programme/
 description: ""
 ---
-## <center> Humanities Scholarship Programme </center>
-
-
-<img style="width: 55%;" src="/images/IMG_0155.jpeg"> 
-
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/IMG_0155.jpeg">  
+  
+ 
 
 The Ministry of Education (MOE) established the sixth Humanities Programme centre at the Anglo-Chinese Junior College (ACJC) to nurture talent in the humanities. The programme includes the Humanities Scholarships, which are offered by the Ministry of Education to encourage outstanding students to study the humanities at the pre-university level under the Humanities Programme.
 
