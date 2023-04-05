@@ -4,8 +4,6 @@ permalink: /showcase/2021/acsian-theatres-webinar-for-secondary-schools/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> ACSian Theatre's Webinar for Secondary Schools </center>
-
 On 2nd July 2021, ACSian Theatre hosted a webinar for the Secondary 4 cohort of 2021, inviting students from all secondary schools to find out more about drama in ACJC.&nbsp;  
 
 The purpose of the webinar was to give Secondary 4 theatre enthusiasts an insight into life as a member of ACSian Theatre.&nbsp;
