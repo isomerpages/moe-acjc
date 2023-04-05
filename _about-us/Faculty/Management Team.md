@@ -4,8 +4,304 @@ permalink: /about-us/faculty/management-team/
 description: ""
 third_nav_title: Faculty
 ---
-Principal, Vice-Principals, Heads of Department, Subject Heads and Level Heads
-
-  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 818px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Principal</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Dr Shirleen Chee</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"><br style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Vice-Principals (Education)</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Audrey Lim</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mrs Choo Hong Kiang</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Vice-Principal (Admin)</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Callista Lim</div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">School Staff Developer</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Dorine Chia</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Senior Year Head</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Annie Yong</div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">JC1 Year Head</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; text-align: center;">Mr Patrick Sum</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: 700;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div><span style="margin: 0px; outline: 0px; padding: 0px; font-weight: bold;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">JC2 Year Head</div></span><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Calvin Choo<span style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: initial;"><br style="margin: 0px; outline: 0px; padding: 0px;"></span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Arts</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mrs Geetha Creffield</div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Economics</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Mohd Mashren B Masood</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Level Head Economics</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Kuek Xiao Bin</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: bold; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: bold; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Humanities</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: 400;">Mr George Fu</div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: bold; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; font-weight: bold; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head English Literature</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Sanjay Cheriyan Mathew</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD English</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Ng Swee Pheng</div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Level Heads General Paper</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms Ong Xin Yi</span><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Ruth Lim<br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Mathematics</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Mr Kayden Lim</span></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Mathematics</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Dr Ng Boon Leong</div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Level Head Mathematics</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Yeo Kaixiang</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Mother Tongue Languages</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Hoe Mei Hwee</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Physical Education / Co-Curricular Activities</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Mark Ng</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Sports Secretary</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr David Tan</div></div></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Project Work</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Fong Chun Kin</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Science</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Tan Ying Ling<br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Biology</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Jackson Koh</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Chemistry</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Kunasegaran</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Level Head Chemistry</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><span style="margin: 0px; outline: 0px; padding: 0px; background-color: initial;">Ms So Zhao Ying</span></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Physics</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Chang Kok Keong</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Level Head Physics</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Koo Guowen</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"></div><strong style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Science Research and Talent Management</strong></div></strong><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"></div></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Lee Sok Ee</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Information Technology</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mrs Sharon Loh</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Management of Information</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Yue Yin Wah</div></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Education Technology &amp; Innovation</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Lau Chee Keen</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Outreach and Relations</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Ganga Jayaram</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Higher Education and Career Guidance</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mrs Daphne Teo<br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD Special Projects</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Rosalind Huang</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head&nbsp;</strong><strong style="margin: 0px; outline: 0px; padding: 0px;">Student Management</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Lau Chee Kheong</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Student Leadership</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Bryan Lee</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">HOD C</strong><strong style="margin: 0px; outline: 0px; padding: 0px;">CE &amp; PCC</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Leong Jenn Yeoong</div></div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head Pastoral Care &amp; Counselling</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Calvin Xie</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div></div></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170);"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Subject Head National Education / Values in Action</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Ms Teo Shu May</div></div></td></tr></tbody></table>
+<div>Principal, Vice-Principals, Heads of Department, Subject Heads and Level Heads</div>
+<div><br></div>
+<table>
+    <tbody>
+        <tr>
+            <td valign="top">
+                <div><strong>Principal</strong></div>
+                <div>Dr Shirleen Chee</div>
+                <div><br></div>
+            </td>
+            <td><br><br></td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div><strong>Vice-Principals (Education)</strong></div>
+                <div>Ms Audrey Lim</div>
+                <div>Mrs Choo Hong Kiang</div>
+                <div><br></div>
+            </td>
+            <td valign="top">
+                <div><strong>Vice-Principal (Admin)</strong></div>
+                <div>Ms Callista Lim</div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div><strong>School Staff Developer</strong></div>
+                <div>Ms Dorine Chia</div>
+                <div><br></div>
+            </td>
+            <td><br></td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div><strong>Senior Year Head</strong></div>
+                <div>Ms Annie Yong</div>
+            </td>
+            <td valign="top">
+                <div><strong>JC1 Year Head</strong></div>
+                <div>Mr Patrick Sum</div>
+                <div><br></div>
+                <div>JC2 Year Head</div>
+                <div>Mr Calvin Choo</div>
+                <div><br></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div><strong>HOD Arts</strong></div>
+                <div>Mrs Geetha Creffield</div>
+            </td>
+            <td valign="top">
+                <div><strong>Subject Head Economics</strong></div>
+                <div>Mr Mohd Mashren B Masood</div>
+                <div><strong><br></strong></div>
+                <div><strong>Level Head Economics</strong></div>
+                <div>Ms Kuek Xiao Bin</div>
+                <div><strong><br></strong></div>
+                <div>
+                    <div><strong>Subject Head Humanities</strong></div>
+                    <div>Mr George Fu</div>
+                </div>
+                <div><strong><br></strong></div>
+                <div><strong>Subject Head English Literature</strong></div>
+                <div>Mr Sanjay Cheriyan Mathew</div>
+                <div><br></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div><strong>HOD English</strong></div>
+                <div>Ms Ng Swee Pheng</div>
+            </td>
+            <td valign="top">
+                <div><strong>Level Heads General Paper</strong></div>
+                <div>Ms Ong Xin Yi</div>
+                <div>Ms Ruth Lim</div>
+                <div><br></div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Mathematics</strong></div>
+                    <div>Mr Kayden Lim</div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div>
+                            <div>
+                                <div><strong>Subject Head Mathematics</strong></div>
+                                <div>Dr Ng Boon Leong</div>
+                            </div>
+                            <div><strong><br></strong></div>
+                            <div><strong>Level Head Mathematics</strong></div>
+                            <div>Mr Yeo Kaixiang</div>
+                            <div><br></div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div><br></div>
+                        <div><br></div>
+                    </div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div>
+                            <div>
+                                <div><strong>Subject Head Mother Tongue Languages</strong></div>
+                                <div>Ms Hoe Mei Hwee</div>
+                                <div><br></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Physical Education / Co-Curricular Activities</strong></div>
+                    <div>Mr Mark Ng</div>
+                    <div><br></div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div>
+                            <div><strong>Sports Secretary</strong></div>
+                            <div>Mr David Tan</div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Project Work</strong></div>
+                    <div>Mr Fong Chun Kin</div>
+                    <div><br></div>
+                </div>
+            </td>
+            <td><br></td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Science</strong></div>
+                    <div>Ms Tan Ying Ling</div>
+                    <div><br></div>
+                    <div>
+                        <div><br></div>
+                    </div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div>
+                            <div>
+                                <div><strong>Subject Head Biology</strong></div>
+                                <div>
+                                    <div>Mr Jackson Koh</div>
+                                    <div><br></div>
+                                </div>
+                            </div>
+                            <div><strong>Subject Head Chemistry</strong></div>
+                            <div>
+                                <div>Mr Kunasegaran</div>
+                                <div><br></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div><strong>Level Head Chemistry</strong></div>
+                        <div>Ms So Zhao Ying</div>
+                        <div><br></div>
+                    </div>
+                    <div><br></div>
+                    <div>
+                        <div><strong>Subject Head Physics</strong></div>
+                        <div>Mr Chang Kok Keong</div>
+                        <div><br></div>
+                        <div><br></div>
+                        <div>
+                            <div><strong>Level Head Physics</strong></div>
+                            <div>Mr Koo Guowen</div>
+                            <div><br></div>
+                        </div>
+                        <div><br></div><strong>
+                            <div><strong>Subject Head Science Research and Talent Management</strong></div>
+                        </strong>
+                        <div><br></div>
+                    </div>
+                    <div>Ms Lee Sok Ee</div>
+                    <div><br></div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Information Technology</strong></div>
+                    <div>Mrs Sharon Loh</div>
+                    <div><br></div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div><strong>Subject Head Management of Information</strong></div>
+                        <div>Ms Yue Yin Wah</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div><strong>HOD Education Technology &amp; Innovation</strong></div>
+                <div>Mr Lau Chee Keen</div>
+                <div><br></div>
+            </td>
+            <td><br></td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Outreach and Relations</strong></div>
+                    <div>Ms Ganga Jayaram</div>
+                    <div><br></div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div>
+                        <div><strong>Subject Head Higher Education and Career Guidance</strong></div>
+                        <div>Mrs Daphne Teo</div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD Special Projects</strong></div>
+                    <div>Ms Rosalind Huang</div>
+                    <div><br></div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div><strong>Subject Head&nbsp;</strong><strong>Student Management</strong></div>
+                    <div>Mr Lau Chee Kheong</div>
+                    <div><br></div>
+                    <div><br></div>
+                    <div>
+                        <div><strong>Subject Head Student Leadership</strong></div>
+                        <div>Mr Bryan Lee</div>
+                        <div><br></div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>HOD C</strong><strong>CE &amp; PCC</strong></div>
+                    <div>Mr Leong Jenn Yeoong</div>
+                </div>
+            </td>
+            <td valign="top">
+                <div>
+                    <div><strong>Subject Head Pastoral Care &amp; Counselling</strong></div>
+                    <div>Mr Calvin Xie</div>
+                    <div><br></div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td><br></td>
+            <td valign="top">
+                <div>
+                    <div><strong>Subject Head National Education / Values in Action</strong></div>
+                    <div>Ms Teo Shu May</div>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
