@@ -32,11 +32,7 @@ img {
   
 
 
-On the 5, 6, and 7 April 2018, ACSian Theatre also staged our dynamic interpretation of William Shakespeare’s classic comedy, The Tempest. Thought to be the last play ever written by Shakespeare himself, the theatrical staging of the piece was a refreshing blend of literary discourse provided by the adapted text and dynamic movement sequences embellished with elegant costumes and intricate stage props. Overcoming the dilemma of reaching out to modern audiences with the classic text, the performers portrayed their characters with calculated artistic liberty and stunned audiences with scenes capturing young romance, power play and base tomfoolery.  
-
-  
-
-![The Tempest 2.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/The%20Tempest%202.jpg)
+On the 5, 6, and 7 April 2018, ACSian Theatre also staged our dynamic interpretation of William Shakespeare’s classic comedy, The Tempest. Thought to be the last play ever written by Shakespeare himself, the theatrical staging of the piece was a refreshing blend of literary discourse provided by the adapted text and dynamic movement sequences embellished with elegant costumes and intricate stage props. Overcoming the dilemma of reaching out to modern audiences with the classic text, the performers portrayed their characters with calculated artistic liberty and stunned audiences with scenes capturing young romance, power play and base tomfoolery. 
 
 <style>  
 img {  
@@ -45,7 +41,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/the%20tempest%202.jpg)">  
   
 
 
