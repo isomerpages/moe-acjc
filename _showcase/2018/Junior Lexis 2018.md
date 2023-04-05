@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="LMAOOO">  
+<img style="width:90%;" src="/images/junior%20lexis%202018.jpg">  
   
   
 
