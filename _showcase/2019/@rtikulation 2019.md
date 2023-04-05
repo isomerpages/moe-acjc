@@ -4,8 +4,6 @@ permalink: /showcase/2019/at-rtikulation-2019/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> @rtikulation 2019 </center>
- 
 On 29 July 2019, the J1 and J2 Music Elective Programme (MEP) batches held our annual recital, @rtikulation, at the Esplanade Recital Studio. It was truly an enriching experience for all of us - not only being able to perform at one of the most well-known performance venues in Singapore, but also developing a high level of musicianship and friendship with one another through the months of hard work and practice put in prior to the concert. The recital allowed us to present a wide variety of performances, ranging from solo piano, string and wind instruments to chamber pieces of varying instrumentation. The recital also featured the premiere of A Day at the Prata Place, a piece composed by our very own alumni MEP student, Toh Yan Ee.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSBjUkQtxNf6xSSB8mkh_HTyYqWRLKy8GHxWjq1r6vOnduw3HmcOs6xR906Bx4zmkGhfkM-7lc5uhB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
