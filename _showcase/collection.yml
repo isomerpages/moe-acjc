@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2022/ACJC at the ICP.md
       - 2022/Year End Science Fun 2022.md
       - 2022/Cinderella 2022.md
       - 2022/.keep
