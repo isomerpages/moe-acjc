@@ -31,7 +31,7 @@ iv.  Abstinence before marriage is the best protection against STIs/HIV and unin
 
 You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2022
+### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2023
 
 4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -39,11 +39,11 @@ You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)
 
 5\. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
-### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2022:
-
-### <center> JUNIOR COLLEGE 1 </center>
+### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2023:
 
 <center> Theme 3B from Module: Developing Healthy Relationships </center>
+
+##### <center> JUNIOR COLLEGE 1 </center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
