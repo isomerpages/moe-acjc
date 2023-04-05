@@ -33,9 +33,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Excellence-3.jpeg">  
-  
-  
+<img style="width:70%;" src="/images/Excellence-3.jpeg"> 
 <figcaption style="text-align:center;"><b>Teacher's Workshop</b></figcaption> <br>
 
 <style>  
