@@ -4,8 +4,6 @@ permalink: /showcase/2021/acjc-cherishes-the-class-of-2020/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> ACJC Cherishes the Class of 2020 </center>
-
 During their time at ACJC the Class of 2020 lived out the College values of Integrity, Tenacity, Passion, in Order to Make a Difference. They made the most of their time in spite of the challenges created by the pandemic, and have left their mark on the College. Each member of the cohort is special. Here, we highlight a few exemplary ACSians from the Class of 2020.
 
 <figure>
