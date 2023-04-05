@@ -32,10 +32,6 @@ img {
 
 For the exciting relay races our Girl’sTeam consisting of Rayna Buckle, Chan Zi Yi, Geneveive Lye and Annie Siow came in 4th and it was a satisfying win for the girls. The Boy’s Relay team fared better. Samuel Tang, Brandon Tan, Isaac Pang and Ryan Yeoh swam a really exciting and challenging race, and finished with well-deserved Bronze medal.
 
-  
-
-![Relay Pic 6.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Relay%20Pic%206.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -43,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/relay%20pic%206.jpg)">  
   
    
 
