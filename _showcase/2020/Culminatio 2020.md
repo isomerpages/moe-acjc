@@ -4,8 +4,6 @@ permalink: /showcase/2020/culminatio-2020/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> Culminatio 2020 </center>
-
 Showcasing the DEP Class of 2020's collaborative performances,&nbsp;_Culminatio_&nbsp;concludes the end of the class’ two years of rigorous and innovative performance practice. During the circuit-breaker period and home-based learning weeks, students met on Zoom to rehearse their lines. To the amusement and annoyance of housemates and roommates, vocal and physical warm-ups became a regular part of the “stay home, stay safe” routine.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTgGwdl803qJSU0CitniQmQLGHedigRjUPFme4mrwCImNaHqpkasUk2jtiMn3FEEZhqd8FCjmQLeGx_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
