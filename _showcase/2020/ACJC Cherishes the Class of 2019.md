@@ -4,17 +4,23 @@ permalink: /showcase/2020/acjc-cherishes-the-class-of-2019/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> ACJC Cherishes the Class of 2019 </center>
-
 On the 21st of February 2020, Anglo-Chinese Junior College (ACJC) received the GCE A-level results for the Class of 2019.
 
   
 
 In addition to the Integrity, Tenacity and Passion they displayed in their academics, the Class of 2019 served as exemplars of these ACSian values on the playing field, in performances, in clubs and societies, in academics, and in their service to others. As a College, we cherish each and every one of them, and in line with our ethos, we would like to showcase a few students, ACSian paragons one and all, who were outstanding role models during their time at the College.
 
-![](/images/results%204.jpeg)
-
-_The School Leaders with some of our outstanding ACSians_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/results%204.jpeg">  
+  
+<br>
+<figcaption style="text-align:center;"><em>The School Leaders with some of our outstanding ACSians</em></figcaption> 
 
 The College takes deep pride in these ACSians, and in each and every member of the Class of 2019.
 
