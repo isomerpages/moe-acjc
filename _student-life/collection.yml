@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Character Education/Higher Education and Career Guidance.md
       - Character Education/Student Leadership.md
       - Character Education/Pastoral Care and Counselling.md
       - Character Education/Sexuality Education.md
