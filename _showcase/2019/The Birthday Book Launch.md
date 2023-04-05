@@ -4,8 +4,6 @@ permalink: /showcase/2019/the-birthday-book-launch/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> The Birthday Book Launch </center>
-
 This year, the Drama Elective Programme (DEP) Class of 2020 had the wonderful opportunity to be a part of the launch of the 2019 edition of&nbsp;_The Birthday Book_. The book is a publication by&nbsp;**The Birthday Collective**, which publishes an annual collection of essays responding to a thematic concern that varies from year to year. Each year, the number of writers matches the age of Singapore. The 2019 edition presents 54 responses to the idea of “Narratives Undiscovered and Underway”, where 54 contributors reflect on the narratives of their lives, and pen down the stories that define them, their communities, the causes they champion, and Singapore’s collective future.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQkXwWCgQA2MoBtPZs9kze3mu8NbYsaZHoPS69zdmXOtRBjJprJbOaMBWDCG6tgMYYywFW7VO6x3UGZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
