@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Astar%20group%20photo.jpeg">  
+<img style="width:80%;" src="/images/Astar%20group%20photo.jpeg">  
   
   
 <figcaption style="text-align:center;"><em>Group Photo for A*STAR Science Award Ceremony on 31st May<br>From left to right: Mrs Lee Bee Cheow(VP Education), Faith Chee Yan Ni(1SB1), Lam Wing Ha, Henry(1SA1), Professor Ng Huck Hui(Executive Director of A*STAR Graduate Academy), Sarah Chua Qian Yin(1SC1), Lim Jie Yi, Rachel(1SC2), Mdm Adeline Cheong(Teacher)</em></figcaption> 
