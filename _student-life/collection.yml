@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - Character Education/Character Education.md
       - Character Education/.keep
       - Co Curricular Activities.md
       - Financial Assistance.md
