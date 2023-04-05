@@ -4,8 +4,6 @@ permalink: /showcase/2020/international-sci-teens-challenge/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> International Sci-Teens Challenge </center>
-
 _Seeking opportunities in adversity._
 
 It is with this mindset that the inaugural International Sci-Teens Challenge (ISTC) was launched in May 2020. At a time when the pandemic led to more stringent safe management measures and physical events were disrupted, the ACJC Science and Mathematics Council (SMC) continued to encourage the exploration of Science and Mathematics concepts through an online competition.
