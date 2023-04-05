@@ -169,3 +169,9 @@ For more information about Growing Years click&nbsp;[here](/parents/sexuality-ed
 </tbody>
 </table>
 
+For more information about ETeens click&nbsp;[here](/parents/sexuality-education).
+
+**Information** <br>
+For more information and enquires, you may approach the following teachers from the CCE and PCC Department.
+
+<p style="text-align:center;">Mr Leong Jenn Yeoong (HOD Room)<br>Mr Calvin Xie (Subject Heads Room)<br>Mrs Julie Lye (Counselling Room)</p>
