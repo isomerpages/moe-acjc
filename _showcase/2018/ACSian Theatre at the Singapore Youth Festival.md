@@ -4,15 +4,19 @@ permalink: /showcase/2018/acsian-theatre-at-the-singapore-youth-festival/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> ACSian Theatre at the Singapore Youth Festival </center> 
-
 Presented on 25 April 2018, ACSian Theatre performed a devised physical theatre piece, The Conference of The Birds. Created through workshop and devising, the item was inspired by the Persian poem of the same name by Farid ud-Din Attar and tells the story of a flock of birds who embark on a journey to find enlightenment.
 
-![](/images/SYF%202.jpeg)
-
-![](/images/SYF%203.jpeg)
-
-_<center>The Conference of the Birds</center>_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/SYF%202.jpeg"><br><img style="width:80%;" src="/images/SYF%203.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>The Conference of the Birds</em></figcaption> 
 
 The dynamic conception of the piece was displayed through physical stunts and lifts, and crystallised through selected text and natural sounds produced by the actors themselves. The cast worked tirelessly on the physically intensive piece, under the precise artistic direction of choreographic and directorial team, whose enthralling vision elevated the item to greater heights.
 
