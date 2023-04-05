@@ -4,8 +4,6 @@ permalink: /about-us/facilities/faith-cpa/technical-specifications-updated-on-2n
 description: ""
 third_nav_title: Faith CPA
 ---
-## <center> Technical Specifications (updated on 2nd Nov 2018) </center>
-
 **<center>TECHNICAL EQUIPMENT AND SPECIFICATIONS</center>**
 
 **AUDIO EQUIPMENT AND SPECIFICATIONS**
