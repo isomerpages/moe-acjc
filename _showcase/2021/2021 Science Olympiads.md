@@ -4,8 +4,6 @@ permalink: /showcase/2021/2021-science-olympiads/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> 2021 Science Olympiads </center>
-
 ACJC participated in the 33rd Singapore Chemistry Olympiad, 34th Singapore Physics Olympiad and the 22nd Singapore Biology Olympiad in 2021. We are pleased to announce our medalists&nbsp;in these competitions.  
 Our students won 3 Silver and 4 Bronze medals, as well as 2 Merit awards in the 33rd Singapore Chemistry Olympiad (SChO):
 
@@ -18,8 +16,17 @@ SChO Silver Medalists:
 
 3. Max Tan Kia Lok (2SA1)
 
-![](/images/Joseph%20Ben%20Max.jpeg)
-_From left to right, Joseph, Benjamin and Max_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Joseph%20Ben%20Max.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>From left to right, Joseph, Benjamin and Max</em></figcaption> 
 
 SChO Bronze Medalists:
 
@@ -31,16 +38,34 @@ SChO Bronze Medalists:
 
 4. Nguyen Truong Tung (2SC3)
 
-![](/images/Allan%20Ewan%20Eddrick%20Nguyen.jpeg)
-_From left to right, Allan, Ewan, Eddrick and Nguyen Truong Tung_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Allan%20Ewan%20Eddrick%20Nguyen.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>From left to right, Allan, Ewan, Eddrick and Nguyen Truong Tung</em></figcaption> 
 
 SChO Merit awards:
 
 1. Goh Jwee Khiang Marcus (2SB2)
 2. Wilbert Christopher Kurniawan (2SA1)
 
-![](/images/Marcus%20and%20Wilbert.jpeg)
-_From left to right, Marcus and Wilbert_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Marcus%20and%20Wilbert.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>From left to right, Marcus and Wilbert</em></figcaption> 
 
 Our students won a Silver medal and a Bronze medal as well as four Honourable Mentions at the 34th Singapore Physics Olympiad.
 
@@ -56,8 +81,17 @@ SPhO Bronze Medalists:
 
 1. Chen Yixun (2SA5)
 
-![](/images/Joseph%20and%20Yixun.jpeg)
-_From left to right, Joseph and Yixun_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Joseph%20and%20Yixun.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>From left to right, Joseph and Yixun</em></figcaption> 
 
 SPhO Honourable Mentions:
 
@@ -69,12 +103,31 @@ SPhO Honourable Mentions:
 
 4. Robert Livando (2SB1)
 
-![](/images/Dylan%20Sean%20Wei%20Quan%20and%20Robert.jpeg)
-_From left to right, Dylan, Sean, Wei Quan and Robert_
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Dylan%20Sean%20Wei%20Quan%20and%20Robert.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>From left to right, Dylan, Sean, Wei Quan and Robert</em></figcaption> 
 
 Brian Matthew Neelarajan from 2SC6 won a Bronze medal at the 22nd Singapore Biology Olympiad.
 
-![](/images/Brian%20Matthew%202SC6_22%20Olympiad.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Brian%20Matthew%202SC6_22%20Olympiad.jpeg">  
+  
+  
 
 The College appreciates our Science tutors for their dedication in guiding and mentoring the teams:  
 
