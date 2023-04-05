@@ -6,8 +6,17 @@ third_nav_title: "2018"
 ---
 MUSE was a unique collaboration between the Anglo-Chinese Junior College Concert Band and ACSian Theatre. With 3 solo pieces along with an ensemble performance, ACSian Theatre (plus Alumni) learned about music-making with a Concert Band. We also experienced the rare privilege of singing at the Esplanade.
 
-![](/images/MUSE%203.jpeg)
-_Timothy Chang, giving it his all_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:65%;" src="/images/MUSE%203.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><em>Timothy Chang, giving it his all</em></figcaption> 
 
 With the continuous support of the Alumni and Teachers, ACSian Theatre gave spectacular performances of musical theatre renditions. Firstly, RENT’s famous ‘Seasons of Love’ was sung as an ensemble piece followed by a melodic song entitled ‘Someone like You’ from the musical Jekyll and Hyde by Mrs Tan Yi Wen. ‘Confrontation’, from the same musical, was a powerful performance sung by Timothy Chang. The night ended for ACSian Theatre with Nathania Ong’s performance of ‘Poor Monty’ where she wowed the audience with her wide vocal range. Through this event, ACSian Theatre are proud to have been able to work with the school’s Concert Band, strengthening the ACJC performing arts community.
 
