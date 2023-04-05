@@ -36,14 +36,44 @@ This course of study will
 
 Clinical and theatre practioners on the one hand and experienced alumni mentors on the other hand act as the twin pillars that support the work of the on- site teacher consultants at ACJC . This robust tripartite structure is part of the unique approach to the teaching of Theatre Studies and Drama at ACJC.
 
-| Theory                          | Practicum                     |
-|---------------------------------|-------------------------------|
-| Introduction to World Theatre   | Voice Masterclasses           |
-| Study of Theatrical Conventions | Movement Masterclasses        |
-| Seminar-style Discussion        | One-on-One Consultations      |
-| Theatre Enrichment Field Trips  | Progress and Feedback Reports |
-|                                 | Journals and Scrapbooks       |
-|                                 | Live Demonstrations           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><b>Theory</b></th>
+    <th class="tg-0lax"><b>Practicum</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><ul>
+<li>Introduction to World Theatre</li>
+<li>Study of Theatrical Conventions</li>
+<li>Seminar-style Discussion</li>
+<li>Theatre Enrichment Field Trips</li>
+</ul>
+</td>
+    <td class="tg-0lax"><ul>
+<li>Voice Masterclasses</li>
+<li>Movement Masterclasses</li>
+<li>One-on-One Consultations</li>
+<li>Progress and Feedback Reports</li>
+<li>Journals and Scrapbooks</li>
+<li>Live Demonstrations</li>
+</ul>
+</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ##### Programme
 
