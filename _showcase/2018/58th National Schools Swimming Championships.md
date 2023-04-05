@@ -6,10 +6,6 @@ third_nav_title: "2018"
 ---
 In the recent National School Swimming Championships that commenced on the 16th of April and concluded on the 20th of April, our swimmers emerged victorious and made Anglo-Chinese Junior College proud by bringing home the Silver trophy for the girls and the Bronze for the boys. It was truly a spectacular sight to witness our college values such as courage, tenacity and passion were displayed by our swimmers.
 
-  
-
-![Boys Pic 1.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Boys%20Pic%201.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -17,24 +13,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/boys%20pic%201.jpg)">  
   
- 
-
-  
-
 There were many high points at this year’s amazing event. Samuel Tang performed brilliantly, shattering the record for the 100m Men’s Freestyle event and bagging the Gold for the Men’s 200m Freestyle event. Brandon Tan also did ACJC proud by bringing home the Gold medals in both the Men’s 100m Breaststroke and Men’s 200m Breaststroke events. Isaac Pang performed very well by coming in 3rd for the Men’s 100m Backstroke and 2nd for the Men’s 200m Backstroke events. In a tight and difficult challenge, Tristan Chua bagged two 4th place titles in both the Men’s 100m and 200m Butterfly events.
-
-  
-
-  
 
 The Girls Team performed equally well. Chan Zi Yi simply crushed her opponents and took the Gold medal for the Women’s 400m Freestyle event and the Silver for the Women’s 200m Freestyle event. Genevieve Lye was unstoppable and she bagged the Gold medals for the Women’s 800m Freestyle and Women’s 100m Backstroke event. Jaymi Ching went beyond her personal best to win the Bronze medal for the Women’s 200m Medley. Joey Chieng and Joanne Chieng braved the daunting Women’s 200m Butterfly and came in at 6th and 7th positions respectively.
 
-  
-
-![Girls Pic 3.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Girls%20Pic%203.jpg)
-
 <style>  
 img {  
   display: block;  
@@ -42,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/girls%20pic%203.jpg)">  
   
    
 
