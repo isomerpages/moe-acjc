@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/project-work/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Project Work </center>
-
 ### H1 PROJECT WORK (SYLLABUS 8808)
 
   
@@ -57,6 +55,5 @@ Students are assigned to work in project groups within each class, with each pro
 
   
 
-The syllabus document for H1 Project Work may be found at the following URL:
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8808\_y21\_sy.pdf](/files/8808_y21_sy.pdf)
+The syllabus document for H1 Project Work may be found at the following URL: <br>
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8808\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8808_y21_sy.pdf)
