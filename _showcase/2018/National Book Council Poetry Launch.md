@@ -4,8 +4,6 @@ permalink: /showcase/2018/national-book-council-poetry-launch/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> National Book Council Poetry Launch </center>
-
 In Term 3, the JC1 Drama Elective Programme (DEP) students were honoured to be a part of the National Book Council's launch of Second Persons, Singaporean poet Aaron Maniam’s second poetry collection.
 
   
