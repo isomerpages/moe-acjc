@@ -4,11 +4,18 @@ permalink: /showcase/2019/acjc-strings-at-syf/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> ACJC Stings @ SYF </center>
-
 On 2nd April 2019, the ACJC String Ensemble participated in the Singapore Youth Festival’s Arts Presentation, which was held at the SOTA Concert Hall. We are proud to announce that the Ensemble attained a Certificate of Distinction for the 5th consecutive time!
 
-![](/images/Strings.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/Strings.jpeg">  
+  
+
 
 We wouldn’t have been able to attain this distinction without the support of everyone who has been part of this amazing journey- from teachers, to peers, to all our well-wishers. We are especially grateful to our conductor, Mr Yang Zhengyi, who not only tirelessly guided us in our playing, but also taught us the importance of loving the music we play.
 
