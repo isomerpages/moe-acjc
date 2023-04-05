@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Academics.md
+      - Subjects/General Paper 8807 (J2 2023).md
       - Subjects/.keep
       - Subjects/Subjects.md
       - Subjects/Art.md
