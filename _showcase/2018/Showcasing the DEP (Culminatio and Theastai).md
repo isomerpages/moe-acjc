@@ -43,7 +43,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="LMAOOO">  
+<img style="width:95%;" src="/images/Power%20Play%20Medusa.jpg">  
   
   
 <figcaption style="text-align:center;"><em>Power Play, Medusa, Falling (l-r)</em></figcaption> 
