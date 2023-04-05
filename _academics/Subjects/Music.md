@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/music/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Music </center>
-
 ### H2 MUSIC (SYLLABUS 9753) and H3 MUSIC (SYLLABUS 9819)
 
 ##### Aims
@@ -18,17 +16,12 @@ ACJC MEP aims to develop students’ passion, sensorial abilities and musical cr
 
 The course is designed to:
 
-• Develop musical skills, knowledge and understanding
-
-• Develop advanced skills of communicating, collaborating and expressing musical ideas and understanding
-
-• Develop an enduring understanding and appreciation of the diverse local and global musical cultures
-
-• Develop critical and creative thinking in music
-
-• Develop independent learners with inquiring and innovative minds through reflective practices in music
-
-• Provide the basis for an informed, life-long appreciation and active involvement in the arts
+* Develop musical skills, knowledge and understanding
+* Develop advanced skills of communicating, collaborating and expressing musical ideas and understanding
+* Develop an enduring understanding and appreciation of the diverse local and global musical cultures
+* Develop critical and creative thinking in music
+* Develop independent learners with inquiring and innovative minds through reflective practices in music
+* Provide the basis for an informed, life-long appreciation and active involvement in the arts
 
   
 
@@ -68,29 +61,23 @@ At ACJC, students will offer both H2 and H3 Music as we are a Music Elective Cen
 
   
 
-**Music Studies**&nbsp;(40% weightage): Paper 11 (9753/11) &amp; Paper 12 (9753/12)
-
+**Music Studies**&nbsp;(40% weightage): Paper 11 (9753/11) &amp; Paper 12 (9753/12) <br>
 This is a written paper, covering the following Areas of Study:
 
-• Chinese Solo Instrumental Music
-
-• Music of Traditional Malay Dances
-
-• Western Art Music: Symphonies in 1740-1825
-
-• Jazz Music in the Late 1950s-70s: Miles Davis, Herbie Hancock, John Coltrane
+* Chinese Solo Instrumental Music
+* Music of Traditional Malay Dances
+* Western Art Music: Symphonies in 1740-1825
+* Jazz Music in the Late 1950s-70s: Miles Davis, Herbie Hancock, John Coltrane
 
   
 
   
 
-**Creating**&nbsp;(30% weightage):&nbsp; Paper 2 (9753/2)
-
+**Creating**&nbsp;(30% weightage):&nbsp; Paper 2 (9753/2) <br>
 This coursework based paper consists of 2 parts:
 
-• Free Composition&nbsp;
-
-• Arrangement of a musical source of your choice
+* Free Composition&nbsp;
+* Arrangement of a musical source of your choice
 
   
 
@@ -100,13 +87,11 @@ Each part should be of about 3 to 5 minutes in length. Both parts may be of any 
 
   
 
-**Performing**&nbsp;(30% weightage):&nbsp; Paper 3 (9753/3)
-
+**Performing**&nbsp;(30% weightage):&nbsp; Paper 3 (9753/3) <br>
 This paper consists of 2 parts:
 
-• Viva Voce
-
-• Recital&nbsp;
+* Viva Voce
+* Recital&nbsp;
 
 The recital should be of a duration between 15-20 minutes, from any style and tradition, with at least 1 work that is composed or arranged in 1945 or later.
 
@@ -114,10 +99,8 @@ The recital should be of a duration between 15-20 minutes, from any style and tr
 
 The recital may either be a solo or a mixed recital programme. A mixed recital programme combines solo performance with one of the following options:
 
-\- Ensemble
-
-\- Accompaniment
-
+\- Ensemble <br>
+\- Accompaniment <br>
 \- Second solo instrument
 
 **H3 Music (9819)**  
@@ -128,18 +111,15 @@ For H3 Music, students conduct an individual Research project on a topic of thei
 
 There are 3 Areas of Study:
 
-• Music Analysis
-
-• Performance Practice
-
-• New Media and Technology
+* Music Analysis
+* Performance Practice
+* New Media and Technology
 
   
 
   
 
-**Examination syllabus**
-
+**Examination syllabus** <br>
 The examination syllabus for H2 and H3 Music will be released on the SEAB website in 2022.
 
   
