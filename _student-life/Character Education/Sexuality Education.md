@@ -134,3 +134,38 @@ For more information about Growing Years click&nbsp;[here](/parents/sexuality-ed
   
 
 **At Anglo-Chinese Junior College, the following programme will be implemented as follows:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Topics/Lessons</th>
+    <th class="tg-a4yv">Programme Learning Objectives</th>
+    <th class="tg-a4yv">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7yig">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-ktyi"><ul>
+<li>Awareness of the different STI and HIV</li>
+<li>Modes of transmission for STI and HIV</li>
+<li>Modes of protection against infection, specifically abstinence and the correct use of condom</li>
+<li>Consequences and impact of STI/HIV</li>
+<li>State the ways of managing the impact of STIs</li>
+</ul>
+</td>
+    <td class="tg-7yig">Term 3</td>
+  </tr>
+</tbody>
+</table>
+
