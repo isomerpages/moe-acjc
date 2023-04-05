@@ -4,8 +4,6 @@ permalink: /showcase/2020/santa-claus-origins/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> Santa Claus: Origins </center>
-
 Towards the end of 2019, ACSian Theatre produced Santa Claus: Origins, a theatrical adaptation of the book “The Life and Adventures of Santa Claus” written by L. Frank Baum. The play explored the life of Claus as he ventured through the world and encountered new people in his journey to become the iconic symbol of Christmas that many of us know and love today. It is a story set in a land of immortal beings and friendly faces, where unconditional love and support are given without hesitation. ACSian Theatre brought this humorous play to life, filling every scene with joy and, undoubtedly, endearing itself to the audience.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKtYZamEvVAZ6R4YU1KWMuMQUKLki1SASWriTgwZKUeiifnx4amVZNKaZUsXLSHyefPDVU5nZ-Cq7q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -25,10 +23,7 @@ We would also like to extend our deepest gratitude to Mrs Geetha Creffield, Ms M
 _To God Be The Glory, The Best Is Yet To Be!_
 
   
-Written by:
-
-Bryan Cheok (President)
-
-Isabella Goh (Vice-President Admin)
-
+Written by: <br>
+Bryan Cheok (President) <br>
+Isabella Goh (Vice-President Admin) <br>
 Josef Estoque (Vice-President Artistic)
