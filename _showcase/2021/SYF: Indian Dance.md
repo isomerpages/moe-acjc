@@ -4,9 +4,7 @@ permalink: /showcase/2021/syf-indian-dance/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> SYF: Indian Dance </center>
-
-#### Singapore Youth Festival Delight !
+<h5><font color="#BE2C34">Singapore Youth Festival Delight !</font></h5>
 
 ![](/images/IndianDance.jpeg)
 
