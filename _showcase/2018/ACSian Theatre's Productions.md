@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="![](/images/barrel%20of%20laughs%203.jpg)">  
   
 
 
