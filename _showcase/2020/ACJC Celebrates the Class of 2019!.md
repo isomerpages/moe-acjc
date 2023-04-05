@@ -4,8 +4,6 @@ permalink: /showcase/2020/acjc-celebrates-the-class-of-2019/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> ACJC Celebrates the Class of 2019! </center>
-
 On the 21st of February 2020, Anglo-Chinese Junior College (ACJC) received the GCE A-level results for the Class of 2019. Due to the ongoing COVID-19 situation, we took steps to decentralise the results collection process, having our alumni collect their results on a form class level. We trust that this was a meaningful experience for them
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8AJ6CUPWopC4jbGw2b5DNZF-z2kfc8kMssY53yOwkyqkDuSwsF_DiHGTFqGQwPq6YXBYSenqBpOwp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
