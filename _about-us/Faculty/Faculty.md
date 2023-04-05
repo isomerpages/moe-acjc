@@ -19,7 +19,7 @@ third_nav_title: Faculty
 »&nbsp;[Economics](/about-us/faculty/economics) <br>
 »&nbsp;[English Literature / Drama Elective Programme](/about-us/faculty/english-literature-drama-elective-programme) <br>
 »&nbsp;[Humanities](/about-us/faculty/humanities) <br>
-»&nbsp;[Art](https://acjc.moe.edu.sg/about-us/faculty/art) <br>
+»&nbsp;[Art](/about-us/faculty/art/) <br>
 »&nbsp;[Music Elective Programme](/about-us/faculty/music-elective-programme)
 
   
