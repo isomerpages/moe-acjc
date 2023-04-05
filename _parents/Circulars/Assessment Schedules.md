@@ -7,7 +7,7 @@ third_nav_title: Circulars
 **<u>JC1</u>**
 
   
-JC1 Assessment Schedule. Click&nbsp;[here](/files/JC1%20Assessment%20Schedule%202022.pdf)&nbsp;for download.  
+JC1 Assessment Schedule. Click&nbsp;[here](/files/2023%20jc1%20assessment%20schedule.pdf)&nbsp;for download.  
 
 
 JC1 Mid-Year Assessment Timetable and Instructions for Students. <font color="#A96324"><em>To be released at a later date.</em></font>
@@ -18,9 +18,9 @@ JC1 Promotional Examination Timetable. <font color="#A96324"><em>To be released 
 
   
 
-JC2 Assessment Schedule. Click&nbsp;[here](/files/JC2%20Assessment%20Schedule%202022.pdf)&nbsp;for download.
+JC2 Assessment Schedule. Click&nbsp;[here](/files/2023%20jc2%20assessment%20schedule.pdf)&nbsp;for download.
 
-JC2 Term Assessment Timetable. Click&nbsp;[here](/files/JC2%20Term%20Assessment%202022.pdf)&nbsp;for download.
+JC2 Term Assessment Timetable. Click&nbsp;[here](/files/2023%20j2%20ta%20schedule.pdf)&nbsp;for download.
 
   
 JC2 Mid-Year Assessment Timetable and Instructions for Students. <font color="#A96324"><em>To be released at a later date.</em></font>
