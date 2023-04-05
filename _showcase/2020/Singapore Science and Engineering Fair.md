@@ -4,8 +4,6 @@ permalink: /showcase/2020/singapore-science-n-engineering-fair/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> Singapore Science &amp; Engineering Fair </center>
-
 The final judging of Singapore Science &amp; Engineering Fair 2020 was held online from 9th March to 25th March. The SSEF 2020 is a national competition organised by the Ministry of Education (MOE), the Agency for Science, Technology and Research (A\*STAR) and the Science Centre Singapore for students to showcase their passion in research and communicate their findings to experts from the industry in two segments. In the first segment, finalists submitted a poster and an elevator pitch. The second segment required them to submit answers to the questions posed by the expert judges.
 
   
@@ -18,44 +16,36 @@ Our finalists are:
 
   
 
-Charlotte Jane Loy (2SA2) and Kenneth Au Jeng Guan (NYJC)
-
-**Precision Polymer Synthesis and Nanotechnology**
+Charlotte Jane Loy (2SA2) and Kenneth Au Jeng Guan (NYJC) <br>**Precision Polymer Synthesis and Nanotechnology**
 
   
 
-Chua Qian Yin Sarah (2SC1),&nbsp; &nbsp;Lim Jie Yi Rachel (2SC2) and&nbsp; Kayla Yong Enxin (VJC)
-
+Chua Qian Yin Sarah (2SC1),&nbsp; &nbsp;Lim Jie Yi Rachel (2SC2) and&nbsp; Kayla Yong Enxin (VJC)<br>
 **Understanding immune dysregulation to better characterise allergic diseases**
 
   
 
-Henry Lam Wing Ha (2SA1)
-
+Henry Lam Wing Ha (2SA1)<br>
 **Design of a Low-Cost Dielectric Lens for 5G Gain Enhancement**
 
   
 
-Lim Yong Quan (2SC7) and Xiao Liyang (2SC1)
-
+Lim Yong Quan (2SC7) and Xiao Liyang (2SC1) <br>
 **Computational Analysis of Cancer RNAseq Data for Presence of Circular RNA to Assist Early Detection of Multiple Myeloma**
 
   
 
-Chua Ming Wun, Joven (2SC5) and Matthew Loh (2SC2)
-
+Chua Ming Wun, Joven (2SC5) and Matthew Loh (2SC2) <br>
 **Effect of a high-fat diet on larval zebrafish behaviour**
 
   
 
-Su Xijia (2SA7)
-
+Su Xijia (2SA7) <br>
 **Solving Scarcity of Healthcare Resources with Big Data**
 
   
 
-Zheng Shun Ren (2SA2), Tong Yi Xuan, Simon (2SA6) and Chan Yong Kai (2SA2)
-
+Zheng Shun Ren (2SA2), Tong Yi Xuan, Simon (2SA6) and Chan Yong Kai (2SA2) <br>
 **Interfacial Engineering for High Efficient Perovskite Solar Cells**
 
   
