@@ -4,11 +4,18 @@ permalink: /showcase/2019/acjc-band-at-syf-2019/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> ACJC Band at SYF 2019 </center>
-
 The ACJC Concert Band is proud to announce our attainment of the Certificate of Distinction at the Singapore Youth Festival Arts Presentation held at the Singapore Conference Hall on 2nd May 2019.
 
-![](/images/syf_001.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/syf_001.jpeg">  
+  
+ 
 
 Having gone through intensive preparation for the festival, our members have developed both in musicianship and character under the baton of our beloved conductor, Mr Alvin Seville. The ACJC Concert Band is also immensely grateful to our school leaders, teachers, families and friends for their constant support and encouragement. We would also like to give thanks to God for bestowing upon us the gift of music and music-making, allowing the ACJC Concert Band to come thus far in our achievements and accolades.
 
