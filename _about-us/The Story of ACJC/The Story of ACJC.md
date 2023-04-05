@@ -45,17 +45,18 @@ Principals:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><img align="center" style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"></th>
-    <th class="tg-0lax"><img align="center" style="width:150px" src="/images/Dr%20Tan%20Sri%20Tan%20Chin%20Tuan%20laying%20the%20foundation%20stone.jpeg"></th>
+    <th class="tg-0lax"><img align="center" style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"><figcaption style="text-align:center;">OOO</figcaption></th>
+    <th class="tg-0lax"><img align="center" style="width:150px" src="/images/Dr%20Tan%20Sri%20Tan%20Chin%20Tuan%20laying%20the%20foundation%20stone.jpeg"><figcaption style="text-align:center;">OOO</figcaption></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img align="center" style="width:150px" src="/images/the%20sports%20complex%20opening%20ceremony%20in%201997.jpeg"></td>
-    <td class="tg-0lax"><img align="center" style="width:150px" src="/images/mrs%20kelvyna%20chan%20receiving%20the%20school%20excellence%20award%20with%20members%20of%20the%20acjc%20family%20in%202011.png"></td>
+    <td class="tg-0lax"><img align="center" style="width:150px" src="/images/the%20sports%20complex%20opening%20ceremony%20in%201997.jpeg"><figcaption style="text-align:center;">OOO</figcaption></td>
+    <td class="tg-0lax"><img align="center" style="width:150px" src="/images/mrs%20kelvyna%20chan%20receiving%20the%20school%20excellence%20award%20with%20members%20of%20the%20acjc%20family%20in%202011.png"><figcaption style="text-align:center;">OOO</figcaption></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-0lax"><img align="center" style="width:150px" src="/images/acjc%20principals%20at%20the%20acjc%20grace%20heritage%20gallery%20for%20founder_s%20day%202018.jpeg"></td>
+    <td colspan="2" class="tg-0lax"><img align="center" style="width:150px" src="/images/acjc%20principals%20at%20the%20acjc%20grace%20heritage%20gallery%20for%20founder_s%20day%202018.jpeg"><figcaption style="text-align:center;">ACJC Principals at the ACJC Grace Heritage Gallery for Founder's Day 2018.</figcaption></td>
   </tr>
 </tbody>
 </table>
+
