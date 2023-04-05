@@ -3,8 +3,6 @@ title: Links
 permalink: /about-us/links/
 description: ""
 ---
-## <center> Links </center>
-
 ### The ACS Family
 
 [ACSOBA](https://www.acsoba.net/)<br>
