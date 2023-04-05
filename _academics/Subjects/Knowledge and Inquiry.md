@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/knowledge-and-inquiry/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Knowledge and Inquiry </center>
-
 ### H2 KNOWLEDGE AND INQUIRY (SYLLABUS 9759)
 
 **Please Note: Knowledge and Inquiry will not be offered as a subject to the incoming cohort of 2022, for the 2023 GCE 'A'-Level Examination.**&nbsp;**The last year of examination for this subject will be in 2022.**
