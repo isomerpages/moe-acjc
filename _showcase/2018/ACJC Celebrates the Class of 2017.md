@@ -4,11 +4,17 @@ permalink: /showcase/2018/acjc-celebrates-the-class-of-2017/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> ACJC Celebrates the Class of 2017 </center>
-
-![](/images/Stage%201.jpeg)
-
-_<center>The Class of 2017, taking centre stage</center>_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/Stage%201.jpeg">  
+  
+  <br>
+<figcaption style="text-align:center;"><em>The Class of 2017, taking centre stage</em></figcaption>
 
 On the 23rd of February 2018, Anglo-Chinese Junior College (ACJC) received the GCE A-level results for the Class of 2017. The College is proud to announce that the Class of 2017 have achieved excellent results and set new benchmarks for their juniors in overall passes, distinctions and mean A-level points.
 
