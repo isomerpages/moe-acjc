@@ -17,7 +17,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/barrel%20of%20laughs%201.jpg)">  
+<img style="width:75%;" src="/images/barrel%20of%20laughs%201.jpg">  
   
 This year’s Barrel of Laughs continued the narrative of the (fictional) ACJC Drama Society and the discord amongst its members in deciding on a play to put up. This set the stage for conflict-induced repartee and comic delivery through stunts in a riveting play. Showcasing the theatre company’s strong alumni performance standard, the production displayed an array of modes of comedy, leaving audiences for both matinee and evening performances rolling in their seats with laughter. Through breaking the fourth wall, viewers of the production not only admired the comic stagework but were immersed in the play’s dramatic journey and spectacle.
 
@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/barrel%20of%20laughs%203.jpg)">  
+<img style="width:75%;" src="/images/barrel%20of%20laughs%203.jpg">  
   
 
 
@@ -41,14 +41,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/the%20tempest%202.jpg)">  
+<img style="width:75%;" src="/images/the%20tempest%202.jpg">  
   
 
 
 With a dedicated team of costumers, who created and maintained the vibrant garments, as well as crew members, who contributed toward stage ornamentation, The Tempest reached greater heights.
-  
-
-![The Tempest 4.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/The%20Tempest%204.jpg)
 
 <style>  
 img {  
@@ -57,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="LMAOOO">  
+<img style="width:75%;" src="/images/the%20tempest%204.jpg">  
   
 
 
