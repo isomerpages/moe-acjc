@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/boys%20pic%201.jpg)">  
+<img style="width:75%;" src="/images/boys%20pic%201.jpg">  
   
 There were many high points at this year’s amazing event. Samuel Tang performed brilliantly, shattering the record for the 100m Men’s Freestyle event and bagging the Gold for the Men’s 200m Freestyle event. Brandon Tan also did ACJC proud by bringing home the Gold medals in both the Men’s 100m Breaststroke and Men’s 200m Breaststroke events. Isaac Pang performed very well by coming in 3rd for the Men’s 100m Backstroke and 2nd for the Men’s 200m Backstroke events. In a tight and difficult challenge, Tristan Chua bagged two 4th place titles in both the Men’s 100m and 200m Butterfly events.
 
@@ -26,7 +26,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/girls%20pic%203.jpg)">  
+<img style="width:75%;" src="/images/girls%20pic%203.jpg">  
   
    
 
@@ -39,7 +39,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/relay%20pic%206.jpg)">  
+<img style="width:75%;" src="/images/relay%20pic%206.jpg">  
   
    
 
@@ -60,7 +60,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/team%20pic%208.jpg)">  
+<img style="width:75%;" src="/images/team%20pic%208.jpg">  
   
 The next season will be equally hard for us as we shift gears and move towards striving to do well academically. However, we know that with the values we have learnt from swimming and strong bonds that we have formed throughout the course of the year, we will yet again come together to challenge each other to achieve the best that we can.
 
@@ -71,7 +71,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/team%20pic%207.jpg)">  
+<img style="width:75%;" src="/images/team%20pic%207.jpg">  
   
  
 
