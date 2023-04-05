@@ -4,10 +4,6 @@ permalink: /student-life/academics/subjects/economics/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Economics </center>
-
-Please note- the syllabi on this page will be offered to the incoming JC1 cohort of 2022, for first year of examination in 2023. For the outgoing syllabus which will be examined at the 2022 GCE-'A' Levels, please click&nbsp;[here](https://acjc-moe-edu-sg-admin.cwp.sg/student-life/academics/subjects/economics/economics-outgoing-syllabus).
-
 ### ECONOMICS H1 (Syllabus 8843)  
 
 
@@ -65,9 +61,8 @@ The curriculum involves lectures, tutorials and projects in a progressive but ho
 
 H2 Economics is organised around three major themes which have been selected to structure the learning of students in a progressive manner. The selection of the themes emphasises the disciplinarity of economics. In addition, the three themes comprise fundamental economic concepts which allow students to have a deeper appreciation of economics. Students will examine economic phenomena, beginning with the individual and societal levels (microeconomic analysis), followed by the national level (macroeconomic analysis).  
   
-Theme 1 (The Central Economic Problem) highlights the Central Economic Problem of unlimited wants and limited resources as fundamental to the discipline. An overall framework for rational decision-making by consumers, producers and governments is also presented in Theme 1, linking the three themes across the syllabus.&nbsp; &nbsp;  
-Theme 2 (Markets) focusses on how firms and markets function. It allows students to examine how markets may fail in achieving efficient and equitable allocation of resources, and the role of the government in addressing these market issues.  
-Theme 3 (The National and International Economy) focusses on governments as economic agents. It provides an overview of the workings and linkages of the national and international economy. In addition, the impact of external trends and developments on the domestic economy.&nbsp;  
+Theme 1 (The Central Economic Problem) highlights the Central Economic Problem of unlimited wants and limited resources as fundamental to the discipline. An overall framework for rational decision-making by consumers, producers and governments is also presented in Theme 1, linking the three themes across the syllabus.&nbsp; &nbsp; <br>
+Theme 2 (Markets) focusses on how firms and markets function. It allows students to examine how markets may fail in achieving efficient and equitable allocation of resources, and the role of the government in addressing these market issues. <br>Theme 3 (The National and International Economy) focusses on governments as economic agents. It provides an overview of the workings and linkages of the national and international economy. In addition, the impact of external trends and developments on the domestic economy.&nbsp;  
   
 H2 Economics is assessed through 2 papers.  
   
@@ -79,9 +74,7 @@ Candidates will attempt 2 questions, each question will have 2-3 pages of extrac
 **Paper 2 (Essay)**  
 Candidates will attempt 3 essay questions, chosen from 6 options. The essay question will allow students to express their opinions, based on economic theory, and demonstrate their individual wealth of knowledge.
 
-[](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8865_y21_sy.pdf)
-
-The syllabus document may be accessed at this&nbsp;[link](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2020syllabus/9757_y20_sy.pdf).
+The syllabus document may be accessed at this&nbsp;[link](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sy.pdf).
 
 
 ### ECONOMICS H3 (Syllabus 9809)
@@ -124,20 +117,17 @@ Thus, it is expected that only students who possess the necessary deeper underst
 
   
 
-Theme 1: Rationality in Decision-Making&nbsp;
-
+Theme 1: Rationality in Decision-Making&nbsp; <br>
 This theme encourages a more thorough study of decision-making by economic agents, through examining in greater depth the idea of rationality and how behavioural economics affects decision-making.
 
   
 
-Theme 2: Firms, Strategies and Market Failure&nbsp;
-
+Theme 2: Firms, Strategies and Market Failure&nbsp; <br>
 Theme 2 looks at firms’ strategies and market failure with a microeconomic focus.&nbsp;
 
   
 
-Theme 3: Issues and strategies for sustainable development&nbsp;
-
+Theme 3: Issues and strategies for sustainable development&nbsp; <br>
 This theme examines economic development and its issues with a macroeconomic emphasis.
 
   
