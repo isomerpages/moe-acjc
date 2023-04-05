@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/computing/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> COMPUTING </center>
-
 ### H2 COMPUTING (SYLLABUS 9569)
 
 ##### Aims
@@ -48,4 +46,4 @@ The A Level Examination for H2 Computing comprises one 3 hour written paper with
 The syllabus may be accessed on the SEAB website at the following link:
 
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569\_y21\_sy.pdf](/files/9569_y21_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569_y21_sy.pdf)
