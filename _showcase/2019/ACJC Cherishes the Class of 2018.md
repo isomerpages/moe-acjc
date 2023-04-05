@@ -4,11 +4,18 @@ permalink: /showcase/2019/acjc-cherishes-the-class-of-2018/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> ACJC Cherishes the Class of 2018 </center>
-
 On the 22nd of February 2019, Anglo-Chinese Junior College (ACJC) received the GCE A-level results for the Class of 2018.
 
-![](/images/IMG_4342.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/IMG_4342.jpeg">  
+  
+
 
 In addition to the Integrity, Tenacity and Passion they displayed in their academics, the Class of 2018 served as exemplars of these ACSian values on the playing field, in performances, in clubs and societies, in academics, and in their service to others. As a College, we cherish each and every one of them, and in line with our ethos, we would like to showcase a few students, ACSian paragons one and all, who were outstanding role models during their time at the college.
 
