@@ -27,9 +27,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="LMAOOO">  
-  
-
+<img style="width:95%;" src="/images/ACJC%20Open%20House%202019.jpg">  
 
 For 2019, in the spirit of our theme the College imagined new possibilities for our Open House. While the Academic displays are usually located in the Hub, this year we held them in Lecture Theatre 3 right across from the CCA displays in the Hall, a clear image of the all-rounded ethos of ACJC with the academic programme hand in hand with the co-curricular programme. From a stunning photography display, or a stirring demonstration of sporting prowess, guests could walk right across to the carefully curated Academic display boards to learn about the rigorous programmes available at the College.  
 
