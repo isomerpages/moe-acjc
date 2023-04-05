@@ -198,7 +198,14 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 <tbody>
   <tr>
     <td class="tg-f4yw">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-ktyi">Awareness of the different STI and HIV<br>Modes of transmission for STI and HIV<br>Modes of protection against infection, specifically abstinence and the correct use of condom<br>Consequences and impact of STI/HIV<br>State the ways of managing the impact</td>
+    <td class="tg-ktyi"><ul>
+<li>Awareness of the different STI and HIV</li>
+<li>Modes of transmission for STI and HIV</li>
+<li>Modes of protection against infection, specifically abstinence and the correct use of condom</li>
+<li>Consequences and impact of STI/HIV</li>
+<li>State the ways of managing the impact of STIs</li>
+</ul>
+</td>
     <td class="tg-f4yw">Term 3</td>
   </tr>
 </tbody>
