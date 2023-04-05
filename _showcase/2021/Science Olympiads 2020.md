@@ -72,12 +72,8 @@ Olympiad.
 
 The College appreciates our Science tutors for their dedication in guiding and mentoring the teams:
 
-  
-
-Singapore Chemistry Olympiad – Mr Marcus Yip
-
-Singapore Physics Olympiad – Mrs Fabiola Soong
-
+Singapore Chemistry Olympiad – Mr Marcus Yip <br>
+Singapore Physics Olympiad – Mrs Fabiola Soong <br>
 Singapore Biology Olympiad – Ms Lam Kar Mun, Ms Amanda Tan, Ms Stephanie Tan and Mr Jackson Koh
 
 <br>
