@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/pixel%20labs.png">  
+<img style="width:60%;" src="/images/pixel%20labs.png">  
   
 
 
