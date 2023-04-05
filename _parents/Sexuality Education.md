@@ -45,92 +45,13 @@ The following lessons from the Sexuality Education Programme will be taught:
 
 ##### <center> JUNIOR COLLEGE 1 </center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">LESSONS</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD"> DURATION</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Lesson Objectives At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">TIME PERIOD</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">1</td>
-    <td class="tg-f4yw">(60 mins)</td>
-    <td class="tg-ktyi">navigate challenges in a dating relationship<br>identify early indications of a breakdown in a relationship<br><br>know when to seek help and who to turn to for support<br>appreciate that one can emerge stronger and be better prepared for future relationships<br>develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</td>
-    <td class="tg-f4yw">Term 3</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2</td>
-    <td class="tg-f4yw">(60 mins)</td>
-    <td class="tg-ktyi"><br>examine issues related to abstinence <br>explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>understand that in so doing, one makes responsible decisions for oneself and others, and accepts the consequences of doing so</td>
-    <td class="tg-f4yw">Term 3</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">3</td>
-    <td class="tg-f4yw">(60 mins)</td>
-    <td class="tg-ktyi"><br>examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br>understand that one has to make responsible decisions for both self and others<br>understand that sexual abstinence is the only way to remove any risks that come with casual sex<br>know how to support friends or others who may be pregnant or have STIs </td>
-    <td class="tg-f4yw">Term 3</td>
-  </tr>
-</tbody>
-</table>
+o
 
-### <center> JUNIOR COLLEGE 2 </center>
+##### <center> JUNIOR COLLEGE 2 </center>
 
 <center>“Love Matters (2nd Edition)” Teaching &amp; Learning resource package</center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">UNIT</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">LESSONS / DURATION</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Lesson Objectives At the end of the lesson, students will be able to:</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">TIME PERIOD</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">Lessons about Love (Part 7)</td>
-    <td class="tg-f4yw">4<br>(60 mins)</td>
-    <td class="tg-ktyi">identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship<br>appreciate that one can emerge stronger despite having gone through a breakup<br>explore beliefs about marriage<br>know the possible psychological impact on children experiencing parental separation or divorce<br>recognise the importance of having family support for a relationship<br>aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</td>
-    <td class="tg-f4yw">Term 2</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Lessons about Love (Part 7)</td>
-    <td class="tg-f4yw">5<br>(60 mins)</td>
-    <td class="tg-ktyi">recognise that personal decisions on how one displays own affections in public can affect others<br>discern the impact of new media on relationship building</td>
-    <td class="tg-f4yw">Term 2</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">NA</td>
-    <td class="tg-f4yw">6<br>(60 mins)</td>
-    <td class="tg-ktyi">This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</td>
-    <td class="tg-f4yw">Term 2</td>
-  </tr>
-</tbody>
-</table>
-
+o
 
 ### eTeens Programme:
 
@@ -166,7 +87,7 @@ The following lessons from the Sexuality Education Programme will be taught:
   <tr>
     <td class="tg-f4yw">Mass Talk by HPB appointed vendor</td>
     <td class="tg-ktyi">Awareness of the different STI and HIV<br>Modes of transmission for STI and HIV<br>Modes of protection against infection, specifically abstinence and the correct use of condom<br>Consequences and impact of STI/HIV<br>State the ways of managing the impact</td>
-    <td class="tg-f4yw">To be confirmed<br>(TBC)</td>
+    <td class="tg-f4yw">Term 3</td>
   </tr>
 </tbody>
 </table>
