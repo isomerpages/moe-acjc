@@ -4,8 +4,6 @@ permalink: /showcase/2019/national-softball-championship/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> National Softball Championship </center>
-
 From 12th to 30th April, the ACJC Softball Team competed in the National A Divisions. We are proud to announce that we have emerged as champions for the third successive year!
 
 This season would not have been victorious without hard work from the team and all our supporters. Without the patient guidance of our coach, Coach Elaine and the constant encouragement from our teachers-in-charge, Ms Liew and Mrs Tan, we would not have been able to fight our way to championship.
