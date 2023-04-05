@@ -8,6 +8,8 @@ ACSian Theatre’s Cinderella
 
 _“I never thought I could go...Everyone...Even my father...They thought I was a princess…”_
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQb_kYSY3J4-Jj1mdJcl1Ltqo53WbxyZRUcRfgWtxCrypRUD2Bli0oskxTgwuyzeEgrBfKyeu0xQ8AC/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
 On 25 and 26 November 2022, ACSian Theatre took to the stage at the Faith Centre for Performing Arts for the final time this year to present&nbsp;_Cinderella_. In an adaptation of the timeless fairy tale, the titular heroine is saved from a life of gruelling kitchen work through fairy magic, which transforms her into a beautiful princess for the nightly Royal Ball. However, the “charming” Prince Rufus turns out to be entitled and possessive, driving her back to the kitchens to find true love.
 
   
