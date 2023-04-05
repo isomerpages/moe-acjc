@@ -28,4 +28,6 @@ Libut Jaztynn Phoemela Barairo (2SC1)&nbsp;_(above)_&nbsp;together with her team
 
 Silver Awards:
 
-Liang Yusen (2SA5) and Lee Jia Qing (2SB2)&nbsp;_(right)_&nbsp;received the Silver Award for their project on “Future of Solar Energy: Global optimization of all Perovskite Tandem Solar Cells through Artificial Intelligence”
+Liang Yusen (2SA5) and Lee Jia Qing (2SB2)&nbsp;_(right)_&nbsp;received the Silver Award for their project on “Future of Solar Energy: Global optimization of all Perovskite Tandem Solar Cells through Artificial Intelligence” 
+
+<img src="/images/Receiving%20results%20from%20the%20form%20teachers.jpeg" style="width: 50%; margin-right:20px;" align="right">
