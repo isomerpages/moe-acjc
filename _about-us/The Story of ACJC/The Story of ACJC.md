@@ -35,14 +35,29 @@ Principals:
 *   Ms Beatrice Chong (2013-2017)
 *   Dr Shirleen Chee (2017-present)
 
-
-<img src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg" style="width:49%;float:left">
-
-
-<img src="/images/Dr%20Tan%20Sri%20Tan%20Chin%20Tuan%20laying%20the%20foundation%20stone.jpeg" style="width:49%;float:left">
 		
-<br clear="left">
-		 
-|  |  |  |
-| -------- | -------- | -------- |
-| The ACJC main gate in 1977     |      | Dr Tan Sri Tan Chin Tuan laying the foundation stone     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"></th>
+    <th class="tg-0lax"><img style="width:150px" src="/images/Dr%20Tan%20Sri%20Tan%20Chin%20Tuan%20laying%20the%20foundation%20stone.jpeg"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"></td>
+    <td class="tg-0lax"><img style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
