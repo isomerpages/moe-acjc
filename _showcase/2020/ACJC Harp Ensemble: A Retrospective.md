@@ -4,8 +4,6 @@ permalink: /showcase/2020/acjc-harp-ensemble-a-retrospective/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> ACJC Harp Ensemble: A Retrospective </center>
-
 The ACJC Harp Ensemble has been an active contributor to ACJCs vibrant performing arts scene since its inception in 2001. The addition of the Harp Ensemble to the vast repertoire of CCAs offered to students gave many a unique opportunity to learn an instrument that few have the opportunity to access, and the esteemed sponsors and supporters must be acknowledged and appreciated.
 
 The masterful tutelage of Ms Wong Kae Chee was key in guiding the students in the creation of divine melodies for their audiences, both within and outside the college. Her faithful service to the College is entirely commendable and an inspiration to all her students.
