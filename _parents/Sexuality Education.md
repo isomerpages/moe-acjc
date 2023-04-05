@@ -218,11 +218,11 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 
   
 
-9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](http://acjc.moe.edu.sg/qql/slot/u543/Parents/Annex%20A%20Sexuality%20Lessons%202022.pdf)**. The completed form is to be submitted by 30/03/2022.
+9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/annex%20a.pdf)**. The completed form is to be submitted by 24/03/2022.
 
   
 
-10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](https://acjc.moe.edu.sg/qql/slot/u543/Parents/Annex%20B%20ETeens%202022.pdf)**. The completed form is to be submitted by 30/03/2022.
+10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/annex%20b.pdf)**. The completed form is to be submitted by 24/03/2022.
 
   
 11\.  Parents can contact the school at 6775 0511 for discussion or to seek clarification about the school’s sexuality education programme.
