@@ -4,11 +4,18 @@ permalink: /showcase/2020/the-great-american-novel-literature-enrichment-with-th
 description: ""
 third_nav_title: "2020"
 ---
-## <center> The Great American Novel- Literature enrichment with the University of York </center>
 
-![](/images/Great_American_Novel_Literature.jpeg)
-
-_Dr Kingston-Reese addressing our JC2 Literature students_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/Great_American_Novel_Literature.jpeg">  
+  
+<br>  
+<figcaption style="text-align:center;"><em>Dr Kingston-Reese addressing our JC2 Literature students</em></figcaption> 
 
 The ACJC Literature department is proud to have developed an ongoing relationship with the Department of English and Related Literature at the University of York. This January we were honoured to have Dr Alexandra Kingston-Reese, Lecturer in Modern &amp; Contemporary Literature at York present a brief lecture on The Great American Novel. Dr Kingston-Reese also addressed questions about undergraduate education in the UK in general and at York in particular.
 
