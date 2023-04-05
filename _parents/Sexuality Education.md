@@ -41,7 +41,7 @@ You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)
 
 ### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2023:
 
-<center> Theme 3B from Module: Developing Healthy Relationships </center>
+The following lessons from the Sexuality Education Programme will be taught:
 
 ##### <center> JUNIOR COLLEGE 1 </center>
 
