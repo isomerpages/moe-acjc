@@ -20,10 +20,16 @@ The TLS feels extremely privileged to have been given a chance to take part in t
 
 This competition enabled ACJC TLS to uphold its core values, while strengthening and further developing our friendships with fellow Tamil speakers from the other Junior Colleges.
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="![](/images/img_1601.jpg)">  
   
-
-![IMG_1601.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/Surabi_Tamil%20Debate%202018/IMG_1601.jpg)
-
+ 
   
 
 We would like to thank Mdm Ramani Gopalan, Teacher-in- charge of the Tamil Language Society for her training, mentorship and encouragement throughout the competition. She has always been there for us. We would also like to thank all AC TLS Alumni for helping us through this three-month journey of preparation and for coming down to spar with us. We finally thank the school leaders for their neverending encouragement.
