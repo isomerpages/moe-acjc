@@ -4,8 +4,6 @@ permalink: /showcase/2018/beauty-and-the-beast/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> &nbsp;Beauty and the Beast </center>
-
 At the end of 2018, ACSian Theatre put up a production of Beauty &amp; The Beast very different from the Disney fairy tale we are all familiar with; grounded in a gritty and desolate land filled with magical characters and happenings, ACSian theatre managed to bring the original French fairy tale to life. The production had a certain mellow darkness to it, with a fair amount of anxiety creeping around the corners of every scene.
 
 ![](/images/bnb.jpeg)
