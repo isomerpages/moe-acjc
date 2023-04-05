@@ -3,8 +3,6 @@ title: Centre of Excellence
 permalink: /showcase/centre-of-excellence/
 description: ""
 ---
-## <center> Centre of Excellence </center>
-
 West Zone Centre of Excellence for Language Arts
 
 ![](/images/Excellence.jpeg)
