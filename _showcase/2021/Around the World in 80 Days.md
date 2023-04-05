@@ -4,8 +4,6 @@ permalink: /showcase/2021/around-the-world-in-80-days/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> Around the World in 80 Days </center>
-
 Travelling around the world is no small feat, let alone doing it within 80 days and with £20,000 at stake. On the 26th of November, ACSian Theatre told the story of a man confident, or, some might say, crazy enough to put this to the test! This lively stage adaptation of Jules Verne’s classic novel Around the World in Eighty Days follows the adventures of Mr. Phileas Fogg, his valet Passepartout, and the various friends and foes they meet along the way.&nbsp;
 
 A small socially-distanced audience of student and teachers accompanied the characters on their thrilling journeys on the main stage of ACJC’s Faith Centre for Performing Arts. The play explored how the seemingly dull and humdrum routine of Phileas Fogg in London was transformed into an unforgettable experience journeying by ship, train, railway, and an elephant. The actors skillfully juggled fast-paced farce, heart-warming romance and action-packed fight scenes that kept the audience on the edge of their seats.
