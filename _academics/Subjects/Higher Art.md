@@ -10,11 +10,7 @@ third_nav_title: Subjects
 
 Art at ACJC is a holistic and robust programme that nurtures artistic interest in every student and allows them to gain a deeper appreciation for the visual arts. We believe that each student is unique and therefore our programme is designed to stretch their potential by catering to a wide range of interests and abilities.
 
-  
-
 The Higher 1 (H1) Level Art syllabus is designed to provide opportunities for students at the pre-university level to broaden their engagement in the visual arts. Students offering the H1 Level Art syllabus will investigate artistic conventions and concepts through the study of artists and artworks. Visual literacy skills, such as perception of and response to visual images, as well as critical analysis of visual information, are also developed.
-
-  
 
 The aims of the syllabus are to:
 
@@ -28,7 +24,6 @@ The aims of the syllabus are to:
 
 We want our students to investigate artistic conventions and concepts through the Study of Visual Arts (S.O.V.A) research. S.O.V.A research emphasises the development of inquisitive and critical thinking skills. It equips students with art terminology and skills to respond more effectively to various artworks. These learning experiences inculcate in students a greater appreciation for the visual arts and its role in society.
 
-  
 A variety of teaching, learning and assessment modes are used:
 
 *   Content lectures and readings
@@ -45,7 +40,7 @@ This is a two-year course in which we aim to nurture visual literacy by taking a
 
 At the end of the two-year period students will sit for a 3 hour written paper. They are expected to respond to one question from each section A, B, C. There are thirty marks for each question (90 marks in total).
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8879\_y21\_sy.pdf](/files/8879_y21_sy.pdf)
+Click on&nbsp;[this link](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8879_y22_sy.pdf)&nbsp;to access the SEAB syllabus document for H1 Art.
 
 ### H2 ART (SYLLABUS 9750)
 
