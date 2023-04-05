@@ -23,7 +23,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Joseph%20Ben%20Max.jpeg">  
+<img style="width:90%;" src="/images/Joseph%20Ben%20Max.jpeg">  
   
   
 <figcaption style="text-align:center;"><em>From left to right, Joseph, Benjamin and Max</em></figcaption> 
@@ -45,7 +45,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Allan%20Ewan%20Eddrick%20Nguyen.jpeg">  
+<img style="width:90%;" src="/images/Allan%20Ewan%20Eddrick%20Nguyen.jpeg">  
   
   
 <figcaption style="text-align:center;"><em>From left to right, Allan, Ewan, Eddrick and Nguyen Truong Tung</em></figcaption> 
@@ -62,7 +62,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Marcus%20and%20Wilbert.jpeg">  
+<img style="width:90%;" src="/images/Marcus%20and%20Wilbert.jpeg">  
   
   
 <figcaption style="text-align:center;"><em>From left to right, Marcus and Wilbert</em></figcaption> 
@@ -88,7 +88,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Joseph%20and%20Yixun.jpeg">  
+<img style="width:90%;" src="/images/Joseph%20and%20Yixun.jpeg">  
   
   
 <figcaption style="text-align:center;"><em>From left to right, Joseph and Yixun</em></figcaption> 
@@ -111,7 +111,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="/images/Dylan%20Sean%20Wei%20Quan%20and%20Robert.jpeg">  
+<img style="width:90%;" src="/images/Dylan%20Sean%20Wei%20Quan%20and%20Robert.jpeg">  
   
   
 <figcaption style="text-align:center;"><em>From left to right, Dylan, Sean, Wei Quan and Robert</em></figcaption> 
@@ -133,10 +133,8 @@ The College appreciates our Science tutors for their dedication in guiding and m
 
   
 
-Singapore Chemistry Olympiad – Mr Quek Lin Ken and Mr Brandon Ang
-
-Singapore Physics Olympiad – Mrs Fabiola Soong
-
+Singapore Chemistry Olympiad – Mr Quek Lin Ken and Mr Brandon Ang <br>
+Singapore Physics Olympiad – Mrs Fabiola Soong <br>
 Singapore Biology Olympiad – Ms Eng Tze Hwee, Ms Sun Weiling, Ms Stephanie Tan and Ms Lee Sok Ee
 
 We are also thankful for the support of the School Leaders, form tutors, subject tutors and CCA teachers of the Olympiad participants.
