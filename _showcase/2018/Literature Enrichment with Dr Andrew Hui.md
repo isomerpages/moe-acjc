@@ -4,8 +4,6 @@ permalink: /showcase/2018/literature-enrichment-with-dr-andrew-hui/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> Literature Enrichment with Dr Andrew Hui </center>
-
 On Friday 18 May, the ACJC Literature department were honoured to welcome a guest lecturer, Dr Andrew Hui, Assistant Professor of Literature at Yale-NUS College. Dr Hui, who specialises in the Classical tradition in European Renaissance culture, addressed the Humanities class, 2AH, on&nbsp;_The Tempest: Between Antiquity and Modernity_.
 
   
