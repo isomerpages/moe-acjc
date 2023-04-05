@@ -4,8 +4,6 @@ permalink: /showcase/2018/2018-commonwealth-essay-competition/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> 2018 Commonwealth Essay Competition </center> 
-
 Earlier this year, a number of our students participated in the Queen’s Commonwealth Essay Competition. This is the world’s oldest schools’ international writing competition, managed by The Royal Commonwealth Society since 1883. Every year, it offers all Commonwealth youth aged 18 and under the opportunity to express through the written word their hopes for the future, opinions of the present, and thoughts on the past. In 2018, 12,000 young people from across the Commonwealth entered the Competition.
 
   
