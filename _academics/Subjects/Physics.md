@@ -107,8 +107,7 @@ H1 Physics provides students with a thorough understanding of the main principle
 
   
 
-The syllabus document may be accessed at the following link:
-
+The syllabus document may be accessed at the following link: <br>
 [8867_y23_sy.pdf](/files/8867_y23_sy.pdf)
 
 
@@ -125,8 +124,7 @@ H2 Physics provides students with a thorough understanding of the main principle
 
   
 
-The syllabus document may be accessed at the following link:
-
+The syllabus document may be accessed at the following link: <br>
 [9749_y23_sy.pdf](/files/9749_y23_sy.pdf)
 
   
@@ -142,6 +140,5 @@ H3 Physics provides students with a thorough understanding of the main principle
 
   
 
-The syllabus document may be accessed at the following link:
-
+The syllabus document may be accessed at the following link: <br>
 [9814_y23_sy.pdf](/files/9814_y23_sy.pdf)
