@@ -27,10 +27,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/img_1601.jpg)">  
-  
- 
-  
+<img style="width:75%;" src="/images/img_1601.jpg">  
 
 We would like to thank Mdm Ramani Gopalan, Teacher-in- charge of the Tamil Language Society for her training, mentorship and encouragement throughout the competition. She has always been there for us. We would also like to thank all AC TLS Alumni for helping us through this three-month journey of preparation and for coming down to spar with us. We finally thank the school leaders for their neverending encouragement.
 
