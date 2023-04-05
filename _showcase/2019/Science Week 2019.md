@@ -51,7 +51,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:80%;" alt="LMAOOO" src="LMAOOO">  
+<img style="width:80%;" src="![](/images/jc1%20physics.jpg)">  
   
   
 <figcaption style="text-align:center;"><em>JC1 Physics – “Shooting the Monkey” &amp; JC2 Physics – “Cloud Chamber”</em></figcaption>
