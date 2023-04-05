@@ -139,26 +139,26 @@ The following lessons from the Sexuality Education Programme will be taught:
     <td class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’</td>
     <td class="tg-7yig">Why is Voyeurism Wrong?<br>(60 mins)</td>
     <td class="tg-ktyi">Is voyeurism wrong? Why?<br><br>Students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. They will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right.<span style="background-color:initial"> </span></td>
-    <td class="tg-ktyi"><ul>
+    <td style="border: 1px solid grey" class="tg-ktyi"><ul>
 <li>examine the relationship between rights and responsibilities by exploring societal expectations, the laws and the legal consequences of inappropriate sexual behaviour</li>
 <li>examine what makes voyeurism wrong</li>
 <li>learn the importance of the law as signposts for desired behaviours and conduct in society</li>
 <li>learn the importance of one’s moral compass in responsible decision-making and choosing to do what is right</li>
 </ul>
 </td>
-    <td class="tg-9hzb">Term 2</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
   </tr>
   <tr>
-    <td class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’<br></td>
-    <td class="tg-7yig">Overcoming Stereotypes<br>(60 mins)</td>
-    <td class="tg-ktyi">How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?<br><br>This lesson will help students recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in)<span style="background-color:initial">.</span></td>
-    <td class="tg-ktyi"><ul>
+    <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig">Overcoming Stereotypes<br>(60 mins)</td>
+    <td style="border: 1px solid grey" class="tg-ktyi">How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?<br><br>This lesson will help students recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in)<span style="background-color:initial">.</span></td>
+    <td style="border: 1px solid grey" class="tg-ktyi"><ul>
 <li>recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships</li>
 <li>understand how societal influences can skew one’s understanding of gender stereotypes</li>
 <li>learn how gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in) can affect interactions and relationships in ways that are harmful to themselves and others</li>
 </ul>
 </td>
-    <td class="tg-9hzb">Term 2</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
   </tr>
 </tbody>
 </table>
@@ -187,18 +187,18 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid grey" class="tg">
 <thead>
   <tr>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Topics/Lessons</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Programme Learning Objectives</span></th>
-    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Time Period</span></th>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Topics/Lessons</span></th>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Programme Learning Objectives</span></th>
+    <th style="border: 1px solid grey" class="tg-feqv"><span style="color:#666;background-color:#DDD">Time Period</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f4yw">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-ktyi"><ul>
+    <td style="border: 1px solid grey" class="tg-f4yw">Mass Talk by HPB appointed vendor</td>
+    <td style="border: 1px solid grey" class="tg-ktyi"><ul>
 <li>Awareness of the different STI and HIV</li>
 <li>Modes of transmission for STI and HIV</li>
 <li>Modes of protection against infection, specifically abstinence and the correct use of condom</li>
