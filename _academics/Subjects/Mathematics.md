@@ -109,7 +109,6 @@ The teaching programme is designed to enable students to:
 *   acquire advanced problems-solving skills and methods of proof by learning useful mathematical results and techniques to solve non-routine problems and prove statements;
 *   develop rigour in mathematical argument and precision in the use of mathematical language through the writing and evaluation of mathematical proofs and solutions;
 *   experience and appreciate the practice, value and rigour of mathematics as a discipline.
-*     
     
 
 ##### Approach
