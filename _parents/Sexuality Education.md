@@ -230,4 +230,3 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
   
 
 12\.  Parents, who wish to attend the school sexuality lessons, should also contact the school to make the necessary arrangement.
-
