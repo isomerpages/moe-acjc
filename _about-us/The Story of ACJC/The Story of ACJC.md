@@ -51,11 +51,11 @@ Principals:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img style="width:150px" src="![](/images/the%20sports%20complex%20opening%20ceremony%20in%201997.jpeg)"></td>
-    <td class="tg-0lax"><img style="width:150px" src="![](/images/acjc%20principals%20at%20the%20acjc%20grace%20heritage%20gallery%20for%20founder_s%20day%202018.jpeg)"></td>
+    <td class="tg-0lax"><img style="width:150px" src="/images/the%20sports%20complex%20opening%20ceremony%20in%201997.jpeg"></td>
+    <td class="tg-0lax"><img style="width:150px" src="/images/mrs%20kelvyna%20chan%20receiving%20the%20school%20excellence%20award%20with%20members%20of%20the%20acjc%20family%20in%202011.png"></td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-0lax"><img style="width:150px" src="![](/images/mrs%20kelvyna%20chan%20receiving%20the%20school%20excellence%20award%20with%20members%20of%20the%20acjc%20family%20in%202011.png)"></td>
+    <td colspan="2" class="tg-0lax"><img style="width:150px" src="/images/acjc%20principals%20at%20the%20acjc%20grace%20heritage%20gallery%20for%20founder_s%20day%202018.jpeg"></td>
   </tr>
 </tbody>
 </table>
