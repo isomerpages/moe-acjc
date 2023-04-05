@@ -3,11 +3,6 @@ title: Principal's Message
 permalink: /about-us/principal-s-message/
 description: ""
 ---
-## <center> Principal’s Message </center>
-
-<br>
-
-
 **A College of Choice and Distinction**
 
 Education in the 21st&nbsp;century demands depth of knowledge and breadth of skills.&nbsp; Anglo-Chinese Junior College (ACJC) is a college of choice and distinction that allows students to pursue their interests while experiencing an all-rounded education that prepares them well to take their place of pride in society.
