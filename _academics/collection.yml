@@ -5,6 +5,7 @@ collections:
       - Academics.md
       - Subjects/.keep
       - Subjects/Subjects.md
+      - Subjects/Higher Art.md
       - Subjects/Biology.md
       - Subjects/Chemistry.md
       - Subjects/China Studies in English.md
@@ -13,7 +14,6 @@ collections:
       - Subjects/English Language and Linguistics.md
       - Subjects/General Paper.md
       - Subjects/Geography.md
-      - Subjects/Higher Art.md
       - Subjects/History.md
       - Subjects/Knowledge and Inquiry.md
       - Subjects/Literature in English.md
