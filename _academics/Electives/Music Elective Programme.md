@@ -4,7 +4,16 @@ permalink: /student-life/academics/electives/music-elective-programme/
 description: ""
 third_nav_title: Electives
 ---
-![](/images/Music%20Elective%20Programme.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="/images/Music%20Elective%20Programme.jpeg">  
+  
+
 
 Started in 1997, ACJCs Music Elective Programme (MEP) aims to develop students’ musical creativity and critical thinking skills. During the course of study, students have the opportunity to discuss music-related issues and analyse music, as well as engage in creative musical collaborations such as group improvisation and instrumental ensemble
 
