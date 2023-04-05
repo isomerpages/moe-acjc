@@ -4,12 +4,10 @@ permalink: /student-life/academics/subjects/general-paper-8881-j1-2023/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> General Paper </center>
+### H1 GENERAL PAPER (SYLLABUS 8881)
 
-### H1 GENERAL PAPER (SYLLABUS 8807)
-
-
-General Paper (GP) is a compulsory H1 level subject. Only students who take Knowledge and Inquiry are exempted from GP.  
+  
+General Paper (GP) is a compulsory H1 level subject. The new syllabus 8881 begins&nbsp;in 2023 with the JC1 cohort taking the GCE ‘A’ Level Exam, Syllabus 8881 in 2024.
 
   
 
@@ -17,63 +15,74 @@ General Paper (GP) is a compulsory H1 level subject. Only students who take Know
 
   
 
-The syllabus aims to enable candidates to achieve the following outcomes:
+The syllabus aims to enable students to achieve the following outcomes:
 
-*   Understand better the world in which they live by fostering a critical awareness of continuity and change in the human experience.
-*   Appreciate the interrelationship of ideas across disciplines.
-*   Broaden their global outlook while enabling them to remain mindful of shared historical, social and cultural experiences both within Singapore and regionally.
-*   Develop maturity of thought and apply critical reading and creative thinking skills.
-*   Develop the skills of clear, accurate and effective communication.
-*   Develop the skills of evaluation of arguments and opinions.
-*   Promote extensive and independent reading and research.
+• Understand better the world and themselves by fostering a critical awareness of&nbsp;continuity and change in the human experience
+
+• Broaden their global outlook and deepen their understanding of local issues as&nbsp;well as how issues of regional and global importance relate to Singapore
+
+• Appreciate the interrelationship of ideas across time, space and disciplines
+
+• Develop critical and inventive thinking skills
+
+• Develop critical reading skills and engage in independent research; and
+
+• Develop the skills of communicating clearly, accurately and effectively using the&nbsp;English language.
 
   
 
 ##### Assessment
 
-  
-
-Students are tested on two papers which are taken at separate sittings within the same day.
-
-Paper 1 Essay (1h 30min) – Paper 1 comprises 12 questions on issues drawn from across disciplines and of local interest and global concern. Students are to answer only one question.
+Students are tested on two papers which are taken at separate sittings within the&nbsp;same day.
 
   
 
-Paper 2 Comprehension (1h 30min) – Paper 2 comprises one or two text passages. There will be a range of questions on the text(s), requiring students to demonstrate their ability to comprehend, explain, infer, evaluate and summarise. The application question requires students to respond to a task derived from the text(s), based on their understanding and interpretation of the text(s) as a whole.
+**Paper 1 Essay 8881/01 (1h 30min)** <br>
+Paper 1 comprises 8 questions, of which students will answer 1 question in&nbsp; and essay of 500 to&nbsp;800 words. Students will examine issues of local, regional and global significance,&nbsp;drawing on current affairs as well as general knowledge related to:
+
+*   Society and culture
+*   Economics
+*   Politics
+*   The Arts and Humanities
+*   Science and Technology
+*   The Environment
+
+  
+
+**Paper 2 Comprehension 8881/02 (1h 30min)** <br>
+Paper 2 comprises 3 different passages that allow for comparative analysis. There&nbsp;are a total of 8 or 9 questions which cover:
+
+*   Literal comprehension, inference, analysis, evaluation and synthesis of ideas
+*   Summary
+*   Connections of ideas across 2 passages
+*   Application based on a theme related to the reading passages
 
   
 
 ##### Approach
 
-  
+• All classes take the form of tutorials in which students are expected to participate&nbsp;actively.
 
-*   All classes take the form of tutorials in which students are expected to participate actively.
-*   Classroom activities include group discussion, research assignments, class presentations, etc. There is frequent use of videos, online and ICT resources by teachers to stimulate learning.
-*   Specially selected resources and customised lessons are uploaded on ICT platforms, such as SLS and Google Classroom, to promote independent learning. Online lessons are also conducted using platforms such as Google Meet or Zoom.
-*   There are enrichment lectures to broaden students’ content knowledge and analyse and evaluate current issues.
-*   Written assignments are set on a regular basis by class teachers, while tests and exams are conducted at the college level.
-*   There is a focus on specific themes every term, and reading packages are prepared for students to guide them in their reading. These packages contain articles relevant to the themes, mind maps, essential questions, essay questions, vocabulary, historical timeline, and cultural literacy. Students are required to show understanding of the content in these packages in a variety of ways, including mind maps, summarised notes, etc.
-*   A GP Skills Package is prepared to equip students with the relevant language, research, thinking and writing skills to handle both Paper 1 and Paper 2.
-*   Consultations and remedial lessons are conducted to meet the needs of individual students.
-*   To encourage students to read widely and independently, students are encouraged to subscribe to TIME or The Economist at the start of JC1.
-*   Students are encouraged, with guidance provided by teachers, to participate in essay competitions, seminars, and quizzes that are organised by external organisations.
+• Classroom activities include group discussion, research assignments, class&nbsp;presentations, etc. There is frequent use of videos, online and ICT resources by&nbsp;teachers to stimulate learning.
 
-  
+• Specially selected resources and customised lessons are uploaded on ICT&nbsp;platforms, such as SLS and Google Classroom, to promote independent learning.&nbsp;Online lessons are also conducted using platforms such as Google Meet or&nbsp;Zoom.
 
-##### Programme
+• There are enrichment lectures to broaden students’ content knowledge and to&nbsp;enable them to analyse and evaluate current issues.
 
-  
+• Written assignments are set on a regular basis by class teachers, while tests and&nbsp;exams are conducted at the College level.
 
-Students are tested on two papers which are taken at separate sittings within the same day.
+• There is a focus on specific themes every term, and reading packages are&nbsp;prepared for students to guide them in their reading and research. These&nbsp;packages contain articles relevant to the themes, mind maps, essential
 
-Paper 1 Essay (1h 30min) – Paper 1 comprises 12 questions on issues drawn from across disciplines and of local interest and global concern. Students are to answer only one question.
+questions, essay questions, vocabulary, historical timelines, and cultural literacy materials.&nbsp;Students are required to show understanding of the content in these packages in&nbsp;a variety of ways, including mind maps, summarised notes, etc.
 
-  
+• A GP Skills Package is prepared to equip students with the relevant language,&nbsp;research, thinking, and writing skills to handle both Paper 1 and Paper 2.
 
-Paper 2 Comprehension (1h 30min) – Paper 2 comprises one or two text passages. There will be a range of questions on the text(s), requiring students to demonstrate their ability to comprehend, explain, infer, evaluate and summarise. The application question requires students to respond to a task derived from the text(s), based on their understanding and interpretation of the text(s) as a whole.
+• Consultations and remedial lessons are conducted to meet the needs of&nbsp;individual students.
+
+• To encourage students to read widely and independently, students are&nbsp;encouraged to subscribe to&nbsp;_TIME_&nbsp;or&nbsp;_The Economist_&nbsp;at the start of JC1.
+
+• Students are encouraged, with guidance provided by teachers, to participate in&nbsp;essay competitions, seminars, and quizzes that are organised by external&nbsp;organisations.
 
   
 
-The SEAB syllabus document can be found here:
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2020syllabus/8807\_y20\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2020syllabus/8807_y20_sy.pdf)
+The official syllabus document will be linked here&nbsp;once it is made available by SEAB.
