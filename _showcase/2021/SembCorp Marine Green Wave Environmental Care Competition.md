@@ -4,8 +4,6 @@ permalink: /showcase/2021/sembcorp-marine-green-wave-environmental-care-competit
 description: ""
 third_nav_title: "2021"
 ---
-## <center> SembCorp Marine Green Wave Environmental Care Competition </center>
-
 The Green Wave Environmental Care Competition 2021/2021 is organised by Sembcorp Marine which aims to care for, protect and build our environment through innovative solutions and ideas.&nbsp;
 
   
