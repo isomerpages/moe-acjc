@@ -4,8 +4,6 @@ permalink: /showcase/2018/orators-trophy-2018/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> Orator's Trophy 2018 </center>
-
 Orator’s Trophy 2018, organised by Anglo-Chinese Junior College’s Debate and Oratorical Society, proved to be an immense success with judges and spectators awed by the phenomenal quality of the speeches delivered by speakers of all age groups. This year, Orator’s Trophy attracted a record-breaking number of participants in light of the launch of the new Pre-University League alongside the existing Junior and Senior Leagues, which drew in a sizeable pool of speakers who added colour and diversity to the competition with their oratorical flair.
 
   
