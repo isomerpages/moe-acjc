@@ -31,7 +31,7 @@ Students are not permitted to play for an external club or represent any externa
 	[Technology Council](/e-open-house/cca-showcase/clubs-and-societies/technology-council)  <br>
 	[Uniformed Youth Organisations](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
 
-  
+<br>
 
 *   **Performing Arts**
 
@@ -42,7 +42,7 @@ Students are not permitted to play for an external club or represent any externa
 	[Guitar Ensemble](/e-open-house/cca-showcase/performing-arts/guitar-ensemble)  <br>
 	[String Ensemble](/e-open-house/cca-showcase/performing-arts/string-ensemble)
 
-  
+<br>
 
 *   **Services**
 
@@ -52,7 +52,7 @@ Students are not permitted to play for an external club or represent any externa
 	[Photographic Society](/e-open-house/cca-showcase/services/photograhpic-society)  <br>
 	[Students’ Council](/e-open-house/cca-showcase/services/students-council)  
 
-  
+<br> 
 
 *   **Sports**
 
