@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/photo1.jpg)">  
+<img style="width:75%;" src="/images/photo1.jpg">  
   
   
 <figcaption style="text-align:center;"><em>Youth Corps Singapore presenting at a concurrent learning session</em></figcaption> 
@@ -28,7 +28,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/photo2.jpg)">  
+<img style="width:75%;" src="/images/photo2.jpg">  
   
   
 <figcaption style="text-align:center;"><em>Wildlife Reserves Singapore engaging students with their endangered animal exhibits</em></figcaption>   
@@ -42,7 +42,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/photo3.jpg)">  
+<img style="width:75%;" src="/images/photo3.jpg">  
   
   
 <figcaption style="text-align:center;"><em>ACJC Alumnae Yong Yong Qing and Ayn Chuan sharing about the Matchsticks of IMH</em></figcaption>   
@@ -56,7 +56,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/photo4.jpg)">  
+<img style="width:75%;" src="/images/photo4.jpg">  
   
   
 <figcaption style="text-align:center;"><em>Mr Dominic Theseira sharing about the Ulu Pandan Community Sports Club</em></figcaption> 
