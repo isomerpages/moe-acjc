@@ -74,7 +74,5 @@ Students are tested on three papers, two of which are taken on different days du
 Paper 3 accounts for 40% of the ‘A’ Level Grade, while Paper 1 and 2 each account for 30%.
 
   
-
-The syllabus may be accessed at the following link
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9759\_y21\_sy\_SchoolCandidates.pdf](/files/9759_y21_sy_schoolcandidates.pdf)
+The syllabus may be accessed at the following link <br>
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9759\_y21\_sy\_SchoolCandidates.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9759_y21_sy_SchoolCandidates.pdf)
