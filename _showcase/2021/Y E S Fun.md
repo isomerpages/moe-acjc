@@ -4,8 +4,6 @@ permalink: /showcase/2021/y-e-s-fun/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> Y.E.S. Fun </center>
-
 Year-End Science (Y.E.S.) Fun 2021
 
   
@@ -22,7 +20,16 @@ _gACstronomic workshops_
 
 Staff and students also had the opportunity to take an exclusive in-person learning journey to Insect Feed Technologies, and discovered how this enterprise contributes to sustainable living by farming Black Soldier Flies.
 
-![](/images/Pictures%20of%20Black%20Soldier%20Fly%20visit.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:90%;" src="/images/Pictures%20of%20Black%20Soldier%20Fly%20visit.jpeg">  
+  
+  
 
 _Visiting&nbsp;Insect Feed Technologies_
 
