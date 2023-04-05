@@ -4,8 +4,6 @@ permalink: /showcase/2021/acsian-theatre-presents-charlie-n-the-chocolate-factor
 description: ""
 third_nav_title: "2021"
 ---
-## <center> ACSian Theatre presents Charlie &amp; the Chocolate Factory </center>
-
 On the 24th of July 2021, ACSian Theatre held a dramatised script reading session as part of ‘Read! Fest - Read for Books’, a charity book drive organised by the National Library Board (NLB). This Values-In-Action activity was conducted with an online zoom reading of ‘Charlie and the Chocolate Factory’, a stage adaptation of Roald Dahl’s classic children’s novel.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWU4jMn0XgLcZVtzBEMR9MQMlmEHCWTa7nBgDu38yU4cNQGDoj45faTOfInko5VcBP_C8pSo8cdtPa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
