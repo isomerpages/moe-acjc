@@ -41,6 +41,6 @@ HECG Resources for ACJC students
 Overseas university applications
 
 The briefing slides for the UCAS 2022 application cycle can be downloaded here:  
-[UCAS 2022.pdf](https://acjc.moe.edu.sg/qql/slot/u543/Students/HECG/UCAS%202022.pdf)  
+[UCAS 2022.pdf](/files/ucas%202022.pdf)
   
 The briefing materials for the US Common Application 2021 can be downloaded here: [Common App 2020-2021 briefing.pdf](https://acjc.moe.edu.sg/qql/slot/u543/Students/HECG/Briefing%202020/Common%20App%202020-2021%20briefing.pdf)
