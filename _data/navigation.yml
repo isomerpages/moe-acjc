@@ -7,6 +7,10 @@ links:
     sublinks:
       - title: Academics
         url: /student-life/academics
+      - title: Character Education
+        url: /student-life/character-education/
+      - title: Co-Curricular Activities
+        url: /student-life/co-curricular-activities/
   - title: Showcase
     collection: showcase
   - title: Events
