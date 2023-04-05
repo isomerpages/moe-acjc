@@ -68,10 +68,8 @@ The college sincerely appreciates our science tutors for their dedication in gui
 
   
 
-Singapore Chemistry Olympiad – Mr Marcus Yip
-
-Singapore Physics Olympiad – Mr Yap Kian Wee &amp; Mrs Fabiola Soong
-
+Singapore Chemistry Olympiad – Mr Marcus Yip <br>
+Singapore Physics Olympiad – Mr Yap Kian Wee &amp; Mrs Fabiola Soong <br>
 Singapore Young Physicists’ Tournament – Mr Jeremy Tay, Mr Koo Guowen and Mr Chang Kok Keong
 
   
