@@ -4,8 +4,6 @@ permalink: /showcase/2020/orators-trophy-2020/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> Orator's Trophy 2020 </center>
-
 This year, the ACJC Debate club hosted the annual Orator’s Trophy, aimed at providing a platform for budding orators to hone their oratorical and speech abilities. A revamped online competition format was adopted to overcome the challenges and restrictions as a result of COVID-19. We would like to take this opportunity to applaud the tenacity of all 97 participants who bravely took on the new competition format.
 
   
