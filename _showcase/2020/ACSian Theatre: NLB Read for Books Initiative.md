@@ -4,8 +4,6 @@ permalink: /showcase/2020/acsian-theatre-nlb-read-for-books-initiative/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> ACSian Theatre: NLB Read for Books Initiative </center>
-
 On 23 July 2020, ACSian Theatre members joined forces over Zoom to record a dramatic reading of Fantastic Mr Fox by Roald Dahl. We worked in collaboration with the National Library Board’s initiative “Read for Books”, a charity book drive which aims to raise awareness of reading and to share the gift of reading with the library’s selected beneficiaries.
 
 Although we could not come together to rehearse in person, we made the most of the situation. Making animal headpieces for a more immersive experience, we met on Zoom to rehearse and perform a dramatic reading of Mr Fox’s fantastic plans.
