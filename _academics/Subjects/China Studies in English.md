@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/china-studies-in-english/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> China Studies in English </center>
-
 ### H1 CHINA STUDIES IN ENGLISH (SYLLABUS 8628)
 
   
@@ -42,4 +40,4 @@ The assessment for H1 China Studies consists of one written examination paper wi
 
 The syllabus may be accessed from the SEAB website at the following link
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8628\_y21\_sy.pdf](/files/8628_y21_sy.pdf)
+The syllabus is accessible [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9628_y24_sy.pdf).
