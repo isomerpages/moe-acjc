@@ -4,8 +4,6 @@ permalink: /showcase/2019/international-coastal-cleanup-initiative/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> &nbsp;International Coastal Cleanup Initiative </center>
-
 On the 19th of October, 36 students and 5 teachers from our college went to the Chek Jawa Wetlands for a VIA project. This effort is part of the International Coastal Cleanup Singapore (ICCS) initiative and aims to clear up rubbish polluting our coastal areas. After 2 hours of cleaning a stretch of mangrove area, our students collected 1106 items of rubbish in 20 bags, amounting to 300kg!
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmkF8JyvxIW4AUS8fIp-HsyomkD2S1p5NMQME62Lkjmu1Jp3YsREt14jqHEMXNxjwd9HvfCy-RVKAB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
