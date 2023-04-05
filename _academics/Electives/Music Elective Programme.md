@@ -4,25 +4,20 @@ permalink: /student-life/academics/electives/music-elective-programme/
 description: ""
 third_nav_title: Electives
 ---
-## <center> Music Elective Programme </center>
-
 ![](/images/Music%20Elective%20Programme.jpeg)
 
 Started in 1997, ACJCs Music Elective Programme (MEP) aims to develop students’ musical creativity and critical thinking skills. During the course of study, students have the opportunity to discuss music-related issues and analyse music, as well as engage in creative musical collaborations such as group improvisation and instrumental ensemble
 
 Students will be able to:
 
-• Hone and express personal musical interests and strengths
-
-• Develop critical thinking skills
-
-• Conduct independent exploration in areas of interest
-
-• Appreciate Singapore’s cultural heritage and traditions
-
-• Develop as leaders in the music scene and as advocates for the Arts
+* Hone and express personal musical interests and strengths
+* Develop critical thinking skills
+* Conduct independent exploration in areas of interest
+* Appreciate Singapore’s cultural heritage and traditions
+* Develop as leaders in the music scene and as advocates for the Arts
 
 **Life as an MEP student at ACJC**
+
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/AEiBrC7H_RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 **Facilities**<br>
