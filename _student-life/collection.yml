@@ -2,13 +2,13 @@ collections:
   student-life:
     output: true
     order:
+      - Character Education/.keep
+      - Character Education/Character Education.md
       - Character Education/Active Citizenry.md
       - Character Education/Higher Education and Career Guidance.md
       - Character Education/Student Leadership.md
       - Character Education/Pastoral Care and Counselling.md
       - Character Education/Sexuality Education.md
-      - Character Education/Character Education.md
-      - Character Education/.keep
       - Co Curricular Activities.md
       - Financial Assistance.md
       - College Rules and Regulations.md
