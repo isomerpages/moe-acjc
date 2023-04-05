@@ -50,14 +50,26 @@ The following lessons from the Sexuality Education Programme will be taught:
     <td class="tg-7yig">Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</td>
     <td class="tg-7yig">If Not Now When (Part 1)<br>(60 mins)</td>
     <td class="tg-ktyi">Are values such as abstinence of sexual activity before marriage still valid in the world today? Why? Is abstinence a reasonable choice?<br><br> In this lesson, students examine issues related to abstinence and explore the balance between being free to make personal choices and being responsible for the consequences of their choices. They will understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles. In so doing, they learn to make responsible decisions for self and others, and think through the consequences of doing so<span style="background-color:initial">.</span></td>
-    <td class="tg-ktyi">examine issues related to abstinence <br>explore the balance between being free to make personal choices and being responsible for the consequences of their choices<br>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br>understand that in so doing, one makes responsible decisions for oneself and others, and thinks through the consequences of doing so</td>
+    <td class="tg-ktyi"><ul>
+<li>examine issues related to abstinence&nbsp;</li>
+<li>explore the balance between being free to make personal choices and being responsible for the consequences of their choices</li>
+<li>understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles</li>
+<li>understand that in so doing, one makes responsible decisions for oneself and others, and thinks through the consequences of doing so</li>
+</ul>
+</td>
     <td class="tg-9hzb">Term 2</td>
   </tr>
   <tr>
     <td class="tg-7yig">Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</td>
     <td class="tg-7yig">If Not Now When (Part 2)<br>(60 mins)</td>
     <td class="tg-ktyi">Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?<br><br>In this lesson, students examine issues related to abortion and the impact of sexually transmitted infections (STIs); understand that one has to make responsible decisions for both self and others, and consider sexual abstinence before marriage to remove any risks that come with casual sex. The lesson will also focus on being a source of support for others who may be pregnant or have STIs.<span style="background-color:initial"> </span></td>
-    <td class="tg-ktyi">examine issues related to abortion and the impact of sexually transmitted infections (STIs)<br>understand that one has to make responsible decisions for both self and others<br>understand that sexual abstinence is the only way to remove risks that come with casual sex<br>know how to support friends or others who may be pregnant or have STIs </td>
+    <td class="tg-ktyi"><ul>
+<li>examine issues related to abortion and the impact of sexually transmitted infections (STIs)</li>
+<li>understand that one has to make responsible decisions for both self and others</li>
+<li>understand that sexual abstinence is the only way to remove risks that come with casual sex</li>
+<li>know how to support friends or others who may be pregnant or have STIs</li>
+</ul>
+</td>
     <td class="tg-9hzb">Term 2</td>
   </tr>
 </tbody>
