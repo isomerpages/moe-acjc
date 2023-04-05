@@ -16,13 +16,11 @@ Email: <a href="mailto:acjc@acjc.edu.sg">acjc@acjc.edu.sg</a>
 (65) 6777 5479 (Fax)
 
 NEAREST PUBLIC TRANSPORT<br>
-**Nearest Bus Stop**<br>
+<b><font color="#0100F5">Nearest Bus Stop</font></b><br>
 Bus 92M, 200A, 74, 91, 92, 95, 191, 196, 198 and 200<br>
 Walking 3 mins from bus stop B18149 to here
 
-  
-
-**Nearest MRT station**<br>
+<b><font color="#0100F5">Nearest MRT station</font></b><br>
 **one-north**<br>
 Walking 6 mins from Exit B to here
 
