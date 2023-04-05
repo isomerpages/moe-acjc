@@ -4,8 +4,6 @@ permalink: /showcase/2021/science-olympiads-2020/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> Science Olympiads 2020 </center>
-
 ACJC participated in the 32nd Singapore Chemistry Olympiad, 33rd Singapore Physics Olympiad and the 21st Singapore Biology Olympiad in 2020. We are pleased and proud to announce our medallists in these competitions.
 
 Our students won 2 Silver medals and 2 Bronze medals in the 32nd Singapore Chemistry Olympiad:
@@ -19,34 +17,34 @@ Our students won 2 Silver medals and 2 Bronze medals in the 32nd Singapore Chemi
 .tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-n4qt">lass</th>
-    <th class="tg-n4qt">Participant</th>
-    <th class="tg-n4qt">Medal</th>
+    <th style="border: 1px solid white" class="tg-n4qt">lass</th>
+    <th style="border: 1px solid white" class="tg-n4qt">Participant</th>
+    <th style="border: 1px solid white" class="tg-n4qt">Medal</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">2SB6</td>
-    <td class="tg-ii8k">Tan Wei Xiang, Daniel</td>
-    <td class="tg-ii8k">Silver</td>
+    <td style="border: 1px solid white" class="tg-ii8k">2SB6</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Tan Wei Xiang, Daniel</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Silver</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">2SC1</td>
-    <td class="tg-ii8k">Isaac Tan Yi Shan</td>
-    <td class="tg-ii8k">Silver</td>
+    <td style="border: 1px solid white" class="tg-ii8k">2SC1</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Isaac Tan Yi Shan</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Silver</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">2SA1</td>
-    <td class="tg-ii8k">Choi Wonjun</td>
-    <td class="tg-ii8k">Bronze</td>
+    <td style="border: 1px solid white" class="tg-ii8k">2SA1</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Choi Wonjun</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Bronze</td>
   </tr>
   <tr>
-    <td class="tg-ii8k">2MD2</td>
-    <td class="tg-ii8k">Chew Shiying Benjamin</td>
-    <td class="tg-ii8k">Bronze</td>
+    <td style="border: 1px solid white" class="tg-ii8k">2MD2</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Chew Shiying Benjamin</td>
+    <td style="border: 1px solid white" class="tg-ii8k">Bronze</td>
   </tr>
 </tbody>
 </table>
