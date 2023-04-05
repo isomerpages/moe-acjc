@@ -26,6 +26,8 @@ The Anglo-Chinese Junior College West Zone Centre of Excellence for Language Art
 | -------- | -------- | 
 | ![](/images/Excellence-1.jpeg)**Orators Trophy**     | ![](/images/Excellence-2.jpeg)**The Pied Piper**     |
 
+
+
 <style>  
 img {  
   display: block;  
