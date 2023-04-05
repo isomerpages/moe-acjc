@@ -4,8 +4,6 @@ permalink: /showcase/2018/muse-acjc-concert-band-n-acsian-theatre/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> MUSE: ACJC Concert Band &amp; ACSian Theatre </center>
- 
 MUSE was a unique collaboration between the Anglo-Chinese Junior College Concert Band and ACSian Theatre. With 3 solo pieces along with an ensemble performance, ACSian Theatre (plus Alumni) learned about music-making with a Concert Band. We also experienced the rare privilege of singing at the Esplanade.
 
 ![](/images/MUSE%203.jpeg)
