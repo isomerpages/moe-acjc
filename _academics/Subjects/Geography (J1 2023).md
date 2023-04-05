@@ -175,18 +175,11 @@ Candidates will answer four questions:
 * Section B – One Structured Question (30 marks) from Cluster 3
 * Section C – One Essay (20 marks) from Cluster 3
 
-  
-
-[](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9751_y21_sy.pdf)
-
 The syllabus document is accessible&nbsp;[here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf).  
 
-H3 GEOGRAPHY (9822)
--------------------
+### H3 GEOGRAPHY (9822)
 
-  
-
-### Aims
+##### Aims
 
   
 
@@ -194,7 +187,7 @@ We hope students who go through our course will emerge as enlightened and respon
 
   
 
-### Approach
+##### Approach
 
   
 
@@ -202,7 +195,7 @@ This programme is meant for students who have the abilities to pursue Geography 
 
   
 
-### Programme
+##### Programme
 
   
 
