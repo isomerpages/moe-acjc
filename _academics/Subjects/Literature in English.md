@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/literature-in-english/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Literature in English </center>
-
 ### H1 LITERATURE IN ENGLISH (SYLLABUS 8832) / H2 LITERATURE IN ENGLISH (SYLLABUS 9509)
 
 ##### Aims
@@ -40,20 +38,17 @@ The primary modes of Literature education at ACJC are through tutorials and onli
 
   
 
-#### H1 Literature in English
+###### H1 Literature in English
 
 Candidates offering Literature in English at&nbsp;**H1 level**&nbsp;will sit for one paper:  
 
   
 
-Paper 1: Reading Literature
-
+Paper 1: Reading Literature <br>
 This paper provides an introduction to the three literary genres of poetry, prose, and drama, along with the basics of critical analysis.
 
-Unseen Poetry: Single Poem Analysis
-
-Drama: Measure for Measure, William Shakespeare
-
+Unseen Poetry: Single Poem Analysis <br>
+Drama: Measure for Measure, William Shakespeare <br>
 Prose: The Great Gatsby, F. Scott Fitzgerald
 
   
@@ -68,14 +63,13 @@ The syllabus may be accessed at the following link:
 
   
 
-#### H2 Literature in English
+###### H2 Literature in English
 
-Candidates offering Literature in English at&nbsp;**H2 level**&nbsp;will sit for two papers:  
+Candidates offering Literature in English at&nbsp;**<u>H2 level</u>**&nbsp;will sit for two papers:  
 
   
 
-Paper 1: Reading Literature
-
+Paper 1: Reading Literature <br>
 This paper provides an introduction to the three literary genres of poetry, prose, and drama, along with the basics of critical analysis, and comparative criticism.
 
 *   Unseen Poetry: Poetry Comparison
@@ -84,8 +78,7 @@ This paper provides an introduction to the three literary genres of poetry, pros
 
   
 
-Paper 2: The English Renaissance (1509-1660)
-
+Paper 2: The English Renaissance (1509-1660) <br>
 This paper focuses on English writing from 1509 to 1660. Students will cover three texts, examining them in relation to the themes and concerns of the period, both as individual texts, and in comparison to each other. Additionally, students will engage in analysis of unseen prose, poetry and drama from the period.
 
 *   Selected Poems, Andrew Marvell
@@ -108,15 +101,11 @@ The syllabus may be accessed at the following link:
 
 ##### Aims
 
-  
-
 Literature at the H3 level aims to create students who are capable of engaging in independent research, engage critically with primary and secondary sources as well as negotiating different critical approaches to their texts.
 
   
 
 ##### Approach
-
-  
 
 H3 candidates will produce a research paper on a topic and texts of their choice.
 
@@ -127,8 +116,6 @@ Students will be guided through the process of crafting a research proposal asse
   
 
 ##### Programme
-
-  
 
 The assessment for Literature at the H3 level consists of a research essay of between 3000-3500 words, along with a research proposal and process review document.
 
