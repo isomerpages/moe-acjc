@@ -4,8 +4,6 @@ permalink: /about-us/facilities/faith-cpa/
 description: ""
 third_nav_title: Faith CPA
 ---
-## <center> Facith CPA </center>
-
 ![](/images/CPA%20Front.jpeg)
 
 The Anglo-Chinese Junior College Faith Centre for Performing Arts (CPA) is the centrepiece of the vibrant performing arts programmes at the College.
