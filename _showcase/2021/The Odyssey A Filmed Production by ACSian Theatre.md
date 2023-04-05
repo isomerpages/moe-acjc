@@ -4,8 +4,6 @@ permalink: /showcase/2021/the-odyssey-a-filmed-production-by-acsian-theatre/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> The Odyssey- A Filmed Production by ACSian Theatre </center>
-
 On the 15th of September, ACSian Theatre performed and filmed The Odyssey, a stage adaptation of the Homer’s epic poem. This compelling tale tells the exciting adventure of Telemachus’ quest to bring Odysseus, his father, safely back to their homeland of Ithaca. Father and son journey together on a ship, and face many obstacles from dangerous storms at sea to menacing sirens. With the help of the goddess Athena, father and son eventually reunite with Penelope, Odysseus’ wife, restoring peace to Ithaca.
 
 For this production, the cast went through combat and physical training under the guidance of Coach Randell and learned impressive fight sequences that retold the adventures of brave Odysseus.
