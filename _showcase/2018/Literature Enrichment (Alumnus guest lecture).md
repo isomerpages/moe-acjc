@@ -4,8 +4,6 @@ permalink: /showcase/2018/literature-enrichment-alumnus-guest-lecture/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> Literature Enrichment- Alumnus guest lecture </center>
-
 On the 5th and 6th of April, ACJC invited Ms Annabel Tan, an alumna of ACJC &amp; a current Ministry of Education Scholarship holder, to give a lecture on William Shakespeare's&nbsp;_The Tempest_&nbsp;to students from various junior colleges.
 
 This lecture was held in conjunction with ACSian Theatre's production of&nbsp;_The Tempest_&nbsp;and served to provide some literary context and insight prior to the play. Ms Tan focussed on the key themes of the play, as well as ways in which it has been uniquely adapted across various productions and cultures to engender a different literary effect altogether.
@@ -13,9 +11,17 @@ This lecture was held in conjunction with ACSian Theatre's production of&nbsp;_T
 Prior to the lecture, she presented a short clip of a Bengali adaptation of the play that was performed by Dhaka Theatre from Dhaka, Bangladesh at The Globe Theatre in London, to illustrate a modern, and unorthodox interpretation of a Shakespearean play. Ms Tan also mentioned that the despite the fact that Renaissance plays were produced centuries ago, it is still possible to underline contemporary concerns such as colonialism and slavery through modern-day adaptations, a
 WhatsApp Image 2018-04-06 at 08.55.58.jpegs seen from the ACSian Theatre production's postcolonial slant.
 
-![](/images/WhatsApp%20Image%202018%2004-06%20at%200855%2058.jpeg)
-
-_<center> Ms Annabel Tan, lecturing to a rapt audience</center>_
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" src="/images/WhatsApp%20Image%202018%2004-06%20at%200855%2058.jpeg">  
+  
+<br>
+<figcaption style="text-align:center;"><em>Ms Annabel Tan, lecturing to a rapt audience</em></figcaption>
 
 The Tempest&nbsp;deals with issues such as Renaissance anxieties with regard to political and monarchical power, and presents pastoral Edenic space, juxtaposing nature with the craftsmanship and sorcery of Prospero which defies the natural order. The key themes that Ms Tan discussed with the lecture group included Power, Colonialism, Loss &amp; Reconciliation, as well as Justice in Reconciliation, which definitely provided students with a deep insight into the workings of the play that is crucial to our study of the text.
 
