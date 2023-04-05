@@ -14,6 +14,17 @@ Barrel Of Laughs V3.0 was the third installation in an ongoing series of ACSian 
 
 ![Barrel of Laughs 1.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/Barrel%20of%20Laughs%201.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
+  
+ 
+
   
 
 This year’s Barrel of Laughs continued the narrative of the (fictional) ACJC Drama Society and the discord amongst its members in deciding on a play to put up. This set the stage for conflict-induced repartee and comic delivery through stunts in a riveting play. Showcasing the theatre company’s strong alumni performance standard, the production displayed an array of modes of comedy, leaving audiences for both matinee and evening performances rolling in their seats with laughter. Through breaking the fourth wall, viewers of the production not only admired the comic stagework but were immersed in the play’s dramatic journey and spectacle.
@@ -22,7 +33,16 @@ This year’s Barrel of Laughs continued the narrative of the (fictional) ACJC D
 
 ![Barrel of Laughs 3.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/Barrel%20of%20Laughs%203.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
   
+
 
 On the 5, 6, and 7 April 2018, ACSian Theatre also staged our dynamic interpretation of William Shakespeare’s classic comedy, The Tempest. Thought to be the last play ever written by Shakespeare himself, the theatrical staging of the piece was a refreshing blend of literary discourse provided by the adapted text and dynamic movement sequences embellished with elegant costumes and intricate stage props. Overcoming the dilemma of reaching out to modern audiences with the classic text, the performers portrayed their characters with calculated artistic liberty and stunned audiences with scenes capturing young romance, power play and base tomfoolery.  
 
@@ -30,15 +50,32 @@ On the 5, 6, and 7 April 2018, ACSian Theatre also staged our dynamic interpreta
 
 ![The Tempest 2.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/The%20Tempest%202.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
   
 
-With a dedicated team of costumers, who created and maintained the vibrant garments, as well as crew members, who contributed toward stage ornamentation, The Tempest reached greater heights.
 
+With a dedicated team of costumers, who created and maintained the vibrant garments, as well as crew members, who contributed toward stage ornamentation, The Tempest reached greater heights.
   
 
 ![The Tempest 4.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/ACSian%20Theatres%20Productions/The%20Tempest%204.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
   
+
 
 We would like to express our deepest gratitude to our teachers, Mrs Geetha Creffield, Ms Michelle Wong, Mr Tobias Teo, Mdm Baljeet Kaur and Ms Low Tze Hui, for their ever-constant passion and zeal toward the club and its productions. Our gratitude also extends to our lovely audiences who filled the theatre with hearty laughs and intent interest. Last, but not least, we raise the astounding success of our theatre productions to the glory of God, who has blessed our journey from the very beginning.
 
