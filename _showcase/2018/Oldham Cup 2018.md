@@ -13,7 +13,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" src="![](/images/img_7553.jpg)">  
+<img style="width:70%;" src="/images/img_7553.jpg">  
 
 
 Eventually after 8 rounds of arduous debates spanning 3 days, RIJC B took home the championship trophy, with Team China A being crowned as the best performing international team as well as 1st runners-up. The two ACJC teams also performed exceptionally well in the competition, winning most of their rounds and putting up a good fight against debate heavyweights.  
@@ -29,7 +29,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:75%;" src="![](/images/img_2104.jpg)">  
+<img style="width:75%;" src="/images/img_2104.jpg">  
   
  
   
