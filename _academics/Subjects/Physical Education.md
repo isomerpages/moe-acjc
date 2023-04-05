@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/physical-education/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Physical Education </center>
-
 ### Aims
 
 
@@ -107,7 +105,7 @@ Health Education is aimed at educating students in the field of personal health 
 ### Administration and Policies
 
 
-1.  Attendance for PE lessons is compulsory. Absentees without valid reasons will face disciplinary action.
-2.  Request for exemption for all PE lessons on medical grounds is to be accompanied by a valid medical certificate, which is to be submitted to the HOD (PE) annually.
-3.  The standard college PE attire must be worn. Attire can be purchased at the ACJC Sports Complex. Alternatives to the PE attire are strictly not allowed.
-4.  The IPPT/NAPFA Test is conducted in May for JC2 students. This is a compulsory assessment, conducted under the guidelines of the Ministry of Education. All students are encouraged to aim for a pass based on their age requirements.
+a.  Attendance for PE lessons is compulsory. Absentees without valid reasons will face disciplinary action. <br>
+b.  Request for exemption for all PE lessons on medical grounds is to be accompanied by a valid medical certificate, which is to be submitted to the HOD (PE) annually. <br>
+c.  The standard college PE attire must be worn. Attire can be purchased at the ACJC Sports Complex. Alternatives to the PE attire are strictly not allowed. <br>
+d.  The IPPT/NAPFA Test is conducted in May for JC2 students. This is a compulsory assessment, conducted under the guidelines of the Ministry of Education. All students are encouraged to aim for a pass based on their age requirements.
