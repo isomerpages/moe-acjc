@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Malay Cultural Society.md
       - Clubs and Societies/Pixel Labs.md
       - Clubs and Societies/Science and Math Council.md
       - Clubs and Societies/Technology Council.md
