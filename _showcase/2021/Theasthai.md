@@ -4,8 +4,6 @@ permalink: /showcase/2021/theasthai/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> Theasthai <center>
-	
 On the 15th of May 2021, the Drama Elective Programme (DEP) Class of 2022 performed their first examination showcase titled “Theasthai”. Each member of the class performed a short monologue of their choosing and worked hard over the course of 2 months to put up an artistically truthful performance while adhering to the ongoing Safe Management Measures.
 	
 
@@ -24,4 +22,4 @@ To God Be The Glory, The Best Is Yet To Be !&nbsp;
 
   
 Dexter Yeo<br>
-1MD2</center></center>
+1MD2
