@@ -4,14 +4,10 @@ permalink: /student-life/academics/subjects/chemistry/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Chemistry </center>
-
 ### H1 CHEMISTRY (SYLLABUS 8873) /H2 CHEMISTRY (SYLLABUS 9729) /H3 CHEMISTRY (SYLLABUS 9813)
 
 
-### Aims
-
-  
+##### Aims
 
 The aims of the&nbsp;**H1/ H2/ H3 Chemistry**&nbsp;course are to:
 
@@ -25,7 +21,7 @@ The aims of the&nbsp;**H1/ H2/ H3 Chemistry**&nbsp;course are to:
 
 3.2 connecting between the submicroscopic, macroscopic and symbolic levels of representations in explaining and making predictions about chemical systems, structures and properties.
 
-### Approach
+##### Approach
 
   
 
@@ -45,7 +41,7 @@ The Practices of Science comprise three components:
 <br>
 3\. Relating Science and Society
 
-### Programme
+##### Programme
 
 The topics in&nbsp;**H1 Chemistry**&nbsp;are organised as two levels underpinned by the Practices of Science:
 
@@ -53,34 +49,28 @@ The topics in&nbsp;**H1 Chemistry**&nbsp;are organised as two levels underpinned
 
 (b)&nbsp;**Extension topic**: Concepts in the Core Ideas are applied to real-world context in the study of nanomaterials and polymers.
 
-<u>Indicative Recommendation</u>
-
+<u>Indicative Recommendation</u> <br>
 *   Pass in ‘O’ Level Chemistry / Pass in Combined Sci with Chemistry
 
-<u>Assessment</u>
-
-**JC1**
-
+<u>Assessment</u> <br>
+**JC1** <br>
 *   1 paper for the Promotional Examinations
 
-**JC2**
-
+**JC2** <br>
 *   2 papers for ‘A’ Level
 *   Paper 1 – Multiple Choice
 *   Paper 2 – Structured Questions
 
-The topics in&nbsp;**H2 Chemistry**&nbsp;are organised as two levels underpinned by the Practices of Science:
-
+The topics in&nbsp;**H2 Chemistry**&nbsp;are organised as two levels underpinned by the Practices of Science: <br>
 (a)&nbsp;**Core ideas**: The three Core Ideas of Chemistry are Matter, Structure and Properties, and Transformation. The concepts in these Core Ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
 
 (b)&nbsp;**Extension topics**: Concepts in the Core Ideas extend into the learning of different chemical systems such as chemistry of organic compounds and transition elements. As an example, an understanding of concepts of Chemical Bonding and The Periodic Table is extended to the study of the chemistry of transition metals where students learn to appreciate the similarities and differences when comparing with main group metals.
 
-<u>Indicative Recommendation</u>
-
+<u>Indicative Recommendation</u> <br>
 *   Pass in ‘O’ Level Chemistry / Indicative recommendation min B3 for Combined Sci with Chem
 
 <u>Assessment</u><br>
-JC1
+**JC1**
 *   2 papers for the Promotional Examinations
 *   One Theory paper
 *   One Practical paper
@@ -93,8 +83,7 @@ JC1
 *   Paper 3 – Free Response Questions
 *   Paper 4 – Practical
 
-The content topics in&nbsp;**H3 Chemistry**&nbsp;are organised into two levels underpinned by the Practices of Science:
-
+The content topics in&nbsp;**H3 Chemistry**&nbsp;are organised into two levels underpinned by the Practices of Science: <br>
 (a)&nbsp;**Core ideas and Extension topics in H2 Chemistry**. These are elaborated in the corresponding H2 Chemistry syllabus.
 
 (b)&nbsp;**Additional content in H3 Chemistry**. Two content areas Spectroscopic Techniques and Further Organic Mechanisms are included to deepen the understanding of the core ideas by expanding the scope for analysis, synthesis and application of concepts.
@@ -106,8 +95,8 @@ The content topics in&nbsp;**H3 Chemistry**&nbsp;are organised into two levels u
 
 The syllabus documents may be accessed on the SEAB website at the following links:
 
-[H1 Chemistry](/files/8873_y22_sy.pdf)
+[H1 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8873_y22_sy.pdf)
 
-[H2 Chemistry](/files/9729_y22_sy.pdf)
+[H2 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9729_y22_sy.pdf)
 
-[H3 Chemistry](/files/9813_y22_sy.pdf)
+[H3 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9813_y22_sy.pdf)
