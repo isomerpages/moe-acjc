@@ -13,26 +13,27 @@ This is an exceptional time, and it calls for innovative measures! We carried ou
 We were honoured to have two distinguished ACJC Alumni as the Guest-of-Honour and Special Guest gracing the International C. B. Paul Science Quiz 2021. Mr Frederick Chew, the Chief Executive Officer of A\*STAR, was our Guest-of-Honour. Our Special Guest, Associate Professor Tan Tin Wee is the Chief Executive of the National Supercomputing Centre was in the founding organising committee of the quiz in 1979. We were grateful for the support of our five judges, Associate Professor Chua Kim Lee, Associate Professor Soo Han Sen, Associate Professor Aaron Tan, Dr Abel Yang Jiahui and Associate Professor Ng Keng Meng in vetting the finalists’ answers and confirming the prize winners for the Final Round.
 
 ![](/images/ICBP%202021%20GOH%20SG%20Judges.jpeg)
+
 We conducted the Final Round proceedings live on Zoom. The audience was able to watch Mr Chew share his address, and thereafter witness the 6 finalist teams’ attempt to complete the Sterling and Jeopardy Segments on their computers in real time. In addition, all schools could view the Final Round questions once the finalists had completed the segment.
 
 This was made possible with our SMC ICBP Planning Committee students’ perseverance and diligence, as well as the support from:
 
   
 
-1.       School Leaders who motivated us in the continual exploration of Science and Mathematics while ensuring the safety and health of all staff and students
+1.&nbsp; &nbsp; &nbsp; &nbsp;School Leaders who motivated us in the continual exploration of Science and Mathematics while ensuring the safety and health of all staff and students
 
   
 
-2.       Mr Aaron Ho, who first taught the students how to operate Zoom while toggling a few windows
+2.&nbsp; &nbsp; &nbsp; &nbsp;Mr Aaron Ho, who first taught the students how to operate Zoom while toggling a few windows
 
   
 
-3.       Mr Mohammad Ilham and Mr Gek Hon Joo, and the Media Resource Crew, who patiently loaned us some equipment
+3.&nbsp; &nbsp; &nbsp; &nbsp;Mr Mohammad Ilham and Mr Gek Hon Joo, and the Media Resource Crew, who patiently loaned us some equipment
 
   
 
-4.       Ms Too Suat Ling and Photography Society, who helped to cover the event on the actual day
+4.&nbsp; &nbsp; &nbsp; &nbsp;Ms Too Suat Ling and Photography Society, who helped to cover the event on the actual day
 
   
 
-<center>To God Be The Glory, The Best Is Yet To Be!<center>
+<center>To God Be The Glory, The Best Is Yet To Be!<center></center></center>
