@@ -47,17 +47,72 @@ Games are essential in the PE Curriculum as they offer a variety of activities t
 
 Land based games are taught in the following categories:
 
-|  Invasion Games  | Divided Court Games | Striking and Fielding Games |
-|:----------------:|:-------------------:|:---------------------------:|
-|    Basketball    |      Badminton      |           Softball          |
-|      Hockey      |     Table-Tennis    |           Cricket           |
-|      Netball     |        Tennis       |           Rounders          |
-|       Rugby      |      Volleyball     |                             |
-|      Soccer      |                     |                             |
-| Ultimate Frisbee |                     |                             |
-|     Floorball    |                     |                             |
-|     Handball     |                     |                             |
-|    Tchoukball    |                     |                             |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table style="border: 1px solid grey" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid grey" class="tg-9hzb">Invasion Games<br></th>
+    <th style="border: 1px solid grey" class="tg-9hzb">Divided Court Games<br></th>
+    <th style="border: 1px solid grey" class="tg-9hzb">Striking and Fielding Games<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Basketball<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Badminton<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Softball<br></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Hockey<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Table-Tennis<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Cricket<br></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Netball<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Tennis<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Rounders<br></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Rugby<br></td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Volleyball<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Soccer<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Ultimate Frisbee<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Floorball<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Handball<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid grey" class="tg-f4yw">Tchoukball<br></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+    <td style="border: 1px solid grey" class="tg-7yig"></td>
+  </tr>
+</tbody>
+</table>
 
 
 The specific games taught in PE take into account the physical facilities and resources available, staff availability as well as the needs and interests of the students.
