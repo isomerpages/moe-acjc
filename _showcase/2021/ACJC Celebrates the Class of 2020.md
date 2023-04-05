@@ -4,8 +4,6 @@ permalink: /showcase/2021/acjc-celebrates-the-class-of-2020/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> ACJC Celebrates the Class of 2020 </center>
-
 On the 19th of February 2021, ACJC received the GCE A-Level examination results for the Class of 2020. In keeping with Safe Management Measures (SMM), the release of the results was decentralised, with the Class of 2020 receiving their results from their form teachers in their classrooms.
 
 
