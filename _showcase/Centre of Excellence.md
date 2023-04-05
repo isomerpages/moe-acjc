@@ -26,11 +26,29 @@ The Anglo-Chinese Junior College West Zone Centre of Excellence for Language Art
 | -------- | -------- | 
 | ![](/images/Excellence-1.jpeg)**Orators Trophy**     | ![](/images/Excellence-2.jpeg)**The Pied Piper**     |
 
-![](/images/Excellence-3.jpeg)
-**<center>Teacher's Workshop</center>**
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Excellence-3.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><b>Teacher's Workshop</b></figcaption> <br>
 
-![](/images/Excellence-4.jpeg)
-**<center>Pride and Prejudice</center>**
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" src="/images/Excellence-4.jpeg">  
+  
+  
+<figcaption style="text-align:center;"><b>Pride and Prejudice</b></figcaption> 
 
 Please email&nbsp;[acjc@acjc.edu.sg](mailto:acjc@acjc.edu.sg)&nbsp;to let us know if you are interested in attending any of the events.
 
