@@ -4,8 +4,6 @@ permalink: /about-us/the-story-of-acjc/
 description: ""
 third_nav_title: The Story of ACJC
 ---
-## <center> The Story of ACJC </center>
-
 Anglo-Chinese Junior College (ACJC) is one of the seven educational institutions of the ACS Family of Schools. The Anglo-Chinese School was founded by the Methodist missionary, William Fitzjames Oldham. William Oldham arrived in Singapore on 7 February 1885 with other Methodist missionaries. Through a Chinese gentleman who had joined the Methodist Church, Reverend Oldham was invited to the Celestial Reasoning Association. The Association was founded by businessman Mr Tan Keong Saik and was dedicated to developing proficiency in English. Reverend Oldham offered to give a lecture on astronomy. Reverend Oldham so impressed the businessmen present that he eventually received invitations to be their language tutor. After consulting with his wife Marie, Reverend Oldham offered to educate their sons instead.
 
   
@@ -53,8 +51,8 @@ Principals:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"></td>
-    <td class="tg-0lax"><img style="width:150px" src="/images/The%20ACJC%20main%20gate%20in%201977.jpeg"></td>
+    <td class="tg-0lax"><img style="width:150px" src="![](/images/the%20sports%20complex%20opening%20ceremony%20in%201997.jpeg)"></td>
+    <td class="tg-0lax"><img style="width:150px" src="![](/images/acjc%20principals%20at%20the%20acjc%20grace%20heritage%20gallery%20for%20founder_s%20day%202018.jpeg)"></td>
   </tr>
   <tr>
     <td colspan="2" class="tg-0lax"></td>
