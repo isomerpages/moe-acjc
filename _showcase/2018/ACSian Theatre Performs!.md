@@ -34,6 +34,5 @@ The Young Writers Festival is an annual event held by the National Book Council 
 
 We would like to thank our teachers, choreographers, and alumni for their steadfast support and encouragement. We would also like to extend our sincere gratitude to the ACS OBA and the National Book Council for giving us the chance to perform at these events.
 
-To God Be the Glory,
-
+To God Be the Glory, <br>
 The Best is Yet to Be!
