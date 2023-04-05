@@ -4,8 +4,6 @@ permalink: /showcase/2018/showcasing-the-dep-culminatio-and-theastai/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> Showcasing the DEP- Culminatio and Theastai </center>
-
 In May and June 2018, ACJC’s Drama Elective Programme (DEP) Classes of 2018 and 2019 presented their examination showcases, a sterling testament to the rigorous performative practice they excel at.
 
   
