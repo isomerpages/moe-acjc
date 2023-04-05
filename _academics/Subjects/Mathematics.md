@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/mathematics/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Mathematics </center>
-
 ### H1 MATHEMATICS (SYLLABUS 8865)
 
 ##### Aims
@@ -97,3 +95,43 @@ The A Level Examination for H2 Mathematics comprises two 3 hour papers with abou
 The syllabus document may be accessed at the following link:
 
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9758\_y21\_sy.pdf](/files/9758_y21_sy.pdf)
+
+### H3 MATHEMATICS (SYLLABUS 9820)
+
+##### Aims
+
+The H3 syllabus provides students who intend to pursue mathematics in university with an insight into the practice of a mathematician. It equips students with the knowledge and skills to understand and write mathematical statements, proofs and solutions, and the techniques and results that come in helpful in their work. Students will develop these competencies through proving mathematical results and solving non-routine mathematical problems in the course of the learning.  
+
+  
+
+The teaching programme is designed to enable students to:
+
+*   acquire advanced problems-solving skills and methods of proof by learning useful mathematical results and techniques to solve non-routine problems and prove statements;
+*   develop rigour in mathematical argument and precision in the use of mathematical language through the writing and evaluation of mathematical proofs and solutions;
+*   experience and appreciate the practice, value and rigour of mathematics as a discipline.
+*     
+    
+
+##### Approach
+
+As the H3 syllabus explores H2 topics as well as new content in substantial depth and rigour, student engagement in learning is a key factor. Students are expected to be disciplined and take responsibility for their own learning and improvement. On top of being prepared for all lectures and tutorials, timely revision materials are provided and solutions uploaded online before tests and examination for independent study by students. Students are required to be regular and consistent in handing in assigned work throughout their JC2 year.   
+
+##### Programme
+
+  
+
+H3 Mathematics is offered only in the JC2 year. Students with excellent results in H2 Mathematics and good results overall will be invited to offer H3 Mathematics.  
+
+  
+
+The topics covered in H3 Mathematics include Number Theory, Functions, Sequences and Series, Inequalities, Calculus, and Combinatorics. Students will also learn to use problem solving heuristics to solve mathematical problems, mathematical reasoning principles, including methods of formal proof, to develop and critically evaluate mathematical arguments, and mathematical language to communicate ideas.
+
+  
+
+The A Level Examination for H3 Mathematics comprises one 3 hour paper with 8 to 10 questions. Candidates will be expected to answer all questions
+
+  
+
+The syllabus document may be accessed at the following link:
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9820\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9820_y21_sy.pdf)
