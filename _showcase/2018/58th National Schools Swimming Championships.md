@@ -10,6 +10,17 @@ In the recent National School Swimming Championships that commenced on the 16th 
 
 ![Boys Pic 1.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Boys%20Pic%201.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
+  
+ 
+
   
 
 There were many high points at this year’s amazing event. Samuel Tang performed brilliantly, shattering the record for the 100m Men’s Freestyle event and bagging the Gold for the Men’s 200m Freestyle event. Brandon Tan also did ACJC proud by bringing home the Gold medals in both the Men’s 100m Breaststroke and Men’s 200m Breaststroke events. Isaac Pang performed very well by coming in 3rd for the Men’s 100m Backstroke and 2nd for the Men’s 200m Backstroke events. In a tight and difficult challenge, Tristan Chua bagged two 4th place titles in both the Men’s 100m and 200m Butterfly events.
@@ -24,7 +35,16 @@ The Girls Team performed equally well. Chan Zi Yi simply crushed her opponents a
 
 ![Girls Pic 3.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Girls%20Pic%203.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
   
+   
 
 For the exciting relay races our Girl’sTeam consisting of Rayna Buckle, Chan Zi Yi, Geneveive Lye and Annie Siow came in 4th and it was a satisfying win for the girls. The Boy’s Relay team fared better. Samuel Tang, Brandon Tan, Isaac Pang and Ryan Yeoh swam a really exciting and challenging race, and finished with well-deserved Bronze medal.
 
@@ -32,7 +52,16 @@ For the exciting relay races our Girl’sTeam consisting of Rayna Buckle, Chan Z
 
 ![Relay Pic 6.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Relay%20Pic%206.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
   
+   
 
 The last few months leading up to the Championships were challenging to our spirit and bodies. Our swimmers put in an extra portion of their strength everyday so as to stay focused, and train despite the physical and mental exhaustion they were faced with. This championship has brought our team closer together as we encouraged and cheered each other on beyond physical boundaries.
 
@@ -48,7 +77,16 @@ And of course, behind every victory, there will always be a team of people behin
 
 ![Team Pic 8.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Team%20Pic%208.jpg)
 
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
   
+   
 
 The next season will be equally hard for us as we shift gears and move towards striving to do well academically. However, we know that with the values we have learnt from swimming and strong bonds that we have formed throughout the course of the year, we will yet again come together to challenge each other to achieve the best that we can.
 
@@ -56,10 +94,18 @@ The next season will be equally hard for us as we shift gears and move towards s
 
 ![Team Pic 7.jpg](https://acjc.moe.edu.sg/qql/slot/u543/2020/Showcase/2018/58th%20National%20Schools%20Swimming%20Champions/Team%20Pic%207.jpg)  
 
-Written by
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:75%;" src="LMAOOO">  
+  
+ 
 
-Sharanya Ravi Chandran
-
-2SB5
-
+Written by <br>
+Sharanya Ravi Chandran <br>
+2SB5<br>
 Welfare Head
