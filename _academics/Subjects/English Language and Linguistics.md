@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/english-language-and-linguistics/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> English Language and Linguistics </center>
-
 ### H2 ENGLISH LANGUAGE AND LINGUISTICS (SYLLABUS 9508)
 
 
@@ -65,7 +63,5 @@ Students are tested on two papers which are taken on two different sittings on d
 *   Paper 2 ( 3 hour) comprises two sections, Section A (Language Variation and Change) and Section B (Language, Culture and Identity) where students answer three essay questions, with at least one question from each section. Each task is linked to source material accompanying each question.
 
   
-
-The syllabus may be accessed at the following link
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508\_y21\_sy.pdf](/files/9508_y21_sy.pdf)
+The syllabus may be accessed at the following link <br>
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508_y21_sy.pdf)
