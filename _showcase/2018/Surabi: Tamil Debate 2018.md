@@ -33,6 +33,5 @@ We would like to thank Mdm Ramani Gopalan, Teacher-in- charge of the Tamil Langu
 
   
 
-_To God be the Glory,_
-
+_To God be the Glory,_ <br>
 _The Best is Yet to Be!_
