@@ -4,8 +4,6 @@ permalink: /events/founders-day/founders-day-2020/
 description: ""
 third_nav_title: Founder's Day
 ---
-## <center> Founder's Day 2020 </center>
-
 The ACS Family of Schools celebrate Founder's Day each year on 1 March. On Founder's Day we celebrate the achievements of the College with a particular focus on cherishing the academic and co-curricular achievements of the graduating class, as well as the graduating class of two years prior.
 
   
