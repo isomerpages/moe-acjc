@@ -4,8 +4,6 @@ permalink: /showcase/2019/inventio-2019/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> Inventio 2019 </center>
-
 On the 9th of September, The Anglo-Chinese Junior College’s Drama Elective Programme (DEP) Class of 2020 took to the stage to perform for the annual JC1 examination showcase,&nbsp;**Inventio**. As the name of the performance suggests, Inventio celebrates creative invention, an integral trait of the stage performer and budding dramatic devisor.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQj_oH8CngXnX7V7Q62_s2AHlwnNgUDJsAhzH-bGU2WLtiRzXPhxGUd09uDiPN7IydtIw8yGgoWNL62/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
