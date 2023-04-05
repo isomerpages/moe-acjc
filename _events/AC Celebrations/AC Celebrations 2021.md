@@ -4,10 +4,6 @@ permalink: /events/ac-celebrations/
 description: ""
 third_nav_title: AC Celebrations
 ---
-## <center> AC Celebrations </center>
-
-#### AC Celebrations 2021  
-
 On 11 February 2021 Thursday, ACJC held its first ever virtual AC Celebrations! In the spirit to commemorate the Lunar New Year amid the COVID-19 pandemic, the celebrations took on a very unique yet meaningful form this year!&nbsp;
 
 In the morning of Lunar New Year eve, our JC1 OG Reps and JC2 Class Reps presented the mandarin oranges to their teachers, blessing them a very prosperous new year. In return, our teachers handed the students with the ACJC commemorative red packet with words of encouragement! Lishen and Nicole, our Student Councillors President and Vice-President, represented the student body to present our School Leaders with mandarin oranges and in return, they received the ACJC commemorative red packets as well!
@@ -19,7 +15,7 @@ Our talented Performing Arts groups unleashed their creativity and passion while
 
 ![](/images/ACSian%20Theatre%20CNY%20Video%20Screenshot.jpg)
 
-##### And do not forget to do good and share with others—Hebrews 13:16
+<h5 style="text-align:center;"><font color="#BE2C34">And do not forget to do good and share with others—Hebrews 13:16</font></h5>  
 
 In the spirit of festive giving, our JC1 students designed Chinese New Year cards for the underprivileged elderly living in the Dover and French Road community. These handmade-with-love cards and the Total Defence Day Care Packages will be sent to the beneficiaries within this month. Our JC2 students designed Chinese New Year cards for their loved ones, to express their deep appreciation and gratitude to them.
 
