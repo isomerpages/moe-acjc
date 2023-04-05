@@ -4,15 +4,13 @@ permalink: /student-life/academics/subjects/
 description: ""
 third_nav_title: Subjects
 ---
-**Knowledge Skills**  
-
+**Knowledge Skills**  <br>
 &gt;[General Paper](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/General-Paper/)  
 &gt;[Knowledge &amp; Inquiry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Knowledge-and-Inquiry/)  
 &gt;[Project Work](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Project-Work/)  
 
 
-**Humanities &amp; The Arts**
-
+**Humanities &amp; The Arts** <br>
 &gt; [Art](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Higher-Art/)  
 &gt; [China Studies in English](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/China-Studies-in-English/)  
 &gt; [Economics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Economics/)  
@@ -24,8 +22,7 @@ third_nav_title: Subjects
 &gt; [Music](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Music/)
 
   
-**Mathematics &amp; Sciences**
-
+**Mathematics &amp; Sciences** <br>
 &gt; [Biology](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Biology/)  
 &gt; [Chemistry](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Chemistry/)  
 &gt; [Computing](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Computing/)  
@@ -34,8 +31,7 @@ third_nav_title: Subjects
 &gt; [Physics](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physics/)
 
   
-**Languages**
-
+**Languages** <br>
 &gt; [Mother Tongue Languages &amp; Literature](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Mother-Tongue-Languages-and-Literature/) <br>
 &gt; Chinese Language &amp; Literature <br>
 &gt; Malay Language &amp; Literature   <br>
@@ -43,6 +39,5 @@ third_nav_title: Subjects
 
    
 
-**Life Skills**
-
+**Life Skills** <br>
 &gt; [Physical Education](https://staging.dpz85m35yjlcu.amplifyapp.com/student-life/Subjects/Physical-Education/)
