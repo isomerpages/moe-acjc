@@ -4,8 +4,6 @@ permalink: /student-life/academics/subjects/biology/
 description: ""
 third_nav_title: Subjects
 ---
-## <center> Biology </center>
-
 ### BIOLOGY H1/2/3
 
 ##### Aims
@@ -63,7 +61,7 @@ H1 biology is taught through tutorial-based instruction; H2 biology is delivered
 Independent and self-directed learning is also a key feature of our pedagogy, where students are expected to take ownership of their acquisition of knowledge, so as to enhance the quality of academic discussion during lessons.'
 
 
-### Programme
+##### Programme
 
   
 
@@ -82,8 +80,6 @@ The&nbsp;_extension topics_&nbsp;are based on emerging fields in biology, and re
 Details on the syllabus learning outcomes and scheme of assessment can be found in the published SEAB syllabi.
 
   
-[H1 Biology Syllabus](/files/8876_y22_sy.pdf)  
-
-[H2 Biology Syllabus](/files/9744_y22_sy.pdf)
-
-[H3 Biology Syllabus](/files/9816_y22_sy.pdf)
+[H1 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8876_y22_sy.pdf)  <br>
+[H2 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9744_y22_sy.pdf) <br>
+[H3 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9816_y22_sy.pdf)
