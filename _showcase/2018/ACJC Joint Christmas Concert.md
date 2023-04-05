@@ -4,8 +4,6 @@ permalink: /showcase/2018/acjc-joint-christmas-concert/
 description: ""
 third_nav_title: "2018"
 ---
-## <center> ACJC Joint Christmas Concert </center>
-
 On 24th November 2017, the Anglo-Chinese Junior College Harp Ensemble, String Ensemble and Choir had the honour of performing at JTC Biopolis.
 
   
