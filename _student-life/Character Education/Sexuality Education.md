@@ -145,18 +145,18 @@ For more information about Growing Years click&nbsp;[here](/parents/sexuality-ed
 .tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid grey" class="tg">
 <thead>
   <tr>
-    <th class="tg-a4yv">Topics/Lessons</th>
-    <th class="tg-a4yv">Programme Learning Objectives</th>
-    <th class="tg-a4yv">Time Period</th>
+    <th style="border: 1px solid grey" class="tg-a4yv">Topics/Lessons</th>
+    <th style="border: 1px solid grey" class="tg-a4yv">Programme Learning Objectives</th>
+    <th style="border: 1px solid grey" class="tg-a4yv">Time Period</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7yig">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-ktyi"><ul>
+    <td style="border: 1px solid grey" class="tg-7yig">Mass Talk by HPB appointed vendor</td>
+    <td style="border: 1px solid grey" class="tg-ktyi"><ul>
 <li>Awareness of the different STI and HIV</li>
 <li>Modes of transmission for STI and HIV</li>
 <li>Modes of protection against infection, specifically abstinence and the correct use of condom</li>
@@ -164,7 +164,7 @@ For more information about Growing Years click&nbsp;[here](/parents/sexuality-ed
 <li>State the ways of managing the impact of STIs</li>
 </ul>
 </td>
-    <td class="tg-7yig">Term 3</td>
+    <td style="border: 1px solid grey" class="tg-7yig">Term 3</td>
   </tr>
 </tbody>
 </table>
