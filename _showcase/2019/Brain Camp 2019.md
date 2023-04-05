@@ -4,8 +4,6 @@ permalink: /showcase/2019/brain-camp-2019/
 description: ""
 third_nav_title: "2019"
 ---
-## <center> Brain Camp 2019 </center>
-
 The Temasek Foundation International-NUS STEP Brain Camp 2019 is sponsored by the Temasek Foundation International and organized by NUS as part of their STEP Programme. This year, the event drew about 120 students, making up about 31 teams from the local junior colleges and schools from across Asia.
 
   
