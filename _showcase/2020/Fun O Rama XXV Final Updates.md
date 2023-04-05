@@ -4,8 +4,6 @@ permalink: /showcase/2020/fun-o-rama-xxv-final-updates/
 description: ""
 third_nav_title: "2020"
 ---
-## <center> Fun-O-Rama XXV Final Updates </center>
-
 Over the first months of 2020 the College was honoured to have the support and enthusiastic participation of all our stakeholders- staff, students, friends, family, and well-wishers in the preparations for Fun-O-Rama XXV. We cherish and appreciate the hard work and passion that our staff and students displayed, from the Class of 2020 who had begun their preparations in 2019, to the Class of 2021 who threw themselves into planning with enthusiasm. We are deeply grateful for the parents and other well-wishers who supported the process in their own unique ways.
 
 Due to the cancellation of Fun-O-Rama, the College realises the need to resolve any outstanding matters with regard to coupon sales and fundraising. We would therefore like to offer the following options to anyone who has purchased coupons:
