@@ -4,8 +4,6 @@ permalink: /about-us/facilities/faith-cpa/rental-rates-w-e-f-1st-jan-2019/
 description: ""
 third_nav_title: Faith CPA
 ---
-## <center> Rental Rates (w.e.f. 1st Jan 2019) </center>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
