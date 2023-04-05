@@ -101,6 +101,9 @@ Paper 3 – Practicum (assessed in July, 45% weightage)
 
   
 
-The syllabus document for H2 Theatre Studies and Drama may be found at the following URL:
+The syllabus document for H2 Theatre Studies and Drama may be found at the following URL: <br>
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9519\_y21\_sy\_schoolcandidates.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9519_y21_sy_schoolcandidates.pdf)
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9519\_y21\_sy\_schoolcandidates.pdf](/files/9519_y21_sy_schoolcandidates.pdf)
+  
+
+To find out more about TSD and our work, click&nbsp;[here](https://go.gov.sg/dep-ac)!
