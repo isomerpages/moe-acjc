@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbrHcp6S9xFJE-VUXXoeBMA67d4soNh8qxMViyQ_hVrq4RCii_CcEhgAyK5_Qc7o_cDnOlAWMM7_vB/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+The College is proud to announce that the Class of 2022 have achieved excellent results, a true testament to their hard work, dedication, and determination. They have done extremely well in terms of their percentage passes and distinction. They are well positioned for the way forward.
