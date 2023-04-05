@@ -3,8 +3,6 @@ title: General Science Research Education
 permalink: /student-life/academics/general-science-research-education/
 description: ""
 ---
-## <center> General Science Research Education</center> 
-
 ### Science Experience
 
 
