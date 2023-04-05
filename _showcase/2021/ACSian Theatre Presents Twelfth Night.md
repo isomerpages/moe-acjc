@@ -4,8 +4,6 @@ permalink: /showcase/2021/acsian-theatre-presents-twelfth-night/
 description: ""
 third_nav_title: "2021"
 ---
-## <center> ACSian Theatre Presents Twelfth Night </center>
-
 ![](/images/20210407_7187_MWP_WEBRES.jpeg)
 
 “Better a witty fool, than a foolish wit!”&nbsp;  
