@@ -19,6 +19,6 @@ sections:
         examination results for the Class of 2022. "
       button: Click here for details
       url: /showcase/2023/acjc-celebrates-the-class-of-2022/
-      image: /images/Charlene Brielle Luke Dennis Kenneth 3.jpeg
+      image: /images/InfoPic/class of 2022.jpg
       alt: Image alt text
 ---
