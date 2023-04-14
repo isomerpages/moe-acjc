@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: SYF 2022
+        - title: SYF 2023
           description: ""
           url: /announcements/singapore-youth-Festival-arts-presentation-2023/
   - infopic:
