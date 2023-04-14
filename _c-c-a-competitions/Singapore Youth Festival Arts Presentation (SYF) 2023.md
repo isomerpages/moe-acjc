@@ -8,11 +8,13 @@ description: ""
 
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
+**_String Ensemble_**&nbsp;on attaining the&nbsp;**_Certificate_**&nbsp;**_of Distinction_**&nbsp;for SYF (Strings)
+
 **_Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Guitar)
 
 **_AC Dance_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Dance)
 
-**_String Ensemble_**&nbsp;on attaining the&nbsp;**_Certificate_**&nbsp;**_of Distinction_**&nbsp;for SYF (Strings)
+
 
 **To God be the Glory! The Best Is Yet To Be!**
 
