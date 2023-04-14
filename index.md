@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: CCA Competitions
+        - title: SYF 2022
           description: ""
           url: /announcements/Singapore-Youth-Festival-Arts-Presentation-2022/
   - infopic:
