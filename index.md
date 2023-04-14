@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: SYF 2022
           description: ""
-          url: /announcements/Singapore-Youth-Festival-Arts-Presentation-2022/
+          url: /announcements/singapore-youth-Festival-arts-presentation-2023/
   - infopic:
       title: Congratulations to Class of 2022
       description: "On the 17th of February 2023, ACJC received the GCE A-Level
