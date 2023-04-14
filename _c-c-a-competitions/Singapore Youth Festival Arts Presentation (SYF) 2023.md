@@ -3,6 +3,19 @@ title: Singapore Youth Festival Arts Presentation (SYF) 2023
 permalink: /announcements/singapore-youth-festival-arts-presentation-2022/
 description: ""
 ---
+## <center> Singapore Youth Festival Arts Presentation (SYF) 2023 </center>
+
+
+The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
+
+**_Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Guitar)
+
+**_AC Dance_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Dance)
+
+**_String Ensemble_**&nbsp;on attaining the&nbsp;**_Certificate_**&nbsp;**_of Distinction_**&nbsp;for SYF (Strings)
+
+**To God be the Glory! The Best Is Yet To Be!**
+
 ## <center> Singapore Youth Festival Arts Presentation (SYF) 2022 </center>
 
 The College would like to congratulate the CCA group on their achievement in the Singapore Youth Festival Arts Presentation:
