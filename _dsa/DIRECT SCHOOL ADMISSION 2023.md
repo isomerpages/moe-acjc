@@ -34,7 +34,7 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Waterpolo (Boys)</div>
 </blockquote>
 
-### PERFORMING ARTS/DEBATE
+### PERFORMING ARTS AND DEBATE
 <blockquote>
 <div>Concert Band</div>
 <div>Choir</div>
