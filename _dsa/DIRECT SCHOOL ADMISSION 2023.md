@@ -26,7 +26,8 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Bowling</div>
 <div>Canoeing</div>
 <div>Cross-Country</div>
-<div>Football (Boys)</div>
+<div>Floorball</div>
+	<div>Football (Boys)</div>
 <div>Hockey (Girls)</div>
 <div>Netball</div>
 <div>Rugby (Boys)</div>
@@ -48,5 +49,17 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Theatre</div>
 <div>English Debating</div>
 </blockquote>
+
+
+### ACADEMIC AREAS
+<blockquote>
+<div>Drama Elective Programme</div>
+<div>Music Elective Programme</div>
+<div>Humanities Programme</div>
+<div>Mathematics / Science</div>
+<div>Theatre</div>
+<div>Infocomm Technology (Computing)</div>
+</blockquote>
+
 
 The selection criteria and process for the talent areas will be updated in mid-May, when applications open.
