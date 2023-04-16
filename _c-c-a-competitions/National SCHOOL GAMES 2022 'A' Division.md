@@ -3,6 +3,49 @@ title: National SCHOOL GAMES 2022 'A' Division
 permalink: /announcements/National-SCHOOL-GAMES-2022-A-Division/
 description: ""
 ---
+## <center> National SCHOOL GAMES 2023 - 'A' Division </center>
+
+The College would like to congratulate the Sports CCA groups on their achievements at the National School Games 2023 - 'A' Division.&nbsp;
+
+To God be the &nbsp;Glory! The Best Is Yet To Be!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6qpi{background-color:#FFF;color:#C00;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-3qre{background-color:#FFF;color:#CE0E2D;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-auss{background-color:#FFF;color:#CE0E2D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-yl2x{background-color:#FFF;color:#E69138;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-imtz{background-color:#FFF;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-6j78{background-color:#FFF;color:#B45F06;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wibo{background-color:#FFF;color:#C00;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6qpi">AWARD</th>
+    <th class="tg-6qpi">BOYS</th>
+    <th class="tg-6qpi">GIRLS</th>
+  </tr>
+</thead>
+<tbody>
+ <tr>
+    <td class="tg-6j78">Bronze</td>
+    <td class="tg-6j78"></td>
+    <td class="tg-6j78">Canoeing</td>
+  </tr>
+   <tr>
+    <td class="tg-wibo">Fourth</td>
+    <td class="tg-wibo">Canoeing</td>
+    <td class="tg-auss"><span style="font-weight:800;color:#CE0E2D"></span></td>
+  </tr>
+</tbody>
+</table>
+
 ## <center> National SCHOOL GAMES 2022 - 'A' Division </center>
 
 The College would like to congratulate the Sports CCA groups on their achievements at the National School Games 2022 - 'A' Division.&nbsp;
