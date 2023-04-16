@@ -5,9 +5,9 @@ description: ""
 ---
 ## <center> National SCHOOL GAMES 2022 - 'A' Division </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National School Games 2022 - 'A' Division. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National School Games 2022 - 'A' Division.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be!
+To God be the &nbsp;Glory! The Best Is Yet To Be!
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -39,14 +39,14 @@ To God be the  Glory! The Best Is Yet To Be!
     <td class="tg-yl2x"> Bowling</td>
   </tr>
   <tr>
-    <td class="tg-auss"><span style="font-weight:800;color:#CE0E2D"> </span>Silver</td>
-    <td class="tg-auss"><span style="font-weight:800;color:#CE0E2D"> </span>Bowling</td>
+    <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Silver</td>
+    <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Bowling</td>
     <td class="tg-imtz"> Squash</td>
   </tr>
   <tr>
     <td class="tg-3qre"><span style="font-weight:800;color:#CE0E2D"> </span></td>
     <td class="tg-imtz"> Tennis</td>
-    <td class="tg-auss"><span style="font-weight:800;color:#CE0E2D"> </span>Netball</td>
+    <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Netball</td>
   </tr>
   <tr>
     <td class="tg-6j78">Bronze</td>
@@ -61,7 +61,7 @@ To God be the  Glory! The Best Is Yet To Be!
   <tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-6j78"> Squash</td>
-    <td class="tg-auss"><span style="font-weight:800;color:#CE0E2D"> </span>Softball</td>
+    <td class="tg-6j78"><span style="font-weight:800;color:#CE0E2D"> </span>Softball</td>
   </tr>
   <tr>
     <td class="tg-ktyi"> </td>
@@ -94,9 +94,9 @@ To God be the  Glory! The Best Is Yet To Be!
 
 ## <center> National Inter-School 'A' Division Championship 2021 </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be!
+To God be the&nbsp; Glory! The Best Is Yet To Be!
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -133,9 +133,9 @@ To God be the  Glory! The Best Is Yet To Be!
 
 ## <center> National Inter-School 'A' Division Championships 2019 </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be!
+To God be the &nbsp;Glory! The Best Is Yet To Be!
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -154,7 +154,7 @@ To God be the  Glory! The Best Is Yet To Be!
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-y3im">WARD</th>
+    <th class="tg-y3im">AWARD</th>
     <th class="tg-y3im">BOYS<br></th>
     <th class="tg-y3im">GIRLS<br></th>
   </tr>
@@ -215,9 +215,9 @@ To God be the  Glory! The Best Is Yet To Be!
 
 ## <center> NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2018 </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be!
+To God be the &nbsp;Glory! The Best Is Yet To Be!
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -316,9 +316,9 @@ To God be the  Glory! The Best Is Yet To Be!
 
 ## <center> NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2017 </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be!
+To God be the &nbsp;Glory! The Best Is Yet To Be!
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -415,9 +415,9 @@ To God be the  Glory! The Best Is Yet To Be!
 
 ## <center> NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2016 </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be! 
+To God be the &nbsp;Glory! The Best Is Yet To Be! 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -517,9 +517,9 @@ To God be the  Glory! The Best Is Yet To Be!
 
 ## <center> NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2016 </center>
 
-The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship. 
+The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School 'A' Division Championship.&nbsp;
 
-To God be the  Glory! The Best Is Yet To Be! 
+To God be the &nbsp;Glory! The Best Is Yet To Be! 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
