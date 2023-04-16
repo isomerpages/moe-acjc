@@ -11,7 +11,7 @@ sections:
       background: /images/Banner.gif
       key_highlights:
         - title: SYF 2023
-          description: ""
+          description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2023/
         - title: NSG 2023
           description: National School Games
