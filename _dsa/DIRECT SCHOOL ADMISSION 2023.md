@@ -61,5 +61,4 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Infocomm Technology (Computing)</div>
 </blockquote>
 
-
-The selection criteria and process for the talent areas will be updated in mid-May, when applications open.
+The selection criteria and process for the talent areas will be updated in May, when applications open.
