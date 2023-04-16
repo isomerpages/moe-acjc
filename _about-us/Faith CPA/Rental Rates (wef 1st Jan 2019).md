@@ -4,6 +4,9 @@ permalink: /about-us/facilities/faith-cpa/rental-rates-w-e-f-1st-jan-2019/
 description: ""
 third_nav_title: Faith CPA
 ---
+### **Rental Rates (wef 1st Jan 2019)**
+
+
 |  ||  |
 | -------- | -------- | -------- |
 | **Performance**  | Mon-Fri 4hr block  | $1,600    |
