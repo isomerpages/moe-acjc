@@ -46,6 +46,7 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 </tbody>
 </table>
 
+
 ## <center> National SCHOOL GAMES 2022 - 'A' Division </center>
 
 The College would like to congratulate the Sports CCA groups on their achievements at the National School Games 2022 - 'A' Division.&nbsp;
