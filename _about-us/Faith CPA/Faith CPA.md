@@ -19,19 +19,19 @@ The CPA is home to many of the College's outstanding musical and theatrical prod
 ![](/images/CPA_Building.jpeg)
 
 Mrs Lee Choon Guan Theatre<br>
-»[General Information](/about-us-1/facilities/faith-cpa/general-information)<br>
-»&nbsp;[Stage Dimensions](/about-us-1/facilities/faith-cpa/stage-dimensions)<br>
-»&nbsp;[Technical Specifications](/about-us-1/facilities/faith-cpa/technical-specifications-updated-on-2nd-nov-2018)<br>
-»&nbsp;[Seating Plan](/about-us-1/facilities/faith-cpa/seating-plan)
+»[General Information](/about-us/facilities/faith-cpa/general-information)<br>
+»&nbsp;[Stage Dimensions](/about-us/facilities/faith-cpa/stage-dimensions)<br>
+»&nbsp;[Technical Specifications](/about-us/facilities/faith-cpa/technical-specifications-updated-on-2nd-nov-2018)<br>
+»&nbsp;[Seating Plan](/about-us/facilities/faith-cpa/seating-plan)
 
   
 
 Other Facilities  <br>
-»&nbsp;[Black Box](/about-us-1/facilities/faith-cpa/black-box) <br>
+»&nbsp;[Black Box](/about-us/facilities/faith-cpa/black-box) <br>
 »&nbsp;[Seminar Rooms](/about-us-1/facilities/faith-cpa/seminar-rooms)
 
   
 
 Booking <br>
-»&nbsp;[Rental Rates](/about-us-1/facilities/faith-cpa/rental-rates-w-e-f-1st-jan-2019) <br>
-»&nbsp;[Download Booking Form](/about-us-1/facilities/faith-cpa/download-booking-form)
+»&nbsp;[Rental Rates](/about-us/facilities/faith-cpa/rental-rates-w-e-f-1st-jan-2019) <br>
+»&nbsp;[Download Booking Form](/about-us/facilities/faith-cpa/download-booking-form)
