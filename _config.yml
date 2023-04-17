@@ -52,9 +52,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dpz85m35yjlcu.amplifyapp.com
 prod: https://master.dpz85m35yjlcu.amplifyapp.com
-shareicon: /images/Anglo-Chinese_School_Crest.png
+shareicon: /images/HomePage/acjc crest 700.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: news
+google_analytics_ga4: ""
