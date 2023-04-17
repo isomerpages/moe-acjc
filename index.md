@@ -24,4 +24,10 @@ sections:
       url: /showcase/2023/acjc-celebrates-the-class-of-2022/
       image: /images/InfoPic/class of 2022.jpg
       alt: Image alt text
+  - infopic:
+      title: Congratulations!
+      description: at the National Schools Games and Singapore Youth Festival 2023
+      button: For more results
+      url: /c-c-a-competitions/national-school-games-2023-a-division/
+      alt: Image alt text
 ---
