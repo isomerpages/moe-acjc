@@ -26,8 +26,10 @@ sections:
       alt: Image alt text
   - infopic:
       title: Congratulations!
-      description: at the National Schools Games and Singapore Youth Festival 2023
+      description: to CCA groups at the National School Games and Singapore Youth
+        Festival 2023
       button: For more results
       url: /c-c-a-competitions/national-school-games-2023-a-division/
       alt: Image alt text
+      image: /images/InfoPic/cca up 1.jpg
 ---
