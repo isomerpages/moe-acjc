@@ -30,7 +30,5 @@ third_nav_title: Faith CPA
 |  |  |  |
 
 ###### MOE and affiliated schools enjoy a preferential rate. Please enquire for more details.
-###### 
 ###### A minimum of 2 technicians is needed for each booking for rehearsal or performance.
-###### 
 ###### There will be compulsory cleaning charges for **ALL** booking days.
