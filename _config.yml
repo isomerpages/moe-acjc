@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dpz85m35yjlcu.amplifyapp.com
 prod: https://master.dpz85m35yjlcu.amplifyapp.com
-shareicon: /images/HomePage/acjc crest 700.png
+shareicon: /images/ACJC-School-Crest.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
