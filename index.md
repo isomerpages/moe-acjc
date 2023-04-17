@@ -3,7 +3,7 @@ layout: homepage
 title: Anglo-Chinese Junior College
 description: ACJC is a Methodist Institution committed to an all-round education
   of the highest standards based on Christian principles
-image: /images/HomePage/acjc crest 700.png
+image: /images/ACJC-School-Crest.png
 permalink: /
 notification: ""
 sections:
