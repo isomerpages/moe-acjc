@@ -34,5 +34,5 @@ sections:
       button: For more results
       url: /c-c-a-competitions/national-school-games-2023-a-division/
       alt: Image alt text
-      image: /images/InfoPic/cca up 1.jpg
+      image: /images/InfoPic/cca up 2.jpg
 ---
