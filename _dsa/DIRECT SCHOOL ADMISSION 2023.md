@@ -1,6 +1,6 @@
 ---
 title: DIRECT SCHOOL ADMISSION 2023
-permalink: /dsa/permalink/
+permalink: /dsa/direct-school-admission-2023/
 description: ""
 ---
 <p align="”justify”">Anglo-Chinese Junior College welcomes students with outstanding talent in Sport, the Performing Arts, Debates, and selected Academic areas to apply for Direct School Admission. ACJC firmly believes in holistic education and aims to provide an excellent environment which nurtures your abilities and enables you to reach your fullest potential. We warmly invite you to join our family of multi-talented students to hone your sporting, artistic, and intellectual talents.</p>
