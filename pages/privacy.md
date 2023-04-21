@@ -65,5 +65,4 @@ permalink: /privacy/
 <p>7.2 &nbsp; &nbsp;Kindly contact us through one of the following methods with your complaint, grievance or feedback:</p>
 <p style="padding-left: 40px;">7.2.1 &nbsp; &nbsp;Singapore Telephone Number: 6775 0511<br>7.2.2 &nbsp; &nbsp;Email: acjc@acjc.edu.sg Attention it to the ‘Data Protection Officer’<br>7.2.3 &nbsp; &nbsp;Office Address: 25 Dover Close East, Singapore 139745</p>
 <p>7.3 &nbsp; &nbsp; We will certainly aim to deal with any complaint, grievance or feedback that you may have efficiently and fairly.</p>
-<p>&nbsp;</p>
 <p>Last Updated on 1 Jan 2018</p>
