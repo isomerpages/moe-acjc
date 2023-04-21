@@ -2,6 +2,8 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+<p style="margin-bottom: 0cm; text-align: center;"><strong><span style="font-size: 14.0pt; line-height: 107%;"><img height="113" width="189" src="/images/HomePage/acjc%20crest%20data.PNG"></span></strong></p>
+
 ### **Data Protection Policy**
 <p style="margin-bottom: 0cm; text-align: center;"><strong><span style="font-size: 14.0pt; line-height: 107%;">Data Protection Policy</span></strong></p>
 <p style="text-align: justify;"><span style="color: black;">Anglo-Chinese Junior College </span>recognises the importance of personal data entrusted to us.</p>
