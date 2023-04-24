@@ -16,8 +16,8 @@ locations:
     title: Anglo-Chines Junior Collge
 contacts:
   - content:
-      - phone: +65 6777 5479
+      - phone: +65 6775 0511
       - email: acjc@acjc.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General Enquiries
 ---
