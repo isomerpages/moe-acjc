@@ -12,9 +12,9 @@ The College would like to congratulate the following CCA groups on their achieve
 
 **_Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Guitar)
 
-**_AC Dance_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Dance)
+**_AC Dance_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (International Dance)
 
-
+**_ACSian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Indian Dance)
 
 **To God be the Glory! The Best Is Yet To Be!**
 
