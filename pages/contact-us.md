@@ -13,7 +13,7 @@ locations:
         time: 8.30am - 5.00pm
         description: Closed on Public Holidays
     maps_link: https://goo.gl/maps/qFG8yp48HmhMxgyv6
-    title: Anglo-Chines Junior Collge
+    title: Anglo-Chinese Junior College
 contacts:
   - content:
       - phone: +65 6775 0511
