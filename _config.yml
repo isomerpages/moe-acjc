@@ -3,7 +3,7 @@ url: https://acjc.moe.edu.sg
 favicon: /images/Anglo-Chinese_School_Crest.png
 colors:
   primary-color: "#00205c"
-  secondary-color: "#ce0e2d"
+  secondary-color: "#00205c"
   media-colors:
     - title: media-color-one
       color: "#ffc629"
