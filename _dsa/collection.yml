@@ -2,5 +2,5 @@ collections:
   dsa:
     output: true
     order:
-      - DSA DRAFT.md
       - DIRECT SCHOOL ADMISSION 2023.md
+      - DSA DRAFT.md
