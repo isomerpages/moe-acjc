@@ -24,8 +24,4 @@ Tennis<br>
 Track and Field<br>
 Volleyball<br>
 Waterpolo (Boys)<br>
-
-Sports Eligibility Criteria 2023<br>
-[Sports Eligibility Criteria 2023](/files/dsa/dsa sports eligibility criteria 2023.pdf)
-<p><a target="_blank" href="/files/dsa/dsa sports eligibility criteria 2023.pdf">Sports Eligibility Criteria 2023</a></p>
-
+<a target="_blank" href="/files/dsa/dsa sports eligibility criteria 2023.pdf">Sports Eligibility Criteria 2023</a>
