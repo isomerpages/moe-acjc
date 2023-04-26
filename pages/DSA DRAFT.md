@@ -1,8 +1,9 @@
 ---
-title: Example Page
-permalink: /example-page/
+title: DSA DRAFT
+permalink: /dsa/permalink/
+description: ""
 ---
-### DSA(JC) Exercise 2023
+### DSA(JC) Exercise 2023 Draft
 Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS and DEBATES are invited to apply for DSA into ACJC:
 
 **SPORTS**<br>

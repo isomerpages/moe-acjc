@@ -29,6 +29,6 @@ third_nav_title: Faith CPA
 |**Technician**  | Weekend (Fri to Sun) / Public Holidays overtime Hourly Rate (min 4 hr)  | $35/hr   |
 |  |  |  |
 
-###### MOE and affiliated schools enjoy a preferential rate. Please enquire for more details.
-###### A minimum of 2 technicians is needed for each booking for rehearsal or performance.
-###### There will be compulsory cleaning charges for **ALL** booking days.
+<p style="font-family:Arial, sans-serif;font-size:16px;
+  font-weight:normal;line-height:1.5">MOE and affiliated schools enjoy a preferential rate. Please enquire for more details.<br><br>A minimum of 2 technicians is needed for each booking for rehearsal or performance.<br><br>There will be compulsory cleaning charges for&nbsp;<b>ALL</b>&nbsp;booking days<br><br>
+	</p>

@@ -2,9 +2,10 @@ collections:
   showcase:
     output: true
     order:
-      - 2023/ACJC Celebrates the Class of 2022!.md
-      - 2023/137th Founder's Day.md
       - 2023/.keep
+      - 2023/Science Week 2023.md
+      - 2023/137th Founder's Day.md
+      - 2023/ACJC Celebrates the Class of 2022!.md
       - 2022/.keep
       - 2022/ACJC Celebrates the Class of 2021.md
       - 2022/ACJC Cherishes the Class of 2021.md
