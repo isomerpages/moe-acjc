@@ -3,10 +3,10 @@ title: DSA DRAFT
 permalink: /dsa/permalink/
 description: ""
 ---
-### DSA(JC) Exercise 2023
+#### DSA(JC) Exercise 2023
 Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS and DEBATES are invited to apply for DSA into ACJC:
-
-**SPORTS**<br>
+<hr>
+<p style="line-height: 1.0;"><strong><span style="font-size: 20px; font-family: Arial, Helvetica, sans-serif;">SPORTS</span></strong></p>
 Badminton<br>
 Basketball (Boys)<br>
 Bowling<br>
@@ -23,12 +23,14 @@ Swimming<br>
 Tennis<br>
 Track and Field<br>
 Volleyball<br>
-Waterpolo (Boys)<br>
+Waterpolo (Boys)<br><br>
 <a target="_blank" href="/files/dsa/dsa sports eligibility criteria 2023.pdf"><b>Sports Eligibility Criteria 2023</b></a><br><br>
-**SPORTS APPLICATION FORM**<br>
+
+<div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 20px;"><b>SPORTS APPLICATION FORM</b></span></div>
 <a target="_blank" href="https://go.gov.sg/acjc-dsa-sports"><b>https://go.gov.sg/acjc-dsa-sports</b></a><br>
 
-**PERFORMING ARTS AND DEBATE**<br>
+
+<b>PERFORMING ARTS AND DEBATE</b><br>
 Concert Band - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Concert Band 2023</a><br>
 Choir - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Choir 2023</a><br>
 String Ensemble - <a target="_blank" href="/files/dsa/eligibility criteria string ensemble 2023.pdf">Selection Criteria String Ensemble</a><br>
