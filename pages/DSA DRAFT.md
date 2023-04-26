@@ -24,8 +24,9 @@ Tennis<br>
 Track and Field<br>
 Volleyball<br>
 Waterpolo (Boys)<br>
-<a target="_blank" href="/files/dsa/dsa sports eligibility criteria 2023.pdf">Sports Eligibility Criteria 2023</a>
-
+<a target="_blank" href="/files/dsa/dsa sports eligibility criteria 2023.pdf"><b>Sports Eligibility Criteria 2023</b></a><br>
+**Sports Application Form**<br>
+<a target="_blank" href="https://go.gov.sg/acjc-dsa-sports"><b>https://go.gov.sg/acjc-dsa-sports</b></a><br>
 
 **PERFORMING ARTS AND DEBATE**<br>
 Concert Band - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Concert Band 2023</a><br>
@@ -37,15 +38,14 @@ English Debating - <a target="_blank" href="/files/dsa/eligibility criteria engl
 
 
 **ACADEMIC AREAS**<br>
-Drama Elective Programme - Selection Criteria Drama Elective 2023<br>
-Music Elective Programme - Selection CriteriaMusic Elective 2023<br>
-Humanities Programme - Selection Criteria Humanities 2023<br>
-Mathematics and Science - Selection Criteria Mathematics and Science 2023<br>
-Information Technology (Computing) - Selection Criteria Information Technology 2023<br>
+Drama Elective Programme - <a target="_blank" href="/files/dsa/eligibility criteria drama elective programme 2023.pdf">Selection Criteria Drama Elective Programme</a><br>
+Music Elective Programme - <a target="_blank" href="/files/dsa/eligibility criteria music elective programme 2023.pdf">Selection Criteria Music Elective Programme</a><br>
+Humanities Programme - <a target="_blank" href="/files/dsa/eligibility criteria humanities programme 2023.pdf">Selection Criteria Humanities Programme</a><br>
+Mathematics or Science - <a target="_blank" href="/files/dsa/eligibility criteria mathematics or science.pdf">Selection Criteria Mathematics Or Science</a><br>
+Information Technology (Computing) - <a target="_blank" href="/files/dsa/eligibility criteria infocomm technology (computing).pdf">Selection Criteria Infocomm Technology (Computing)</a><br>
 
 **Please submit your online applications via the links below.**<br>
-Sports DSA Application<br>
-https://go.gov.sg/acjcdsasports2022
+
 
 Performing Arts &amp; Debates DSA Application
 https://go.gov.sg/acjcdsapadebates2022
