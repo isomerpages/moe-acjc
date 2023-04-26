@@ -30,10 +30,10 @@ Waterpolo (Boys)<br>
 **PERFORMING ARTS AND DEBATE**<br>
 Concert Band - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Concert Band 2023</a><br>
 Choir - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Choir 2023</a><br>
-String Ensemble - Selection Criteria String Ensemble 2023<br>
-Modern Dance - Selection Criteria Modern Dance 2023<br>
-Theatre - Selection Criteria Theatre 2023<br>
-English Debating - Selection Criteria English Debating 2023<br>
+String Ensemble - <a target="_blank" href="/files/dsa/eligibility criteria string ensemble 2023.pdf">Selection Criteria String Ensemble</a><br>
+Modern Dance - <a target="_blank" href="/files/dsa/eligibility criteria modern dance 2023.pdf">Selection Criteria Modern Dance</a><br>
+Theatre - <a target="_blank" href="/files/dsa/eligibility criteria theatre 2023.pdf">Selection Criteria Theatre</a><br>
+English Debating - <a target="_blank" href="/files/dsa/eligibility criteria english debating 2023.pdf">Selection Criteria English Debating</a><br>
 
 
 **ACADEMIC AREAS**<br>
