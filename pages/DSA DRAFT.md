@@ -26,6 +26,4 @@ Volleyball<br>
 Waterpolo (Boys)<br>
 
 Sports Eligibility Criteria 2023<br>
-
-<p></p>
-
+[Sports Eligibility Criteria 2023](/files/dsa/dsa sports eligibility criteria 2023.pdf)
