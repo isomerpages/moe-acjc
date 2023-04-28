@@ -46,16 +46,14 @@ Music Elective Programme - <a target="_blank" href="/files/dsa/eligibility crite
 Humanities Programme - <a target="_blank" href="/files/dsa/eligibility criteria humanities programme 2023.pdf">Selection Criteria Humanities Programme</a><br>
 Mathematics or Science - <a target="_blank" href="/files/dsa/eligibility criteria mathematics or science.pdf">Selection Criteria Mathematics Or Science</a><br>
 Information Technology (Computing) - <a target="_blank" href="/files/dsa/eligibility criteria infocomm technology (computing).pdf">Selection Criteria Infocomm Technology (Computing)</a><br><br>
-<div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>ACADEMIC AREAS APPLICATION FORMS</b></span></div>
 
-Drama Elective Programme&nbsp;&nbsp;
-https://go.gov.sg/acjc-dsa-dep<br>
-Music Elective Programme&nbsp;&nbsp;
-https://go.gov.sg/acjc-dsa-mep<br>
-Humanities Programme&nbsp;&nbsp;
-https://go.gov.sg/acjc-dsa-humanities<br>
-Mathematics or Science
- Infocomm Technology (Computing)&nbsp;&nbsp; https://go.gov.sg/acjc-dsa-math-science-infocomm<br>
+<div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>ACADEMIC AREAS APPLICATION FORMS</b></span></div>
+Drama Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-dep">https://go.gov.sg/acjc-dsa-dep</a><br>
+Music Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-mep">https://go.gov.sg/acjc-dsa-mep</a><br>
+Humanities Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-humanities">https://go.gov.sg/acjc-dsa-humanities</a><br>
+Mathematics or Science or Infocomm Technology - <a target="_blank" href="https://go.gov.sg/acjc-dsa-math-science-infocomm">https://go.gov.sg/acjc-dsa-math-science-infocomm</a><br>
+
+
 
 **Application Procedures**<br>
 All applications will be online via the link on our College website.<br>
