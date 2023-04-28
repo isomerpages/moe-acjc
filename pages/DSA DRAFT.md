@@ -69,12 +69,12 @@ DSA Phase 1: <b>10 August 2023</b><br>
 DSA Phase 2:  <b>5 September 2023</b><br>
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Acceptance of DSA Offer</span></strong></p>
-Successful applicants must accept the DSA offer by emailing the completed acceptance forms to ACJC within the following period as set out by MOE:<br>
+Successful applicants must accept the DSA offer by emailing the completed acceptance forms to ACJC within the following period as set out by MOE:<br><br>
 DSA Phase 1: <b>11 – 15 August 2023</b><br>
 DSA Phase 2: <b>6 – 11 September 2023</b><br>
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Enquiries</span></strong></p>
-General information on the DSA-JC Exercise can be found on <b>MOE’s website </b><a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa"><b>https://www.moe.gov.sg/post-secondary/admissions/dsa</b></a>
-<br><br>Specific details on ACJC's DSA-JC requirements can be found in the respective CCA eligibility criteria, and in the online application form.
-
-Alternatively, you may like to contact us at acjc@acjc.edu.sg should you have further enquiries.
+General information on the DSA-JC Exercise can be found on <b>MOE’s website </b><a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa"><b>https://www.moe.gov.sg/post-secondary/admissions/dsa</b></a>.
+<br><br>
+<div>Specific details on ACJC's DSA-JC requirements can be found in the respective CCA eligibility criteria, and in the online application form.</div><br>
+<div>Alternatively, you may like to contact us at acjc@acjc.edu.sg should you have further enquiries.</div>
