@@ -51,35 +51,29 @@ Information Technology (Computing) - <a target="_blank" href="/files/dsa/eligibi
 Drama Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-dep">https://go.gov.sg/acjc-dsa-dep</a><br>
 Music Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-mep">https://go.gov.sg/acjc-dsa-mep</a><br>
 Humanities Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-humanities">https://go.gov.sg/acjc-dsa-humanities</a><br>
-Mathematics or Science or Infocomm Technology - <a target="_blank" href="https://go.gov.sg/acjc-dsa-math-science-infocomm">https://go.gov.sg/acjc-dsa-math-science-infocomm</a><br>
-
-
-
-**Application Procedures**<br>
+Mathematics or Science or Infocomm Technology - <a target="_blank" href="https://go.gov.sg/acjc-dsa-math-science-infocomm">https://go.gov.sg/acjc-dsa-math-science-infocomm</a><br><br>
+<hr>
+<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Application Procedures</span></strong></p>
 All applications will be online via the link on our College website.<br>
 Students who have <b>submitted applications during Phase 1 </b> but are not offered a place <b>need not submit </b> new applications <b>for Phase 2</b> as all applications will automatically be considered for both phases.
 
-
-**Submission Deadline**<br>
-To give candidates adequate time to prepare for the DSA Selection process, it is strongly recommended that all applications are submitted well in advance of the official deadlines:<br>
+<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Submission Deadline</span></strong></p>
+To give candidates adequate time to prepare for the DSA Selection process, it is strongly recommended that all applications are submitted well in advance of the official deadlines:<br><br>
 DSA Phase 1: <b>3 August 2023</b><br>
-DSA Phase 2:  <b>29 August 2023</b><br>
+DSA Phase 2:  <b>29 August 2023</b><br><br>
 Please note that the DSA Selection process is by invitation only, based on applications submitted by candidates. 
 
-
-**Results of DSA Applications**<br>
-ACJC Applicants will know the outcome of their DSA application by the following dates:<br>
+<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Results of DSA Applications</span></strong></p>
+ACJC Applicants will know the outcome of their DSA application by the following dates:<br><br>
 DSA Phase 1: <b>10 August 2023</b><br>
 DSA Phase 2:  <b>5 September 2023</b><br>
 
-
-**Acceptance of DSA Offer**<br>
+<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Acceptance of DSA Offer</span></strong></p>
 Successful applicants must accept the DSA offer by emailing the completed acceptance forms to ACJC within the following period as set out by MOE:<br>
 DSA Phase 1: <b>11 – 15 August 2023</b><br>
 DSA Phase 2: <b>6 – 11 September 2023</b><br>
 
-
-**Enquiries**<br>
+<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Enquiries</span></strong></p>
 General information on the DSA-JC Exercise can be found on <b>MOE’s website</b>. [https://www.moe.gov.sg/post-secondary/admissions/dsa]
 <br><br>Specific details on ACJC's DSA-JC requirements can be found in the respective CCA eligibility criteria, and in the online application form.
 
