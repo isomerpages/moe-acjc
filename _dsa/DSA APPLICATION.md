@@ -29,7 +29,7 @@ Waterpolo (Boys)<br><br>
 <a target="_blank" href="https://go.gov.sg/acjc-dsa-sports"><b>https://go.gov.sg/acjc-dsa-sports</b></a><br><br>
 <hr>
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">PERFORMING ARTS AND DEBATE</span></strong></p>
-Concert Band - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Concert Band 2023</a><br>
+Concert Band - <a target="_blank" href="/files/dsa/eligibility%20criteria%20choi%202023.pdf">Selection Criteria Concert Band 2023</a><br>
 Choir - <a target="_blank" href="/files/dsa/eligibility criteria choir 2023.pdf">Selection Criteria Choir 2023</a><br>
 String Ensemble - <a target="_blank" href="/files/dsa/eligibility criteria string ensemble 2023.pdf">Selection Criteria String Ensemble 2023</a><br>
 Modern Dance - <a target="_blank" href="/files/dsa/eligibility criteria modern dance 2023.pdf">Selection Criteria Modern Dance 2023</a><br>
