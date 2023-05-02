@@ -24,7 +24,7 @@ Tennis<br>
 Track and Field<br>
 Volleyball<br>
 Waterpolo (Boys)<br><br>
-<a target="_blank" href="/files/dsa/dsa sports eligibility criteria 2023.pdf">Sports Eligibility Criteria 2023</a><br><br>
+<a target="_blank" href="/files/dsa/dsa%20sports%20eligibility%20criteria%202023.pdf">Sports Eligibility Criteria 2023</a><br><br>
 <div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>SPORTS APPLICATION FORM</b></span></div>
 <a target="_blank" href="https://go.gov.sg/acjc-dsa-sports"><b>https://go.gov.sg/acjc-dsa-sports</b></a><br><br>
 <hr>
