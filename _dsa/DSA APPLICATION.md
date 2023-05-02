@@ -41,11 +41,11 @@ English Debating - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20
 <hr>
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">ACADEMIC AREAS</span></strong></p>
-Drama Elective Programme - <a target="_blank" href="/files/dsa/eligibility criteria drama elective programme 2023.pdf">Selection Criteria Drama Elective Programme</a><br>
-Music Elective Programme - <a target="_blank" href="/files/dsa/eligibility criteria music elective programme 2023.pdf">Selection Criteria Music Elective Programme</a><br>
-Humanities Programme - <a target="_blank" href="/files/dsa/eligibility criteria humanities programme 2023.pdf">Selection Criteria Humanities Programme</a><br>
-Mathematics or Science - <a target="_blank" href="/files/dsa/eligibility criteria mathematics or science.pdf">Selection Criteria Mathematics Or Science</a><br>
-Information Technology (Computing) - <a target="_blank" href="/files/dsa/eligibility criteria infocomm technology (computing).pdf">Selection Criteria Infocomm Technology (Computing)</a><br><br>
+Drama Elective Programme - <a target="_blank" href="/files/Dsa/eligibility criteria drama elective programme 2023.pdf">Selection Criteria Drama Elective Programme</a><br>
+Music Elective Programme - <a target="_blank" href="/files/Dsa/eligibility criteria music elective programme 2023.pdf">Selection Criteria Music Elective Programme</a><br>
+Humanities Programme - <a target="_blank" href="/files/Dsa/eligibility criteria humanities programme 2023.pdf">Selection Criteria Humanities Programme</a><br>
+Mathematics or Science - <a target="_blank" href="/files/Dsa/eligibility criteria mathematics or science.pdf">Selection Criteria Mathematics Or Science</a><br>
+Information Technology (Computing) - <a target="_blank" href="/files/Dsa/eligibility criteria infocomm technology (computing).pdf">Selection Criteria Infocomm Technology (Computing)</a><br><br>
 
 <div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>ACADEMIC AREAS APPLICATION FORMS</b></span></div>
 Drama Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-dep"><b>https://go.gov.sg/acjc-dsa-dep</b></a><br>
