@@ -24,17 +24,17 @@ Tennis<br>
 Track and Field<br>
 Volleyball<br>
 Waterpolo (Boys)<br><br>
-<a target="_blank" href="/files/dsa/dsa%20sports%20eligibility%20criteria%202023.pdf">Sports Eligibility Criteria 2023</a><br><br>
+<a target="_blank" href="/files/Dsa/dsa%20sports%20eligibility%20criteria%202023.pdf">Sports Eligibility Criteria 2023</a><br><br>
 <div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>SPORTS APPLICATION FORM</b></span></div>
 <a target="_blank" href="https://go.gov.sg/acjc-dsa-sports"><b>https://go.gov.sg/acjc-dsa-sports</b></a><br><br>
 <hr>
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">PERFORMING ARTS AND DEBATE</span></strong></p>
-Concert Band - <a target="_blank" href="/files/dsa/eligibility%20criteria%20choi%202023.pdf">Selection Criteria Concert Band 2023</a><br>
-Choir - <a target="_blank" href="/files/dsa/eligibility%20criteria%20choir%202023.pdf">Selection Criteria Choir 2023</a><br>
-String Ensemble - <a target="_blank" href="/files/dsa/eligibility%20criteria%20string%20ensemble%202023.pdf">Selection Criteria String Ensemble 2023</a><br>
-Modern Dance - <a target="_blank" href="/files/dsa/eligibility%20criteria%20modern%20dance%202023.pdf">Selection Criteria Modern Dance 2023</a><br>
-Theatre - <a target="_blank" href="/files/dsa/eligibility%20criteria%20theatre%202023.pdf">Selection Criteria Theatre 2023</a><br>
-English Debating - <a target="_blank" href="/files/dsa/eligibility%20criteria%20english%20debating%202023.pdf">Selection Criteria English Debating 2023</a><br><br>
+Concert Band - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20choi%202023.pdf">Selection Criteria Concert Band 2023</a><br>
+Choir - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20choir%202023.pdf">Selection Criteria Choir 2023</a><br>
+String Ensemble - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20string%20ensemble%202023.pdf">Selection Criteria String Ensemble 2023</a><br>
+Modern Dance - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20modern%20dance%202023.pdf">Selection Criteria Modern Dance 2023</a><br>
+Theatre - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20theatre%202023.pdf">Selection Criteria Theatre 2023</a><br>
+English Debating - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20english%20debating%202023.pdf">Selection Criteria English Debating 2023</a><br><br>
 
 <div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>PERFORMING ARTS AND DEBATE APPLICATION FORM</b></span></div>
 <a target="_blank" href="https://go.gov.sg/acjc-dsa-arts-debate"><b>https://go.gov.sg/acjc-dsa-arts-debate</b></a><br><br>
