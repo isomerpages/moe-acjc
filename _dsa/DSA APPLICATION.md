@@ -43,7 +43,7 @@ English Debating - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">ACADEMIC AREAS</span></strong></p>
 Drama Elective Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20drama%20elective%20programme%202023.pdf">Selection Criteria Drama Elective Programme</a><br>
 Music Elective Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20music%20elective%20programme%202023.pdf">Selection Criteria Music Elective Programme</a><br>
-Humanities Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20humanities%20programme%20023.pdf">Selection Criteria Humanities Programme</a><br>
+Humanities Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20humanities%20programme%202023.pdf">Selection Criteria Humanities Programme</a><br>
 Mathematics or Science - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20mathematics%20or%20science.pdf">Selection Criteria Mathematics Or Science</a><br>
 Information Technology (Computing) - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20infocomm%20technology%20(computing).pdf">Selection Criteria Infocomm Technology (Computing)</a><br><br>
 
