@@ -9,8 +9,8 @@ third_nav_title: Circulars
   
 JC1 Assessment Schedule. Click&nbsp;[here](/files/2023%20jc1%20assessment%20schedule.pdf)&nbsp;for download.  
 
-
-JC1 Mid-Year Assessment Timetable and Instructions for Students. <font color="#A96324"><em>To be released at a later date.</em></font>
+JC1 Mid-Year Assessment Timetable and Instructions for Students. Click&nbsp;
+<font color="#A96324"><em>To be released at a later date.</em></font>
 
 JC1 Promotional Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
 
