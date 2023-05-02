@@ -59,19 +59,19 @@ Students who have <b>submitted applications during Phase 1 </b> but are not offe
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Submission Deadline</span></strong></p>
 To give candidates adequate time to prepare for the DSA Selection process, it is strongly recommended that all applications are submitted well in advance of the official deadlines:<br><br>
-DSA Phase 1: <b>3 August 2023</b><br>
-DSA Phase 2:  <b>29 August 2023</b><br><br>
+DSA Phase 1:&nbsp;&nbsp;<span style="color: #d00505;"><b>3 August 2023</b></span><br>
+DSA Phase 2: &nbsp;<span style="color: #d00505;"><b>29 August 2023</b></span><br><br>
 Please note that the DSA Selection process is by invitation only, based on applications submitted by candidates. 
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Results of DSA Applications</span></strong></p>
 ACJC Applicants will know the outcome of their DSA application by the following dates:<br><br>
-DSA Phase 1: <b>10 August 2023</b><br>
-DSA Phase 2:  <b>5 September 2023</b><br>
+DSA Phase 1: &nbsp;<span style="color: #d00505;"><b>10 August 2023</b></span><br>
+DSA Phase 2: &nbsp;&nbsp;<span style="color: #d00505;"><b>05 September 2023</b></span><br>
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Acceptance of DSA Offer</span></strong></p>
 Successful applicants must accept the DSA offer by emailing the completed acceptance forms to ACJC within the following period as set out by MOE:<br><br>
-DSA Phase 1: <b>11 – 15 August 2023</b><br>
-DSA Phase 2: <b>6 – 11 September 2023</b><br>
+DSA Phase 1: &nbsp;<span style="color: #d00505;"><b>11 – 15 August 2023</b></span><br>
+DSA Phase 2: &nbsp;<span style="color: #d00505;"><b>&nbsp;06 – 11 September 2023</b></span><br>
 
 <p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Enquiries</span></strong></p>
 General information on the DSA-JC Exercise can be found on <b>MOE’s website </b><a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa"><b>https://www.moe.gov.sg/post-secondary/admissions/dsa</b></a>.
