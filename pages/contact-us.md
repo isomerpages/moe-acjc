@@ -7,7 +7,7 @@ locations:
   - address:
       - Address
       - 25 Dover Close East
-      - Singapore 123456
+      - Singapore 139745
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 5.00pm
