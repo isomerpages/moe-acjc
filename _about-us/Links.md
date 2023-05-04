@@ -11,9 +11,10 @@ description: ""
 [Anglo-Chinese School (Primary)](https://acspri.moe.edu.sg/)<br>
 [Anglo-Chinese School (International)](https://www.acsinternational.com.sg/)<br>
 [Anglo-Chinese School (Barker Road)](https://www.acsbr.moe.edu.sg/)<br>
-[Anglo-Chinese School (Junior)](https://acsjunior.sg/)
-<p><a href="https://acsecho.com/" data-fr-linked="true">https://acsecho.com/</a></p>
-<p><br></p> 
+[Anglo-Chinese School (Junior)](https://acsjunior.sg/) <br>
+[ACS Echo](https://acsecho.com/)
+
+
 
   
 
