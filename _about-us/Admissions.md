@@ -26,8 +26,7 @@ Thank you to the many students who have shown interest in applying to our colleg
 
 ### DIRECT SCHOOL ADMISSION (DSA)
 
-The annual DSA Exercise is held from May to August each year. The exact dates, eligibility criteria and application procedure will be available at that time.
-  
+The annual DSA Exercise is held from May to August each year. The Direct School Admission application is now open. Click [here](https://www.acjc.moe.edu.sg/dsa/dsa-application/) for details.
 
 ### RETURNING SINGAPOREANS
 

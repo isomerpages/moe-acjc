@@ -18,7 +18,7 @@ The College would like to congratulate the following CCA groups on their achieve
 
 **_Choir_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Choir)  
 
-**_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)**
+**_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)
 
 **To God be the Glory! The Best Is Yet To Be!**
 
