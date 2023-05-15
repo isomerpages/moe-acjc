@@ -16,4 +16,6 @@ In addition, there were special guest lecturers on biological topics that are be
 
 The Mathematics Department organised a Learning Journey to the Urban Redevelopment Authority. Through a guided tour of the Singapore City Gallery and a sharing session by a URA officer, students learnt about the applications of mathematics and statistics to urban planning, and discover the inter-connectedness of all the departments within URA in creating a quality living environment for all of us.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRn8pn0-q4I1x4JdgyyUxY-2HuazlS00zJBVU84Zhp1qGPnF1IHGS7GOCk4PzH2EUgOf_AqBLSLYOX2/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="500" allowfullscreen="true"></iframe>
+
 Through these special practicals, guest lectures and learning journey, we hope our students found the learning enriching and fun. We look forward to next year’s Science and Mathematics Week!
