@@ -6,7 +6,7 @@ third_nav_title: "2023"
 ---
 ACJC participated in the 34th Singapore Chemistry Olympiad, 35th Singapore Physics Olympiad and the 23rd Singapore Biology Olympiad in 2022. We are pleased and proud to announce our medallists in these competitions.
 
-
+![](/images/Showcase/Science%20Olympiads/2022scolympiadachievements.jpg)
  
 From left to right: Nguyen Thanh Tin (2SA6), Cheah Jun Ee (2SA6), Florian Viorel Tanely (2SA6), Keef Sng Rui En (2SC1), Mus’ab Bin Zailan (2SB1), Neo Jia Wen (2SB1), Lim Jingrui, Kayden (2SB1), Cao Peiyuan (2SA1), John Tang Guang Yuan (2SA1), Zhang Jiaming (2SA1), Shem Koh (2SA1), Amanda Lee Hui Ning (2SC2)
 
