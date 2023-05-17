@@ -4,7 +4,7 @@ permalink: /showcase/2023/permalink/
 description: ""
 third_nav_title: "2023"
 ---
-ACJC participated in the 34th Singapore Chemistry Olympiad, 35th Singapore Physics Olympiad and the 23rd Singapore Biology Olympiad in 2022. We are pleased and proud to announce our medallists in these competitions.
+ACJC participated in the 34th Singapore Chemistry Olympiad, 35th Singapore Physics Olympiad and the 23rd Singapore Biology Olympiad in 2022. We are pleased and proud to announce our medalists in these competitions.
 
 ![](/images/Showcase/Science%20Olympiads/2022scolympiadachievements.jpg)
  
