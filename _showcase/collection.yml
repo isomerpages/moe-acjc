@@ -2,7 +2,6 @@ collections:
   showcase:
     output: true
     order:
-      - 2023/Example Title.md
       - 2023/44th CB Paul Science Quiz.md
       - 2023/Science Olympiads 2023.md
       - 2023/.keep
