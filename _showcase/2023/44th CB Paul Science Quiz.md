@@ -20,5 +20,7 @@ This year, the Quiz was held in a hybrid manner. The Preliminary Round was condu
 
 We celebrate the participants’ achievements and trust that they will continue to deepen their passion for Science and Mathematics.
 
-Last Row left to right: A/P Soo Han Sen, Dr. Tan Yong Zi, A/P Aaron Tan, Dr. Abel Yang, Prof Bernard Tan, Dr Shirleen Chee, A/P Prof Tan Tin Wee, A/P Ng Keng Meng, HCI Finalist Team
-First Row left to right: CGS Finalist Team, Fuhua Sec Finalist Team, NUS High Finalist Team
+![](/images/Showcase/2023/44th%20CB%20Paul/picture1.jpg)
+
+*Last Row left to right: A/P Soo Han Sen, Dr. Tan Yong Zi, A/P Aaron Tan, Dr. Abel Yang, Prof Bernard Tan, Dr Shirleen Chee, A/P Prof Tan Tin Wee, A/P Ng Keng Meng, HCI Finalist Team
+First Row left to right: CGS Finalist Team, Fuhua Sec Finalist Team, NUS High Finalist Team*
