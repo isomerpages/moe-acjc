@@ -34,29 +34,54 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 </thead>
 <tbody>
 <tr>
+    <td class="tg-yl2x"><span style="color:#E69138;background-color:initial">GOLD</span></td>
+    <td class="tg-yl2x">Basketball</td>
+    <td class="tg-yl2x"></td>
+  </tr>
+<tr>
     <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Silver</td>
     <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Bowling</td>
     <td class="tg-imtz"> Bowling</td>
   </tr>	
 <tr>
     <td class="tg-6j78">Bronze</td>
-    <td class="tg-6j78">Rugby</td>
+    <td class="tg-6j78">Football</td>
     <td class="tg-6j78">Canoeing</td>
  </tr>
 	<tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-6j78"> Squash</td>
+    <td class="tg-6j78"> Rugby</td>
     <td class="tg-6j78"></td>
   </tr>
-		<tr>
+	<tr>
     <td class="tg-ktyi"> </td>
-    <td class="tg-6j78"> Tennis</td>
+    <td class="tg-6j78">Squash</td>
+    <td class="tg-6j78"></td>
+  </tr>
+<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Swimming</td>
+    <td class="tg-6j78"></td>
+  </tr>
+<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Tennis</td>
+    <td class="tg-6j78"></td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Waterpolo</td>
     <td class="tg-6j78"></td>
   </tr>
 <tr>
     <td class="tg-wibo">Fourth</td>
     <td class="tg-wibo">Canoeing</td>
-    <td class="tg-auss"><span style="font-weight:800;color:#CE0E2D"></span></td>
+    <td class="tg-wibo">Hockey</td>
+  </tr>
+	<tr>
+    <td class="tg-wibo"></td>
+    <td class="tg-wibo">Golf</td>
+    <td class="tg-wibo">Swimming</td>
   </tr>
 	<tr>
     <td class="tg-wibo"></td>
