@@ -208,7 +208,7 @@ To God be the&nbsp; Glory! The Best Is Yet To Be!
 </thead>
 <tbody>
   <tr>
-    <td class="tg-yl2x"><span style="background-color:initial">GOLD</span><br><br></td>
+    <td class="tg-yl2x"><span style="background-color:initial">GOLD</span></td>
     <td class="tg-7yig"></td>
     <td class="tg-yl2x">Bowling</td>
   </tr>
