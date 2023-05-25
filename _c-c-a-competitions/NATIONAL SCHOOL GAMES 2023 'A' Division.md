@@ -36,7 +36,7 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 <tr>
     <td class="tg-yl2x"><span style="color:#E69138;background-color:initial">GOLD</span></td>
     <td class="tg-yl2x">Basketball</td>
-    <td class="tg-yl2x"></td>
+    <td class="tg-yl2x">Softball</td>
   </tr>
 <tr>
     <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Silver</td>

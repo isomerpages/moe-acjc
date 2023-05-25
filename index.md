@@ -26,7 +26,7 @@ sections:
       button: For more results
       url: /c-c-a-competitions/national-school-games-2023-a-division/
       alt: Image alt text
-      image: /images/InfoPic/cca up 5.jpg
+      image: /images/InfoPic/cca up 6.jpg
   - infopic:
       title: Congratulations to Class of 2022
       description: On the 17th of February 2023, ACJC received the GCE A-Level
