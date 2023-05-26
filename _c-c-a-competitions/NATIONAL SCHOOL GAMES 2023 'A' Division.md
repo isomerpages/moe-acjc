@@ -51,7 +51,7 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 	<tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-6j78"> Rugby</td>
-    <td class="tg-6j78"></td>
+    <td class="tg-6j78">Netball</td>
   </tr>
 	<tr>
     <td class="tg-ktyi"> </td>
