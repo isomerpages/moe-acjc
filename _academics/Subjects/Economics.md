@@ -4,7 +4,7 @@ permalink: /student-life/academics/subjects/economics/
 description: ""
 third_nav_title: Subjects
 ---
-### ECONOMICS H1 (Syllabus 8843)  
+### ECONOMICS H1 (Syllabus 8823)  
 
 
 ##### Aims
@@ -32,7 +32,7 @@ Themes
 
 • The National Economy, which includes analyses of macroeconomic problems and policies.
 
-The syllabus document may be accessed at this&nbsp;[link](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2020syllabus/8823_y20_sy.pdf).
+The syllabus document may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sy.pdf).
 
 
 ### ECONOMICS H2 (Syllabus 950)
