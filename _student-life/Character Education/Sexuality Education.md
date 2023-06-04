@@ -4,7 +4,7 @@ permalink: /student-life/character-education/sexuality-education/
 description: ""
 third_nav_title: Character Education
 ---
-### Growing Years Programme&nbsp;
+### Sexuality Education Programme&nbsp;
 
 The following lessons from the Sexuality Education Programme will be taught:  
   
@@ -148,7 +148,6 @@ The following lessons from the Sexuality Education Programme will be taught:
 </tbody>
 </table>
 
-For more information about Growing Years click&nbsp;[here](/parents/sexuality-education).  
   
 ### eTeens Programme:
   
@@ -194,7 +193,7 @@ For more information about Growing Years click&nbsp;[here](/parents/sexuality-ed
 </tbody>
 </table>
 
-For more information about ETeens click&nbsp;[here](/parents/sexuality-education).
+
 
 **Information** <br>
 For more information and enquires, you may approach the following teachers from the CCE and PCC Department.
