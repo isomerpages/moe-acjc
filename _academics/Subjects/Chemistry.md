@@ -88,6 +88,9 @@ The content topics in&nbsp;**H3 Chemistry**&nbsp;are organised into two levels u
 
 (b)&nbsp;**Additional content in H3 Chemistry**. Two content areas Spectroscopic Techniques and Further Organic Mechanisms are included to deepen the understanding of the core ideas by expanding the scope for analysis, synthesis and application of concepts.
 
+<u>Requirements to offer H3 Chemistry</u><br>
+Excellent results in H2 Chemistry and commendable results in other subjects at the JC1 Promotional Examinations
+
 <u>Assessment</u><br>
 **JC2**
 
