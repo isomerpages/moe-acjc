@@ -43,7 +43,4 @@ The A Level Examination for H2 Computing comprises one 3 hour written paper with
 
   
 
-The syllabus may be accessed on the SEAB website at the following link:
-
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9569_y21_sy.pdf)
+The syllabus may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9569_y24_sy.pdf).

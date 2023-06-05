@@ -47,9 +47,7 @@ The A Level Examination for H1 Mathematics comprises one 3 hour paper with about
 
   
 
-The syllabus document may be accessed at the following link:
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8865\_y21\_sy.pdf](/files/8865_y21_sy.pdf)
+The syllabus document may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf).
 
 ### H2 MATHEMATICS (SYLLABUS 9758)
 
@@ -92,9 +90,7 @@ The A Level Examination for H2 Mathematics comprises two 3 hour papers with abou
 
   
 
-The syllabus document may be accessed at the following link:
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9758\_y21\_sy.pdf](/files/9758_y21_sy.pdf)
+The syllabus document may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf).
 
 ### H3 MATHEMATICS (SYLLABUS 9820)
 
@@ -132,6 +128,4 @@ The A Level Examination for H3 Mathematics comprises one 3 hour paper with 8 to 
 
   
 
-The syllabus document may be accessed at the following link:
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9820\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9820_y21_sy.pdf)
+The syllabus document may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf).

@@ -24,7 +24,10 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 .tg .tg-6j78{background-color:#FFF;color:#B45F06;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-wibo{background-color:#FFF;color:#C00;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+
+ &nbsp; &nbsp;
+ &nbsp; &nbsp;
+ &nbsp;<table class="tg">
 <thead>
   <tr>
     <th class="tg-6qpi">AWARD</th>
@@ -51,7 +54,7 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 	<tr>
     <td class="tg-ktyi"> </td>
     <td class="tg-6j78"> Rugby</td>
-    <td class="tg-6j78"></td>
+    <td class="tg-6j78">Netball</td>
   </tr>
 	<tr>
     <td class="tg-ktyi"> </td>
@@ -80,14 +83,16 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
   </tr>
 	<tr>
     <td class="tg-wibo"></td>
-    <td class="tg-wibo">Golf</td>
+    <td class="tg-wibo">Floorball</td>
     <td class="tg-wibo">Swimming</td>
   </tr>
 	<tr>
     <td class="tg-wibo"></td>
-    <td class="tg-wibo">Volleyball</td>
+    <td class="tg-wibo">Golf</td>
     <td class="tg-wibo"></td>
   </tr>
+	<tr><td class="tg-wibo"></td>
+		<td class="tg-wibo">Volleyball</td><td class="tg-wibo"></td></tr>
 </tbody>
 </table>
 

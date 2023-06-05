@@ -4,7 +4,7 @@ permalink: /student-life/academics/subjects/economics/
 description: ""
 third_nav_title: Subjects
 ---
-### ECONOMICS H1 (Syllabus 8843)  
+### ECONOMICS H1 (Syllabus 8823)  
 
 
 ##### Aims
@@ -32,10 +32,10 @@ Themes
 
 • The National Economy, which includes analyses of macroeconomic problems and policies.
 
-The syllabus document may be accessed at this&nbsp;[link](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2020syllabus/8823_y20_sy.pdf).
+The syllabus document may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sy.pdf).
 
 
-### ECONOMICS H2 (Syllabus 950)
+### ECONOMICS H2 (Syllabus 9570)
 
 ##### Aims
 
@@ -66,7 +66,7 @@ Theme 2 (Markets) focusses on how firms and markets function. It allows students
   
 H2 Economics is assessed through 2 papers.  
   
-Paper 1 consists of 2 case studies over 2 hours 15 minutes and Paper 2 consists of 3 essays over 2 hours 15 minutes. Every H2 student is required to sit for both papers.  
+Paper 1 consists of 2 case studies over 2 hours 30 minutes and Paper 2 consists of 3 essays over 2 hours 30 minutes. Every H2 student is required to sit for both papers.  
   
 **Paper 1 (Case study)**  
 Candidates will attempt 2 questions, each question will have 2-3 pages of extracts and quantitative data. The case will revolve around a multi-faceted economic issue or policy decision, and will involve a mix of data response questions and higher-order type questions, which involve application of theory to the scenario presented.  

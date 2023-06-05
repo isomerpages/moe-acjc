@@ -48,7 +48,6 @@ Secondly, Values In Action (VIA) is key to the development of this active citize
 National Education events:
 
 *   Total Defence Day
-*   Heritage Week
 *   International Friendship Day
 *   Racial Harmony Day
 *   National Day
@@ -59,7 +58,6 @@ National Education events:
 
 VIA programmes:
 
-*   Project Cheer (a collaboration with Tan Chin Tuan Foundation)
 *   Cohort-wide VIA projects
 *   Overseas Community Involvement Projects
 *   Class and CCA-initiated VIA projects

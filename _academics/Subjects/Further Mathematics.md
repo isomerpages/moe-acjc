@@ -47,6 +47,4 @@ The A Level Examination for H2 Further Mathematics comprises two 3 hour papers w
 
   
 
-The syllabus may be accessed on the SEAB website at the following URL
-
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9649\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9649_y21_sy.pdf)
+The syllabus may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9649_y24_sy.pdf).
