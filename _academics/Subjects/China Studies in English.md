@@ -57,7 +57,7 @@ Key Issue 3: Chinese Society and its Transformation
 
 Key Issue 4: China’s Foreign Policy and its Implications
 
-The syllabus may be accessed
+The syllabus is accessible [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9628_y24_sy.pdf).
 
 ### H1 CHINA STUDIES IN ENGLISH (SYLLABUS 8628)
 
@@ -92,7 +92,3 @@ H1 China Studies focuses on China’s transformation since 1978 and its future a
 *   China as a global power
 
 The assessment for H1 China Studies consists of one written examination paper with a duration of 3 hours. The assessment modes comprise a compulsory case study with 3 sub-questions and 2 essay questions
-
-The syllabus may be accessed from the SEAB website at the following link
-
-The syllabus is accessible [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9628_y24_sy.pdf).
