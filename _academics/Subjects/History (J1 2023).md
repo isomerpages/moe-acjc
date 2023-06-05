@@ -46,7 +46,7 @@ Assessment consists of one 3 hour paper where students are required to attempt:
 
 *   1 Source Based Question premised on ‘The Development of the Cold War (1945-1991)’
 
-*   2 Essays on ‘The Cold War and East Asia (1945-1991’, and ‘The Cold War and Southeast Asia’ (1945-1991)&nbsp;&nbsp;
+*   2 Essays on ‘The Cold War and East Asia (1945-1991)', and ‘The Cold War and Southeast Asia (1945-1991)'&nbsp;&nbsp;
 
   
 
