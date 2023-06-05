@@ -4,7 +4,7 @@ permalink: /student-life/academics/subjects/geography-j1-2023/
 description: ""
 third_nav_title: Subjects
 ---
-### H1 GEOGRAPHY (SYLLABUS 8814)
+### H1 GEOGRAPHY (SYLLABUS 8834)
 
 ##### Aims
 
