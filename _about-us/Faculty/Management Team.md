@@ -112,8 +112,8 @@ third_nav_title: Faculty
             <td valign="top">
                 <div>
                     <div>
-                        <div><br></div>
-                        <div><br></div>
+                        <div><strong>HOD Mother Tongue Languages</strong><br></div>
+                        <div>Ms Hoe Mei Hwee<br></div>
                     </div>
                 </div>
             </td>
@@ -123,7 +123,7 @@ third_nav_title: Faculty
                         <div>
                             <div>
                                 <div><strong>Subject Head Mother Tongue Languages</strong></div>
-                                <div>Ms Hoe Mei Hwee</div>
+                                <div>Ms Jiang Bin</div>
                                 <div><br></div>
                             </div>
                         </div>
