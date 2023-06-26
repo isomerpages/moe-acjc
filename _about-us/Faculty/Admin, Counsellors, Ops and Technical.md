@@ -10,7 +10,6 @@ Mrs Julie Lye
   
 
 **ADMINISTRATION MANAGER** <br>
-Mrs Ivy Tay <br>
 Ms Sarah Lim
 
   
