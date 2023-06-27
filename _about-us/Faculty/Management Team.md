@@ -208,7 +208,7 @@ third_nav_title: Faculty
                         <div><br></div><strong>
                             <div><strong>Subject Head Science Research and Talent Management</strong></div>
                         </strong>
-                        <div><br></div>
+                        <div></div>
                     </div>
                     <div>Ms Lee Sok Ee</div>
                     <div><br></div>
