@@ -12,7 +12,7 @@ third_nav_title: Faculty
             <td valign="top">
                 <div><strong>Principal</strong></div>
                 <div>Dr Shirleen Chee</div>
-                <div><br></div>
+                <div></div>
             </td>
             <td><br><br></td>
         </tr>
@@ -21,7 +21,7 @@ third_nav_title: Faculty
                 <div><strong>Vice-Principals (Education)</strong></div>
                 <div>Ms Audrey Lim</div>
                 <div>Mrs Choo Hong Kiang</div>
-                <div><br></div>
+                <div></div>
             </td>
             <td valign="top">
                 <div><strong>Vice-Principal (Admin)</strong></div>
@@ -32,7 +32,7 @@ third_nav_title: Faculty
             <td valign="top">
                 <div><strong>School Staff Developer</strong></div>
                 <div>Ms Dorine Chia</div>
-                <div><br></div>
+                <div></div>
             </td>
             <td><br></td>
         </tr>
@@ -47,7 +47,7 @@ third_nav_title: Faculty
                 <div><br></div>
                 <div>JC2 Year Head</div>
                 <div>Mr Calvin Choo</div>
-                <div><br></div>
+                <div></div>
             </td>
         </tr>
         <tr>
@@ -69,7 +69,7 @@ third_nav_title: Faculty
                 <div><strong><br></strong></div>
                 <div><strong>Subject Head English Literature</strong></div>
                 <div>Mr Sanjay Cheriyan Mathew</div>
-                <div><br></div>
+                <div></div>
             </td>
         </tr>
         <tr>
@@ -80,8 +80,8 @@ third_nav_title: Faculty
             <td valign="top">
                 <div><strong>Level Heads General Paper</strong></div>
                 <div>Ms Ong Xin Yi</div>
-                <div>Ms Ruth Lim</div>
-                <div><br></div>
+                <div></div>
+                <div></div>
             </td>
         </tr>
         <tr>
@@ -102,7 +102,7 @@ third_nav_title: Faculty
                             <div><strong><br></strong></div>
                             <div><strong>Level Head Mathematics</strong></div>
                             <div>Mr Yeo Kaixiang</div>
-                            <div><br></div>
+                            <div></div>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@ third_nav_title: Faculty
                             <div>
                                 <div><strong>Subject Head Mother Tongue Languages</strong></div>
                                 <div>Ms Jiang Bin (covering)</div>
-                                <div><br></div>
+                                <div></div>
                             </div>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ third_nav_title: Faculty
                 <div>
                     <div><strong>HOD Physical Education / Co-Curricular Activities</strong></div>
                     <div>Mr Mark Ng</div>
-                    <div><br></div>
+                    <div></div>
                 </div>
             </td>
             <td valign="top">
@@ -155,7 +155,7 @@ third_nav_title: Faculty
                 <div>
                     <div><strong>HOD Project Work</strong></div>
                     <div>Mr Fong Chun Kin</div>
-                    <div><br></div>
+                    <div></div>
                 </div>
             </td>
             <td><br></td>
@@ -194,16 +194,16 @@ third_nav_title: Faculty
                         <div>Ms So Zhao Ying</div>
                         <div><br></div>
                     </div>
-                    <div><br></div>
+                    <div></div>
                     <div>
                         <div><strong>Subject Head Physics</strong></div>
                         <div>Mr Chang Kok Keong</div>
                         <div><br></div>
-                        <div><br></div>
+                        <div></div>
                         <div>
                             <div><strong>Level Head Physics</strong></div>
                             <div>Mr Koo Guowen</div>
-                            <div><br></div>
+                            <div></div>
                         </div>
                         <div><br></div><strong>
                             <div><strong>Subject Head Science Research and Talent Management</strong></div>
@@ -211,7 +211,7 @@ third_nav_title: Faculty
                         <div></div>
                     </div>
                     <div>Ms Lee Sok Ee</div>
-                    <div><br></div>
+                    <div></div>
                 </div>
             </td>
         </tr>
@@ -236,7 +236,7 @@ third_nav_title: Faculty
             <td valign="top">
                 <div><strong>HOD Education Technology &amp; Innovation</strong></div>
                 <div>Mr Lau Chee Keen</div>
-                <div><br></div>
+                <div></div>
             </td>
             <td><br></td>
         </tr>
@@ -269,12 +269,12 @@ third_nav_title: Faculty
                 <div>
                     <div><strong>Subject Head&nbsp;</strong><strong>Student Management</strong></div>
                     <div>Mr Lau Chee Kheong</div>
-                    <div><br></div>
+                    <div></div>
                     <div><br></div>
                     <div>
                         <div><strong>Subject Head Student Leadership</strong></div>
                         <div>Mr Bryan Lee</div>
-                        <div><br></div>
+                        <div></div>
                     </div>
                 </div>
             </td>
@@ -290,7 +290,7 @@ third_nav_title: Faculty
                 <div>
                     <div><strong>Subject Head Pastoral Care &amp; Counselling</strong></div>
                     <div>Mr Calvin Xie</div>
-                    <div><br></div>
+                    <div></div>
                 </div>
             </td>
         </tr>
