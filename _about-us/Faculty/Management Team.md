@@ -123,7 +123,7 @@ third_nav_title: Faculty
                         <div>
                             <div>
                                 <div><strong>Subject Head Mother Tongue Languages</strong></div>
-                                <div>Ms Jiang Bin</div>
+                                <div>Ms Jiang Bin (covering)</div>
                                 <div><br></div>
                             </div>
                         </div>
