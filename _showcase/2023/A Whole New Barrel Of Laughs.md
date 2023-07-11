@@ -1,6 +1,6 @@
 ---
 title: A Whole New Barrel Of Laughs
-permalink: /showcase/2023/permalink/
+permalink: /showcase/2023/permalink/barreloflaughs23/
 description: ""
 third_nav_title: "2023"
 ---

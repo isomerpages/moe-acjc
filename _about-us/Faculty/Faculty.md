@@ -25,7 +25,7 @@ third_nav_title: Faculty
   
 
 **English** <br>
-»&nbsp;[General Paper / Knowledge and Inquiry / English Language Elective Programme](/about-us/faculty/english-general-paper-knowledge-and-inquiry-english-language-elective-programme)
+»&nbsp;[General Paper / English Language Elective Programme](/about-us/faculty/english-general-paper-english-language-elective-programme)
 
   
 

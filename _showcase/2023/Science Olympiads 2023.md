@@ -1,6 +1,6 @@
 ---
 title: Science Olympiads 2023
-permalink: /showcase/2023/permalink/
+permalink: /showcase/2023/permalink/sciolympiad23/
 description: ""
 third_nav_title: "2023"
 ---

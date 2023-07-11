@@ -7,13 +7,13 @@ third_nav_title: Faculty
 **FULL TIME SCHOOL COUNSELLOR** <br>
 Mrs Julie Lye
 
-  
+  **LEARNING AND BEHAVIOURAL MENTOR** <br>
+Mrs ADELINE CHIA
 
 **ADMINISTRATION MANAGER** <br>
-Mrs Ivy Tay <br>
 Ms Sarah Lim
 
-  
+ 
 
 **ADMINISTRATION EXECUTIVE** <br>
 Mdm Tan Puek Hwang  

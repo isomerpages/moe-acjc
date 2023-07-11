@@ -1,6 +1,6 @@
 ---
 title: 44th CB Paul Science Quiz
-permalink: /showcase/2023/permalink/
+permalink: /showcase/2023/permalink/cbpaul23/
 description: ""
 third_nav_title: "2023"
 ---

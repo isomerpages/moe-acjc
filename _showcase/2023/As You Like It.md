@@ -1,6 +1,6 @@
 ---
 title: As You Like It
-permalink: /showcase/2023/permalink/
+permalink: /showcase/2023/permalink/asyoulikeit23/
 description: ""
 third_nav_title: "2023"
 ---
@@ -20,4 +20,3 @@ To God be the Glory, The Best is Yet to Be!
 
 Written By: 
 Dylan Leong (2AA2)
-

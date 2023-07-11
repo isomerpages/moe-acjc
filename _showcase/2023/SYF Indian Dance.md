@@ -1,6 +1,6 @@
 ---
 title: SYF Indian Dance
-permalink: /showcase/2023/permalink/
+permalink: /showcase/2023/permalink/syfindiandance23/
 description: ""
 third_nav_title: "2023"
 ---

@@ -2,6 +2,8 @@ collections:
   showcase:
     output: true
     order:
+      - "2023/ACSian Theatre: Assissi Fun Day.md"
+      - 2023/ACSian Theatre goes to Hanoi.md
       - 2023/SYF Indian Dance.md
       - 2023/As You Like It.md
       - "2023/Black & White: A Night of Bands.md"
