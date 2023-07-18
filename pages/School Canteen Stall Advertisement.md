@@ -5,7 +5,7 @@ description: ""
 ---
 | Type of Food Stall| Closing Date| Requirements |
 | -------- | -------- | -------- |
-| **Halal Rice Food Stall**   |**15 Aug 2023**   |**Malay Mixed rice (halal)**|
+|**Halal Rice Food Stall**  |**15 Aug 2023**   |**Malay Mixed rice (halal)**|
 
 <p style="line-height: 0.5; background: white;"><strong><span style="font-size: 16.0pt; color: #484848;">Application Procedure</span></strong></p>
 <ol>
