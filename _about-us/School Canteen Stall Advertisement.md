@@ -11,7 +11,7 @@ description: ""
 <ol>
 <li><span style="font-size: 12.0pt;>Download and complete the application form. </span></li>
 <ul>
-<li><span style="><a target="\_blank" href="/files/AboutUs/application%20for%20canteen%20stall%20in%20acjc.pdf"><span style="font-size: 12.0pt; color: #4372d6;">Canteen Stall Application Form</span></a></span></li>
+<li><span style="><a target="\_blank" href="/files/AboutUs/application%20for%20canteen%20stall%20in%20acjc.pdf"><span style="font-size: 12.0pt; color: #4372d6;"><b>Canteen Stall Application Form</b></span></a></span></li>
 
 <li><span style="font-size: 12.0pt;">Attached the following documents together with the application form:</span></li>
 <ul>
