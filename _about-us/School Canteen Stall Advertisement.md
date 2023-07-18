@@ -40,3 +40,5 @@ description: ""
 <li><span style="font-size: 12.0pt;">Able to provide a varied and healthy/nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP) guidelines.</span></li>
 <li><span style="font-size: 12.0pt;">Experienced in catering business (preferably in a school).</span></li>
 </ul>
+
+***Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense***
