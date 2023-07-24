@@ -39,5 +39,5 @@ Click [here](https://www.moe.gov.sg/returning-singaporeans/post-secondary) for
 
 Students are advised to take the J-PACT test which is for international students who wish to seek admission to a Junior College. For more information, check the following websites:  
 
-*   [MOE International Student Admissions](https://beta.moe.gov.sg/international-students/studying-in-singapore/)
+*   [MOE International Student Admissions](https://www.moe.gov.sg/international-students/studying-in-singapore/)
 *   [Junior College - Principals Academy Certification Test](https://www.pact.sg/index.php?option=com_content&view=article&id=58&Itemid=94)
