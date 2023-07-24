@@ -32,7 +32,7 @@ The annual DSA Exercise is held from May to August each year. The Direct School 
 
 Students are advised to go to the following MOE website for more information regarding admission procedures for returning Singaporeans:  
 
-Click [here](https://beta.moe.gov.sg/returning-singaporeans/) for details.
+Click [here](https://www.moe.gov.sg/returning-singaporeans/post-secondary) for details.
   
 
 ### INTERNATIONAL STUDENTS
