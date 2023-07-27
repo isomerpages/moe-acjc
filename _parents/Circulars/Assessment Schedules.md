@@ -18,8 +18,8 @@ JC2 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/2023%20jc2%2
 
 JC2 Term Assessment Timetable. Click&nbsp;<a target="_blank" href="/files/2023%20j2%20ta%20schedule.pdf">here</a>&nbsp;for download.
 
-JC2 Mid-Year Assessment Timetable and Instructions for Students. Click&nbsp;<a target="_blank" href="/files/Assessment/j2_preliminary_examination_timetable">here</a>&nbsp;for download.
+JC2 Mid-Year Assessment Timetable and Instructions for Students. Click&nbsp;<a target="_blank" href="/files/Assessment/jc2_mya_timetable_2023.pdf">here</a>&nbsp;for download.
   
-JC2 Preliminary Examination Timetable. Click&nbsp;<a target="_blank" href="/files/Assessment/jc2_mya_timetable_2023.pdf">here</a>&nbsp;for download.
+JC2 Preliminary Examination Timetable. Click&nbsp;<a target="_blank" href="/files/Assessment/j2_preliminary_examination_timetable.pdf">here</a>&nbsp;for download.
 
 GCE 'A' Level Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
