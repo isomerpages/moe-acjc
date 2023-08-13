@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2023/National Day 2023.md
       - 2023/Science Research at ACJC.md
       - "2023/ACSian Theatre: Assissi Fun Day.md"
       - 2023/ACSian Theatre goes to Hanoi.md
