@@ -13,3 +13,5 @@ Testing Page
 <font size="5">change font size</font><br>
 <font color="#CD1405"><b>combine bold and font color</b></font><br>
 <font color="#EFB716" size="5">change font size and font color</font><br>
+
+GCE 'A' Level Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
