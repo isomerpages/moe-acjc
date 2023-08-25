@@ -10,7 +10,7 @@ JC1 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/2023%20jc1%2
 
 JC1 Mid-Year Assessment Timetable and Instructions for Students. Click&nbsp;<a target="_blank" href="/files/Assessment/jc1_mya_timetable_2023.pdf">here</a>&nbsp;for download.
 
-JC1 Promotional Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
+JC1 Promotional Examination Timetable. Click&nbsp;<a target="_blank" href="/files/Assessment/2023%20JC1%20Promotional%20Exam%20timetable.pdf">here</a>&nbsp;for download
 
 **<u>JC2</u>**
 
