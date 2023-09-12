@@ -11,12 +11,14 @@ Mrs Julie Lye
 Mrs ADELINE CHIA
 
 **ADMINISTRATION MANAGER** <br>
-Ms Sarah Lim
+Ms Sarah Lim<br>
+Mdm Tan Puek Hwang 
 
  
 
 **ADMINISTRATION EXECUTIVE** <br>
-Mdm Tan Puek Hwang  
+Ms Chan Mun Sin<br>
+Ms Cassandra Goh 
 
   
 
@@ -27,12 +29,14 @@ Mr Sukumaran
   
 
 **CORPORATE SUPPORT OFFICERS** <br>
-Ms Joyce Lee  
+Ms Joyce Lee<br>
+Mdm Norhaslinda
 
   
 
 **LIBRARY ASSISTANT** <br>
-Miss Thevani
+Miss Thevani<br>
+Mr Ghazli Sulaiman
 
   
 
@@ -49,3 +53,16 @@ Mr Loki Lin
 
 **AVA TECHNICIAN** <br>
 Mr Mohammad Ilham
+
+**ASSISTANT MANAGER - SPORTS COMPLEX** <br>
+Ms Chan Lai Na
+
+**FACILITIES OFFICER - SPORTS COMPLEX** <br>
+Mdm Ma Ji Yu<br>
+Mr Qu Zheng Chu
+
+**THEATRE MANAGER - CENTRE FOR PERFORMING ARTS (CPA)** <br>
+Mr Ken Zhang
+
+**THEATRE TECHNICIAN - CENTRE FOR PERFORMING ARTS (CPA)** <br>
+Mr See Wei Hao
