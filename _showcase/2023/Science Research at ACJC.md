@@ -32,11 +32,11 @@ Nguyen Thanh Tin (2SA6)
 
 **Silver Awards (IEF):**
 
-(1)   Cao Peiyuan (2SA1)
+(1)&nbsp;&nbsp; Cao Peiyuan (2SA1)
 
 “Additive Manufacturing using Two-photon Lithography: dual material microstructures for Anti-Counterfeiting Applications”
 
-(2)   Quek El Lynn (2SC2), Coen Tan (2SC1) and Luke Yoong (2SA1)
+(2)&nbsp;&nbsp; Quek El Lynn (2SC2), Coen Tan (2SC1) and Luke Yoong (2SA1)
 
 “Comparative effects of using frases and other fertilisers on plant growth and soil pH”
 
@@ -45,6 +45,8 @@ Nguyen Thanh Tin (2SA6) reflected on his research journey:
 “I learnt valuable skills such as Adobe AutoCAD, 3D printing, and PID control of drones. Within a short time, I learnt to critically delegate tasks and kept track of team performance, while presenting literature findings and secondary experimental results to researchers in I2R. Indeed, the research was an enriching one that further prepared me for my future pursuit in Aerospace Engineering.”
 
 Lastly, we would also like to congratulate our Nanyang Research Programme student, Leanne Chua from 2SB5 for receiving the Bronze Award for her NTU NRP presentation titled “Emission of rare earth ions by energy transfer from ZnO nanocrystals embedded in silicon dioxide film”.
+
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRELLrP7H5hDqe5D-FXt7peU7U3-LDmVdmvH2zfZ_QyT_44cToXyMExFEabo9db_EaqWMrij9FUgQym/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 We would like to thank our project mentors from NUS and NTU, Dr Wee, Dr Lay and Dr Chuah from A\*STAR, Mrs Soong, Ms Lee and Mdm Cheong for their invaluable guidance and patience.
 
