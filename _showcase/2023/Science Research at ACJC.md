@@ -13,7 +13,7 @@ our representatives trained with supportive alumni and clinched individual disti
 
 At the NUS Chemical Engineering Challenge, our 2 teams comprising of a total of 8 students tackled topics such as Principle of Mass and Energy Balance, Thermodynamics and Diffusion, where one of our teams was awarded 2nd runner up.
 
-For the Singapore Science and Engineering Fair (SSEF) 2023 organised by MOE, A*STAR and the Science Centre Singapore, ACJC submitted 11 projects and 2 projects received the Merit award.
+For the Singapore Science and Engineering Fair (SSEF) 2023 organised by MOE, ASTAR and the Science Centre Singapore, ACJC submitted 11 projects and 2 projects received the Merit award.
  
 In addition, ACJC participated in the 24th International Elementz Fair 2023, organised by ASRJC where 5 projects were submitted and received multiple awards.
 
