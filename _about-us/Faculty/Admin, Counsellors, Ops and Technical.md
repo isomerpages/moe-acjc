@@ -32,11 +32,12 @@ Mr Sukumaran
 Ms Joyce Lee<br>
 Mdm Norhaslinda
 
-  
+**LIBRARIAN** <br>
+Mr Ghazli Sulaiman
 
 **LIBRARY ASSISTANT** <br>
 Miss Thevani<br>
-Mr Ghazli Sulaiman
+
 
   
 
@@ -45,7 +46,7 @@ Mr Gek Hon Joo
 
   
 
-**TECHNICAL ASSISTANT** <br>
+**DESKTOP ENGINEER** <br>
 Mr Breyon Yeo   <br>
 Mr Loki Lin
 
