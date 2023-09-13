@@ -8,7 +8,7 @@ third_nav_title: Faculty
 Mrs Julie Lye
 
   **LEARNING AND BEHAVIOURAL MENTOR** <br>
-Mrs ADELINE CHIA
+Mrs Adeline Chia
 
 **ADMINISTRATION MANAGER** <br>
 Ms Sarah Lim<br>
