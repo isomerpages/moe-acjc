@@ -43,11 +43,11 @@ MOE Video Clips - Making A Difference
 ### For ACJC Staff
 
 
-[MOE Intranet (use Internet Explorer)](https://intranet.moe.gov.sg/Pages/Home.aspx)<br>
+[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)<br>
 [HRP](https://www.hrp.gov.sg/hrp/#/)&nbsp;(consolidated portal for HRMS, Pac@Gov and others) <br>
 [ICONnect](https://icon.moe.edu.sg/)<br>
 [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br>
 [Schoolcockpit](https://schoolcockpit.moe.gov.sg/)&nbsp;(use Chrome browser)<br>
-[MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)&nbsp;(replace IAMS) <br>
+[MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)<br>
 [OPAL Login - Access for MOE online courses and teaching resources](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F)<br>
 [School Safety](http://intranet.moe.gov.sg/schoolsafety/)
