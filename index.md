@@ -16,9 +16,6 @@ sections:
         - title: NSG 2023
           description: National School Games
           url: /c-c-a-competitions/national-school-games-2023-a-division/
-        - title: Direct School Admission
-          description: Application
-          url: /dsa/dsa-application
   - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth

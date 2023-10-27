@@ -11,13 +11,13 @@ The Joint Admission Exercise (JAE) is conducted by the Ministry of Education aft
 
 ### JAE POSTING
 
-Please refer to the Ministry of Education's updated instructions [here](https://www.moe.gov.sg/post-secondary/admissions/jae).
+Please refer to the Ministry of Education's updated instructions&nbsp;[here](https://www.moe.gov.sg/post-secondary/admissions/jae).
 
   
 
 ### APPEALS
 
-The 2023 Appeal for admission to ACJC has now closed. Successful applicants have already been notified. 
+The 2023 Appeal for admission to ACJC has now closed. Successful applicants have already been notified.&nbsp;
   
 
 Thank you to the many students who have shown interest in applying to our college and we would like to wish you the very best in your educational journey.
@@ -26,13 +26,15 @@ Thank you to the many students who have shown interest in applying to our colleg
 
 ### DIRECT SCHOOL ADMISSION (DSA)
 
-The annual DSA Exercise is held from May to August each year. The Direct School Admission application is now open. Click [here](https://www.acjc.moe.edu.sg/dsa/dsa-application/) for details.
+The annual DSA Exercise is held from May to August each year. The exact dates, eligibility criteria and application procedure will be available at that time.
+
+<!--- The Direct School Admission application is now closed. Click [here](https://www.acjc.moe.edu.sg/dsa/dsa-application/) for details. --->
 
 ### RETURNING SINGAPOREANS
 
 Students are advised to go to the following MOE website for more information regarding admission procedures for returning Singaporeans:  
 
-Click [here](https://www.moe.gov.sg/returning-singaporeans/post-secondary) for details.
+Click&nbsp;[here](https://www.moe.gov.sg/returning-singaporeans/post-secondary)&nbsp;for details.
   
 
 ### INTERNATIONAL STUDENTS
@@ -40,4 +42,4 @@ Click [here](https://www.moe.gov.sg/returning-singaporeans/post-secondary) for
 Students are advised to take the J-PACT test which is for international students who wish to seek admission to a Junior College. For more information, check the following websites:  
 
 *   [MOE International Student Admissions](https://www.moe.gov.sg/international-students/studying-in-singapore/)
-*   [Junior College - Principals Academy Certification Test](https://www.pact.sg/index.php?option=com_content&view=article&id=58&Itemid=94)
+*   [Junior College - Principals Academy Certification Test](https://www.pact.sg/index.php?option=com_content&amp;view=article&amp;id=58&amp;Itemid=94)
