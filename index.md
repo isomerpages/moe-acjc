@@ -32,4 +32,10 @@ sections:
       url: /showcase/2023/acjc-celebrates-the-class-of-2022/
       image: /images/InfoPic/class of 2022.jpg
       alt: Image alt text
+  - infopic:
+      title: ACJC OPEN HOUSE 2024
+      id: infopic
+      description: 10 JANUARY 2024, 12pm to 5pm
+      image: /images/HomePage/openhouse_2024.jpg
+      alt: Image alt text
 ---
