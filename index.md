@@ -24,6 +24,8 @@ sections:
       image: /images/HomePage/openhouse_2024.jpg
       alt: Image alt text
       subtitle: 10th January 2024, 12 - 5 pm
+      url: /events/open-house/
+      button: Click here for details
   - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth
