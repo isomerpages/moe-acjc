@@ -5,6 +5,8 @@ description: ""
 ---
 ## ACJC Open House 2024
 
+![](/images/HomePage/openhouse_2024.jpg)
+
 ACJC’s Open House is back! We look forward to welcoming visitors and prospective students to 25 Dover Close East on 10th January 2024, from 12 pm to 5 pm! More details will be furnished as the date draws near.
 
 Follow us on our social media platforms for more updates 
