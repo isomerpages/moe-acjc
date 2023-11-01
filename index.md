@@ -19,9 +19,11 @@ sections:
   - infopic:
       title: ACJC OPEN HOUSE 2024
       id: infopic
-      description: 10 JANUARY 2024, 12pm to 5pm
+      description: ACJC's Open House is back! We look forward to welcoming visitors
+        and prospective students.
       image: /images/HomePage/openhouse_2024.jpg
       alt: Image alt text
+      subtitle: 10th January 2024, 12 - 5 pm
   - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth
