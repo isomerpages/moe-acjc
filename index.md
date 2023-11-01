@@ -17,6 +17,16 @@ sections:
           description: National School Games
           url: /c-c-a-competitions/national-school-games-2023-a-division/
   - infopic:
+      title: ACJC OPEN HOUSE 2024
+      id: infopic
+      description: ACJC's Open House is back! We look forward to welcoming visitors
+        and prospective students.
+      image: /images/HomePage/openhouse_2024.jpg
+      alt: Image alt text
+      subtitle: 10th January 2024, 12 - 5 pm
+      url: /events/open-house/
+      button: Click here for details
+  - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth
         Festival 2023
