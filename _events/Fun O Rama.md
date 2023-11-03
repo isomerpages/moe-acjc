@@ -8,7 +8,7 @@ variant: markdown
 
 ![](/images/FOR%202024/for26_p.png)
 
-Save the date for Fun-O-Rama XXVI on Saturday **23rd Narch 2024** from 9:30AM - 5:50PM.
+Save the date for Fun-O-Rama XXVI on Saturday **23rd March 2024** from 9:30AM - 5:50PM.
 
 Fun-O-Rama is ACJC's raditional biennial funfair featuring thrilling games, tasty food and tremendous experiences.
 
