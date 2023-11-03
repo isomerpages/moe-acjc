@@ -2,10 +2,11 @@
 title: Fun O Rama
 permalink: /events/fun-o-rama/
 description: ""
+variant: markdown
 ---
 ### Fun-O-Rama XXVI
 
-![](/images/FOR%202024/for2024.jfif)
+![](/images/FOR%202024/for26_p.png)
 
 Save the date for Fun-O-Rama XXVI on Saturday **23rd Narch 2024** from 9:30AM - 5:50PM.
 
