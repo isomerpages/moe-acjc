@@ -2,6 +2,7 @@
 title: Open House
 permalink: /events/open-house/
 description: ""
+variant: markdown
 ---
 ## ACJC Open House 2024
 
@@ -11,15 +12,13 @@ ACJC’s Open House is back! We look forward to welcoming visitors and prospecti
 
 Follow us on our social media platforms for more updates 
 
-  
-Instagram  
-@acjc\_official  
+<font color="#CD1405"><b>Instagram</b></font><br>
+<b>@acjc\_official</b><br>
 [https://www.instagram.com/acjc\_official/](https://www.instagram.com/acjc_official/)  
-  
-@acjclive   
+<b>@acjclive</b>&nbsp;  
 [https://www.instagram.com/acjclive/](https://www.instagram.com/acjclive/)  
   
-Facebook  
+<font color="#CD1405"><b>Facebook</b></font>
 [https://www.facebook.com/AngloChineseJuniorCollege](https://www.facebook.com/AngloChineseJuniorCollege)  
   
-#acjcopenhouse #RedBlueGoldYourLegacyUnfolds
+<b>#acjcopenhouse #RedBlueGoldYourLegacyUnfolds</b>
