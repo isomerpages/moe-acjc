@@ -42,4 +42,11 @@ sections:
       url: /showcase/2023/acjc-celebrates-the-class-of-2022/
       image: /images/InfoPic/class of 2022.jpg
       alt: Image alt text
+  - infopic:
+      title: ACJC Fun-O-Rama XXVI
+      subtitle: 23rd March 2024, 9AM - 5:30PM
+      id: infopic
+      description: Save the date. Don't miss out on this colossal carnival.
+      image: /images/FOR 2024/for26_l.jpg
+      alt: Image alt text
 ---
