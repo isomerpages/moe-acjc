@@ -12,7 +12,7 @@ ACJC’s Open House is back! We look forward to welcoming visitors and prospecti
 
 Follow us on our social media platforms for more updates 
 
-<font color="#CD1405"><b>Instagram</b></font><br>
+<font color="#CD1405"><b>Instagram</b></font>  
 <b>@acjc\_official</b><br>
 [https://www.instagram.com/acjc\_official/](https://www.instagram.com/acjc_official/)  
 <b>@acjclive</b>&nbsp;  
