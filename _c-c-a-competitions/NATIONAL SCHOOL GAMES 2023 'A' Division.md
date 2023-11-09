@@ -2,6 +2,7 @@
 title: NATIONAL SCHOOL GAMES 2023 'A' Division
 permalink: /c-c-a-competitions/national-school-games-2023-a-division/
 description: ""
+variant: markdown
 ---
 ## <center> National SCHOOL GAMES 2023 - 'A' Division </center>
 
@@ -24,10 +25,7 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 .tg .tg-6j78{background-color:#FFF;color:#B45F06;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-wibo{background-color:#FFF;color:#C00;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-
- &nbsp; &nbsp;
- &nbsp; &nbsp;
- &nbsp;<table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-6qpi">AWARD</th>
