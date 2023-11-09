@@ -25,74 +25,74 @@ To God be the &nbsp;Glory! The Best Is Yet To Be!
 .tg .tg-6j78{background-color:#FFF;color:#B45F06;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-wibo{background-color:#FFF;color:#C00;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-
-
-  
-    AWARD
-    BOYS
-    GIRLS
-  
-
-
-
-    <span style="color:#E69138;background-color:initial">GOLD</span>
-    Basketball
-    Softball
-  
-
-    <span style="font-weight:800;color:#CE0E2D"> </span>Silver
-    <span style="font-weight:800;color:#CE0E2D"> </span>Bowling
-     Bowling
-  	
-
-    Bronze
-    Football
-    Canoeing
- 
-	
-     
-     Rugby
-    Netball
-  
-	
-     
-    Squash
-    
-  
-
-     
-    Swimming
-    
-  
-
-     
-    Tennis
-    
-  
-	
-     
-    Waterpolo
-    
-  
-
-    Fourth
-    Canoeing
-    Hockey
-  
-	
-    
-    Floorball
-    Swimming
-  
-	
-    
-    Golf
-    
-  
-	
-		Volleyball
-
-
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-6qpi">AWARD</th>
+    <th class="tg-6qpi">BOYS</th>
+    <th class="tg-6qpi">GIRLS</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+    <td class="tg-yl2x"><span style="color:#E69138;background-color:initial">GOLD</span></td>
+    <td class="tg-yl2x">Basketball</td>
+    <td class="tg-yl2x">Softball</td>
+  </tr>
+<tr>
+    <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Silver</td>
+    <td class="tg-imtz"><span style="font-weight:800;color:#CE0E2D"> </span>Bowling</td>
+    <td class="tg-imtz"> Bowling</td>
+  </tr>	
+<tr>
+    <td class="tg-6j78">Bronze</td>
+    <td class="tg-6j78">Football</td>
+    <td class="tg-6j78">Canoeing</td>
+ </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78"> Rugby</td>
+    <td class="tg-6j78">Netball</td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Squash</td>
+    <td class="tg-6j78"></td>
+  </tr>
+<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Swimming</td>
+    <td class="tg-6j78"></td>
+  </tr>
+<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Tennis</td>
+    <td class="tg-6j78"></td>
+  </tr>
+	<tr>
+    <td class="tg-ktyi"> </td>
+    <td class="tg-6j78">Waterpolo</td>
+    <td class="tg-6j78"></td>
+  </tr>
+<tr>
+    <td class="tg-wibo">Fourth</td>
+    <td class="tg-wibo">Canoeing</td>
+    <td class="tg-wibo">Hockey</td>
+  </tr>
+	<tr>
+    <td class="tg-wibo"></td>
+    <td class="tg-wibo">Floorball</td>
+    <td class="tg-wibo">Swimming</td>
+  </tr>
+	<tr>
+    <td class="tg-wibo"></td>
+    <td class="tg-wibo">Golf</td>
+    <td class="tg-wibo"></td>
+  </tr>
+	<tr><td class="tg-wibo"></td>
+		<td class="tg-wibo">Volleyball</td><td class="tg-wibo"></td></tr>
+</tbody>
+</table>
 
 
 ## <center> National SCHOOL GAMES 2022 - 'A' Division </center>
