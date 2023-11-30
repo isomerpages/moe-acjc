@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: "2023"
 ---
-Two teams comprising a total of 8 students took part in the Chem-E Challenge 2023. The Chem-E challenge is organised by the NUS Chemical Engineering Student Society, covering topics such as Principle of Mass and Energy Balance, Thermodynamics and Diffusion. Our teams were challenged with 2 supervised laboratory activities in the NUS Labs, and took part in a group quiz to test their understanding of Chemical Engineering.
+Two teams from ACJC with a total of 8 students took part in the Chem-E Challenge 2023. The Chem-E challenge is organised by the NUS Chemical Engineering Student Society, covering topics such as Principle of Mass and Energy Balance, Thermodynamics and Diffusion. Our teams were challenged with 2 supervised laboratory activities in the NUS Labs, and took part in a group quiz to test their understanding of Chemical Engineering.
 
 <iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6drmBA8uyaOzsR-grYxUsXfA1ctWDbiU9qR-IYqxgOTPJjbVsuPpzZgHq9z_KWLrZW7AMPcujRIyM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
