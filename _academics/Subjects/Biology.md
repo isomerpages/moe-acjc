@@ -3,6 +3,7 @@ title: Biology
 permalink: /student-life/academics/subjects/biology/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ### BIOLOGY H1/2/3
 
@@ -79,6 +80,6 @@ The&nbsp;_extension topics_&nbsp;are based on emerging fields in biology, and re
 Details on the syllabus learning outcomes and scheme of assessment can be found in the published SEAB syllabi.
 
   
-[H1 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8876_y23_sy.pdf)  <br>
-[H2 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9744_y23_sy.pdf) <br>
-[H3 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9816_y23_sy.pdf)
+[H1 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8876_y24_sy.pdf)  <br>
+[H2 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9744_y24_sy.pdf) <br>
+[H3 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9816_y24_sy.pdf)
