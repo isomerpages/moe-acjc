@@ -3,8 +3,9 @@ title: Economics
 permalink: /student-life/academics/subjects/economics/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
-### ECONOMICS H1 (Syllabus 8823)  
+### ECONOMICS H1 (Syllabus 8843)  
 
 
 ##### Aims
