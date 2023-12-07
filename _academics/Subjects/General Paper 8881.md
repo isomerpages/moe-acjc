@@ -1,8 +1,9 @@
 ---
-title: General Paper 8881 (J1 2023)
-permalink: /student-life/academics/subjects/general-paper-8881-j1-2023/
+title: General Paper 8881
+permalink: /student-life/academics/subjects/general-paper-8881/
 description: ""
 third_nav_title: Subjects
+variant: tiptap
 ---
 ### H1 GENERAL PAPER (SYLLABUS 8881)
 

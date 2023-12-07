@@ -1,8 +1,9 @@
 ---
-title: History (J1 2023)
-permalink: /student-life/academics/subjects/history-j1-2023/
+title: History
+permalink: /student-life/academics/subjects/history/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ### H1 HISTORY (SYLLABUS 8838)
 
@@ -40,13 +41,13 @@ For essays, students will learn to analyse and extract relevant information from
 
 ##### Programme
 
-Assessment consists of one 3 hour paper where students are required to attempt:
+Assessment consists of one 3-hour paper where students are required to attempt:
 
   
 
-*   1 Source Based Question premised on ‘The Development of the Cold War (1945-1991)’
+*   1 source-based case study premised on ‘The Development of the Cold War (1945-1991)’
 
-*   2 Essays on ‘The Cold War and East Asia (1945-1991)', and ‘The Cold War and Southeast Asia (1945-1991)'&nbsp;&nbsp;
+*   2 essays on ‘The Cold War and East Asia (1945-1991)', and ‘The Cold War and Southeast Asia (1945-1991)'&nbsp;&nbsp;
 
   
 

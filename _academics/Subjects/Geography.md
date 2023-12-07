@@ -1,8 +1,9 @@
 ---
-title: Geography (J1 2023)
-permalink: /student-life/academics/subjects/geography-j1-2023/
+title: Geography
+permalink: /student-life/academics/subjects/geography/
 description: ""
 third_nav_title: Subjects
+variant: tiptap
 ---
 ### H1 GEOGRAPHY (SYLLABUS 8834)
 
