@@ -22,6 +22,7 @@ variant: markdown
                 <div><strong>Vice-Principals (Education)</strong></div>
                 <div>Mr Ang Yuan Peng</div>
                 <div>Ms Audrey Lim</div>
+						 	  <div>Mrs Choo Hong Kiang</div>
                 <div></div>
             </td>
             <td valign="top">
