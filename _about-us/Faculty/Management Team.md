@@ -3,6 +3,7 @@ title: Management Team
 permalink: /about-us/faculty/management-team/
 description: ""
 third_nav_title: Faculty
+variant: markdown
 ---
 <div>Principal, Vice-Principals, Heads of Department, Subject Heads and Level Heads</div>
 <div><br></div>
@@ -19,8 +20,8 @@ third_nav_title: Faculty
         <tr>
             <td valign="top">
                 <div><strong>Vice-Principals (Education)</strong></div>
+                <div>Mr Ang Yuan Peng</div>
                 <div>Ms Audrey Lim</div>
-                <div>Mrs Choo Hong Kiang</div>
                 <div></div>
             </td>
             <td valign="top">
@@ -29,7 +30,7 @@ third_nav_title: Faculty
             </td>
         </tr>
         <tr>
-            <td valign="top">
+<!--            <td valign="top">
                 <div><strong>School Staff Developer</strong></div>
                 <div>Ms Dorine Chia</div>
                 <div></div>
@@ -37,6 +38,7 @@ third_nav_title: Faculty
             <td><br></td>
         </tr>
         <tr>
+!-->
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
                 <div>Ms Annie Yong</div>
