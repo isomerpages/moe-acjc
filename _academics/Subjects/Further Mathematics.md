@@ -3,6 +3,7 @@ title: Further Mathematics
 permalink: /student-life/academics/subjects/further-mathematics/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ### H2 FURTHER MATHEMATICS (SYLLABUS 9649)  
 
@@ -39,12 +40,12 @@ Students interested in offering Further Mathematics must sit for a Further Mathe
 
   
 
-The topics covered in H2 Further Mathematics include Mathematical Induction, Complex Numbers, Polar Curves and Conic Sections, Calculus, Recurrence Relations, Matrices and Linear Algebra, Numerical Methods, Random Variables, Hypothesis Testing and Non-parametric Statistics.
+The topics covered in H2 Further Mathematics include Complex Numbers, Polar Curves and Conic Sections, Calculus, Functions of Two Variables, Recurrence Relations, Matrices and Linear Algebra, Numerical Methods, Random Variables, Hypothesis Testing and Non-parametric Statistics.
 
   
 
-The A Level Examination for H2 Further Mathematics comprises two 3 hour papers with about 10 to 12 questions each. In each paper, there will be at least two questions on the application of Mathematics in real-world contexts, including those from sciences and engineering. Each question will carry at least 12 marks and may require concepts and skills from more than one topic. Candidates will be expected to answer all questions.
+The A Level Examination for H2 Further Mathematics comprises two 3 hour papers with about 10 to 12 questions each. In each paper, there will be one question on the application of Mathematics in real-world contexts, including those from sciences and engineering. This question will carry at least 12 marks and may require concepts and skills from more than one topic. Candidates will be expected to answer all questions.
 
   
 
-The syllabus may be accessed [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9649_y24_sy.pdf).
+The syllabus may be accessed on the SEAB website in due course.
