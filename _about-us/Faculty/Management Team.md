@@ -22,7 +22,7 @@ variant: markdown
                 <div><strong>Vice-Principals (Education)</strong></div>
                 <div>Mr Ang Yuan Peng</div>
                 <div>Ms Audrey Lim</div>
-						 	  <div>Mrs Choo Hong Kiang</div>
+								<div></div>
                 <div></div>
             </td>
             <td valign="top">
@@ -43,14 +43,15 @@ variant: markdown
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
                 <div>Ms Annie Yong</div>
+							  <div>Mr Calvin Choo</div>
             </td>
             <td valign="top">
-                <div><strong>JC1 Year Head</strong></div>
-                <div>Mr Patrick Sum</div>
+                <div><strong>JC1 Year Head (covering)</strong></div>
+                <div>Ms Tham Peishan</div>
                 <div><br></div>
-                <div>JC2 Year Head</div>
+<!--               <div>JC2 Year Head</div>
                 <div>Mr Calvin Choo</div>
-                <div></div>
+                <div></div>   -->
             </td>
         </tr>
         <tr>
@@ -59,16 +60,9 @@ variant: markdown
                 <div>Mrs Geetha Creffield</div>
             </td>
             <td valign="top">
-                <div><strong>Subject Head Economics</strong></div>
-                <div>Mr Mohd Mashren B Masood</div>
-                <div><strong><br></strong></div>
-                <div><strong>Level Head Economics</strong></div>
-                <div>Ms Kuek Xiao Bin</div>
-                <div><strong><br></strong></div>
-                <div>
                     <div><strong>Subject Head Humanities</strong></div>
                     <div>Mr George Fu</div>
-                </div>
+                
                 <div><strong><br></strong></div>
                 <div><strong>Subject Head English Literature</strong></div>
                 <div>Mr Sanjay Cheriyan Mathew</div>
@@ -76,6 +70,17 @@ variant: markdown
             </td>
         </tr>
         <tr>
+            <td valign="top">
+                <div><strong>HOD Economics (covering)</strong></div>
+                <div>Ms Kuek Xiao Bin</div>
+            </td>
+            <td valign="top">
+                <div><strong>Subject Head Economics</strong></div>
+                <div>Mr Mohd Mashren B Masood</div>
+     <div>
+            </div></td>
+        </tr>
+			<tr>
             <td valign="top">
                 <div><strong>HOD English</strong></div>
                 <div>Ms Ng Swee Pheng</div>
