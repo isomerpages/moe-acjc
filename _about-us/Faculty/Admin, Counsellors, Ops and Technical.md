@@ -3,6 +3,7 @@ title: Admin, Counsellors, Ops and Technical
 permalink: /about-us/faculty/admin-counsellors-ops-n-technical/
 description: ""
 third_nav_title: Faculty
+variant: markdown
 ---
 **FULL TIME SCHOOL COUNSELLOR** <br>
 Mrs Julie Lye
@@ -35,8 +36,8 @@ Mdm Norhaslinda
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
 
-**LIBRARY ASSISTANT** <br>
-Miss Thevani<br>
+<!-- **LIBRARY ASSISTANT** <br>
+Miss Thevani<br> -->
 
 
   
