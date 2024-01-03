@@ -61,7 +61,6 @@ variant: markdown
             <td valign="top">
                     <div><strong>Subject Head Humanities</strong></div>
                     <div>Mr George Fu</div>
-                
                 <div><strong><br></strong></div>
                 <div><strong>Subject Head English Literature</strong></div>
                 <div>Mr Sanjay Cheriyan Mathew</div>
