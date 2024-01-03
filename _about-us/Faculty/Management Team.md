@@ -31,15 +31,14 @@ variant: markdown
             </td>
         </tr>
         <tr>
-<!--            <td valign="top">
-                <div><strong>School Staff Developer</strong></div>
-                <div>Ms Dorine Chia</div>
+            <td valign="top">
+                <div><strong>School Staff Developer (covering)</strong></div>
+                <div>Mr Fong Chun Kin</div>
                 <div></div>
             </td>
             <td><br></td>
         </tr>
         <tr>
-!-->
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
                 <div>Ms Annie Yong</div>
@@ -88,7 +87,7 @@ variant: markdown
             <td valign="top">
                 <div><strong>Level Heads General Paper</strong></div>
                 <div>Ms Ong Xin Yi</div>
-                <div></div>
+                <div>Ms Ruth Lim</div>
                 <div></div>
             </td>
         </tr>
@@ -162,11 +161,15 @@ variant: markdown
             <td valign="top">
                 <div>
                     <div><strong>HOD Project Work</strong></div>
-                    <div>Mr Fong Chun Kin</div>
+                    <div></div>
                     <div></div>
                 </div>
             </td>
-            <td><br></td>
+           <!--  <td><br></td> -->
+	         <td valign="top">
+                <div><strong>Subject Head Project Work (covering)</strong></div>
+						 <div>Mr Mori Toshiyuki</div>
+            </td>
         </tr>
         <tr>
             <td valign="top">
@@ -205,23 +208,23 @@ variant: markdown
                     <div></div>
                     <div>
                         <div><strong>Subject Head Physics</strong></div>
-                        <div>Mr Chang Kok Keong</div>
+                        <div>Mr Koo Guowen</div>
                         <div><br></div>
                         <div></div>
                         <div>
                             <div><strong>Level Head Physics</strong></div>
-                            <div>Mr Koo Guowen</div>
+                            <div>Mr Bertram Lim</div>
                             <div></div>
                         </div>
                         <div><br></div><strong>
-                            <div><strong>Subject Head Science Research and Talent Management</strong></div>
+<!--                            <div><strong>Subject Head Science Research and Talent Management</strong></div>
                         </strong>
                         <div></div>
                     </div>
                     <div>Ms Lee Sok Ee</div>
                     <div></div>
-                </div>
-            </td>
+                </div> -->
+            </strong></div></div></td>
         </tr>
         <tr>
             <td valign="top">
@@ -268,7 +271,7 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div>
-                    <div><strong>HOD Special Projects</strong></div>
+                    <div><strong>HOD Student Leadership and Management</strong></div>
                     <div>Ms Rosalind Huang</div>
                     <div><br></div>
                 </div>
@@ -309,6 +312,22 @@ variant: markdown
                     <div><strong>Subject Head National Education / Values in Action</strong></div>
                     <div>Ms Teo Shu May</div>
                 </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>SPECIAL PROJECTS
+											</strong></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </td>
+           <!--  <td><br></td> -->
+	         <td valign="top">
+                <div><strong>Subject Head Special Projects</strong></div>
+						 <div>Mr Nicholas Chee</div>
+						 <div>Mr Patrick Sum</div>
             </td>
         </tr>
     </tbody>
