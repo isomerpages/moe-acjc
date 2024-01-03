@@ -159,7 +159,7 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div>
-                    <div><strong>HOD Project Work</strong></div>
+                    <div><strong>Project Work</strong></div>
                     <div></div>
                     <div></div>
                 </div>
