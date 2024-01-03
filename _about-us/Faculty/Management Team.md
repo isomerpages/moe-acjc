@@ -32,7 +32,7 @@ variant: markdown
         </tr>
         <tr>
             <td valign="top">
-                <div><strong>School Staff Developer (covering)</strong></div>
+                <div><strong>School Staff Developer</strong></div>
                 <div>Mr Fong Chun Kin</div>
                 <div></div>
             </td>
