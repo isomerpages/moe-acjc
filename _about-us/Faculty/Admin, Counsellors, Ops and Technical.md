@@ -11,6 +11,9 @@ Mrs Julie Lye
   **LEARNING AND BEHAVIOURAL MENTOR** <br>
 Mrs Adeline Chia
 
+  **CAREER GUIDANCE OFFICER** <br>
+Mr Samuel Liang
+
 **ADMINISTRATION MANAGER** <br>
 Ms Sarah Lim<br>
 Mdm Tan Puek Hwang 
