@@ -42,11 +42,11 @@ variant: markdown
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
                 <div>Ms Annie Yong</div>
-							  <div>Mr Calvin Choo</div>
+							  <div>Mr Calvin Choo (covering)</div>
             </td>
             <td valign="top">
-                <div><strong>JC1 Year Head (covering)</strong></div>
-                <div>Ms Tham Peishan</div>
+                <div><strong>JC1 Year Head</strong></div>
+                <div>Ms Tham Peishan (covering)</div>
                 <div><br></div>
 <!--               <div>JC2 Year Head</div>
                 <div>Mr Calvin Choo</div>
@@ -166,8 +166,8 @@ variant: markdown
             </td>
            <!--  <td><br></td> -->
 	         <td valign="top">
-                <div><strong>Subject Head Project Work (covering)</strong></div>
-						 <div>Mr Mori Toshiyuki</div>
+                <div><strong>Subject Head Project Work</strong></div>
+						 <div>Mr Mori Toshiyuki (covering)</div>
             </td>
         </tr>
         <tr>
@@ -212,7 +212,7 @@ variant: markdown
                         <div></div>
                         <div>
                             <div><strong>Level Head Physics</strong></div>
-                            <div>Mr Bertram Lim</div>
+                            <div>Mr Bertram Lim (covering)</div>
                             <div></div>
                         </div>
                         <div><br></div><strong>
