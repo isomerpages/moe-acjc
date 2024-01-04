@@ -69,8 +69,8 @@ variant: markdown
         </tr>
         <tr>
             <td valign="top">
-                <div><strong>HOD Economics (covering)</strong></div>
-                <div>Ms Kuek Xiao Bin</div>
+                <div><strong>HOD Economics</strong></div>
+                <div>Ms Kuek Xiao Bin (covering)</div>
             </td>
             <td valign="top">
                 <div><strong>Subject Head Economics</strong></div>
