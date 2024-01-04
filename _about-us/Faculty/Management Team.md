@@ -84,9 +84,10 @@ variant: markdown
                 <div>Ms Ng Swee Pheng</div>
             </td>
             <td valign="top">
-                <div><strong>Level Head General Paper</strong></div>
+                <div><strong>Subject Head General Paper</strong></div>
+                <div>Ms Ruth Lim</div><br>
+							<div><strong>Level Head General Paper</strong></div>
                 <div>Ms Ong Xin Yi</div>
-                <div>Ms Ruth Lim</div>
                 <div></div>
             </td>
         </tr>
@@ -149,7 +150,7 @@ variant: markdown
                 <div>
                     <div>
                         <div>
-                            <div><strong>Sports Secretary</strong></div>
+                            <div><strong>Subject Head Physical Education/Co-Curricular Activities</strong></div>
                             <div>Mr David Tan</div>
                         </div>
                     </div>
@@ -205,14 +206,10 @@ variant: markdown
                         <div><br></div>
                     </div>
                     <div></div>
-                    <div>
-                        <div><strong>Subject Head Physics</strong></div>
-                        <div>Mr Koo Guowen</div>
-                        <div><br></div>
-                        <div></div>
                         <div>
                             <div><strong>Level Head Physics</strong></div>
-                            <div>Mr Bertram Lim (covering)</div>
+                          <div>Mr Koo Guowen</div>  
+													<div>Mr Bertram Lim (covering)</div>
                             <div></div>
                         </div>
                         <div><br></div><strong>
@@ -223,7 +220,7 @@ variant: markdown
                     <div>Ms Lee Sok Ee</div>
                     <div></div>
                 </div> -->
-            </strong></div></div></td>
+            </strong></div></td>
         </tr>
         <tr>
             <td valign="top">
