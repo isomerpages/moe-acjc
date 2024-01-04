@@ -84,7 +84,7 @@ variant: markdown
                 <div>Ms Ng Swee Pheng</div>
             </td>
             <td valign="top">
-                <div><strong>Level Heads General Paper</strong></div>
+                <div><strong>Level Head General Paper</strong></div>
                 <div>Ms Ong Xin Yi</div>
                 <div>Ms Ruth Lim</div>
                 <div></div>
