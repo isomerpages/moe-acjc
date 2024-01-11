@@ -2,6 +2,7 @@
 title: Admissions
 permalink: /about-us/admissions/
 description: ""
+variant: markdown
 ---
 ### JOINT ADMISSION EXERCISE (JAE)
 
@@ -17,10 +18,9 @@ Please refer to the Ministry of Education's updated instructions&nbsp;[here](htt
 
 ### APPEALS
 
-The 2023 Appeal for admission to ACJC has now closed. Successful applicants have already been notified.&nbsp;
+The 2024 Appeal for admission into ACJC will begin on&nbsp;1 February 2024, upon the release of the Joint Admission Exercise (JAE) posting results.  
   
-
-Thank you to the many students who have shown interest in applying to our college and we would like to wish you the very best in your educational journey.
+The online form will be made available here on the same day, together with the list of required documents.
 
   
 
