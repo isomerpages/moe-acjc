@@ -22,7 +22,7 @@ variant: markdown
                 <div><strong>Vice-Principals (Education)</strong></div>
                 <div>Mr Ang Yuan Peng</div>
                 <div>Ms Audrey Lim</div>
-						 	  <div>Mrs Choo Hong Kiang</div>
+								<div></div>
                 <div></div>
             </td>
             <td valign="top">
@@ -31,26 +31,26 @@ variant: markdown
             </td>
         </tr>
         <tr>
-<!--            <td valign="top">
+            <td valign="top">
                 <div><strong>School Staff Developer</strong></div>
-                <div>Ms Dorine Chia</div>
+                <div>Mr Fong Chun Kin</div>
                 <div></div>
             </td>
             <td><br></td>
         </tr>
         <tr>
-!-->
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
                 <div>Ms Annie Yong</div>
+							  <div>Mr Calvin Choo (covering)</div>
             </td>
             <td valign="top">
                 <div><strong>JC1 Year Head</strong></div>
-                <div>Mr Patrick Sum</div>
+                <div>Ms Tham Peishan (covering)</div>
                 <div><br></div>
-                <div>JC2 Year Head</div>
+<!--               <div>JC2 Year Head</div>
                 <div>Mr Calvin Choo</div>
-                <div></div>
+                <div></div>   -->
             </td>
         </tr>
         <tr>
@@ -59,16 +59,8 @@ variant: markdown
                 <div>Mrs Geetha Creffield</div>
             </td>
             <td valign="top">
-                <div><strong>Subject Head Economics</strong></div>
-                <div>Mr Mohd Mashren B Masood</div>
-                <div><strong><br></strong></div>
-                <div><strong>Level Head Economics</strong></div>
-                <div>Ms Kuek Xiao Bin</div>
-                <div><strong><br></strong></div>
-                <div>
                     <div><strong>Subject Head Humanities</strong></div>
                     <div>Mr George Fu</div>
-                </div>
                 <div><strong><br></strong></div>
                 <div><strong>Subject Head English Literature</strong></div>
                 <div>Mr Sanjay Cheriyan Mathew</div>
@@ -77,13 +69,25 @@ variant: markdown
         </tr>
         <tr>
             <td valign="top">
+                <div><strong>HOD Economics</strong></div>
+                <div>Ms Kuek Xiao Bin (covering)</div>
+            </td>
+            <td valign="top">
+                <div><strong>Subject Head Economics</strong></div>
+                <div>Mr Mohd Mashren B Masood</div>
+     <div>
+            </div></td>
+        </tr>
+			<tr>
+            <td valign="top">
                 <div><strong>HOD English</strong></div>
                 <div>Ms Ng Swee Pheng</div>
             </td>
             <td valign="top">
-                <div><strong>Level Heads General Paper</strong></div>
+                <div><strong>Subject Head General Paper</strong></div>
+                <div>Ms Ruth Lim</div><br>
+							<div><strong>Level Head General Paper</strong></div>
                 <div>Ms Ong Xin Yi</div>
-                <div></div>
                 <div></div>
             </td>
         </tr>
@@ -146,7 +150,7 @@ variant: markdown
                 <div>
                     <div>
                         <div>
-                            <div><strong>Sports Secretary</strong></div>
+                            <div><strong>Subject Head Physical Education/Co-Curricular Activities</strong></div>
                             <div>Mr David Tan</div>
                         </div>
                     </div>
@@ -156,12 +160,16 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div>
-                    <div><strong>HOD Project Work</strong></div>
-                    <div>Mr Fong Chun Kin</div>
+                    <div><strong>Project Work</strong></div>
+                    <div></div>
                     <div></div>
                 </div>
             </td>
-            <td><br></td>
+           <!--  <td><br></td> -->
+	         <td valign="top">
+                <div><strong>Subject Head Project Work</strong></div>
+						 <div>Mr Mori Toshiyuki (covering)</div>
+            </td>
         </tr>
         <tr>
             <td valign="top">
@@ -198,25 +206,21 @@ variant: markdown
                         <div><br></div>
                     </div>
                     <div></div>
-                    <div>
-                        <div><strong>Subject Head Physics</strong></div>
-                        <div>Mr Chang Kok Keong</div>
-                        <div><br></div>
-                        <div></div>
                         <div>
                             <div><strong>Level Head Physics</strong></div>
-                            <div>Mr Koo Guowen</div>
+                          <div>Mr Koo Guowen</div>  
+													<div>Mr Bertram Lim (covering)</div>
                             <div></div>
                         </div>
                         <div><br></div><strong>
-                            <div><strong>Subject Head Science Research and Talent Management</strong></div>
+<!--                            <div><strong>Subject Head Science Research and Talent Management</strong></div>
                         </strong>
                         <div></div>
                     </div>
                     <div>Ms Lee Sok Ee</div>
                     <div></div>
-                </div>
-            </td>
+                </div> -->
+            </strong></div></td>
         </tr>
         <tr>
             <td valign="top">
@@ -263,7 +267,7 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div>
-                    <div><strong>HOD Special Projects</strong></div>
+                    <div><strong>HOD Student Leadership and Management</strong></div>
                     <div>Ms Rosalind Huang</div>
                     <div><br></div>
                 </div>
@@ -304,6 +308,22 @@ variant: markdown
                     <div><strong>Subject Head National Education / Values in Action</strong></div>
                     <div>Ms Teo Shu May</div>
                 </div>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+                <div>
+                    <div><strong>SPECIAL PROJECTS
+											</strong></div>
+                    <div></div>
+                    <div></div>
+                </div>
+            </td>
+           <!--  <td><br></td> -->
+	         <td valign="top">
+                <div><strong>Subject Head Special Projects</strong></div>
+						 <div>Mr Nicholas Chee</div>
+						 <div>Mr Patrick Sum</div>
             </td>
         </tr>
     </tbody>

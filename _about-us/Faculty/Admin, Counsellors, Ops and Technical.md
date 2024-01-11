@@ -3,12 +3,16 @@ title: Admin, Counsellors, Ops and Technical
 permalink: /about-us/faculty/admin-counsellors-ops-n-technical/
 description: ""
 third_nav_title: Faculty
+variant: markdown
 ---
 **FULL TIME SCHOOL COUNSELLOR** <br>
 Mrs Julie Lye
 
   **LEARNING AND BEHAVIOURAL MENTOR** <br>
 Mrs Adeline Chia
+
+  **CAREER GUIDANCE OFFICER** <br>
+Mr Samuel Liang
 
 **ADMINISTRATION MANAGER** <br>
 Ms Sarah Lim<br>
@@ -35,8 +39,8 @@ Mdm Norhaslinda
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
 
-**LIBRARY ASSISTANT** <br>
-Miss Thevani<br>
+<!-- **LIBRARY ASSISTANT** <br>
+Miss Thevani<br> -->
 
 
   
@@ -66,4 +70,4 @@ Mr Qu Zheng Chu
 Mr Ken Zhang
 
 **THEATRE TECHNICIAN (CENTRE FOR PERFORMING ARTS)** <br>
-Mr See Wei Hao
+Mr Augustine Koh
