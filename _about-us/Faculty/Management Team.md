@@ -46,11 +46,11 @@ variant: markdown
             </td>
             <td valign="top">
                 <div><strong>JC1 Year Head</strong></div>
-                <div>Ms Tham Peishan (covering)</div>
+                <div>Mr Patrick Sum</div>
                 <div><br></div>
-<!--               <div>JC2 Year Head</div>
-                <div>Mr Calvin Choo</div>
-                <div></div>   -->
+               <div><strong>JC2 Year Head</strong></div>
+                <div>Ms Tham Peishan (covering)</div>
+                <div></div>
             </td>
         </tr>
         <tr>
@@ -323,7 +323,6 @@ variant: markdown
 	         <td valign="top">
                 <div><strong>Subject Head Special Projects</strong></div>
 						 <div>Mr Nicholas Chee</div>
-						 <div>Mr Patrick Sum</div>
             </td>
         </tr>
     </tbody>

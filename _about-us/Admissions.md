@@ -6,15 +6,9 @@ variant: markdown
 ---
 ### JOINT ADMISSION EXERCISE (JAE)
 
-The Joint Admission Exercise (JAE) is conducted by the Ministry of Education after the release of the GCE “O” Level examination results. Instructions regarding JAE can be found in the JAE information booklet distributed to students in Secondary Four.  
+The Joint Admission Exercise (JAE) is conducted by the Ministry of Education after the release of the GCE “O” Level examination results. For more information regarding the JAE (timeline, schoolfinder), you may refer to the Ministry of Education's JAE website [here](https://www.moe.gov.sg/jae) 
 
-  
-
-### JAE POSTING
-
-Please refer to the Ministry of Education's updated instructions&nbsp;[here](https://www.moe.gov.sg/post-secondary/admissions/jae).
-
-  
+   
 
 ### APPEALS
 
