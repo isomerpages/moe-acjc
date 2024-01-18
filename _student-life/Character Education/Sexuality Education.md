@@ -132,7 +132,7 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
   font-weight:normal;line-height:1.5">State the ways of managing the impact of STIs</li>
 </ul>
 </td>
-    <td style="border: 1px solid grey" class="tg-f4yw">Term 3</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 3</td>
   </tr>
 </tbody>
 </table>
