@@ -191,7 +191,7 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 
   
 
-**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2023:**
+**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2024:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
