@@ -18,32 +18,29 @@ Mr Samuel Liang
 Ms Sarah Lim<br>
 Mdm Tan Puek Hwang 
 
- 
-
-**ADMINISTRATION EXECUTIVE** <br>
+**ADMINISTRATIVE EXECUTIVE** <br>
 Ms Chan Mun Sin<br>
 Ms Cassandra Goh 
-
-  
 
 **OPERATIONS MANAGER** <br>
 Mr Nazri <br>
 Mr Sukumaran
 
-  
-
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
 Mdm Norhaslinda
+
+**STEM INSTRUCTOR** <br>
+Ms Han Yiyao<br>
+Mdm Angie Ng<br>
+Ms Nurin Sofiah<br>
+Ms Theresa
 
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
 
 <!-- **LIBRARY ASSISTANT** <br>
 Miss Thevani<br> -->
-
-
-  
 
 **ICT EXECUTIVE** <br>
 Mr Gek Hon Joo
@@ -54,20 +51,12 @@ Mr Gek Hon Joo
 Mr Breyon Yeo   <br>
 Mr Loki Lin
 
-  
-
 **AVA TECHNICIAN** <br>
 Mr Mohammad Ilham
 
 **ASSISTANT MANAGER (SPORTS COMPLEX)** <br>
 Ms Chan Lai Na
 
-**FACILITIES OFFICER (SPORTS COMPLEX)** <br>
-Mdm Ma Ji Yu<br>
-Mr Qu Zheng Chu
-
 **THEATRE MANAGER (CENTRE FOR PERFORMING ARTS)** <br>
 Mr Ken Zhang
 
-**THEATRE TECHNICIAN (CENTRE FOR PERFORMING ARTS)** <br>
-Mr Augustine Koh

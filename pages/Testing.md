@@ -2,42 +2,6 @@
 title: Testing
 permalink: /testing/
 description: ""
+variant: markdown
 ---
-<style>
-ul.jekyllcodex\_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
-ul.jekyllcodex\_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
-ul.jekyllcodex\_accordion li input {display: none;}
-ul.jekyllcodex\_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
-ul.jekyllcodex\_accordion li div {display: none; padding-bottom: 1.2rem;}
-ul.jekyllcodex\_accordion li input:checked + label {font-weight: bold;}
-ul.jekyllcodex\_accordion li input:checked + label + div {display: block;}
-ul.jekyllcodex\_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
-ul.jekyllcodex\_accordion li input:checked + label::before {transform: rotate(-45deg);}
-</style>
-<ul class="jekyllcodex\_accordion">
-        <li><input type="checkbox" id="accordion1"><label for="accordion1">Testing</label>
-					<div>Details of item</div></li>
-   <li><input type="checkbox" id="accordion2"><label for="accordion1">Testing</label>
-		 <div>Details of item</div></li>
-</ul>
-
-<ul>
-    <li> <details><summary>Hello</summary><blockquote>
-      <details><summary>World</summary><blockquote>
-        :smile:
-      </blockquote></details>
-    </blockquote></details>
-    </li>
-    <li> <details><summary>Hello</summary><blockquote>
-      <details><summary>World</summary><blockquote>
-        :smile:
-      </blockquote></details>
-    </blockquote></details>
-    </li>
-    <li> <details><summary>Hello</summary><blockquote>
-      <details><summary>World</summary><blockquote>
-        :smile:
-      </blockquote></details>
-    </blockquote></details>
-    </li>
-    </ul>
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Principal</strong></p><p>Dr Shirleen Chee</p><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
