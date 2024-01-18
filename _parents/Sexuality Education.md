@@ -12,35 +12,30 @@ variant: markdown
 
 2\.  The goals of Sexuality Education are to:
 
-i.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;<u>knowledge</u>&nbsp;on human sexuality and the consequences of sexual activity;
+(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
 
-  
+(b)  Guide students to make wise, informed and responsible decisions on sexuality matters.
 
-ii.  To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;<u>social and emotional skills</u>&nbsp;of self-awareness, management of their thoughts, feelings and&nbsp; behaviors, development of empathy for others, possession of effective communication, problem solving and decision - making skills; and
-
-  
-
-iii.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;<u>positive mainstream values and attitudes</u>&nbsp;about sexuality.
-
+(c)  Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
 
 3\.  The key messages of Sexuality Education are:
 
-i.  Love and respect yourself as you love and respect others; <br>
-ii.  Build positive relationships based on love and respect (which are the foundation for strong families); <br>
-iii.  Make responsible decisions for yourself, your family and society; and <br>
-iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(a)  Love and respect yourself as you love and respect others; <br>
+(b)  Build positive relationships based on love and respect (which are the foundation for strong families); <br>
+(c)  Make responsible decisions for yourself, your family and society; and <br>
+(d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2023
+### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2024
 
 4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 ### SEXUALITY EDUCATION
 
-5\. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
+5\. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
-### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2023:
+### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2024:
 
 The following lessons from the Sexuality Education Programme will be taught:
 
