@@ -127,12 +127,11 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 ### eTeens Programme:
 
 
-6\.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
+6\.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
   
-7\.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+7\.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-  
 
 **At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2024:**
 
