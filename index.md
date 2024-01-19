@@ -17,16 +17,6 @@ sections:
           description: National School Games
           url: /c-c-a-competitions/national-school-games-2023-a-division/
   - infopic:
-      title: ACJC OPEN HOUSE 2024
-      id: infopic
-      description: ACJC's Open House is back! We look forward to welcoming visitors
-        and prospective students.
-      image: /images/HomePage/openhouse_2024.jpg
-      alt: Image alt text
-      subtitle: 10th January 2024, 12 - 5 pm
-      url: /events/open-house/
-      button: Click here for details
-  - infopic:
       title: ACJC Fun-O-Rama XXVI
       subtitle: 23rd March 2024, 9AM - 5:30PM
       id: infopic
