@@ -1,0 +1,25 @@
+logo: /images/HomePage/acjc school crest_white.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Student Life
+    url: /student-life/academics
+    sublinks:
+      - title: Academics
+        url: /student-life/academics
+      - title: Character Education
+        url: /student-life/character-education/
+      - title: Co-Curricular Activities
+        url: /student-life/co-curricular-activities/
+      - title: Financial Assistance
+        url: /student-life/financial-assistance/
+      - title: College Rules and Regulations
+        url: /student-life/college-rules-and-regulations/
+  - title: Showcase
+    collection: showcase
+  - title: Events
+    collection: events
+  - title: Parents
+    collection: parents
+  - title: Alumni
+    collection: alumni

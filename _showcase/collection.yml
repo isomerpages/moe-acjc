@@ -1,0 +1,146 @@
+collections:
+  showcase:
+    output: true
+    order:
+      - 2023/ACJC History Dialogic 2023.md
+      - 2023/Project SMILE.md
+      - 2023/Chem E Challenge 2023.md
+      - 2023/Lee Kong Chian School of Medicine Anatomy Challenge 2023.md
+      - 2023/National Day 2023.md
+      - 2023/Science Research at ACJC.md
+      - "2023/ACSian Theatre: Assissi Fun Day.md"
+      - 2023/ACSian Theatre goes to Hanoi.md
+      - 2023/SYF Indian Dance.md
+      - 2023/As You Like It.md
+      - "2023/Black & White: A Night of Bands.md"
+      - 2023/A Whole New Barrel Of Laughs.md
+      - 2023/Science & Mathematics Week 2023.md
+      - 2023/44th CB Paul Science Quiz.md
+      - 2023/Science Olympiads 2023.md
+      - 2023/.keep
+      - 2023/137th Founder's Day.md
+      - 2023/ACJC Celebrates the Class of 2022!.md
+      - 2022/.keep
+      - 2022/ACJC Celebrates the Class of 2021.md
+      - 2022/ACJC Cherishes the Class of 2021.md
+      - 2022/Debate & Oratory at Home and Abroad.md
+      - 2022/Alice in Wonderland (An Immersive Experience).md
+      - 2022/ACJC Canoeing 2022.md
+      - "2022/Pixel Labs: Lions Home School Video Competition 2022.md"
+      - "2022/SYF 2022: ACSian Theatre's 'The Fall of Icarus'.md"
+      - 2022/A Midsummer Night's Dream.md
+      - 2022/Theasthai.md
+      - 2022/Culminatio.md
+      - 2022/Science Week 2022.md
+      - 2022/International Biomedical Quiz 2022.md
+      - 2022/SAF Young Leaders' Award.md
+      - 2022/DEP Skills Showcase.md
+      - 2022/Dover Heritage Field Trip.md
+      - 2022/ACSian Theatre Presents 'Mulan'.md
+      - 2022/Lee Kong Chian School of Medicine Anatomy Challenge.md
+      - 2022/Singapore Science and Engineering Fair 2022 & 23rd International
+        Elementz Fair.md
+      - 2022/ACJC at the ICP.md
+      - 2022/Year End Science Fun 2022.md
+      - 2022/Cinderella 2022.md
+      - 2021/.keep
+      - 2021/ACJC Celebrates the Class of 2020.md
+      - 2021/ACJC Cherishes the Class of 2020.md
+      - 2021/42nd International C B Paul Science Quiz.md
+      - 2021/Science Olympiads 2020.md
+      - 2021/ACSian Theatre Presents Twelfth Night.md
+      - "2021/SYF: Indian Dance.md"
+      - 2021/Singapore Science & Engineering Fair 2021.md
+      - 2021/Theasthai.md
+      - 2021/Elementz Fair.md
+      - 2021/ACSian Theatre's Webinar for Secondary Schools.md
+      - 2021/ACSian Theatre presents Charlie & the Chocolate Factory.md
+      - 2021/The Odyssey A Filmed Production by ACSian Theatre.md
+      - 2021/Around the World in 80 Days.md
+      - 2021/Sonder III.md
+      - 2021/SembCorp Marine Green Wave Environmental Care Competition.md
+      - 2021/Y E S Fun.md
+      - 2021/2021 Science Olympiads.md
+      - 2021/Engineering Innovation Challenge.md
+      - 2021/Debate & Oratorical Society Restrospective 2021.md
+      - 2020/.keep
+      - 2020/Engineering Innovation Challenge 2020.md
+      - "2020/Santa Claus: Origins.md"
+      - 2020/2020 Humanities Trip.md
+      - 2020/The Great American Novel Literature enrichment with the University
+        of York.md
+      - 2020/ACJC Celebrates the Class of 2019!.md
+      - 2020/ACJC Cherishes the Class of 2019.md
+      - 2020/Orator's Trophy 2020.md
+      - 2020/Nanyang Research Programme.md
+      - 2020/Singapore Science and Engineering Fair.md
+      - "2020/ACJC Harp Ensemble: A Retrospective.md"
+      - 2020/Culminatio 2020.md
+      - "2020/ACSian Theatre: NLB Read for Books Initiative.md"
+      - 2020/Inventio 2020.md
+      - 2020/International Sci Teens Challenge.md
+      - 2020/Fun O Rama XXV Final Updates.md
+      - 2019/.keep
+      - 2019/ACJC Open House 2019.md
+      - 2019/ACJC Celebrates the Class of 2018.md
+      - 2019/ACJC Cherishes the Class of 2018.md
+      - "2019/ACJC Art Exhibition 2019: Sonder.md"
+      - 2019/Black & White.md
+      - 2019/Barrel of Laughs (Returns!).md
+      - 2019/ACJC Strings @ SYF.md
+      - 2019/Achievements in Science.md
+      - 2019/International Oldham Cup.md
+      - 2019/ACJC Tech Council Competitions.md
+      - 2019/LKCMed Anatomy Challenge.md
+      - 2019/National Schools Tenpin Bowling Championship.md
+      - 2019/ACJC Literature Enrichment (University of York).md
+      - 2019/Science Week 2019.md
+      - 2019/ACSian Theatre in Hanoi.md
+      - 2019/Shakespeare!.md
+      - 2019/National Softball Championship.md
+      - 2019/National Squash Championship 2019.md
+      - 2019/ACJC Band at SYF 2019.md
+      - 2019/Nanyang Research Programme 2019.md
+      - 2019/AStar Science Award.md
+      - 2019/Brain Camp 2019.md
+      - 2019/SSEF 2019.md
+      - 2019/The Amazing Flying Machine.md
+      - 2019/5th Asian World Schools Debating Championship.md
+      - 2019/SPDO.md
+      - 2019/National Poetry Competition 2019.md
+      - 2019/@rtikulation 2019.md
+      - 2019/Inventio 2019.md
+      - 2019/Hero.md
+      - 2019/The Birthday Book Launch.md
+      - 2019/Speech Arts Festival.md
+      - 2019/International Coastal Cleanup Initiative.md
+      - 2018/.keep
+      - 2018/ACJC Joint Christmas Concert.md
+      - 2018/ACSian Theatre presents 1001 Nights.md
+      - 2018/Interdisciplinary Learning at the ArtScience Museum.md
+      - 2018/ACJC Celebrates the Class of 2017.md
+      - 2018/ACJC Cherishes the Class of 2017.md
+      - 2018/Presidential Citation for ACJC Interact Club.md
+      - 2018/Junior Lexis 2018.md
+      - 2018/ACJC Cross Country 2018.md
+      - 2018/Literature Enrichment (Alumnus guest lecture).md
+      - 2018/Orator's Trophy 2018.md
+      - 2018/ACSian Theatre Performs!.md
+      - 2018/Art and Learning at ACJC.md
+      - "2018/Collaborative Learning: Art & Theatre.md"
+      - 2018/Integrating Service & Learning.md
+      - 2018/Oldham Cup 2018.md
+      - 2018/58th National Schools Swimming Championships.md
+      - "2018/Surabi: Tamil Debate 2018.md"
+      - 2018/ACSian Theatre's Productions.md
+      - 2018/Literature Enrichment with Dr Andrew Hui.md
+      - "2018/MUSE: ACJC Concert Band & ACSian Theatre.md"
+      - 2018/Showcasing the DEP (Culminatio and Theastai).md
+      - 2018/ACSian Theatre at the Singapore Youth Festival.md
+      - "2018/ACSian Theatre: JC1 Production.md"
+      - 2018/National Book Council Poetry Launch.md
+      - 2018/2018 Commonwealth Essay Competition.md
+      - 2018/ACJC Joint Thanksgiving Concert.md
+      - 2018/Beauty and the Beast.md
+      - 2018/ACJC COE Retrospective 2018.md
+      - Centre of Excellence.md

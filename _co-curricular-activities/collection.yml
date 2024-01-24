@@ -1,0 +1,50 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Clubs and Societies/ACpress.md
+      - Clubs and Societies/Art Club.md
+      - Clubs and Societies/Arts Council.md
+      - Clubs and Societies/Chinese Cultural Society.md
+      - Clubs and Societies/Christian Fellowship.md
+      - Clubs and Societies/Debate and Oratorical Society.md
+      - Clubs and Societies/Indian Cultural Society.md
+      - Clubs and Societies/Interact Club.md
+      - Clubs and Societies/Malay Cultural Society.md
+      - Clubs and Societies/Pixel Labs.md
+      - Clubs and Societies/Science and Math Council.md
+      - Clubs and Societies/Technology Council.md
+      - Clubs and Societies/AC Uniformed Groups.md
+      - Clubs and Societies/.keep
+      - Performing Arts/ACSian Theatre.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Dance Society.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/String Ensemble.md
+      - Performing Arts/.keep
+      - Services/First Aid.md
+      - Services/Library Council.md
+      - Services/Media Resource Crew.md
+      - Services/Photographic Society.md
+      - Services/Students' Council.md
+      - Services/.keep
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Bowling.md
+      - Sports/Canoeing.md
+      - Sports/Cross Country.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Hockey.md
+      - Sports/Netball.md
+      - Sports/Rugby.md
+      - Sports/Softball.md
+      - Sports/Squash.md
+      - Sports/Swimming.md
+      - Sports/Table Tennis.md
+      - Sports/Tennis.md
+      - Sports/Track and Field.md
+      - Sports/Volleyball.md
+      - Sports/Waterpolo.md
+      - Sports/.keep
