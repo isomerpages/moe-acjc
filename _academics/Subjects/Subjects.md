@@ -3,41 +3,36 @@ title: Subjects
 permalink: /student-life/academics/subjects/
 description: ""
 third_nav_title: Subjects
+variant: tiptap
 ---
-**Knowledge Skills**  <br>
-&gt;[General Paper](/student-life/academics/subjects/general-paper-8881-j1-2023/)  (Syllabus 8881, for&nbsp;**J1**&nbsp;students, 2023) <br>
-&gt;[General Paper](/student-life/academics/subjects/general-paper-8807-j2-2023/)  (Syllabus 8807, for&nbsp;**J2**&nbsp;students, 2023)<br>
-&gt;[Project Work](/student-life/academics/subjects/project-work/)  
-
-
-**Humanities &amp; The Arts** <br>
-&gt; [Art](/student-life/academics/subjects/art/)  
-&gt; [China Studies in English](/student-life/academics/subjects/china-studies-in-english/)  
-&gt; [Economics](/student-life/academics/subjects/economics/)  
-&gt; [English Language &amp; Linguistics](/student-life/academics/subjects/english-language-and-linguistics/)  
-&gt; [Geography](/student-life/academics/subjects/geography-j1-2023/)  
-&gt; [History](/student-life/academics/subjects/history-j1-2023/)  
-&gt; [Literature in English](/student-life/academics/subjects/literature-in-english/)  
-&gt; [Theatre Studies](/student-life/academics/subjects/theatre-studies/)  
-&gt; [Music](/student-life/academics/subjects/music/)
-
-  
-**Mathematics &amp; Sciences** <br>
-&gt; [Biology](/student-life/academics/subjects/biology/)  
-&gt; [Chemistry](/student-life/academics/subjects/chemistry/)  
-&gt; [Computing](/student-life/academics/subjects/computing/)  
-&gt; [Mathematics](/student-life/academics/subjects/mathematics/)  
-&gt; [Further Mathematics](/student-life/academics/subjects/further-mathematics/)  
-&gt; [Physics](/student-life/academics/subjects/physics/)
-
-  
-**Languages** <br>
-&gt; [Mother Tongue Languages &amp; Literature](/student-life/academics/subjects/mother-tongue-languages-and-literature/) <br>
-&gt; Chinese Language &amp; Literature <br>
-&gt; Malay Language &amp; Literature   <br>
-&gt; Tamil Language &amp; Literature
-
-   
-
-**Life Skills** <br>
-&gt; [Physical Education](/student-life/academics/subjects/physical-education/)
+<p><strong>Knowledge Skills</strong> 
+    <br>&gt;<a href="https://www.acjc.moe.edu.sg/student-life/academics/subjects/general-paper-8881/" rel="noopener noreferrer nofollow" target="_blank">General Paper</a> 
+    <br>&gt;<a href="/student-life/academics/subjects/project-work/" rel="noopener noreferrer nofollow" target="_blank">Project Work</a>
+</p>
+<p><strong>Humanities &amp; The Arts</strong> 
+    <br>&gt; <a href="/student-life/academics/subjects/art/" rel="noopener noreferrer nofollow" target="_blank">Art</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/china-studies-in-english/" rel="noopener noreferrer nofollow" target="_blank">China Studies in English</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/economics/" rel="noopener noreferrer nofollow" target="_blank">Economics</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/english-language-and-linguistics/" rel="noopener noreferrer nofollow" target="_blank">English Language &amp; Linguistics</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/geography-j1-2023/" rel="noopener noreferrer nofollow" target="_blank">Geography</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/history-j1-2023/" rel="noopener noreferrer nofollow" target="_blank">History</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/literature-in-english/" rel="noopener noreferrer nofollow" target="_blank">Literature in English</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/theatre-studies/" rel="noopener noreferrer nofollow" target="_blank">Theatre Studies</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/music/" rel="noopener noreferrer nofollow" target="_blank">Music</a>
+</p>
+<p><strong>Mathematics &amp; Sciences</strong> 
+    <br>&gt; <a href="/student-life/academics/subjects/biology/" rel="noopener noreferrer nofollow" target="_blank">Biology</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/chemistry/" rel="noopener noreferrer nofollow" target="_blank">Chemistry</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/computing/" rel="noopener noreferrer nofollow" target="_blank">Computing</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/mathematics/" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/further-mathematics/" rel="noopener noreferrer nofollow" target="_blank">Further Mathematics</a> 
+    <br>&gt; <a href="/student-life/academics/subjects/physics/" rel="noopener noreferrer nofollow" target="_blank">Physics</a>
+</p>
+<p><strong>Languages</strong> 
+    <br>&gt; <a href="/student-life/academics/subjects/mother-tongue-languages-and-literature/" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages &amp; Literature</a> 
+    <br>&gt;&gt; Chinese Language &amp; Literature
+    <br>&gt;&gt; Malay Language &amp; Literature
+    <br>&gt;&gt; Tamil Language &amp; Literature</p>
+<p><strong>Life Skills</strong> 
+    <br>&gt; <a href="/student-life/academics/subjects/physical-education/" rel="noopener noreferrer nofollow" target="_blank">Physical Education</a>
+</p>
