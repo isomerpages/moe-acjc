@@ -47,7 +47,7 @@ The topics covered in H1 Mathematics include Functions and Graphs, Equations and
 The A Level Examination for H1 Mathematics comprises one 3 hour paper with about 11 to 13 questions. There will be one question on the application of mathematics in real-world contexts, including those from business and the social sciences. This question will carry at least 12 marks and may require concepts and skills from more than one topic. Candidates will be expected to answer all questions.
 
   
-The syllabus document for the 2025 H1 Mathematics syllabus will be made available on the SEAB website in due time.
+The syllabus document for the 2025 H1 Mathematics syllabus is available on the SEAB website [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8865_y25_sy.pdf) along with a [specimen paper](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/8865_y25_sp_1.pdf).
 
 ### H2 MATHEMATICS (SYLLABUS 9758)
 
@@ -90,7 +90,7 @@ The A Level Examination for H2 Mathematics comprises two 3 hour papers with abou
 
   
 
-The syllabus document for the 2025 H2 Mathematics syllabus will be made available on the SEAB website in due time.
+The syllabus document for the 2025 H2 Mathematics syllabus is available on the SEAB website [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9758_y25_sy.pdf) along with [specimen papers 1](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9758_y25_sp_1.pdf) and [2](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9758_y25_sp_2.pdf).
 
 ### H3 MATHEMATICS (SYLLABUS 9820)
 
@@ -127,4 +127,4 @@ evaluate mathematical arguments, and mathematical language to communicate ideas.
 Finally, they will learn to read mathematical texts and make
 mathematical investigations, including formulating conjectures, forming generalisations, and critiquing solutions.
 The A Level Examination for H3 Mathematics comprises one 3 hour paper with 6 questions of differing lengths. The paper will be marked out of 80; questions 1 to 5 will be worth 10 to 14 marks each. Question 6 will be worth 16 to 20 marks and will require students to read and respond to a short mathematical text. Candidates will be expected to answer all questions.
-The syllabus document for the 2025 A Level Examinations will be made available on the SEAB webpage in due time.
+The syllabus document for the 2025 A Level Examinations is available on the SEAB webpage [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/9820_y25_sy.pdf) along with a [specimen paper](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/spmg/9820_y25_sp_1.pdf).
