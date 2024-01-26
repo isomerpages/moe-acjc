@@ -3,10 +3,10 @@ title: Subjects
 permalink: /student-life/academics/subjects/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 **Knowledge Skills**  <br>
-&gt;[General Paper](/student-life/academics/subjects/general-paper-8881-j1-2023/)  (Syllabus 8881, for&nbsp;**J1**&nbsp;students, 2023) <br>
-&gt;[General Paper](/student-life/academics/subjects/general-paper-8807-j2-2023/)  (Syllabus 8807, for&nbsp;**J2**&nbsp;students, 2023)<br>
+&gt;[General Paper](https://www.acjc.moe.edu.sg/student-life/academics/subjects/general-paper-8881/)  <br>
 &gt;[Project Work](/student-life/academics/subjects/project-work/)  
 
 
