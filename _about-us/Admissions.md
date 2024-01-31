@@ -27,9 +27,9 @@ You are required to submit the following documents in PDF format as part of your
 * Other supporting documents (if applicable)
 
 Students who wish to submit an appeal are to do so through one of the following online forms:
-* For students who have participated in the JAE, submit your application here: https://go.gov.sg/acjc-jae-appeals
-* For Singaporeans/PR who did not participate in the JAE, submit your application here: https://go.gov.sg/acjc-nonjae-appeals
-* For foreign students who did not participate in the JAE, submit your application here: https://go.gov.sg/acjc-nonjae-appeals-foreigners
+* For students who have participated in the JAE, submit your application here: [https://go.gov.sg/acjc-jae-appeals](https://go.gov.sg/acjc-jae-appeals)
+* For Singaporeans/PR who did not participate in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals](https://go.gov.sg/acjc-nonjae-appeals)
+* For foreign students who did not participate in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals-foreigners](https://go.gov.sg/acjc-nonjae-appeals-foreigners)
 
 The deadline for submission of appeal application is 6 February 2024, 5pm.
 
