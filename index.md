@@ -13,7 +13,7 @@ sections:
         - title: SYF 2023
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2023/
-        - title: JAE Appeals Exercise
+        - title: JAE Appeals
           description: Application Instructions
           url: /about-us/admissions/
         - title: NSG 2023
