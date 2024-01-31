@@ -13,6 +13,9 @@ sections:
         - title: SYF 2023
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2023/
+        - title: JAE Appeals Exercise
+          description: Application Instructions
+          url: https://acjc.moe.edu.sg/about-us/admissions
         - title: NSG 2023
           description: National School Games
           url: /c-c-a-competitions/national-school-games-2023-a-division/
