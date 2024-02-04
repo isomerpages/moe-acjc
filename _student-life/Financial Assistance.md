@@ -2,28 +2,362 @@
 title: Financial Assistance
 permalink: /student-life/financial-assistance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<p style="text-align:center;"><strong>Ministry of Education Financial Assistance Scheme</strong></p>  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; width: 818px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208"><strong style="margin: 0px; outline: 0px; padding: 0px;">Financial Assistance</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208"><strong style="margin: 0px; outline: 0px; padding: 0px;">Eligibility</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208"><strong style="margin: 0px; outline: 0px; padding: 0px;">Tenure</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208">Full Subsidy of school fees &amp; 1<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup> and 2nd tier miscellaneous fees. $1200 bursary and up to $204 per annum transport subsidies.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208">Singapore Citizen. Gross Monthly Household Income does not exceed $3,000 per month OR $750 per capita income.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208">1 year</td></tr></tbody></table>
-
-<p style="text-align:center;"><strong>ACJC Financial Assistance Scheme</strong></p>  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; width: 818px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208"><strong style="margin: 0px; outline: 0px; padding: 0px;">Financial Assistance</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208"><strong style="margin: 0px; outline: 0px; padding: 0px;">Eligibility</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208"><strong style="margin: 0px; outline: 0px; padding: 0px;">Tenure</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208">Subsidies for school fees &amp; 1<sup style="margin: 0px; outline: 0px; padding: 0px;">st</sup>tier miscellaneous fees. College bursary or grant for educational needs.<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208">Singapore Citizen or Permanent Resident. Gross Monthly Household Income does not exceed $4,400 per month or $1,100 per capita income,<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="208">1 year</td></tr></tbody></table><br>
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; width: 818px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="624"><strong style="margin: 0px; outline: 0px; padding: 0px;">Special Consideration</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="624">Students who do NOT meet the eligibility criteria stated above but whose families are facing financial hardships due to exceptional circumstances can apply for assistance under Special Consideration. Financial assistance may be rendered, on a case-by-case basis.</td></tr></tbody></table>
-
-<p style="text-align:center;"><strong>ACJC College Bursaries</strong></p>  
-
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; width: 818px;" class="iveo_table ives_tab_simple3"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125"><strong style="margin: 0px; outline: 0px; padding: 0px;">Name of Award</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125"><strong style="margin: 0px; outline: 0px; padding: 0px;">Value (p.a.)</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134"><strong style="margin: 0px; outline: 0px; padding: 0px;">Donor</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115"><strong style="margin: 0px; outline: 0px; padding: 0px;">No. of Awards</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125"><strong style="margin: 0px; outline: 0px; padding: 0px;">Tenure*</strong><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Khoo Yang Tin Scholarship<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1200<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Mr Khoo Hye Tin<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Adonai Bursary<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Mr and Mrs Png Chuen Ooi<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">5**<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Chen Su Lan Scholarship<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Chen Su Lan Trust<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">10<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Evan Wong Chin Hee Bursary<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Ms Amy Tsuji<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">1<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Khoo Choon Tin Bursary<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Mdm Quik Lee Lee<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">1<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Khoo Chwee Tin Bursary<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Mr Khoo Chwee Tin<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">1<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Khoo Hye Tin Bursary<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Mr Khoo Hye Tin<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">2<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">Tang Wee Loke Bursary<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">$1000<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="134">Mr Tang Wee Loke<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="115">3<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);" width="125">2 years</td></tr></tbody></table>
-
-_\*Conditions for renewal must be met._
-
-  
-
-_\*\*Alternate years._
-
-  
-
-For more information on how to apply for financial assistance in ACJC, please contact Mrs Ivy Tay <a href="mailto:ivy_sim@schools.gov.sg">(ivy_sim@schools.gov.sg)</a> or Ms Ellena Lim <a href="mailto:ellena_lim@acjc.edu.sg">(ellena_lim@acjc.edu.sg)</a>
+<p><strong>Ministry of Education Financial Assistance Scheme</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Financial Assistance</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Eligibility</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tenure</strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Full Subsidy of school fees &amp; 1st and 2nd tier miscellaneous fees.
+$1200 bursary and up to $204 per annum transport subsidies.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizen. Gross Monthly Household Income does not exceed $3,000
+per month OR $750 per capita income.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 year</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ACJC Financial Assistance Scheme</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Financial Assistance</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Eligibility</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tenure</strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subsidies for school fees &amp; 1sttier miscellaneous fees. College bursary
+or grant for educational needs.
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizen or Permanent Resident. Gross Monthly Household Income
+does not exceed $4,400 per month or $1,100 per capita income,
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 year</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Special Consideration</strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students who do NOT meet the eligibility criteria stated above but whose
+families are facing financial hardships due to exceptional circumstances
+can apply for assistance under Special Consideration. Financial assistance
+may be rendered, on a case-by-case basis.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ACJC College Bursaries</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Award</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Value (p.a.)</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Donor</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>No. of Awards</strong>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tenure*</strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Yang Tin Scholarship
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1200
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Hye Tin
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adonai Bursary
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr and Mrs Png Chuen Ooi
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5**
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Su Lan Scholarship
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Su Lan Trust
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Evan Wong Chin Hee Bursary
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amy Tsuji
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Choon Tin Bursary
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Quik Lee Lee
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Chwee Tin Bursary
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Chwee Tin
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khoo Hye Tin Bursary
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Hye Tin
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tang Wee Loke Bursary
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1000
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Wee Loke
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 years</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>*Conditions for renewal must be met.</em>
+</p>
+<p><em>**Alternate years.</em>
+</p>
+<p>For more information on how to apply for financial assistance in ACJC,
+please contact Mdm Tan Puek Hwang <a href="mailto:tan_puek_hwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">(tan_puek_hwang@schools.gov.sg)</a> or
+Ms Ellena Lim (<a href="mailto:ellena_lim@acjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ellena_lim@acjc.edu.sg)</a>
+</p>
