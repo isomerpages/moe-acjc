@@ -12,7 +12,11 @@ The Joint Admission Exercise (JAE) is conducted by the Ministry of Education aft
 
 ### APPEALS
 
-Appeal for admission to ACJC will begin once the Joint Admission Exercise (JAE) posting results have been released. The appeal application is done fully online.
+The 2024 Appeal for admission to ACJC is now closed. Successful applicants have already been notified.
+
+Thank you to the many students who have shown interest in applying to our college and we would like to wish you the very best in your educational journey.
+
+<!--Appeal for admission to ACJC will begin once the Joint Admission Exercise (JAE) posting results have been released. The appeal application is done fully online.
 
 Students who wish to submit an appeal should take note of the following:
 * Applicants must meet the cut-off points for the respective course (Science or Arts) for the appeal to be considered. The 2024 cut-off points for ACJC **Science** is **8** and ACJC **Arts** is **9**.
@@ -32,7 +36,7 @@ Students who wish to submit an appeal are to do so through one of the following 
 * For foreign students who did not participate in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals-foreigners](https://go.gov.sg/acjc-nonjae-appeals-foreigners)
 
 The deadline for submission of appeal application is 6 February 2024, 5pm.
-
+-->
 
 ### DIRECT SCHOOL ADMISSION (DSA)
 
