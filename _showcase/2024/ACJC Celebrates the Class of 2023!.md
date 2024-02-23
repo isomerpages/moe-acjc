@@ -29,3 +29,4 @@ the success of the Class of 2023: our dedicated staff, the ever-supportive
 parents, and the wider ACS and Methodist family.</p>
 <p>Most of all, we give thanks to God for His infinite goodness.</p>
 <p>To God be the Glory! The Best is Yet to Be!</p>
+<p>To God be the Glory! The Best is Yet to Be!</p>
