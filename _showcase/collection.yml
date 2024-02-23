@@ -2,6 +2,8 @@ collections:
   showcase:
     output: true
     order:
+      - 2024/ACJC Celebrates the Class of 2023!.md
+      - 2024/.keep
       - 2023/ACJC History Dialogic 2023.md
       - 2023/Project SMILE.md
       - 2023/Chem E Challenge 2023.md
