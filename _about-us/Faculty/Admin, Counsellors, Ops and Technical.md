@@ -9,7 +9,7 @@ variant: markdown
 Mrs Julie Lye
 
   **LEARNING AND BEHAVIOURAL MENTOR** <br>
-Mrs Adeline Chia
+Mrs Adelene Chia
 
   **CAREER GUIDANCE OFFICER** <br>
 Mr Samuel Liang
@@ -39,8 +39,7 @@ Ms Theresa
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
 
-<!-- **LIBRARY ASSISTANT** <br>
-Miss Thevani<br> -->
+
 
 **ICT EXECUTIVE** <br>
 Mr Gek Hon Joo
@@ -59,4 +58,3 @@ Ms Chan Lai Na
 
 **THEATRE MANAGER (CENTRE FOR PERFORMING ARTS)** <br>
 Mr Ken Zhang
-
