@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "2024"
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThGN5o-Xzkqyr3780CYEI7IJtWrSRTmkxJMa5tq0wbACY4rDf1c6Bd9Xxu4IbR16NQoEHt8hIUCOLl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThGN5o-Xzkqyr3780CYEI7IJtWrSRTmkxJMa5tq0wbACY4rDf1c6Bd9Xxu4IbR16NQoEHt8hIUCOLlembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On the 23rd of February 2024, ACJC received the GCE A-Level examination
 results for the Class of 2023.</p>
@@ -28,5 +28,4 @@ in the world around them.</p>
 the success of the Class of 2023: our dedicated staff, the ever-supportive
 parents, and the wider ACS and Methodist family.</p>
 <p>Most of all, we give thanks to God for His infinite goodness.</p>
-<p>To God be the Glory! The Best is Yet to Be!</p>
 <p>To God be the Glory! The Best is Yet to Be!</p>
