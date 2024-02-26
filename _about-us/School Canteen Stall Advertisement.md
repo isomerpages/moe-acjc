@@ -7,7 +7,7 @@ variant: markdown
 | Type of Food Stall| Closing Date| Requirements |
 | -------- | -------- | -------- |
 |<font color="#CD1405"><b>Western Food Stall</b></font>  |<font color="#CD1405"><b>20 March 2024</b></font>   |<font color="#CD1405"><b>N.A.</b></font>|
-|<font color="#CD1405"><b>Indian Food Stall</b></font>  |<font color="#CD1405"><b>20 March 2024</b></font>   |<font color="#CD1405"><b>Halal</b></font>|
+
 
 <p style="line-height: 0.5; background: white;"><strong><span style="font-size: 16.0pt; color: #484848;">Application Procedure</span></strong></p>
 <ol>
