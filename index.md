@@ -23,7 +23,7 @@ sections:
       description: Save the date. Don't miss out on this colossal carnival.
       image: /images/FOR 2024/for26_l.jpg
       alt: Image alt text
-      url: /events/fun-o-rama/
+      url: /events/fun-o-rama-xxvi/
       button: find out more
   - infopic:
       title: Congratulations!
