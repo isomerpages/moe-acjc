@@ -25,7 +25,7 @@ sections:
         partner beneficiaries.
       image: /images/FOR 2024/for26_l.jpg
       alt: Image alt text
-      url: /events/fun-o-rama-xxvi/
+      url: /events/fun-o-rama/acjc-fun-o-rama-2024-partner-beneficiaries/
       button: for partner beneficiaries info
   - infopic:
       title: Congratulations!
