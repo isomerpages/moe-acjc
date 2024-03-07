@@ -10,7 +10,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://mws.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MWS" src="/images/FOR 2024/Beneficiary/MWS1.png">
+<img style="width: 100%" height="auto" width="100%" alt="MWS" src="/images/FOR 2024/Beneficiary/MWS_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -24,7 +24,7 @@ the disadvantaged and distressed.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.cslmch.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chen Su Lan Children’s Home" src="/images/FOR 2024/Beneficiary/ChenSuLan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chen Su Lan Children’s Home</div><div class="isomer-card-description">This home aims to provide loving, Christian nurture for needy and disadvantaged children of all races and religions, so as to prepare them to be happy and responsible members of the family and community. Every Youth Day, ACJC continue to bless these children through its Youth Fund Raising efforts.</div><div class="isomer-card-link">For more information.</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.faithacts.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Faith Acts" src="/images/FOR 2024/Beneficiary/FaithActs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Faith Acts</div><div class="isomer-card-description">FaithActs is a non-profit community care service with a vision to impact, change and transform lives of children with learning difficulties, youths-at-risk, disadvantaged families and seniors with challenging needs in Queenstown.</div><div class="isomer-card-link">For more information.</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.faithacts.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Faith Acts" src="/images/FOR 2024/Beneficiary/Faith_Acts_4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Faith Acts</div><div class="isomer-card-description">FaithActs is a non-profit community care service with a vision to impact, change and transform lives of children with learning difficulties, youths-at-risk, disadvantaged families and seniors with challenging needs in Queenstown.</div><div class="isomer-card-link">For more information.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://4pm.org.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -46,7 +46,7 @@ the Experience, Develop, Grow and Enrich (EDGE) approach.</div>
 <a rel="noopener noreferrer nofollow" href="https://www.brmc.org.sg/get-involved/serve/oasis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Oasis BRMC Mission" src="/images/FOR 2024/Beneficiary/Oasis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Oasis BRMC Mission" src="/images/FOR 2024/Beneficiary/Oasis_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
