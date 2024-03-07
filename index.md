@@ -20,11 +20,13 @@ sections:
       title: ACJC Fun-O-Rama XXVI
       subtitle: 23rd March 2024, 9AM - 5:30PM
       id: infopic
-      description: Save the date. Don't miss out on this colossal carnival.
+      description: Save the date. Don't miss out on this colossal carnival. If you are
+        unable to come, bless others by pledging your coupons to one of our
+        partner beneficiaries.
       image: /images/FOR 2024/for26_l.jpg
       alt: Image alt text
       url: /events/fun-o-rama-xxvi/
-      button: find out more
+      button: for partner beneficiaries info
   - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth
