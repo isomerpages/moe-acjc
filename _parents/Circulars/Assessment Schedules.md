@@ -9,9 +9,6 @@ variant: markdown
 
 JC1 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/Assessment/2024_jc1_assessment_schedule.pdf">here</a>&nbsp;for download.
 
-
-
-
 JC1 Promotional Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
 
 
