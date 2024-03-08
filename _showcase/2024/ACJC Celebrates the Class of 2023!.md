@@ -6,7 +6,7 @@ description: ""
 third_nav_title: "2024"
 ---
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThGN5o-Xzkqyr3780CYEI7IJtWrSRTmkxJMa5tq0wbACY4rDf1c6Bd9Xxu4IbR16NQoEHt8hIUCOLlembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThGN5o-Xzkqyr3780CYEI7IJtWrSRTmkxJMa5tq0wbACY4rDf1c6Bd9Xxu4IbR16NQoEHt8hIUCOLl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p>On the 23rd of February 2024, ACJC received the GCE A-Level examination
 results for the Class of 2023.</p>
