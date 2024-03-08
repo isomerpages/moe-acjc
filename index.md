@@ -20,11 +20,13 @@ sections:
       title: ACJC Fun-O-Rama XXVI
       subtitle: 23rd March 2024, 9AM - 5:30PM
       id: infopic
-      description: Save the date. Don't miss out on this colossal carnival.
+      description: Save the date. Don't miss out on this colossal carnival. If you are
+        unable to come, bless others by pledging your coupons to one of our
+        partner beneficiaries.
       image: /images/FOR 2024/for26_l.jpg
       alt: Image alt text
-      url: /events/fun-o-rama/
-      button: find out more
+      url: /events/fun-o-rama/acjc-fun-o-rama-2024-partner-beneficiaries/
+      button: for partner beneficiaries info
   - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth
@@ -33,12 +35,4 @@ sections:
       url: /c-c-a-competitions/national-school-games-2023-a-division/
       alt: Image alt text
       image: /images/InfoPic/cca up 8.jpg
-  - infopic:
-      title: Congratulations to Class of 2022
-      description: On the 17th of February 2023, ACJC received the GCE A-Level
-        examination results for the Class of 2022.
-      button: Click here for details
-      url: /showcase/2023/acjc-celebrates-the-class-of-2022/
-      image: /images/InfoPic/class of 2022.jpg
-      alt: Image alt text
 ---
