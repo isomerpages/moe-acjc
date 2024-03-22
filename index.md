@@ -23,7 +23,7 @@ sections:
       description: Save the date. Don't miss out on this colossal carnival. If you are
         unable to come, bless others by pledging your coupons to one of our
         partner beneficiaries.
-      image: /images/FOR 2024/FOR_Countdown1.jpg
+      image: /images/FOR 2024/FOR_Countdown0.jpg
       alt: Image alt text
       url: /events/fun-o-rama/acjc-fun-o-rama-2024-partner-beneficiaries/
       button: for partner beneficiaries info
