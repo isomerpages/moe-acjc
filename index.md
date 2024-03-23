@@ -22,6 +22,9 @@ sections:
       id: infopic
       image: /images/FOR 2024/FOR_Thank.jpg
       alt: Image alt text
+      description: Thank you to all for your support for this event. We look forward
+        to your continued support for Fun-O-Rama XXVII in 2026. Thank you and
+        God Bless.
   - infopic:
       title: Congratulations!
       description: to CCA groups at the National School Games and Singapore Youth
