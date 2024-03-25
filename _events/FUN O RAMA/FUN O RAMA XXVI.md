@@ -7,6 +7,8 @@ third_nav_title: FUN O RAMA
 ---
 ### Fun-O-Rama XXVI
 
+![](/images/FOR%202024/FOR_Thank.jpg)
+
 ![](/images/FOR%202024/for26_p.png)
 
 Save the date for Fun-O-Rama XXVI on Saturday **23rd March 2024** from 9:30AM - 5:30PM.
