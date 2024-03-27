@@ -13,9 +13,6 @@ sections:
         - title: SYF 2023
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2023/
-        - title: DSA 2024
-          description: Direct School Admission
-          url: /dsa/direct-school-admission-2024/
         - title: NSG 2023
           description: National School Games
           url: /c-c-a-competitions/national-school-games-2023-a-division/
