@@ -2,15 +2,16 @@
 title: DIRECT SCHOOL ADMISSION 2023
 permalink: /dsa/direct-school-admission-2023/
 description: ""
+variant: markdown
 ---
 <p align="”justify”">Anglo-Chinese Junior College welcomes students with outstanding talent in Sport, the Performing Arts, Debates, and selected Academic areas to apply for Direct School Admission. ACJC firmly believes in holistic education and aims to provide an excellent environment which nurtures your abilities and enables you to reach your fullest potential. We warmly invite you to join our family of multi-talented students to hone your sporting, artistic, and intellectual talents.</p>
 
-<p align="”justify”">Successful applicants will gain admission into ACJC in 2024 for their JC education as long as they qualify for the two-year Junior College course based on their GCE 'O' Level
+<p align="”justify”">Successful applicants will gain admission into ACJC in 2025 for their JC education as long as they qualify for the two-year Junior College course based on their GCE 'O' Level
 examination results. The detailed criteria can be found on the Ministry of Education’s website at <a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility">https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility</a>.</p>
 
 Please direct all queries on the DSA(JC) Exercise to acjc@acjc.edu.sg.
 
-### DSA (JC) EXERCISE 2023
+### DSA (JC) EXERCISE 2024
 Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS, DEBATES and ACADEMIC AREAS are invited to apply for DSA into ACJC:
 
 ### SPORTS
@@ -25,11 +26,10 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Hockey (Girls)</div>
 <div>Netball</div>
 <div>Rugby (Boys)</div>
-<div>Softball (Girls)</div>
+<div>Softball</div>
 <div>Squash</div>
 <div>Swimming</div>
 <div>Tennis</div>
-<div>Track &amp; Field</div>
 <div>Volleyball</div>
 <div>Waterpolo (Boys)</div>
 </blockquote>
