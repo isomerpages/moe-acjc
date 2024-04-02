@@ -27,7 +27,7 @@ Students are not permitted to play for an external club or represent any externa
 	[Interact Club](/e-open-house/cca-showcase/clubs-and-societies/interact-club)  <br>
 	[Malay Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society)  <br>
 	[Pixel Labs (Digital Media &amp; Film Society)](/e-open-house/cca-showcase/clubs-and-societies/pixel-labs)  <br>
-	[STEM Council](/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council) &nbsp;(Science, Technology, Engineering and Mathematics) <br>
+	[STEM Council](/e-open-house/cca-showcase/clubs-and-societies/stem-council) &nbsp;(Science, Technology, Engineering and Mathematics) <br>
 	[AC Uniformed Groups](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
 
 <br>
