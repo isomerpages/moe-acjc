@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /student-life/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### Aims
 
@@ -26,9 +27,8 @@ Students are not permitted to play for an external club or represent any externa
 	[Interact Club](/e-open-house/cca-showcase/clubs-and-societies/interact-club)  <br>
 	[Malay Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society)  <br>
 	[Pixel Labs (Digital Media &amp; Film Society)](/e-open-house/cca-showcase/clubs-and-societies/pixel-labs)  <br>
-	[Science and Math Council](/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council)  <br>
-	[Technology Council](/e-open-house/cca-showcase/clubs-and-societies/technology-council)  <br>
-	[Uniformed Youth Organisations](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
+	[STEM Council](/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council)  <br>
+	[AC Uniformed Groups](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
 
 <br>
 
