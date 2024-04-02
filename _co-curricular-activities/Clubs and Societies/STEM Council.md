@@ -7,10 +7,10 @@ variant: markdown
 ---
 <div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oLiuPZucZW0" height="315" width="560"></iframe></div>
 
-<h5 style="text-align:center;">Science and Mathematics Council</h5>
+<h5 style="text-align:center;">Science, Technology, Engineering and Mathematics (STEM) Council</h5>
   
 
-The Science and Mathematics Council provides opportunities for students to develop their aptitude and potential in the Science, Technology, Engineering and Mathematics (STEM) through critical thinking.
+The STEM Council provides opportunities for students to develop their aptitude and potential in the Science, Technology, Engineering and Mathematics (STEM) through critical thinking.
 
 We engage ACJC-students through experiential learning science workshops, Master-Classes and learning journeys, and plan and execute our annual international-scale science competitions each with 1000+ participants, such as the International C. B. Paul Science Quiz, the International Biomedical Quiz, for secondary and pre-university students; and the Heyday, a social-enrichment programme for 150 primary school students with Autism Spectrum Disorder though science, art and music explorations.&nbsp;
 
