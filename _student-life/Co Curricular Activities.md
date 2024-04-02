@@ -44,7 +44,6 @@ Students are not permitted to play for an external club or represent any externa
 
 *   **Services** <br>
 	[First Aid](/e-open-house/cca-showcase/services/first-aid)  <br>
-	[Library Council](/e-open-house/cca-showcase/services/library-council)   <br>
 	[Media Resource Crew](/e-open-house/cca-showcase/services/media-resource-crew)  <br>
 	[Photographic Society](/e-open-house/cca-showcase/services/photograhpic-society)  <br>
 	[Students’ Council](/e-open-house/cca-showcase/services/students-council)  
