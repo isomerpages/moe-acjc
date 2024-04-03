@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /student-life/co-curricular-activities/
 description: ""
+variant: markdown
 ---
 ### Aims
 
@@ -26,9 +27,8 @@ Students are not permitted to play for an external club or represent any externa
 	[Interact Club](/e-open-house/cca-showcase/clubs-and-societies/interact-club)  <br>
 	[Malay Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society)  <br>
 	[Pixel Labs (Digital Media &amp; Film Society)](/e-open-house/cca-showcase/clubs-and-societies/pixel-labs)  <br>
-	[Science and Math Council](/e-open-house/cca-showcase/clubs-and-societies/science-and-math-council)  <br>
-	[Technology Council](/e-open-house/cca-showcase/clubs-and-societies/technology-council)  <br>
-	[Uniformed Youth Organisations](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
+	[STEM Council](/e-open-house/cca-showcase/clubs-and-societies/stem-council) &nbsp;(Science, Technology, Engineering and Mathematics) <br>
+	[AC Uniformed Groups](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
 
 <br>
 
@@ -44,7 +44,6 @@ Students are not permitted to play for an external club or represent any externa
 
 *   **Services** <br>
 	[First Aid](/e-open-house/cca-showcase/services/first-aid)  <br>
-	[Library Council](/e-open-house/cca-showcase/services/library-council)   <br>
 	[Media Resource Crew](/e-open-house/cca-showcase/services/media-resource-crew)  <br>
 	[Photographic Society](/e-open-house/cca-showcase/services/photograhpic-society)  <br>
 	[Students’ Council](/e-open-house/cca-showcase/services/students-council)  

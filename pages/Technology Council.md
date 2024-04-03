@@ -2,7 +2,6 @@
 title: Technology Council
 permalink: /e-open-house/cca-showcase/clubs-and-societies/technology-council/
 description: ""
-third_nav_title: Clubs and Societies
 ---
 <div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ue_12kp5HPQ" height="315" width="560"></iframe></div>
 

@@ -1,15 +1,16 @@
 ---
-title: Science and Math Council
-permalink: /e-open-house/cca-showcase/clubs-and-societies/science-and-math-council/
+title: STEM Council
+permalink: /e-open-house/cca-showcase/clubs-and-societies/stem-council/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 <div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oLiuPZucZW0" height="315" width="560"></iframe></div>
 
-<h5 style="text-align:center;">Science and Mathematics Council</h5>
+<h5 style="text-align:center;">Science, Technology, Engineering and Mathematics (STEM) Council</h5>
   
 
-The Science and Mathematics Council provides opportunities for students to develop their aptitude and potential in the Science, Technology, Engineering and Mathematics (STEM) through critical thinking.
+The STEM Council provides opportunities for students to develop their aptitude and potential in the Science, Technology, Engineering and Mathematics (STEM) through critical thinking.
 
 We engage ACJC-students through experiential learning science workshops, Master-Classes and learning journeys, and plan and execute our annual international-scale science competitions each with 1000+ participants, such as the International C. B. Paul Science Quiz, the International Biomedical Quiz, for secondary and pre-university students; and the Heyday, a social-enrichment programme for 150 primary school students with Autism Spectrum Disorder though science, art and music explorations.&nbsp;
 
@@ -46,3 +47,25 @@ The Mathematics and Computing Club aims to develop students’ passion for Mathe
 We partner the Science and Mathematics Council in question-setting for international competitions, organise Peer-Support Groups and conduct Mathematics- and Informatics-related workshops, such as introductory coding and Minecraft workshops to develop an interest and aptitude in ACJC students towards coding. With months of intensive training by international Olympiad medallists, we have also had the opportunity to take our passion for Mathematics, Computing and Engineering to a higher level by participating we competed successfully in the Singapore Mathematics Olympiad, and the Singapore National Olympiad of Informatics. We have the opportunity to embark on Mathematics-Computing related research projects to participate in the Singapore Science and Engineering Fair.
 
 [http://acjcsmc.glitch.me/clubs/mathematics\_computing.html](http://acjcsmc.glitch.me/clubs/mathematics_computing.html)
+
+<h5 style="text-align:center;">Technology Council</h5>
+<br>
+<div align="center"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ue_12kp5HPQ" height="315" width="560"></iframe></div>
+
+Technology Council is a place for people who are passionate about computer science and want to learn more about coding. We welcome those who want to access more resources to develop a deeper understanding of the software used in the technological driven world that we live in.
+
+  
+
+CCA sessions are twice a week and can be held online or offline. Hence CCA can go on even during HBL periods!
+
+  
+
+Activities conducted during meetings vary from tinkering with LEGO Mindstorms and experimenting with hardware like Arduino/Raspberry Pi, to learning new coding languages like Python and C++. We train and participate in competitions like the Canadian Coding Competition (CCC) and National Olympiad for Informatics (NOI). We also contribute to the Computing community by organizing workshops for the Building BloCS conference. In addition, we work on projects to learn new tools and build our portfolio.
+
+  
+
+We pride ourselves in being student driven, valuing the inputs of our members and taking their feedback into consideration when planning for the next project. All students, regardless of background, are welcome to join!
+
+  
+
+Interested students may email&nbsp;[Teo\_Qing\_Ren@acjc.edu.sg](mailto:Teo_Qing_Ren@acjc.edu.sg)&nbsp;to find out more about the CCA.
