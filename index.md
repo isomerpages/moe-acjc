@@ -9,13 +9,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner.gif
-      key_highlights:
-        - title: SYF 2023
-          description: Singapore Youth Festival
-          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2023/
-        - title: NSG 2023
-          description: National School Games
-          url: /c-c-a-competitions/national-school-games-2023-a-division/
   - infopic:
       title: ACJC Fun-O-Rama XXVI
       subtitle: 23rd March 2024, 9AM - 5:30PM
