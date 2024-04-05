@@ -10,6 +10,13 @@ sections:
   - hero:
       background: /images/Banner.gif
   - infopic:
+      title: CCA Season is here!
+      description: For sports fixtures and performing arts concert dates.
+      button: Click here
+      url: /c-c-a-competitions/national-school-games-2023-a-division/
+      alt: Image alt text
+      image: /images/Others/CCA_Calendar.jpg
+  - infopic:
       title: ACJC Fun-O-Rama XXVI
       subtitle: 23rd March 2024, 9AM - 5:30PM
       id: infopic
@@ -18,11 +25,4 @@ sections:
       description: Thank you to all for your support for this event and we look
         forward to your continued support for Fun-O-Rama XXVII in 2026. Thank
         you and God Bless.
-  - infopic:
-      title: CCA Season is here!
-      description: For sports fixtures and performing arts concert dates.
-      button: Click here
-      url: /c-c-a-competitions/national-school-games-2023-a-division/
-      alt: Image alt text
-      image: /images/Others/CCA_Calendar.jpg
 ---
