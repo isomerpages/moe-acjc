@@ -1,7 +1,8 @@
 ---
 title: DSA APPLICATION
-permalink: /dsa/dsa-application/
+permalink: /example-2/
 description: ""
+variant: tiptap
 ---
 ### DSA(JC) Exercise 2023
 Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS and DEBATES are invited to apply for DSA into ACJC:
