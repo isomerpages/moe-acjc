@@ -13,7 +13,7 @@ sections:
       title: CCA Season is here!
       description: For sports fixtures and performing arts concert dates.
       button: Click here
-      url: /c-c-a-competitions/national-school-games-2023-a-division/
+      url: /c-c-a-competitions/cca-competition-and-concert-calendar/
       alt: Image alt text
       image: /images/Others/CCA_Calendar.jpg
   - infopic:
