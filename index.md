@@ -26,11 +26,10 @@ sections:
         forward to your continued support for Fun-O-Rama XXVII in 2026. Thank
         you and God Bless.
   - infopic:
-      title: Congratulations!
-      description: to CCA groups at the National School Games and Singapore Youth
-        Festival 2023
-      button: For more results
+      title: CCA Season is here!
+      description: For sports fixtures and performing arts concert dates.
+      button: Click here
       url: /c-c-a-competitions/national-school-games-2023-a-division/
       alt: Image alt text
-      image: /images/InfoPic/cca up 8.jpg
+      image: /images/Others/CCA_Calendar.jpg
 ---
