@@ -11,7 +11,7 @@ Successful applicants will gain admission into ACJC in 2025 for their JC educati
 The detailed criteria can be found on the Ministry of Education’s website at https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility
 
 Please direct all queries on the DSA(JC) Exercise to acjc@acjc.edu.sg.
-#### DSA(JC) Exercise 2024
+#### <font color="#CD1405"><b>DSA(JC) Exercise 2024</b></font><br>
 Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS, DEBATES and ACADEMIC AREAS are invited to apply for DSA into ACJC:<br>
 **SPORTS**<br>
 Badminton<br>
