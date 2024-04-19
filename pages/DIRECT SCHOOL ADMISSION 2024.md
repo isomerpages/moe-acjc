@@ -4,17 +4,16 @@ permalink: /example-1/
 description: ""
 variant: markdown
 ---
-<p align="”justify”">Anglo-Chinese Junior College welcomes students with outstanding talent in Sport, the Performing Arts, Debates, and selected Academic areas to apply for Direct School Admission. ACJC firmly believes in holistic education and aims to provide an excellent environment which nurtures your abilities and enables you to reach your fullest potential. We warmly invite you to join our family of multi-talented students to hone your sporting, artistic, and intellectual talents.</p>
+Anglo-Chinese Junior College welcomes students with outstanding talent in Sport, the Performing Arts, Debates, and selected Academic areas to apply for Direct School Admission. ACJC firmly believes in holistic education and aims to provide an excellent environment which nurtures your abilities and enables you to reach your fullest potential. We warmly invite you to join our family of multi-talented students to hone your sporting, artistic, and intellectual talents.
 
-<p align="”justify”">Successful applicants will gain admission into ACJC in 2025 for their JC education as long as they qualify for the two-year Junior College course based on their GCE 'O' Level
-examination results. The detailed criteria can be found on the Ministry of Education’s website at <a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility">https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility</a>.</p>
+Successful applicants will gain admission into ACJC in 2025 for their JC education as long as they qualify for the two-year Junior College course based on their GCE 'O' Level examination results. 
+
+The detailed criteria can be found on the Ministry of Education’s website at https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility
 
 Please direct all queries on the DSA(JC) Exercise to acjc@acjc.edu.sg.
-
-### DSA (JC) EXERCISE 2024
-Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS, DEBATES and ACADEMIC AREAS are invited to apply for DSA into ACJC:
-
-### SPORTS
+### DSA(JC) Exercise 2024
+Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS, DEBATES and ACADEMIC AREAS are invited to apply for DSA into ACJC:<br>
+<h3 id="sports">SPORTS</h3>
 <blockquote>
 <div>Badminton</div>
 <div>Basketball (Boys)</div>
@@ -33,8 +32,7 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Volleyball</div>
 <div>Waterpolo (Boys)</div>
 </blockquote>
-
-### PERFORMING ARTS AND DEBATE
+<h3 id="performing-arts-and-debate">PERFORMING ARTS AND DEBATE</h3>
 <blockquote>
 <div>Concert Band</div>
 <div>Choir</div>
@@ -43,9 +41,7 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Theatre</div>
 <div>English Debating</div>
 </blockquote>
-
-
-### ACADEMIC AREAS
+<h3 id="academic-areas">ACADEMIC AREAS</h3>
 <blockquote>
 <div>Drama Elective Programme</div>
 <div>Music Elective Programme</div>
@@ -55,4 +51,5 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Infocomm Technology (Computing)</div>
 </blockquote>
 
-The selection criteria and process for the talent areas will be updated in May, when applications open.
+
+**The selection criteria and process for the talent areas will be updated in May, when applications open.**
