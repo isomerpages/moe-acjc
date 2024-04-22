@@ -1,6 +1,6 @@
 ---
 title: DIRECT SCHOOL ADMISSION 2024
-permalink: /example-1/
+permalink: /about-us/direct-school-admission-2024/
 description: ""
 variant: markdown
 ---
@@ -8,7 +8,7 @@ Anglo-Chinese Junior College welcomes students with outstanding talent in Sport,
 
 Successful applicants will gain admission into ACJC in 2025 for their JC education as long as they qualify for the two-year Junior College course based on their GCE 'O' Level examination results. 
 
-The detailed criteria can be found on the Ministry of Education’s website at https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility
+The detailed criteria can be found on the Ministry of Education’s website at  [https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility](https://www.moe.gov.sg/post-secondary/admissions/dsa/jc-admission-eligibility)
 
 Please direct all queries on the DSA(JC) Exercise to acjc@acjc.edu.sg.
 ### DSA(JC) Exercise 2024
