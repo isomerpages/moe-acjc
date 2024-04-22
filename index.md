@@ -9,6 +9,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner.gif
+      key_highlights:
+        - title: DSA 2024
+          description: Direct School Admission
+          url: /about-us/direct-school-admission-2024/
   - infopic:
       title: CCA Season is here!
       description: For sports fixtures and performing arts concert dates.
