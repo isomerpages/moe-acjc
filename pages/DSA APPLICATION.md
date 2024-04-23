@@ -4,77 +4,120 @@ permalink: /example-2/
 description: ""
 variant: tiptap
 ---
-### DSA(JC) Exercise 2023
-Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS and DEBATES are invited to apply for DSA into ACJC:
+<h3>DSA(JC) Exercise 2024</h3>
+<p>Students who meet the eligibility criteria for the following SPORTS, PERFORMING
+ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 <hr>
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">SPORTS</span></strong></p>
-Badminton<br>
-Basketball (Boys)<br>
-Bowling<br>
-Canoeing<br>
-Cross Country<br>
-Floorball<br>
-Football (Boys)<br>
-Hockey (Girls)<br>
-Netball<br>
-Rugby (Boys)<br>
-Softball (Girls)<br>
-Squash<br>
-Swimming<br>
-Tennis<br>
-Track and Field<br>
-Volleyball<br>
-Waterpolo (Boys)<br><br>
-<a target="_blank" href="/files/Dsa/dsa%20sports%20eligibility%20criteria%202023.pdf">Sports Eligibility Criteria 2023</a><br><br>
-<div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>SPORTS APPLICATION FORM</b></span></div>
-<a target="_blank" href="https://go.gov.sg/acjc-dsa-sports"><b>https://go.gov.sg/acjc-dsa-sports</b></a><br><br>
+<p><strong>SPORTS</strong>
+</p>
+<p>Badminton
+<br>Basketball (Boys)
+<br>Bowling
+<br>Canoeing
+<br>Cross Country
+<br>Floorball
+<br>Football (Boys)
+<br>Hockey (Girls)
+<br>Netball
+<br>Rugby (Boys)
+<br>Softball
+<br>Squash
+<br>Swimming
+<br>Tennis
+<br>Track and Field
+<br>Volleyball
+<br>Waterpolo (Boys)
+<br>
+<br><a href="/files/Dsa/dsa%20sports%20eligibility%20criteria%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Eligibility Criteria 2024</a>
+<br>
+<br>
+</p>
+<p><strong>SPORTS APPLICATION FORM</strong>
+</p>
+<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong>
+<br>
+<br>
+</p>
 <hr>
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">PERFORMING ARTS AND DEBATE</span></strong></p>
-Concert Band - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20concert%20band%202023.pdf">Selection Criteria Concert Band 2023</a><br>
-Choir - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20choir%202023.pdf">Selection Criteria Choir 2023</a><br>
-String Ensemble - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20string%20ensemble%202023.pdf">Selection Criteria String Ensemble 2023</a><br>
-Modern Dance - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20modern%20dance%202023.pdf">Selection Criteria Modern Dance 2023</a><br>
-Theatre - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20theatre%202023.pdf">Selection Criteria Theatre 2023</a><br>
-English Debating - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20english%20debating%202023.pdf">Selection Criteria English Debating 2023</a><br><br>
-
-<div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>PERFORMING ARTS AND DEBATE APPLICATION FORM</b></span></div>
-<a target="_blank" href="https://go.gov.sg/acjc-dsa-arts-debate"><b>https://go.gov.sg/acjc-dsa-arts-debate</b></a><br><br>
+<p><strong>PERFORMING ARTS AND DEBATE</strong>
+</p>
+<p>Concert Band - <a href="/files/Dsa/eligibility%20criteria%20concert%20band%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2024</a>
+<br>Choir - <a href="/files/Dsa/eligibility%20criteria%20choir%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2024</a>
+<br>String Ensemble - <a href="/files/Dsa/eligibility%20criteria%20string%20ensemble%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2024</a>
+<br>Modern Dance - <a href="/files/Dsa/eligibility%20criteria%20modern%20dance%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2024</a>
+<br>Theatre - <a href="/files/Dsa/eligibility%20criteria%20theatre%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2024</a>
+<br>English Debating - <a href="/files/Dsa/eligibility%20criteria%20english%20debating%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2024</a>
+<br>
+<br>
+</p>
+<p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
+</p>
+<p><strong><a href="https://go.gov.sg/acjc-dsa-arts-debate" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-arts-debate</a></strong>
+<br>
+<br>
+</p>
 <hr>
-
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">ACADEMIC AREAS</span></strong></p>
-Drama Elective Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20drama%20elective%20programme%202023.pdf">Selection Criteria Drama Elective Programme</a>&nbsp;&nbsp;(updated on 9 May)<br>
-Music Elective Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20music%20elective%20programme%202023.pdf">Selection Criteria Music Elective Programme</a><br>
-Humanities Programme - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20humanities%20programme%202023.pdf">Selection Criteria Humanities Programme</a>&nbsp;&nbsp;(updated on 9 May)<br>
-Mathematics or Science - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20mathematics%20or%20science.pdf">Selection Criteria Mathematics Or Science</a><br>
-Information Technology (Computing) - <a target="_blank" href="/files/Dsa/eligibility%20criteria%20infocomm%20technology%20(computing).pdf">Selection Criteria Infocomm Technology (Computing)</a><br><br>
-
-<div style="line-height: 1.5;"><span style="color:#CE361B; font-family: Arial, Helvetica, sans-serif; font-size: 18px;"><b>ACADEMIC AREAS APPLICATION FORMS</b></span></div>
-Drama Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-dep"><b>https://go.gov.sg/acjc-dsa-dep</b></a><br>
-Music Elective Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-mep"><b>https://go.gov.sg/acjc-dsa-mep</b></a><br>
-Humanities Programme - <a target="_blank" href="https://go.gov.sg/acjc-dsa-humanities"><b>https://go.gov.sg/acjc-dsa-humanities</b></a><br>
-Mathematics or Science or Infocomm Technology - <a target="_blank" href="https://go.gov.sg/acjc-dsa-math-science-infocomm"><b>https://go.gov.sg/acjc-dsa-math-science-infocomm</b></a><br><br>
+<p><strong>ACADEMIC AREAS</strong>
+</p>
+<p>Drama Elective Programme - <a href="/files/Dsa/eligibility%20criteria%20drama%20elective%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2024</a>
+<br>Music Elective Programme - <a href="/files/Dsa/eligibility%20criteria%20music%20elective%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2024</a>
+<br>Humanities Programme - <a href="/files/Dsa/eligibility%20criteria%20humanities%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2024</a>
+<br>Mathematics or Science - <a href="/files/Dsa/eligibility%20criteria%20mathematics%20or%20science.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2024</a>
+<br>Information Technology (Computing) - <a href="/files/Dsa/eligibility%20criteria%20infocomm%20technology%20(computing).pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2024</a>
+<br>
+<br>
+</p>
+<p><strong>ACADEMIC AREAS APPLICATION FORMS</strong>
+</p>
+<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-dep" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2024</a></strong>
+<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-mep" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-musin-2024</a></strong>
+<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2024</a></strong>
+<br>Mathematics or Science or Infocomm Technology - <strong><a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm</a></strong>
+<br>
+<br>
+</p>
 <hr>
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Application Procedures</span></strong></p>
-All applications will be online via the link on our College website.<br>
-Students who have <b>submitted applications during Phase 1 </b> but are not offered a place <b>need not submit </b> new applications <b>for Phase 2</b> as all applications will automatically be considered for both phases.
-
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Submission Deadline</span></strong></p>
-To give candidates adequate time to prepare for the DSA Selection process, it is strongly recommended that all applications are submitted well in advance of the official deadlines:<br><br>
-DSA Phase 1:&nbsp;&nbsp;<span style="color: #d00505;"><b>3 August 2023</b></span><br>
-DSA Phase 2: &nbsp;<span style="color: #d00505;"><b>29 August 2023</b></span><br><br>
-Please note that the DSA Selection process is by invitation only, based on applications submitted by candidates. 
-
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Results of DSA Applications</span></strong></p>
-ACJC Applicants will know the outcome of their DSA application by the following dates:<br><br>
-DSA Phase 1: &nbsp;<span style="color: #d00505;"><b>10 August 2023</b></span><br>
-DSA Phase 2: &nbsp;&nbsp;<span style="color: #d00505;"><b>05 September 2023</b></span><br>
-
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Acceptance of DSA Offer</span></strong></p>
-Successful applicants must accept the DSA offer by emailing the completed acceptance forms to ACJC within the following period as set out by MOE:<br><br>
-DSA Phase 1: &nbsp;<span style="color: #d00505;"><b>11 – 15 August 2023</b></span><br>
-DSA Phase 2: &nbsp;<span style="color: #d00505;"><b>&nbsp;06 – 11 September 2023</b></span><br>
-
-<p style="line-height: 1.0;"><strong><span style="font-size: 24px; font-family: Arial, Helvetica, sans-serif;">Enquiries</span></strong></p>
-<p style="line-height: 1.5;"></p><div>General information on the DSA-JC Exercise can be found on <b>MOE’s website </b><a target="_blank" href="https://www.moe.gov.sg/post-secondary/admissions/dsa"><b>https://www.moe.gov.sg/post-secondary/admissions/dsa</b></a>.</div><br>
-<div>Specific details on ACJC's DSA-JC requirements can be found in the respective CCA eligibility criteria, and in the online application form.</div><br>
-Alternatively, you may like to contact us at acjc@acjc.edu.sg should you have further enquiries.
+<p><strong>Application Procedures</strong>
+</p>
+<p>All applications will be online via the link on our College website.
+<br>Students who have <strong>submitted applications during Phase 1 </strong>but
+are not offered a place <strong>need not submit </strong>new applications <strong>for Phase 2</strong> as
+all applications will automatically be considered for both phases.</p>
+<p><strong>Submission Deadline</strong>
+</p>
+<p>To give candidates adequate time to prepare for the DSA Selection process,
+it is strongly recommended that all applications are submitted well in
+advance of the official deadlines:
+<br>
+<br>DSA Phase 1:&nbsp;&nbsp;<strong>31 July 2024</strong>
+<br>DSA Phase 2: &nbsp;<strong>29 August 2024</strong>
+<br>
+<br>Please note that the DSA Selection process is <strong>by invitation only</strong>,
+based on applications submitted by candidates.</p>
+<p><strong>Results of DSA Applications</strong>
+</p>
+<p>Successful applicants will be informed of the outcome of their DSA application
+by the following dates:
+<br>
+<br>DSA Phase 1: &nbsp;<strong>14 August 2024</strong>
+<br>DSA Phase 2: <strong>05 September 2024</strong>
+<br>
+</p>
+<p><strong>Acceptance of DSA Offer</strong>
+</p>
+<p>Successful applicants must accept the DSA offer by emailing the completed
+acceptance forms to ACJC within the following period as set out by MOE:
+<br>
+<br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2024</strong>
+<br>DSA Phase 2: &nbsp;<strong>06 - 11 September 2024</strong>
+<br>
+</p>
+<p><strong>Enquiries</strong>
+</p>
+<p></p>
+<p>General information on the DSA-JC Exercise can be found on <strong>MOE’s website <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a></strong>.</p>
+<p>Specific details on ACJC's DSA-JC requirements can be found in the respective
+CCA eligibility criteria, and in the online application form.</p>
+<p>
+<br>Alternatively, you may like to contact us at acjc@acjc.edu.sg should you
+have further enquiries.</p>
