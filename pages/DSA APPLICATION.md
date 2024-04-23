@@ -41,8 +41,8 @@ ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 <hr>
 <p><strong>PERFORMING ARTS AND DEBATE</strong>
 </p>
-<p>Concert Band - <a href="/files/Dsa/eligibility%20criteria%20concert%20band%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2024</a> 
-<br>Choir - <a href="/files/Dsa/eligibility%20criteria%20choir%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2024</a> 
+<p>Concert Band - <a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2024 </a>
+<br>Choir - <a href="/files/Dsa/Eligibility_Criteria_through_Choir_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2024</a> 
 <br>String Ensemble - <a href="/files/Dsa/eligibility%20criteria%20string%20ensemble%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2024</a> 
 <br>Modern Dance - <a href="/files/Dsa/eligibility%20criteria%20modern%20dance%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2024</a> 
 <br>Theatre - <a href="/files/Dsa/eligibility%20criteria%20theatre%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2024</a> 
