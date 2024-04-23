@@ -4,9 +4,6 @@ permalink: /testing/
 description: ""
 variant: markdown
 ---
-
-
-Sport | Boys| Girls|
+Award | Boys| Girls|
 | -------- | -------- | -------- |
-| Canoeing  | Bronze    | Bronze    |
-
+| Gold|  Basketball  |    |
