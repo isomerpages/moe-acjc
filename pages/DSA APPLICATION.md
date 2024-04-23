@@ -34,7 +34,7 @@ ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 </p>
 <p><strong>SPORTS APPLICATION FORM</strong>
 </p>
-<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong> 
+<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong>
 <br>
 <br>
 </p>
