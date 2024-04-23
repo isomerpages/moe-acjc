@@ -114,10 +114,10 @@ acceptance forms to ACJC within the following period as set out by MOE:
 </p>
 <p><strong>Enquiries</strong>
 </p>
-<p></p>
 <p>General information on the DSA-JC Exercise can be found on <strong>MOE’s website <a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dsa</a></strong>.</p>
 <p>Specific details on ACJC's DSA-JC requirements can be found in the respective
-CCA eligibility criteria, and in the online application form.</p>
-<p>
-<br>Alternatively, you may like to contact us at acjc@acjc.edu.sg should you
+CCA eligibility criteria, and in the online application form.
+<br>
+</p>
+<p>Alternatively, you may like to contact us at acjc@acjc.edu.sg should you
 have further enquiries.</p>
