@@ -28,51 +28,51 @@ ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 <br>Volleyball
 <br>Waterpolo (Boys)
 <br>
-<br><a href="/files/Dsa/dsa%20sports%20eligibility%20criteria%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Eligibility Criteria 2024</a>
+<br><a href="/files/Dsa/dsa%20sports%20eligibility%20criteria%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Eligibility Criteria 2024</a> 
 <br>
 <br>
 </p>
 <p><strong>SPORTS APPLICATION FORM</strong>
 </p>
-<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong>
+<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong> 
 <br>
 <br>
 </p>
 <hr>
 <p><strong>PERFORMING ARTS AND DEBATE</strong>
 </p>
-<p>Concert Band - <a href="/files/Dsa/eligibility%20criteria%20concert%20band%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2024</a>
-<br>Choir - <a href="/files/Dsa/eligibility%20criteria%20choir%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2024</a>
-<br>String Ensemble - <a href="/files/Dsa/eligibility%20criteria%20string%20ensemble%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2024</a>
-<br>Modern Dance - <a href="/files/Dsa/eligibility%20criteria%20modern%20dance%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2024</a>
-<br>Theatre - <a href="/files/Dsa/eligibility%20criteria%20theatre%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2024</a>
-<br>English Debating - <a href="/files/Dsa/eligibility%20criteria%20english%20debating%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2024</a>
+<p>Concert Band - <a href="/files/Dsa/eligibility%20criteria%20concert%20band%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2024</a> 
+<br>Choir - <a href="/files/Dsa/eligibility%20criteria%20choir%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2024</a> 
+<br>String Ensemble - <a href="/files/Dsa/eligibility%20criteria%20string%20ensemble%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2024</a> 
+<br>Modern Dance - <a href="/files/Dsa/eligibility%20criteria%20modern%20dance%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2024</a> 
+<br>Theatre - <a href="/files/Dsa/eligibility%20criteria%20theatre%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2024</a> 
+<br>English Debating - <a href="/files/Dsa/eligibility%20criteria%20english%20debating%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2024</a> 
 <br>
 <br>
 </p>
 <p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
 </p>
-<p><strong><a href="https://go.gov.sg/acjc-dsa-arts-debate" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-arts-debate</a></strong>
+<p><strong><a href="https://go.gov.sg/acjc-dsa-arts-debate" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-arts-debate</a></strong> 
 <br>
 <br>
 </p>
 <hr>
 <p><strong>ACADEMIC AREAS</strong>
 </p>
-<p>Drama Elective Programme - <a href="/files/Dsa/eligibility%20criteria%20drama%20elective%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2024</a>
-<br>Music Elective Programme - <a href="/files/Dsa/eligibility%20criteria%20music%20elective%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2024</a>
-<br>Humanities Programme - <a href="/files/Dsa/eligibility%20criteria%20humanities%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2024</a>
-<br>Mathematics or Science - <a href="/files/Dsa/eligibility%20criteria%20mathematics%20or%20science.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2024</a>
-<br>Information Technology (Computing) - <a href="/files/Dsa/eligibility%20criteria%20infocomm%20technology%20(computing).pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2024</a>
+<p>Drama Elective Programme - <a href="/files/Dsa/eligibility%20criteria%20drama%20elective%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2024</a> 
+<br>Music Elective Programme - <a href="/files/Dsa/eligibility%20criteria%20music%20elective%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2024</a> 
+<br>Humanities Programme - <a href="/files/Dsa/eligibility%20criteria%20humanities%20programme%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2024</a> 
+<br>Mathematics or Science - <a href="/files/Dsa/eligibility%20criteria%20mathematics%20or%20science.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2024</a> 
+<br>Information Technology (Computing) - <a href="/files/Dsa/eligibility%20criteria%20infocomm%20technology%20(computing).pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2024</a> 
 <br>
 <br>
 </p>
 <p><strong>ACADEMIC AREAS APPLICATION FORMS</strong>
 </p>
-<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-dep" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2024</a></strong>
-<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-mep" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-musin-2024</a></strong>
-<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2024</a></strong>
-<br>Mathematics or Science or Infocomm Technology - <strong><a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm</a></strong>
+<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-dep" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2024</a></strong> 
+<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-mep" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-musin-2024</a></strong> 
+<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2024</a></strong> 
+<br>Mathematics or Science or Infocomm Technology - <strong><a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm</a></strong> 
 <br>
 <br>
 </p>
@@ -89,8 +89,8 @@ all applications will automatically be considered for both phases.</p>
 it is strongly recommended that all applications are submitted well in
 advance of the official deadlines:
 <br>
-<br>DSA Phase 1:&nbsp;&nbsp;<strong>31 July 2024</strong>
-<br>DSA Phase 2: &nbsp;<strong>29 August 2024</strong>
+<br>DSA Phase 1:&nbsp;&nbsp;<strong>31 July 2024</strong> 
+<br>DSA Phase 2: &nbsp;<strong>29 August 2024</strong> 
 <br>
 <br>Please note that the DSA Selection process is <strong>by invitation only</strong>,
 based on applications submitted by candidates.</p>
@@ -99,8 +99,8 @@ based on applications submitted by candidates.</p>
 <p>Successful applicants will be informed of the outcome of their DSA application
 by the following dates:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>14 August 2024</strong>
-<br>DSA Phase 2: <strong>05 September 2024</strong>
+<br>DSA Phase 1: &nbsp;<strong>14 August 2024</strong> 
+<br>DSA Phase 2: <strong>05 September 2024</strong> 
 <br>
 </p>
 <p><strong>Acceptance of DSA Offer</strong>
@@ -108,8 +108,8 @@ by the following dates:
 <p>Successful applicants must accept the DSA offer by emailing the completed
 acceptance forms to ACJC within the following period as set out by MOE:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2024</strong>
-<br>DSA Phase 2: &nbsp;<strong>06 - 11 September 2024</strong>
+<br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2024</strong> 
+<br>DSA Phase 2: &nbsp;<strong>06 - 11 September 2024</strong> 
 <br>
 </p>
 <p><strong>Enquiries</strong>
