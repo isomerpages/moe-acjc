@@ -16,7 +16,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 || |<font color="#B45F06" size="4"><b>Bowling</b></font>|
 |<font color="#C00" size="4"><b>Fourth</b></font>|<font color="#C006" size="4"><b>Waterpolo</b></font> ||
 
-<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2023</b></font><br>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
@@ -36,7 +36,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 ||<font color="#C006" size="4"><b>Volleyball</b></font> ||
 ||<font color="#C006" size="4"><b>Golf</b></font> ||
 
-<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2022</b></font><br>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
@@ -55,7 +55,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 || <font color="#C00" size="4"><b>Floorball</b></font>|<font color="#C006" size="4"><b>Hockey</b></font>|
 ||<font color="#C006" size="4"><b>Volleyball</b></font> ||
 
-<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2021</b></font><br>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
@@ -84,7 +84,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 || <font color="#C00" size="4"><b>Tennis</b></font>||
 || <font color="#C00" size="4"><b>Rugby</b></font>||
 
-<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2018</b></font><br>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
@@ -105,7 +105,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 ||<font color="#B45F06" size="4"><b>Rugby</b></font> ||
 |<font color="#C00" size="4"><b>Fourth</b></font>| <font color="#C00" size="4"><b>Waterpolo</b></font>|<font color="#C006" size="4"><b>Cross Country</b></font>|
 
-<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2017</b></font><br>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
@@ -126,7 +126,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 || <font color="#C00" size="4"><b>Tennis</b></font>|<font color="#C006" size="4"><b>Hockey</b></font>|
 || <font color="#C00" size="4"><b>Floorball</b></font>||
 
-<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2016</b></font><br>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
