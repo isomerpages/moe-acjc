@@ -10,7 +10,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 
 |<font size="4">Award</font> | <font size="4">Boys</font>| <font size="4">Girls</font>|
 | -------- | -------- | -------- |
-|<font color="#E69138" size="4"><b>Gold</b></font>| -------- | -------- |
+|<font color="#E69138" size="4"><b>GOLD</b></font>| <font color="#E69138" size="4"><b>Bowling</b></font>|<font color="#E69138" size="4"><b>Bowling</b></font>|
 
  |<font color="#E69138"><b>Gold</b></font>| <font color="#808080"><b>Basketball</b></font> |
 	
