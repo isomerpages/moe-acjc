@@ -15,7 +15,7 @@ sections:
           url: /about-us/direct-school-admission-2024/
         - title: NSG 2024
           description: National Schools Games
-          url: ""
+          url: /c-c-a-competitions/national-school-games-2024-a-division/
   - infopic:
       title: CCA Season is here!
       description: For sports fixtures and performing arts concert dates.
