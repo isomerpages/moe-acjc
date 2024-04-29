@@ -9,8 +9,8 @@ The College would like to congratulate the following CCA group on their achievem
 
 **_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Drama)<br><br>
 **To God be the Glory! The Best Is Yet To Be!**<br><br>
-Click&nbsp;[**_here_**](https://acjc.moe.edu.sg/others/announcements/cca-competition-n-concert-calendar)&nbsp;for more information on ACJC Performing Arts and Sports calendar.
-
+Click&nbsp;[**_here_**](https://acjc.moe.edu.sg/others/announcements/cca-competition-n-concert-calendar)&nbsp;for more information on ACJC Performing Arts and Sports calendar.<br>
+<br>
 <font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2023</b></font><br>
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
@@ -27,11 +27,10 @@ The College would like to congratulate the following CCA groups on their achieve
 **_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)
 
 **To God be the Glory! The Best Is Yet To Be!**
-<br>
+<br><br>
 
 <font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2022</b></font><br>
 The College would like to congratulate the CCA group on their achievement in the Singapore Youth Festival Arts Presentation:
-
 **_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Drama)
 
 **To God be the Glory! The Best Is Yet To Be!**
