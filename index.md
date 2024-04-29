@@ -16,6 +16,9 @@ sections:
         - title: NSG 2024
           description: National Schools Games
           url: /c-c-a-competitions/national-school-games-2024-a-division/
+        - title: SYF 2024
+          description: Singapore Youth Festival
+          url: /c-c-a-competitions/national-youth-festival-2024/
   - infopic:
       title: CCA Season is here!
       description: For sports fixtures and performing arts concert dates.
