@@ -1,6 +1,7 @@
 ---
 title: Library Council
-permalink: /e-open-house/cca-showcase/services/library-council/
+permalink: /not-used-1/
 description: ""
+variant: tiptap
 ---
 private page
