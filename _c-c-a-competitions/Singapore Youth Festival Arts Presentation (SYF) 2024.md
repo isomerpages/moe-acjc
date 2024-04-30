@@ -1,11 +1,17 @@
 ---
-title: Singapore Youth Festival Arts Presentation (SYF) 2023
-permalink: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2023/
+title: Singapore Youth Festival Arts Presentation (SYF) 2024
+permalink: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
 description: ""
+variant: markdown
 ---
-## <center> Singapore Youth Festival Arts Presentation (SYF) 2023 </center>
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2024</b></font><br>
+The College would like to congratulate the following CCA group on their achievement in the Singapore Youth Festival Arts Presentation:
 
-
+**_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Drama)<br><br>
+**To God be the Glory! The Best Is Yet To Be!**<br><br>
+Click&nbsp;[**_here_**](https://acjc.moe.edu.sg/others/announcements/cca-competition-n-concert-calendar)&nbsp;for more information on ACJC Performing Arts and Sports calendar.<br>
+<br>
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2023</b></font><br>
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
 **_String Ensemble_**&nbsp;on attaining the&nbsp;**_Certificate_**&nbsp;**_of Distinction_**&nbsp;for SYF (Strings)
@@ -21,20 +27,17 @@ The College would like to congratulate the following CCA groups on their achieve
 **_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)
 
 **To God be the Glory! The Best Is Yet To Be!**
+<br><br>
 
-## <center> Singapore Youth Festival Arts Presentation (SYF) 2022 </center>
-
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2022</b></font><br>
 The College would like to congratulate the CCA group on their achievement in the Singapore Youth Festival Arts Presentation:
-
 **_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Drama)
 
 **To God be the Glory! The Best Is Yet To Be!**
 
-Click&nbsp;[**_here_**](https://acjc.moe.edu.sg/others/announcements/cca-competition-n-concert-calendar)&nbsp;for more information on ACJC Performing Arts and Sports calendar.
-
-## <center> Singapore Youth Festival Arts Presentation (SYF) 2021 </center>
 
 
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2021</b></font><br>
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
 **_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)
@@ -49,12 +52,10 @@ The College would like to congratulate the following CCA groups on their achieve
 
 **To God be the Glory! The Best Is Yet To Be!**
 
-## <center> Singapore Youth Festival Arts Presentation (SYF) 2019 </center>
-
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2019</b></font><br>
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
-**_  
-Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Guitar)
+**Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Guitar)
 
 **_String Ensemble_**&nbsp;on attaining the&nbsp;**_Certificate_**&nbsp;**_of Distinction_**&nbsp;for SYF (Strings)
 
@@ -70,9 +71,7 @@ Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&n
 
 **To God be the Glory! The Best Is Yet To Be!**
 
-## <center> SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2017 </center>
-
-
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2017</b></font><br>
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
 **_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)**_  
@@ -91,7 +90,7 @@ Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&n
 
 **To God be the Glory! The Best Is Yet To Be!**
 
-## <center>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2016 </center>
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2016</b></font><br>
 
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
@@ -101,8 +100,7 @@ The College would like to congratulate the following CCA groups on their achieve
 
 **To God be the Glory! The Best Is Yet To Be!**
 
-## <center> SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2015 </center>
-
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2015</b></font><br>
 The College would like to congratulate the following CCA groups on their achievements in the Singapore Youth Festival Arts Presentation:
 
  **_Choir_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Choir)
