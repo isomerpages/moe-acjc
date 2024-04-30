@@ -21,7 +21,9 @@ sections:
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
   - infopic:
       title: CCA Season is here!
-      description: For sports fixtures and performing arts concert dates.
+      description: We would like to congratulate the CCA groups on their achievements
+        at the National Schools Games and the Singapore Youth Festival Arts
+        Presentation.
       button: Click here
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
       alt: Image alt text
