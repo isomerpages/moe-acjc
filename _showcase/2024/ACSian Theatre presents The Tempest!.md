@@ -21,10 +21,9 @@ Meanwhile, the monster of the island, Caliban, has grown bitter at Prosperina’
 rule and wants to take the island for himself.</p>
 <p>Both JC2s and JC1s came together to put this play together, pouring their
 hearts into making a spectacular performance with its vibrant dances and
-harmonious choral singing. The show ended with a great shebang — to rollicking
-tunes and joyous laughter! Not only does this performance mark the end
-of the JC2’s time on the stage, it also begins the transition to the JC1s
-taking the lead.</p>
+harmonious choral singing. The show ended to rollicking tunes and joyous
+laughter! Not only does this performance mark the end of the JC2’s time
+on the stage, it also begins the transition to the JC1s taking the lead.</p>
 <p>We could not have done it without the help of our wonderful teachers:
 Mrs Geetha Creffield, Ms Michelle Wong, Mdm Baljeet Kaur, Mr Tobias Teo
 and Ms Annabel Tan. We would like to thank these amazing teachers who dedicated
