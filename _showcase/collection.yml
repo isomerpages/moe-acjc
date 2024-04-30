@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2024/ACSian Theatre presents The Tempest!.md
       - 2024/Sonder VI.md
       - 2024/Bookending the Year with ACSian Theatre!.md
       - 2024/Founder's Day 2024.md
