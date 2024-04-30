@@ -27,7 +27,7 @@ sections:
       button: Click here
       url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
-      image: /images/Others/CCA_Calendar.jpg
+      image: /images/Others/CCA_Update_1.jpg
   - infopic:
       title: ACJC Fun-O-Rama XXVI
       subtitle: 23rd March 2024, 9AM - 5:30PM
