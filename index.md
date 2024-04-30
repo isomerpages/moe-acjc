@@ -25,7 +25,7 @@ sections:
         at the National Schools Games and the Singapore Youth Festival Arts
         Presentation.
       button: Click here
-      url: /c-c-a-competitions/cca-competition-and-concert-calendar/
+      url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
       image: /images/Others/CCA_Calendar.jpg
   - infopic:
