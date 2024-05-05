@@ -47,7 +47,6 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Music Elective Programme</div>
 <div>Humanities Programme</div>
 <div>Mathematics / Science</div>
-<div>Theatre</div>
 <div>Infocomm Technology (Computing)</div>
 </blockquote>
 
