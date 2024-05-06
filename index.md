@@ -15,7 +15,7 @@ sections:
           url: /c-c-a-competitions/national-school-games-2024-a-division/
         - title: DSA 2024
           description: Direct School Admission
-          url: /about-us/direct-school-admission-2024/
+          url: /about-us/direct-school-admission-2024-application/
         - title: SYF 2024
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/

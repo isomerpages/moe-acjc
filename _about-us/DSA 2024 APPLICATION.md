@@ -1,6 +1,6 @@
 ---
-title: DSA APPLICATION
-permalink: /example-2xxx/
+title: DSA 2024 APPLICATION
+permalink: /about-us/direct-school-admission-2024-application/
 description: ""
 variant: tiptap
 ---
