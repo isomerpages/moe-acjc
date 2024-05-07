@@ -34,7 +34,7 @@ ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 </p>
 <p><strong>SPORTS APPLICATION FORM</strong>
 </p>
-<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong>
+<p><strong><a href="https://go.gov.sg/acjc-dsa-sports" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-sports</a></strong> 
 <br>
 <br>
 </p>
@@ -70,7 +70,7 @@ ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 <p><strong>ACADEMIC AREAS APPLICATION FORMS</strong>
 </p>
 <p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-drama-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2024</a> </strong>
-<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-musin-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-musin-2024</a> </strong>
+<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-music-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-music-2024</a></strong>
 <br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2024</a></strong> 
 <br>Mathematics or Science or Infocomm Technology - <strong><a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm </a></strong>
 <br>
