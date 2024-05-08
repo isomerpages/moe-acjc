@@ -20,7 +20,7 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 <div>Bowling</div>
 <div>Canoeing</div>
 <div>Cross-Country</div>
-<div>Floorball</div>
+<div>Floorball (Boys)</div>
 	<div>Football (Boys)</div>
 <div>Hockey (Girls)</div>
 <div>Netball</div>
