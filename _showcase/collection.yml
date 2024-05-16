@@ -2,6 +2,8 @@ collections:
   showcase:
     output: true
     order:
+      - 2024/International Oldham Cup 2024.md
+      - 2024/NLB Exhibition Debates 2024.md
       - 2024/ACSian Theatre's 'Medusa' at the Singapore Youth Festival.md
       - 2024/ACSian Theatre presents The Tempest!.md
       - 2024/Sonder VI.md
