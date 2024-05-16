@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2024/ACJC Debate & Oratory.md
       - 2024/ACSian Theatre's 'Medusa' at the Singapore Youth Festival.md
       - 2024/ACSian Theatre presents The Tempest!.md
       - 2024/Sonder VI.md
