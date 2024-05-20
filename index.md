@@ -24,8 +24,8 @@ sections:
       description: We would like to congratulate the CCA groups on their achievements
         at the National Schools Games and the Singapore Youth Festival Arts
         Presentation.
-      button: Click here
+      button: Click here for more results
       url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
-      image: /images/Others/CCA_Updates_3.jpg
+      image: /images/Others/CCA_UPDATES_4.jpg
 ---
