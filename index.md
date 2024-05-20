@@ -27,5 +27,5 @@ sections:
       button: Click here
       url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
-      image: /images/Others/CCA_Updates_3.jpg
+      image: /images/Others/CCA_UPDATES_4.jpg
 ---
