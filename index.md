@@ -20,7 +20,7 @@ sections:
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
   - infopic:
-      title: CCA Season is here!
+      title: CCA Achievements 2024
       description: We would like to congratulate the CCA groups on their achievements
         at the National Schools Games and the Singapore Youth Festival Arts
         Presentation.
