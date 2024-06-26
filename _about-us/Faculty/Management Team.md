@@ -130,7 +130,7 @@ variant: markdown
                         <div>
                             <div>
                                 <div><strong>Subject Head Mother Tongue Languages</strong></div>
-                                <div>Ms Jiang Bin (covering)</div>
+                                <div>Ms Jiang Bin</div>
                                 <div></div>
                             </div>
                         </div>
@@ -165,7 +165,7 @@ variant: markdown
                     <div></div>
                 </div>
             </td>
-           <!--  <td><br></td> -->
+           
 	         <td valign="top">
                 <div><strong>Subject Head Project Work</strong></div>
 						 <div>Mr Mori Toshiyuki (covering)</div>
@@ -213,13 +213,7 @@ variant: markdown
                             <div></div>
                         </div>
                         <div><br></div><strong>
-<!--                            <div><strong>Subject Head Science Research and Talent Management</strong></div>
-                        </strong>
-                        <div></div>
-                    </div>
-                    <div>Ms Lee Sok Ee</div>
-                    <div></div>
-                </div> -->
+
             </strong></div></td>
         </tr>
         <tr>
@@ -319,7 +313,7 @@ variant: markdown
                     <div></div>
                 </div>
             </td>
-           <!--  <td><br></td> -->
+           
 	         <td valign="top">
                 <div><strong>Subject Head Special Projects</strong></div>
 						 <div>Mr Nicholas Chee</div>
