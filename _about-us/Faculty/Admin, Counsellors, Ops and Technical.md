@@ -23,8 +23,7 @@ Ms Chan Mun Sin<br>
 Ms Cassandra Goh 
 
 **OPERATIONS MANAGER** <br>
-Mr Nazri <br>
-Mr Sukumaran
+Mr Sukumaran<br>
 
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
