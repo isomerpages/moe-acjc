@@ -5,4 +5,40 @@ description: ""
 third_nav_title: Faculty
 variant: tiptap
 ---
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Nunito, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 727.505px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 358px;" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">SH Humanities</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr George Fu</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><strong style="margin: 0px; outline: 0px; padding: 0px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Senior Teacher</strong></div></strong><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mrs Susan Meow (Geography)</div></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 369px;" valign="top"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">Geography</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Benjamin Goh</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><br style="margin: 0px; outline: 0px; padding: 0px;"></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><strong style="margin: 0px; outline: 0px; padding: 0px;">History</strong></div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Jeremy Wong</div><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;">Mr Mohammad Hafiz</div></td></tr></tbody></table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Humanities</strong>
+</p>
+<p>Mr George Fu</p>
+<p>
+<br>
+</p>
+<p><strong>Senior Teacher</strong>
+</p>
+<p>Mrs Susan Meow (Geography)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Geography</strong>
+</p>
+<p>Mr Benjamin Goh</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
+<p><strong>History</strong>
+</p>
+<p>Mr Jeremy Wong</p>
+<p>Mr Mohammad Hafiz</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
