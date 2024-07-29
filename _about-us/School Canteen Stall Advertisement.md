@@ -27,7 +27,7 @@ variant: markdown
 <li><span style="font-size: 12.0pt;">Address: 25 Dover Close East Singapore 139745</span></li>
 <li><span style="font-size: 12.0pt;"><font color="#CD1405"><b>Contact No: +65 6755 0511</b></font></span></li>
 <li><span style="font-size: 12.0pt;"><font color="#CD1405"><b>Email: suku_maran@acjc.edu.sg </b></font></span></li>
-<li><span style="font-size: 12.0pt;"><font color="#CD1405"><b>Contact Person: Operation Manager Sukumaran</b></font>
+<li><span style="font-size: 12.0pt;"><font color="#CD1405"><b>Contact Person: Operation Manager Mr Sukumaran</b></font>
 </span></li></ul>
 <p style="line-height: normal; background: white;"><strong><span style="font-size: 16.0pt; color: #484848;">How to get there?</span></strong></p>
 <ul>
