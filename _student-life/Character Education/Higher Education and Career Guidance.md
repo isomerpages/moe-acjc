@@ -3,6 +3,7 @@ title: Higher Education and Career Guidance
 permalink: /student-life/character-education/higher-education-and-career-guidance/
 description: ""
 third_nav_title: Character Education
+variant: markdown
 ---
 Higher Education and Career Guidance (HECG) at ACJC serves two objectives.
 
@@ -34,10 +35,10 @@ Major aspects of the programme include
 
 ### Resources for ACJC Students
 
-HECG Resources for ACJC students
+**HECG Resources for ACJC students**
 
 [ACJC CCP Google Site (accessible to ACJC students only)](https://sites.google.com/acjc.edu.sg/acjcccejc1/higher-education-and-career-guidance)  
 
-Overseas university applications
+**Overseas university applications**
 
-Resources for Overseas University Applications will be uploaded here after the relevant cohort briefings.
+Please click [here](/files/UCAS__Briefing_Slides__2025_Cycle_Students_Web.pdf) for information about UK university applications via UCAS for the 2024-25 cycle.
