@@ -41,8 +41,7 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
-                <div>Ms Annie Yong</div>
-							  <div>Mr Calvin Choo (covering)</div>
+                <div>Mr Calvin Choo (covering</div>
             </td>
             <td valign="top">
                 <div><strong>JC1 Year Head</strong></div>
@@ -81,7 +80,7 @@ variant: markdown
 			<tr>
             <td valign="top">
                 <div><strong>HOD English</strong></div>
-                <div>Ms Ng Swee Pheng</div>
+                <div>Ms Annie Yong</div>
             </td>
             <td valign="top">
                 <div><strong>Subject Head General Paper</strong></div>
