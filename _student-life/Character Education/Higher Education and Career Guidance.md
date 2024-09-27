@@ -33,12 +33,12 @@ Major aspects of the programme include
 
 8.    Communication with students, alumni and parents
 
-### Resources for ACJC Students
+#### HECG Resources for ACJC students
+##### ACJC CCP Google Site  
+Please click [here](https://sites.google.com/acjc.edu.sg/acjcccejc1/higher-education-and-career-guidance) to access the ACJC CCP Google Site. This site is **only accessible to current students of ACJC** logged in to their ACJC email accounts.
 
-**HECG Resources for ACJC students**
-
-[ACJC CCP Google Site (accessible to ACJC students only)](https://sites.google.com/acjc.edu.sg/acjcccejc1/higher-education-and-career-guidance)  
-
-**Overseas university applications**
+##### Overseas university applications
 
 Please click [here](/files/UCAS__Briefing_Slides__2025_Cycle_Students_Web.pdf) for information about UK university applications via UCAS for the 2024-25 cycle.
+
+Please click [here](/files/US_University_Applications_2024_25.pdf) for information about US university applications via CommonApp for the 2024-25 cycle.
