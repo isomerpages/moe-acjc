@@ -28,4 +28,12 @@ sections:
       url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
       image: /images/Others/CCA_UPDATES_5.jpg
+  - infopic:
+      title: Open House 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: In this open house, you will have the chance to tour the grounds of
+        ACJC and explore the wide variety of subjects and CCAs offered.
+      image: /images/InfoPic/Open_House_2025.png
+      alt: Image alt text
 ---
