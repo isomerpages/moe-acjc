@@ -13,12 +13,17 @@ sections:
         - title: NSG 2024
           description: National Schools Games
           url: /c-c-a-competitions/national-school-games-2024-a-division/
-        - title: DSA 2024
-          description: Direct School Admission
-          url: /about-us/direct-school-admission-2024-application/
         - title: SYF 2024
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
+  - infopic:
+      title: Open House 2025
+      id: infopic
+      description: In this open house, you will have the chance to tour the grounds of
+        ACJC and explore the wide variety of subjects and CCAs offered. Come
+        join us!
+      image: /images/InfoPic/Open_House_2025.png
+      alt: Image alt text
   - infopic:
       title: CCA Achievements 2024
       description: We would like to congratulate the CCA groups on their achievements
@@ -28,11 +33,4 @@ sections:
       url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
       image: /images/Others/CCA_UPDATES_5.jpg
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      description: In this open house, you will have the chance to tour the grounds of
-        ACJC and explore the wide variety of subjects and CCAs offered.
-      image: /images/InfoPic/Open_House_2025.png
-      alt: Image alt text
 ---
