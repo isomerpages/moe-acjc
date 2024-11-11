@@ -1,6 +1,6 @@
 ---
 title: DSA 2024 APPLICATION
-permalink: /about-us/direct-school-admission-2024-application/
+permalink: /dsaarchive1/
 description: ""
 variant: tiptap
 ---

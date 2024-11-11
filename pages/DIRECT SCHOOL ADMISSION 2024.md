@@ -1,6 +1,6 @@
 ---
 title: DIRECT SCHOOL ADMISSION 2024
-permalink: /about-us/direct-school-admission-2024/
+permalink: /dsaarchive/
 description: ""
 variant: markdown
 ---
