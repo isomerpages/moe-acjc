@@ -21,7 +21,7 @@ variant: markdown
             <td valign="top">
                 <div><strong>Vice-Principals (Education)</strong></div>
                 <div>Mr Ang Yuan Peng</div>
-                <div>Ms Audrey Lim</div>
+                <div>Ms Quek Si Min</div>
 								<div></div>
                 <div></div>
             </td>
@@ -41,14 +41,14 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div><strong>Senior Year Head</strong></div>
-                <div>Mr Calvin Choo (covering</div>
+                <div>Mr Calvin Choo</div>
             </td>
             <td valign="top">
                 <div><strong>JC1 Year Head</strong></div>
-                <div>Mr Patrick Sum</div>
+                <div>Ms Tham Peishan</div>
                 <div><br></div>
                <div><strong>JC2 Year Head</strong></div>
-                <div>Ms Tham Peishan (covering)</div>
+                <div>Mr Patrick Sum</div>
                 <div></div>
             </td>
         </tr>
@@ -69,7 +69,7 @@ variant: markdown
         <tr>
             <td valign="top">
                 <div><strong>HOD Economics</strong></div>
-                <div>Ms Kuek Xiao Bin (covering)</div>
+                <div>Ms Kuek Xiao Bin</div>
             </td>
             <td valign="top">
                 <div><strong>Subject Head Economics</strong></div>
@@ -84,8 +84,7 @@ variant: markdown
             </td>
             <td valign="top">
                 <div><strong>Subject Head General Paper</strong></div>
-                <div>Ms Ruth Lim</div><br>
-							<div><strong>Level Head General Paper</strong></div>
+                <div>Ms Deborah Fernandez</div>
                 <div>Ms Ong Xin Yi</div>
                 <div></div>
             </td>
@@ -105,8 +104,6 @@ variant: markdown
                                 <div><strong>Subject Head Mathematics</strong></div>
                                 <div>Dr Ng Boon Leong</div>
                             </div>
-                            <div><strong><br></strong></div>
-                            <div><strong>Level Head Mathematics</strong></div>
                             <div>Mr Yeo Kaixiang</div>
                             <div></div>
                         </div>
