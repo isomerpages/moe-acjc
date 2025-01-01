@@ -164,7 +164,7 @@ variant: markdown
            
 	         <td valign="top">
                 <div><strong>Subject Head Project Work</strong></div>
-						 <div>Mr Mori Toshiyuki (covering)</div>
+						 <div>Mr Mori Toshiyuki</div>
             </td>
         </tr>
         <tr>
@@ -192,18 +192,16 @@ variant: markdown
                             <div><strong>Subject Head Chemistry</strong></div>
                             <div>
                                 <div>Mr Kunasegaran</div>
-                                <div><br></div>
                             </div>
                         </div>
                     </div>
                     <div>
-                        <div><strong>Level Head Chemistry</strong></div>
                         <div>Ms So Zhao Ying</div>
                         <div><br></div>
                     </div>
                     <div></div>
                         <div>
-                            <div><strong>Level Head Physics</strong></div>
+                            <div><strong>Subject Head Physics</strong></div>
                           <div>Mr Koo Guowen</div>  
 													<div>Mr Bertram Lim (covering)</div>
                             <div></div>
