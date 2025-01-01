@@ -24,13 +24,13 @@ Ms Cassandra Goh
 
 **OPERATIONS MANAGER** <br>
 Mr Sukumaran<br>
+Mr Sarazli Suratman<br>
 
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
 Mdm Norhaslinda
 
 **STEM INSTRUCTOR** <br>
-Ms Han Yiyao<br>
 Mdm Angie Ng<br>
 Ms Nurin Sofiah<br>
 Ms Theresa
