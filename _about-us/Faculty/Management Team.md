@@ -203,7 +203,7 @@ variant: markdown
                         <div>
                             <div><strong>Subject Head Physics</strong></div>
                           <div>Mr Koo Guowen</div>  
-													<div>Mr Bertram Lim (covering)</div>
+													<div>Mr Bertram Lim</div>
                             <div></div>
                         </div>
                         <div><br></div><strong>
