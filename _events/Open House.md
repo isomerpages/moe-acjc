@@ -20,4 +20,5 @@ Follow us on our social media platforms for more updates.
 <font color="#CD1405"><b>Facebook</b></font>
 [https://www.facebook.com/AngloChineseJuniorCollege](https://www.facebook.com/AngloChineseJuniorCollege)  
   
+<b>#acjcopenhouse</b>
 <b>#RedBlueGoldWherePossibilitiesUnfold</b>
