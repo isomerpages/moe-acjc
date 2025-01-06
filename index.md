@@ -24,6 +24,8 @@ sections:
         join us!
       image: /images/InfoPic/Open_House_2025.png
       alt: Image alt text
+      url: /events/open-house/
+      button: Click here
   - infopic:
       title: CCA Achievements 2024
       description: We would like to congratulate the CCA groups on their achievements
