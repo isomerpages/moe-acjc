@@ -37,9 +37,8 @@ To ensure that they fulfil this role, we believe that student reflection is impo
 2.  Absence from College shall only be permitted when it is supported by
     
 
-1.  A letter of excuse from the parent/guardian for a period not exceeding one day (no more than 2 letters per term), or
-    
-2.  A medical certificate from a qualified medical practitioner for a period of two or more consecutive days.&nbsp;
+* A letter of excuse from the parent/guardian for a period not exceeding one day (no more than 2 letters per term), or
+* A medical certificate from a qualified medical practitioner for a period of two or more consecutive days.&nbsp;
     
 
 *Only MCs from medical practitioners registered under the Medical Registration Act are recognised
@@ -69,12 +68,9 @@ To ensure that they fulfil this role, we believe that student reflection is impo
     
 5.  Dismissal from classes for recess or from the College shall be effected only by the teacher-in-charge.
     
-6.  No students may leave the College without prior permission before stipulated times:
-    
-
-1.  12:20pm or the last lesson, whichever is later.
-    
-2.  On Wednesdays, the earliest dismissal time is 2pm.&nbsp;
+6.  No students may leave the College without prior permission before stipulated times: 
+* 12:20pm or the last lesson, whichever is later.
+* On Wednesdays, the earliest dismissal time is 2pm.&nbsp;
     
 
   
@@ -90,7 +86,7 @@ To ensure that they fulfil this role, we believe that student reflection is impo
 
 ### V. MISCELLANEOUS
 
-i. Safety and Security&nbsp;
+<u>i. Safety and Security</u>
 
 1.  Visitors must register at the Security Post (at the front gate) and make inquiries at the College Office before going to other parts of the College.
     
@@ -124,7 +120,7 @@ i. Safety and Security&nbsp;
 
   
 
-ii. Conducive Learning Environment
+<u>ii. Conducive Learning Environment</u>
 
   
 
@@ -135,12 +131,12 @@ ii. Conducive Learning Environment
 3.  No student is allowed to use electronic devices (e.g. handphone/PLD/camera) during lessons unless permission is given by the teacher. In the event of electronic devices used without permission, the teachers will enforce the following:
     
 
-1.  Students will be told to put away the electronic device.
+*   Students will be told to put away the electronic device.
     
-2.  Students will be asked to place their electronic device on the teacher’s table until the end of the lesson if they are unable to exercise self-control.
+*   Students will be asked to place their electronic device on the teacher’s table until the end of the lesson if they are unable to exercise self-control.
     
 
-5.  Only dry snacks and bottled drinks may be brought up to the classrooms. Students are to ensure that classrooms are kept clean, and all empty packaging is disposed of responsibly in the trash bins along the common corridors.
+4.  Only dry snacks and bottled drinks may be brought up to the classrooms. Students are to ensure that classrooms are kept clean, and all empty packaging is disposed of responsibly in the trash bins along the common corridors.
     
 
   
@@ -171,7 +167,7 @@ As a guide, the following is a list of offences and the respective demerit point
 
 ### VII. ACJC UNIFORM AND GROOMING MATTERS
 
-i. Uniform matters
+<u>i. Uniform matters</u>
 
 1.  Students are to wear the prescribed College uniform and no modification to the uniform is allowed. (Please refer to the dress codes listed below.)
     
@@ -182,7 +178,7 @@ i. Uniform matters
 
   
 
-ii. Grooming matters
+<u>ii. Grooming matters</u>
 
 1.  No student is allowed any personal adornment which does not serve an immediate and prescribed functional purpose. ‘Personal adornment’ includes, but is not restricted to the following:
     
@@ -204,7 +200,7 @@ ii. Grooming matters
   
   
 
-iii. Dress codes
+<u>iii. Dress codes</u>
 
   
 
