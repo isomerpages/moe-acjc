@@ -2,246 +2,636 @@
 title: College Rules and Regulations
 permalink: /student-life/college-rules-and-regulations/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### I. AIMS AND PHILOSOPHY
-
-The College believes that every student is able to achieve self-discipline. Our approach and rules are guided by several principles, and these include:
-
-*   Alignment with College Vision, Mission and Values.
-    
-*   Fairness and consistency.
-    
-*   Proportionality.
-    
-*   Upholding the needs and interest of the College community.
-    
-
-
-The goals of our disciplinary approach are to:&nbsp;
-
-*   Nurture personal responsibility and self-discipline so that our students make responsible decisions.&nbsp;
-    
-*   Foster a conducive environment for teaching and learning.
-    
- 
-
-We believe that our students are ambassadors of the College, who are expected to uphold the College’s values and represent the College with pride and dignity.&nbsp; 
-
-To ensure that they fulfil this role, we believe that student reflection is important, so that our students can reflect on the impact that their actions have on others, and nurture greater self-management. To encourage student reflection, we engage students through the W.A.R.M. strategy – W (What), A (Affect), R (Reflect and Repair), M (Move forward) approach.
-
-### II. ATTENDANCE
-
-1.  All students must be punctual for College, classes, games and other College activities and events.&nbsp;
-    
-2.  Absence from College shall only be permitted when it is supported by
-    
-
-* A letter of excuse from the parent/guardian for a period not exceeding one day (no more than 2 letters per term), or
-* A medical certificate from a qualified medical practitioner for a period of two or more consecutive days.&nbsp;
-    
-
-*Only MCs from medical practitioners registered under the Medical Registration Act are recognised
-
-3.  Students who have 5% or more absenteeism may be barred from sitting for the year end examinations or asked to leave the College.&nbsp;
-    
-4.  No student may leave a lesson without the prior permission of the teacher-in-charge.
-    
-
-  
-
-### III. ASSEMBLIES AND DISMISSALS
-
-1.  Attendance is compulsory for morning assembly.
-    
-2.  All assemblies and dismissals from assemblies shall be executed in accordance with the prescribed plan.
-    
-3.  Flag-raising ceremonies will be held at 8.00 am every weekday except Tuesday, which starts at 8.20am. All students are to assemble at the assigned venues at least 5 minutes before the start of assembly. Students who are not at the assigned venues at the start of assembly will be considered late.
-    
-
-1.  Students who are Singapore Citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
-    
-2.  After dismissal, students will leave the assembly area in an orderly manner to lectures / tutorials or other lessons.
-    
-
-4.  College assemblies and Chapel services will be conducted in the Hall/LT1.&nbsp;Students are to remain attentive and observe good conduct during assemblies and Chapel services.&nbsp;
-    
-5.  Dismissal from classes for recess or from the College shall be effected only by the teacher-in-charge.
-    
-6.  No students may leave the College without prior permission before stipulated times: 
-* 12:20pm or the last lesson, whichever is later.
-* On Wednesdays, the earliest dismissal time is 2pm.&nbsp;
-    
-
-  
-
-### IV. CO-CURRICULAR PROGRAMMES (CCP)
-
-1.  All students are expected to participate in at least 1 official College CCA and 1 VIA.
-    
-2.  All students are required to report for games or other CCA/VIA punctually.
-    
-3.  No student is allowed to play for outside teams or organizations without the prior permission of the Principal.
-     
-
-### V. MISCELLANEOUS
-
-<u>i. Safety and Security</u>
-
-1.  Visitors must register at the Security Post (at the front gate) and make inquiries at the College Office before going to other parts of the College.
-    
-2.  Students should not invite visitors to the College unless it is for official business and with prior approval.
-    
-3.  Students are not allowed to enter laboratories, workrooms, staffrooms, office of the Heads of Department, stores without permission.
-    
-4.  Students are required to observe special rules in laboratories, the library and CCAs.
-    
-5.  Students are not allowed to use the classrooms after 4.40pm, except for official activities. Students engaging in self-study should use the library or designated study areas and outdoor spaces at the ground floor.
-    
-6.  Students are not allowed to sit on desks or railings and ledges.
-    
-7.  Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-    
-8.  Students are advised not to carry excessive sums of money and/or expensive articles.
-    
-9.  Smoking/vaping/consumption of alcohol or any illegal substances is prohibited. The use, possession and distribution of these substances are prohibited.
-    
-10.  No gambling is allowed in the College.
-    
-11.  Students should not use technology and social media in a manner that:
-    
-
- - harms or threatens others,
-    
-- violates College rules or the Law,
-    
-- disrupts the learning environment.
-    
-
-  
-
-<u>ii. Conducive Learning Environment</u>
-
-  
-
-1.  Vandalism and littering are prohibited. It is the duty of every student to keep the College premises and College field clean.
-    
-2.  Students are to use the College lifts at levels 1 and 5 only. No student is allowed to use the lifts immediately after dismissal from morning assemblies and chapels.
-    
-3.  No student is allowed to use electronic devices (e.g. handphone/PLD/camera) during lessons unless permission is given by the teacher. In the event of electronic devices used without permission, the teachers will enforce the following:
-    
-
-*   Students will be told to put away the electronic device.
-    
-*   Students will be asked to place their electronic device on the teacher’s table until the end of the lesson if they are unable to exercise self-control.
-    
-
-4.  Only dry snacks and bottled drinks may be brought up to the classrooms. Students are to ensure that classrooms are kept clean, and all empty packaging is disposed of responsibly in the trash bins along the common corridors.
-    
-
-  
-  
-
-### VI. CONSEQUENCES
-
-1.  To nurture personal responsibility and self-discipline in our students, infringement of College rules and regulations will result in consequences, which can include reflections, counselling, community service, restitution, demerit points and/or suspension from lessons.
-    
-2.  Ignorance of the College rules and regulations is not an acceptable reason/excuse.
-    
-3.  Conduct grade/testimonial and recommendations (for awards/scholarships etc.) may reflect disciplinary actions.
-    
-4.  The consequences spelt out in the table below serve as a guide to the College’s implementation of our rules and regulations and the Principal has the discretion to determine consequences according to the severity of the offence.&nbsp;
-    
-
-  
-  
-
-As a guide, the following is a list of offences and the respective demerit points:
-
-  
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="25"><col width="454"><col width="126"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">&nbsp;</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Offence</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Points</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Late-coming</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1 DP for the first 3 late-coming offences</span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1 DP for every subsequent late-coming offence</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Absent from class without a valid reason</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Truancy</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">3 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">4</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Inappropriate dress code and grooming</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">5</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Misconduct (e.g. rude/defiance, talking in the library, eating/drinking in unauthorised areas, rowdy behaviour or any such conduct unacceptable to an atmosphere for teaching and learning, misuse of technology or inappropriate social media posts, conduct which does not reflect positively on the College and our values)</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">1-5 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">6</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dishonesty (e.g. incessant lying, plagiarism, cheating in exams/test, falsifying reports, documents and certificates)</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">6-12 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">7</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Vandalism and graffiti or damage to College property</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">6-12 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">8</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The use, possession and distribution of any illegal/unauthorised substances (e.g. tobacco products, e-vapourisers, alcohol, drugs, inhalants)</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">12 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">9</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Theft</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">12 DP</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">10</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Extortion and threatening behaviour (e.g. bullying, cyber bullying, harassment, voyeurism, sexual misconduct)</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">12&nbsp;</span><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br><br></span></p></td></tr></tbody></table>
-
-  
-  
-
-### VII. ACJC UNIFORM AND GROOMING MATTERS
-
-<u>i. Uniform matters</u>
-
-1.  Students are to wear the prescribed College uniform and no modification to the uniform is allowed. (Please refer to the dress codes listed below.)
-    
-2.  When reporting to the College on weekends and during school vacations, students are required to be properly attired in College t-shirts, College bottoms (trousers or skirts) and shoes. No slippers and sandals are allowed.
-    
-3.  Students are to change into College uniform / Collegiate Day attire (depending on the day of the week) after PE, prior to attending lessons in the tutorial rooms and lecture theatres, and going into the library.
-    
-
-  
-
-<u>ii. Grooming matters</u>
-
-1.  No student is allowed any personal adornment which does not serve an immediate and prescribed functional purpose. ‘Personal adornment’ includes, but is not restricted to the following:
-    
-
-1.  Ornaments or jewellery for both boys and girls, except for girls who are allowed to wear one pair of small, plain and simple studs/ringed earrings on the earlobes.
-    
-2.  Wearing of makeup.
-    
-3.  Dyed or highlighted hair for both boys and girls.
-    
-
-3.  Hair
-    
-
-  
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="302"><col width="302"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boys</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.295;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Girls</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boys must keep their hair neat and tidy with a slope at the rear from the natural hair line with no sideburns/duck tail.&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dyed or highlighted hair is not allowed.</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boys are not allowed to keep a moustache or a beard.&nbsp;</span></p></li></ul></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Girls must keep hair neat and simple. Long hair must be plaited or tied up.&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Hair accessories must not be conspicuous.</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dyed or highlighted hair is not allowed.</span></p></li></ul></td></tr></tbody></table>
-
-  
-  
-
-<u>iii. Dress codes</u>
-
-  
-
-Dress No. 1:&nbsp;&nbsp;Formal Attire (Performing a service during all College functions)
-
-  
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="302"><col width="302"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boys</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Girls</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cream trousers</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cream skirts</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">White long-sleeved shirt</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">White long-sleeved blouse</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">College blazer and tie</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">College blazer and tie</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Plain black leather shoes and long black socks</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:middle;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#222222;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Plain black leather court shoes (no high heels)</span></p></td></tr></tbody></table>
-
-Dress No.2:&nbsp;&nbsp;College uniform and tie, plain black leather shoes and long black socks for boys and plain black leather court shoes for girls. This is the minimum for students who are performing a service at official College functions held or receiving awards at official functions.
-
-  
-
-Dress No.3:&nbsp;&nbsp;College uniform for formal classroom activities. (Refer to details below)&nbsp;
-
-  
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="302"><col width="302"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Boys</span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#1f8ce4;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: center;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#f2f9ff;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Girls</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">White shirt and navy blue trousers straight-cut, in accordance with the approved style shown in pictures below. Shirt must always be tucked in.&nbsp;</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Plain white/navy blue/black socks and low-cut sport shoes (no metallic or neon colours).</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The College badge must be worn at all times.</span></p></li></ul><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:'Times New Roman',serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:210px;height:616px;"><img style="margin-left:0px;margin-top:0px;" height="616" width="210" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLtBmcwczffvH0VB1LlmFy8UU4MlAzvbrOocuoVTMYbkaitc5pIsLdPiHitTjyQMAR2RiorZ1TR8dFsEsc9qtvfVATGb_W45lgo0SbDeS-n_xQKTRJDUCJpoRFy7rNpNBsHdBmo7AZT2pO6HalIUs?key=rEkpXTVT2H3QKeIEUJTa38C-" alt="Male-Front-View.gif"></span></span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:'Times New Roman',serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:146px;height:567px;"><img style="margin-left:0px;margin-top:0px;" height="567" width="146" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQ5f-HObXmg1zpo_Rdlsklx2c3Q1n5KHJ6IXrWgHTtMzIWeZ1AKhNer78QWDvXgaDtx0Bd0tClebJg4DValTGrPoHB0F4ah62FqlwzWTNOteP-qM_RQBKStRpp6fQhjEFtKxQE44i9C-xVxzh1yQ?key=rEkpXTVT2H3QKeIEUJTa38C-" alt="Male-Side-View.gif"></span></span></p></td><td style="border-left:solid #000000 0.75pt;border-right:solid #000000 0.75pt;border-bottom:solid #000000 0.75pt;border-top:solid #000000 0.75pt;vertical-align:top;background-color:#f2f9ff;padding:1.5pt 1.5pt 1.5pt 1.5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">White blouse, navy blue knee-length skirt, A-line; not more than 2cm above kneecap; in accordance with approved style shown in pictures below. Blouse must always be tucked in.</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Ankle-length plain white/navy blue/black socks and low-cut sports shoes (no metallic or neon colours).</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -18pt;" dir="ltr"><p role="presentation" style="line-height:1.295;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#050505;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The College badge must be worn at all times.</span></p></li></ul><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:'Times New Roman',serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:189px;height:583px;"><img style="margin-left:0px;margin-top:0px;" height="583" width="189" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoEABzIXBC2szeZEEdIz-zQFM_g7RTts0p_6PWvceqf1OslSunbVl17LqPHSYwGrkPWIAVdGd_GjxUmbJ_L3KvUfIV0Yi6B_ZSbhSbtZ7mXQfTQW7ovQx3j5wzIVfSbk_IIxxxPYEpFI3vVM1uXgE?key=rEkpXTVT2H3QKeIEUJTa38C-" alt="Female-Front-View.gif"></span></span></p><br><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:'Times New Roman',serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><span style="border:none;display:inline-block;overflow:hidden;width:153px;height:572px;"><img style="margin-left:0px;margin-top:0px;" height="572" width="153" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXef2AmWYIncysR8cTg1TJqCAIgsJdPS56rC54IxvXFKpLQnFobwtwB4EOzS_HW_UBmvzwA880kaYNJwX7-R1HFO_FNTIAfMIZV9cHBitqE5kTeuU1vy_wPwPnCS9K0pZ5uyzBaMtCm24ma-VlTc6lw?key=rEkpXTVT2H3QKeIEUJTa38C-" alt="Female-Side-View.gif"></span></span></p></td></tr></tbody></table>
-
-  
-
-Dress No.4:&nbsp;&nbsp;P.E. attire: Compulsory. ACJC PE T-shirt and ACJC PE shorts. Proper footwear.&nbsp;
-
-  
-
-Dress No.5:&nbsp;&nbsp;For informal classroom activities, spectators at games, weekends and school holidays. College T-shirt, trousers/skirts and shoes. No slippers or sandals allowed.
-
-  
-
-Games attire:&nbsp;&nbsp;Students participating in CCA may wear their approved CCA T-shirt/ training attire. Proper footwear is expected to be worn for the respective facility. Only approved jerseys or attire, bearing the College crest and colours, are allowed during the Inter-School competitions.
-
-  
-
-Collegiate Day Attire: Approved T-shirt (Collegiate, House, Orientation, and P.E.), trousers/skirts and shoes.
-
-  
-
-Jackets / pullovers: Students are only allowed to wear any one of the following below.&nbsp;
-
-1.  ACJC pullover
-    
-2.  ACJC CCA jacket
-    
-3.  Plain (no markings and prints) jacket/ sweater/ pullover in dark blue, dark&nbsp;red or black only.
+<h3>I. AIMS AND PHILOSOPHY</h3>
+<p>The College believes that every student is able to achieve self-discipline.
+Our approach and rules are guided by several principles, and these include:</p>
+<ul>
+<li>
+<p>Alignment with College Vision, Mission and Values.</p>
+</li>
+<li>
+<p>Fairness and consistency.</p>
+</li>
+<li>
+<p>Proportionality.</p>
+</li>
+<li>
+<p>Upholding the needs and interest of the College community.</p>
+</li>
+</ul>
+<p>The goals of our disciplinary approach are to:&nbsp;</p>
+<ul>
+<li>
+<p>Nurture personal responsibility and self-discipline so that our students
+make responsible decisions.&nbsp;</p>
+</li>
+<li>
+<p>Foster a conducive environment for teaching and learning.</p>
+</li>
+</ul>
+<p>We believe that our students are ambassadors of the College, who are expected
+to uphold the College’s values and represent the College with pride and
+dignity.&nbsp;</p>
+<p>To ensure that they fulfil this role, we believe that student reflection
+is important, so that our students can reflect on the impact that their
+actions have on others, and nurture greater self-management. To encourage
+student reflection, we engage students through the W.A.R.M. strategy –
+W (What), A (Affect), R (Reflect and Repair), M (Move forward) approach.</p>
+<h3>II. ATTENDANCE</h3>
+<ol>
+<li>
+<p>All students must be punctual for College, classes, games and other College
+activities and events.&nbsp;</p>
+</li>
+<li>
+<p>Absence from College shall only be permitted when it is supported by</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>A letter of excuse from the parent/guardian for a period not exceeding
+one day (no more than 2 letters per term), or</p>
+</li>
+<li>
+<p>A medical certificate from a qualified medical practitioner for a period
+of two or more consecutive days.&nbsp;</p>
+</li>
+</ul>
+<p>*Only MCs from medical practitioners registered under the Medical Registration
+Act are recognised</p>
+<ol start="3">
+<li>
+<p>Students who have 5% or more absenteeism may be barred from sitting for
+the year end examinations or asked to leave the College.&nbsp;</p>
+</li>
+<li>
+<p>No student may leave a lesson without the prior permission of the teacher-in-charge.</p>
+</li>
+</ol>
+<h3>III. ASSEMBLIES AND DISMISSALS</h3>
+<ol>
+<li>
+<p>Attendance is compulsory for morning assembly.</p>
+</li>
+<li>
+<p>All assemblies and dismissals from assemblies shall be executed in accordance
+with the prescribed plan.</p>
+</li>
+<li>
+<p>Flag-raising ceremonies will be held at 8.00 am every weekday except Tuesday,
+which starts at 8.20am. All students are to assemble at the assigned venues
+at least 5 minutes before the start of assembly. Students who are not at
+the assigned venues at the start of assembly will be considered late.</p>
+</li>
+<li>
+<p>Students who are Singapore Citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with the right fist placed
+over the heart.</p>
+</li>
+<li>
+<p>After dismissal, students will leave the assembly area in an orderly manner
+to lectures / tutorials or other lessons.</p>
+</li>
+<li>
+<p>College assemblies and Chapel services will be conducted in the Hall/LT1.&nbsp;Students
+are to remain attentive and observe good conduct during assemblies and
+Chapel services.&nbsp;</p>
+</li>
+<li>
+<p>Dismissal from classes for recess or from the College shall be effected
+only by the teacher-in-charge.</p>
+</li>
+<li>
+<p>No students may leave the College without prior permission before stipulated
+times:</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>12:20pm or the last lesson, whichever is later.</p>
+</li>
+<li>
+<p>On Wednesdays, the earliest dismissal time is 2pm.&nbsp;</p>
+</li>
+</ul>
+<h3>IV. CO-CURRICULAR PROGRAMMES (CCP)</h3>
+<ol>
+<li>
+<p>All students are expected to participate in at least 1 official College
+CCA and 1 VIA.</p>
+</li>
+<li>
+<p>All students are required to report for games or other CCA/VIA punctually.</p>
+</li>
+<li>
+<p>No student is allowed to play for outside teams or organizations without
+the prior permission of the Principal.</p>
+</li>
+</ol>
+<h3>V. MISCELLANEOUS</h3>
+<p><u>i. Safety and Security</u>
+</p>
+<ol>
+<li>
+<p>Visitors must register at the Security Post (at the front gate) and make
+inquiries at the College Office before going to other parts of the College.</p>
+</li>
+<li>
+<p>Students should not invite visitors to the College unless it is for official
+business and with prior approval.</p>
+</li>
+<li>
+<p>Students are not allowed to enter laboratories, workrooms, staffrooms,
+office of the Heads of Department, stores without permission.</p>
+</li>
+<li>
+<p>Students are required to observe special rules in laboratories, the library
+and CCAs.</p>
+</li>
+<li>
+<p>Students are not allowed to use the classrooms after 4.40pm, except for
+official activities. Students engaging in self-study should use the library
+or designated study areas and outdoor spaces at the ground floor.</p>
+</li>
+<li>
+<p>Students are not allowed to sit on desks or railings and ledges.</p>
+</li>
+<li>
+<p>Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which is used or intended
+to be used to cause harm to others.</p>
+</li>
+<li>
+<p>Students are advised not to carry excessive sums of money and/or expensive
+articles.</p>
+</li>
+<li>
+<p>Smoking/vaping/consumption of alcohol or any illegal substances is prohibited.
+The use, possession and distribution of these substances are prohibited.</p>
+</li>
+<li>
+<p>No gambling is allowed in the College.</p>
+</li>
+<li>
+<p>Students should not use technology and social media in a manner that:</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>harms or threatens others,</p>
+</li>
+<li>
+<p>violates College rules or the Law,</p>
+</li>
+<li>
+<p>disrupts the learning environment.</p>
+</li>
+</ul>
+<p><u>ii. Conducive Learning Environment</u>
+</p>
+<ol>
+<li>
+<p>Vandalism and littering are prohibited. It is the duty of every student
+to keep the College premises and College field clean.</p>
+</li>
+<li>
+<p>Students are to use the College lifts at levels 1 and 5 only. No student
+is allowed to use the lifts immediately after dismissal from morning assemblies
+and chapels.</p>
+</li>
+<li>
+<p>No student is allowed to use electronic devices (e.g. handphone/PLD/camera)
+during lessons unless permission is given by the teacher. In the event
+of electronic devices used without permission, the teachers will enforce
+the following:</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>Students will be told to put away the electronic device.</p>
+</li>
+<li>
+<p>Students will be asked to place their electronic device on the teacher’s
+table until the end of the lesson if they are unable to exercise self-control.</p>
+</li>
+</ul>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Only dry snacks and bottled drinks may be brought up to the classrooms.
+Students are to ensure that classrooms are kept clean, and all empty packaging
+is disposed of responsibly in the trash bins along the common corridors.</p>
+</li>
+</ol>
+<h3>VI. CONSEQUENCES</h3>
+<ol>
+<li>
+<p>To nurture personal responsibility and self-discipline in our students,
+infringement of College rules and regulations will result in consequences,
+which can include reflections, counselling, community service, restitution,
+demerit points and/or suspension from lessons.</p>
+</li>
+<li>
+<p>Ignorance of the College rules and regulations is not an acceptable reason/excuse.</p>
+</li>
+<li>
+<p>Conduct grade/testimonial and recommendations (for awards/scholarships
+etc.) may reflect disciplinary actions.</p>
+</li>
+<li>
+<p>The consequences spelt out in the table below serve as a guide to the
+College’s implementation of our rules and regulations and the Principal
+has the discretion to determine consequences according to the severity
+of the offence.&nbsp;</p>
+</li>
+</ol>
+<p>As a guide, the following is a list of offences and the respective demerit
+points:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Offence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Points</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late-coming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 DP for the first 3 late-coming offences</p>
+<p>
+<br>
+</p>
+<p>1 DP for every subsequent late-coming offence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Absent from class without a valid reason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Truancy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inappropriate dress code and grooming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Misconduct (e.g. rude/defiance, talking in the library, eating/drinking
+in unauthorised areas, rowdy behaviour or any such conduct unacceptable
+to an atmosphere for teaching and learning, misuse of technology or inappropriate
+social media posts, conduct which does not reflect positively on the College
+and our values)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-5 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dishonesty (e.g. incessant lying, plagiarism, cheating in exams/test,
+falsifying reports, documents and certificates)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-12 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vandalism and graffiti or damage to College property</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-12 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The use, possession and distribution of any illegal/unauthorised substances
+(e.g. tobacco products, e-vapourisers, alcohol, drugs, inhalants)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Theft</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 DP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Extortion and threatening behaviour (e.g. bullying, cyber bullying, harassment,
+voyeurism, sexual misconduct)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12&nbsp;
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>VII. ACJC UNIFORM AND GROOMING MATTERS</h3>
+<p><u>i. Uniform matters</u>
+</p>
+<ol>
+<li>
+<p>Students are to wear the prescribed College uniform and no modification
+to the uniform is allowed. (Please refer to the dress codes listed below.)</p>
+</li>
+<li>
+<p>When reporting to the College on weekends and during school vacations,
+students are required to be properly attired in College t-shirts, College
+bottoms (trousers or skirts) and shoes. No slippers and sandals are allowed.</p>
+</li>
+<li>
+<p>Students are to change into College uniform / Collegiate Day attire (depending
+on the day of the week) after PE, prior to attending lessons in the tutorial
+rooms and lecture theatres, and going into the library.</p>
+</li>
+</ol>
+<p><u>ii. Grooming matters</u>
+</p>
+<ol>
+<li>
+<p>No student is allowed any personal adornment which does not serve an immediate
+and prescribed functional purpose. ‘Personal adornment’ includes, but is
+not restricted to the following:</p>
+</li>
+<li>
+<p>Ornaments or jewellery for both boys and girls, except for girls who are
+allowed to wear one pair of small, plain and simple studs/ringed earrings
+on the earlobes.</p>
+</li>
+<li>
+<p>Wearing of makeup.</p>
+</li>
+<li>
+<p>Dyed or highlighted hair for both boys and girls.</p>
+</li>
+<li>
+<p>Hair</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Boys must keep their hair neat and tidy with a slope at the rear from
+the natural hair line with no sideburns/duck tail.&nbsp;</p>
+</li>
+<li>
+<p>Dyed or highlighted hair is not allowed.</p>
+</li>
+<li>
+<p>Boys are not allowed to keep a moustache or a beard.&nbsp;</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Girls must keep hair neat and simple. Long hair must be plaited or tied
+up.&nbsp;</p>
+</li>
+<li>
+<p>Hair accessories must not be conspicuous.</p>
+</li>
+<li>
+<p>Dyed or highlighted hair is not allowed.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><u>iii. Dress codes</u>
+</p>
+<p>Dress No. 1:&nbsp;&nbsp;Formal Attire (Performing a service during all
+College functions)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cream trousers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cream skirts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>White long-sleeved shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>White long-sleeved blouse</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>College blazer and tie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>College blazer and tie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Plain black leather shoes and long black socks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Plain black leather court shoes (no high heels)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Dress No.2:&nbsp;&nbsp;College uniform and tie, plain black leather shoes
+and long black socks for boys and plain black leather court shoes for girls.
+This is the minimum for students who are performing a service at official
+College functions held or receiving awards at official functions.</p>
+<p>Dress No.3:&nbsp;&nbsp;College uniform for formal classroom activities.
+(Refer to details below)&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Girls</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>White shirt and navy blue trousers straight-cut, in accordance with the
+approved style shown in pictures below. Shirt must always be tucked in.&nbsp;</p>
+</li>
+<li>
+<p>Plain white/navy blue/black socks and low-cut sport shoes (no metallic
+or neon colours).</p>
+</li>
+<li>
+<p>The College badge must be worn at all times.</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>White blouse, navy blue knee-length skirt, A-line; not more than 2cm above
+kneecap; in accordance with approved style shown in pictures below. Blouse
+must always be tucked in.</p>
+</li>
+<li>
+<p>Ankle-length plain white/navy blue/black socks and low-cut sports shoes
+(no metallic or neon colours).</p>
+</li>
+<li>
+<p>The College badge must be worn at all times.</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<p></p>
+<p>
+<br>
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Dress No.4:&nbsp;&nbsp;P.E. attire: Compulsory. ACJC PE T-shirt and ACJC
+PE shorts. Proper footwear.&nbsp;</p>
+<p>Dress No.5:&nbsp;&nbsp;For informal classroom activities, spectators at
+games, weekends and school holidays. College T-shirt, trousers/skirts and
+shoes. No slippers or sandals allowed.</p>
+<p>Games attire:&nbsp;&nbsp;Students participating in CCA may wear their
+approved CCA T-shirt/ training attire. Proper footwear is expected to be
+worn for the respective facility. Only approved jerseys or attire, bearing
+the College crest and colours, are allowed during the Inter-School competitions.</p>
+<p>Collegiate Day Attire: Approved T-shirt (Collegiate, House, Orientation,
+and P.E.), trousers/skirts and shoes.</p>
+<p>Jackets / pullovers: Students are only allowed to wear any one of the
+following below.&nbsp;</p>
+<ol>
+<li>
+<p>ACJC pullover</p>
+</li>
+<li>
+<p>ACJC CCA jacket</p>
+</li>
+<li>
+<p>Plain (no markings and prints) jacket/ sweater/ pullover in dark blue,
+dark&nbsp;red or black only.</p>
+</li>
+</ol>
+<p></p>
