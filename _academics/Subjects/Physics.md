@@ -3,6 +3,7 @@ title: Physics
 permalink: /student-life/academics/subjects/physics/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
 ### PHYSICS H1/H2/H3
 
@@ -16,7 +17,7 @@ third_nav_title: Subjects
 ### H1 PHYSICS (SYLLABUS 8867)
 
 
-Physics at ACJC aims to instill in students a love for the sciences and skills such as investigation, application of patterns, models, principles theories and laws to become confident citizens in a technological world.  
+Physics at ACJC aims to instill in students a love for the sciences and skills such as investigation, application of patterns, models, principles, theories and laws to become confident citizens in a technological world.  
 
   
 
@@ -30,14 +31,14 @@ Pass in Combined Science with Physics
 
   
 
-### H2 PHYSICS (SYLLABUS 9749)
+### H2 PHYSICS (SYLLABUS 9749, examinable in 2025; SYLLABUS 9478 examinable from 2026)
 
 
 Physics at ACJC aims to instill in students a love for the sciences and skills such as investigation, application of patterns, models, principles theories and laws to become confident citizens in a technological world.  
 
   
 
-Based on the syllabus, the course aims to provide students with an experience that develops their interest in Physics and builds the knowledge, skills and attitudes necessary for further studies int will enable students to become scientifically literate citizens who are well-prepared for the challenges of the 21st century. It also aims to develop the understanding, skills, ethics and attitudes relevant to the Practices of Science in our students. This includes understanding the nature of scientific knowledge, demonstrating science inquiry skills, relating science to society. It also aims to develop in students an understanding that a small number of basic principles and core ideas can be applied to explain, analyse and solve problems in a variety of systems in the physical world.
+Based on the syllabus, the course aims to provide students with an experience that develops their interest in Physics and builds the knowledge, skills and attitudes necessary for further studies. It will enable students to become scientifically literate citizens who are well-prepared for the challenges of the 21st century. It also aims to develop the understanding, skills, ethics and attitudes relevant to the Practices of Science in our students. This includes understanding the nature of scientific knowledge, demonstrating science inquiry skills, relating science to society. It also aims to develop in students an understanding that a small number of basic principles and core ideas can be applied to explain, analyse and solve problems in a variety of systems in the physical world.
 
   
 
@@ -74,7 +75,7 @@ Students are expected to be disciplined and take responsibility for their own le
 
   
 
-### H2 PHYSICS (SYLLABUS 9749)
+### H2 PHYSICS (SYLLABUS 9749, examinable in 2025; SYLLABUS 9478 examinable from 2026)
 
 
 The teaching programme is designed to develop independent and self-directed learners who are able to think critically through interactive and collaborative tutorial classes which incorporate scientific inquiry, use of ICT, demonstrations and more.  
@@ -99,46 +100,55 @@ Students are expected to be disciplined and take responsibility for their own le
 ### H1 PHYSICS (SYLLABUS 8867)
 
 
-H1 Physics is assessed through 2 papers. Paper 1 (1 h, 30 marks) will consist of 30 compulsory multiple-choice questions. Paper 2 (2 h, 80 marks) will consist of 2 sections. Section A worth 60 marks consisting of a variable number of structured questions including one or two data-based questions, all compulsory. Section B worth 20 marks consisting of a choice of one from two 20-mark questions.  
-
-  
-
 H1 Physics provides students with a thorough understanding of the main principles and experimental skills that are fundamental to the subject in the area of Measurements, Newtonian Mechanics, Electricity and Magnetism and Nuclear Physics.
 
   
 
-The syllabus document may be accessed at the following link: <br>
-[8867_y23_sy.pdf](/files/8867_y23_sy.pdf)
+The syllabus documents may be accessed at the following links: <br>
+* [8867 Syllabus Examined in 2025](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8867_y25_sy.pdf)
+
+* [8867 Syllabus Examined in 2026](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8867_y26_sy.pdf)
+	* [Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8867_y26_sp_1.pdf)
+	* [Specimen Paper 2](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8867_y26_sp_2.pdf)
 
 
-  
-
-### H2 PHYSICS (SYLLABUS 9749)
-
-
-H2 Physics is assessed through 4 papers. Paper 1 (1 h, 30 marks) will consist of 30 compulsory multiple-choice questions. Paper 2 (2 h, 80 marks) will consist of a variable number of structured questions plus one or two data-based questions. Paper 3 (2 h, 80 marks) will consist of 2 sections. Section A worth 60 marks consisting of a variable number of structured questions, all compulsory. Section B worth 20 marks consisting of a choice of one from two 20-mark questions. Paper 4 (2 h 30 min, 55 marks) is a practical paper and will assess skill areas in areas including Planning, Manipulation, measurement and observation, Presentation of data and observations, and Analysis, conclusions and evaluation.  
 
   
+
+### H2 PHYSICS (SYLLABUS 9749, examinable in 2025; SYLLABUS 9478 examinable from 2026)
+ 
+**Syllabus 9749, Examinable in 2025:**
 
 H2 Physics provides students with a thorough understanding of the main principles and experimental skills that are fundamental to the subject in the area of Measurements, Newtonian Mechanics, Thermal Physics, Waves, Electricity and Magnetism and Modern Physics.
+The syllabus document may be accessed at the following link:  
+[9749 Syllabus Examined in 2025](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9749_y25_sy.pdf)
 
-  
 
-The syllabus document may be accessed at the following link: <br>
-[9749_y23_sy.pdf](/files/9749_y23_sy.pdf)
+**9749 Syllabus, Examined from 2026:**
 
+H2 Physics provides students with a thorough understanding of the main principles and experimental skills that are fundamental to the subject in the area of Foundations of Physics, Newtonian Mechanics, Thermal Physics, Waves, Electricity and Magnetism and Modern Physics.
+
+The 9749 syllabus document will be linked once confirmed by SEAB  
+* [Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_1.pdf) 
+*  [Specimen Paper 2](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_2.pdf) 
+* [Specimen Paper 3](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_3.pdf) 
+* [Specimen Paper 4  
+](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9478_y26_sp_4.pdf)
   
 
 ### H3 PHYSICS (SYLLABUS 9814)
-
-
-H3 Physics is assessed through 1 paper. The paper (3 h, 100 marks) with two sections. Section A (60 marks) will consist of a variable number of compulsory structured questions. The last of these will be a stimulus-based question which will constitute 15–20 marks. Section B (40 marks) will consist of a choice of two from three 20-mark longer structured questions. Questions will be set in which knowledge of differential and/or integral calculus will be advantageous.  
-
-  
+ 
+**9814 Syllabus Examined in 2025**:
 
 H3 Physics provides students with a thorough understanding of the main principles and experimental skills that are fundamental to the subject in the area covered under H2 Physics (Measurements, Newtonian Mechanics, Thermal Physics, Waves, Electricity and Magnetism and Modern Physics) and additional areas in Inertia Frames, Rotational Motion, Planetary and Satellite Motion, Electric and Magnetic Fields and Capacitors and Inductors.
 
-  
+The syllabus document may be accessed at the following link: [9814 Syllabus Examined in 2025](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9814\_y25\_sy.pdf)
 
-The syllabus document may be accessed at the following link: <br>
-[9814_y23_sy.pdf](/files/9814_y23_sy.pdf)
+**9814 Syllabus Examined in 2026**
+ 
+H3 Physics provides students with a thorough understanding of the main principles and experimental skills that are fundamental to the subject in the area covered under H2 Physics (Foundations of Physics, Newtonian Mechanics, Thermal Physics, Waves, Electricity and Magnetism and Modern Physics) and additional areas in Frames of Reference, Rotational Motion, Electric &amp; Magnetic Fields, Circuits and Special Relativity.
+
+The syllabus documents may be accessed at the following links: <br>
+[9814 Syllabus Examined in 2026](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9814_y26_sy.pdf)
+<br>
+[Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9814_y26_sp_1.pdf)
