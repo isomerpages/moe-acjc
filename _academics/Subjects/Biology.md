@@ -23,10 +23,11 @@ Pass in ‘O’ level biology OR <br>
 Pass in combined science with biology
 
 
-### H2 BIOLOGY (SYLLABUS 9744)
+### H2 BIOLOGY (SYLLABUS 9744, FOR EXAMINATION IN 2025)
+### H2 BIOLOGY (SYLLABUS 9477, FOR EXAMINATION FROM 2026)
 
 
-H2 biology at ACJC aims to develop in students the disciplinary understanding, skills and attitudes necessary to pursue careers in biology-related fields.  
+H2 Biology at ACJC aims to develop in students the disciplinary understanding, skills and attitudes necessary to pursue careers in biology-related fields.  
 
 In addition to the desired student outcomes described for H1 biology, we hope to inculcate in every H2 biology student a global outlook, equipped with adequate biological knowledge, rigour and skills to understand happenings in the scientific world. The teaching program is designed to train and equip students with critical thinking skills and to be effective communicators of science.
 
@@ -77,9 +78,20 @@ The&nbsp;_extension topics_&nbsp;are based on emerging fields in biology, and re
 
   
 
-Details on the syllabus learning outcomes and scheme of assessment can be found in the published SEAB syllabi.
+Details on the syllabus learning outcomes and scheme of assessment can be found in the following SEAB documents for the relevant years:
 
-  
-[H1 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8876_y24_sy.pdf)  <br>
-[H2 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9744_y24_sy.pdf) <br>
-[H3 Biology Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9816_y24_sy.pdf)
+**For Year of Examination 2025** 
+
+[H1 Biology Syllabus](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8876_y25_sy.pdf)  <br>
+[H2 Biology Syllabus](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9744_y25_sy.pdf) <br>
+[H3 Biology Syllabus](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9816_y25_sy.pdf)
+
+**For Year of Examination 2026 onward**
+
+[H1 Biology Syllabus](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8876_y26_sy.pdf) 
+: [Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8876_y26_sp_1.pdf)  , &nbsp;[Specimen Paper 2](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8876_y26_sp_2.pdf)
+<br>
+[H2 Biology Syllabus](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sy.pdf) :
+[Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_1.pdf) ,&nbsp;[Specimen Paper 2](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_2.pdf) ,&nbsp;[Specimen Paper 3](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_3.pdf) ,&nbsp;[Specimen Paper 4](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9477_y26_sp_4.pdf)<br>
+[H3 Biology Syllabus](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_sy.pdf) : 
+[Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_sp_1.pdf);&nbsp;[Specimen Paper Insert](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9816_y26_si_1.pdf)
