@@ -3,8 +3,9 @@ title: Chemistry
 permalink: /student-life/academics/subjects/chemistry/
 description: ""
 third_nav_title: Subjects
+variant: markdown
 ---
-### H1 CHEMISTRY (SYLLABUS 8873) /H2 CHEMISTRY (SYLLABUS 9729) /H3 CHEMISTRY (SYLLABUS 9813)
+### H1 CHEMISTRY (SYLLABUS 8873) /H2 CHEMISTRY (SYLLABUS 9729, in 2025; SYLLABUS 9476, from 2026) /H3 CHEMISTRY (SYLLABUS 9813)
 
 
 ##### Aims
@@ -45,43 +46,22 @@ The Practices of Science comprise three components:
 
 The topics in&nbsp;**H1 Chemistry**&nbsp;are organised as two levels underpinned by the Practices of Science:
 
-(a)&nbsp;**Core ideas**: The three Core Ideas of Chemistry are Matter, Structure and Properties, and Transformation. The concepts in these Core Ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
+(a)&nbsp;**Core ideas**: The three Core Ideas of Chemistry are Matter, Structure and Properties, and Transformation. The concepts in these Core Ideas are interrelated and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
 
 (b)&nbsp;**Extension topic**: Concepts in the Core Ideas are applied to real-world context in the study of nanomaterials and polymers.
 
 <u>Indicative Recommendation</u> <br>
 *   Pass in ‘O’ Level Chemistry / Pass in Combined Sci with Chemistry
 
-<u>Assessment</u> <br>
-**JC1** <br>
-*   1 paper for the Promotional Examinations
-
-**JC2** <br>
-*   2 papers for ‘A’ Level
-*   Paper 1 – Multiple Choice
-*   Paper 2 – Structured Questions
 
 The topics in&nbsp;**H2 Chemistry**&nbsp;are organised as two levels underpinned by the Practices of Science: <br>
-(a)&nbsp;**Core ideas**: The three Core Ideas of Chemistry are Matter, Structure and Properties, and Transformation. The concepts in these Core Ideas are inter-related and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
+(a)&nbsp;**Core ideas**: The three Core Ideas of Chemistry are Matter, Structure and Properties, and Transformation. The concepts in these Core Ideas are interrelated and form the basis for which further learning and understanding of chemical phenomena and reactions is built upon.
 
 (b)&nbsp;**Extension topics**: Concepts in the Core Ideas extend into the learning of different chemical systems such as chemistry of organic compounds and transition elements. As an example, an understanding of concepts of Chemical Bonding and The Periodic Table is extended to the study of the chemistry of transition metals where students learn to appreciate the similarities and differences when comparing with main group metals.
 
 <u>Indicative Recommendation</u> <br>
 *   Pass in ‘O’ Level Chemistry / Indicative recommendation min B3 for Combined Sci with Chem
 
-<u>Assessment</u><br>
-**JC1**
-*   2 papers for the Promotional Examinations
-*   One Theory paper
-*   One Practical paper
-
-**JC2**
-
-*   4 papers for ‘A’ Level
-*   Paper 1 – Multiple Choice
-*   Paper 2 – Structured Questions
-*   Paper 3 – Free Response Questions
-*   Paper 4 – Practical
 
 The content topics in&nbsp;**H3 Chemistry**&nbsp;are organised into two levels underpinned by the Practices of Science: <br>
 (a)&nbsp;**Core ideas and Extension topics in H2 Chemistry**. These are elaborated in the corresponding H2 Chemistry syllabus.
@@ -91,15 +71,37 @@ The content topics in&nbsp;**H3 Chemistry**&nbsp;are organised into two levels u
 <u>Requirements to offer H3 Chemistry</u><br>
 Excellent results in H2 Chemistry and commendable results in other subjects at the JC1 Promotional Examinations
 
-<u>Assessment</u><br>
-**JC2**
 
-*   1 paper for ‘A’ Level
 
 The syllabus documents may be accessed on the SEAB website at the following links:
 
-[H1 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8873_y22_sy.pdf)
+(Examinable in 2025)
 
-[H2 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9729_y22_sy.pdf)
+[H1 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/8873\_y25\_sy.pdf)
 
-[H3 Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9813_y22_sy.pdf)
+[H2 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9729\_y25\_sy.pdf)
+
+[H3 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9813\_y25\_sy.pdf)
+
+(Examinable from 2026)
+
+[H1 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873\_y26\_sy.pdf)
+
+* [Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sp_1.pdf)
+* [Specimen Paper 2](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sp_2.pdf)
+
+[H2 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2025/9729\_y25\_sy.pdf)
+
+* [Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_1.pdf) 
+
+* [Specimen Paper 2](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_2.pdf)
+
+* [Specimen Paper 3](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_3.pdf)
+
+* [Specimen Paper 4](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sp_4.pdf)
+
+[H3 Chemistry](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf) 
+
+* [Specimen Paper 1](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sp_1.pdf) 
+
+* [Specimen Paper Insert](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_si_1.pdf)
