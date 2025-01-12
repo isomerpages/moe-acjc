@@ -487,8 +487,8 @@ up.&nbsp;</p>
 </table>
 <p><u>iii. Dress codes</u>
 </p>
-<p>Dress No. 1:&nbsp;&nbsp;Formal Attire (Performing a service during all
-College functions)</p>
+<p><strong>Dress No. 1:</strong>&nbsp;&nbsp;Formal Attire (Performing a service
+during all College functions)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -539,12 +539,21 @@ College functions)</p>
 </tr>
 </tbody>
 </table>
-<p>Dress No.2:&nbsp;&nbsp;College uniform and tie, plain black leather shoes
-and long black socks for boys and plain black leather court shoes for girls.
-This is the minimum for students who are performing a service at official
-College functions held or receiving awards at official functions.</p>
-<p>Dress No.3:&nbsp;&nbsp;College uniform for formal classroom activities.
-(Refer to details below)&nbsp;</p>
+<p><strong>Dress No. 2:</strong>&nbsp;&nbsp;College uniform and tie, plain
+black leather shoes and long black socks for boys and plain black leather
+court shoes for girls. This is the minimum for students who are performing
+a service at official College functions held or receiving awards at official
+functions.</p>
+<p><strong>Dress No. 3:</strong>&nbsp;&nbsp;College uniform for formal classroom
+activities. (Refer to details below photos)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dress_No_3_Boys.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dress_No_3_Girls.jpg">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -609,19 +618,19 @@ must always be tucked in.</p>
 </tr>
 </tbody>
 </table>
-<p>Dress No.4:&nbsp;&nbsp;P.E. attire: Compulsory. ACJC PE T-shirt and ACJC
-PE shorts. Proper footwear.&nbsp;</p>
-<p>Dress No.5:&nbsp;&nbsp;For informal classroom activities, spectators at
-games, weekends and school holidays. College T-shirt, trousers/skirts and
-shoes. No slippers or sandals allowed.</p>
+<p><strong>Dress No. 4:&nbsp;</strong>&nbsp;P.E. attire: Compulsory. ACJC
+PE T-shirt and ACJC PE shorts. Proper footwear.&nbsp;</p>
+<p><strong>Dress No. 5:</strong>&nbsp;&nbsp;For informal classroom activities,
+spectators at games, weekends and school holidays. College T-shirt, trousers/skirts
+and shoes. No slippers or sandals allowed.</p>
 <p>Games attire:&nbsp;&nbsp;Students participating in CCA may wear their
 approved CCA T-shirt/ training attire. Proper footwear is expected to be
 worn for the respective facility. Only approved jerseys or attire, bearing
 the College crest and colours, are allowed during the Inter-School competitions.</p>
-<p>Collegiate Day Attire: Approved T-shirt (Collegiate, House, Orientation,
-and P.E.), trousers/skirts and shoes.</p>
-<p>Jackets / pullovers: Students are only allowed to wear any one of the
-following below.&nbsp;</p>
+<p><strong>Collegiate Day Attire:</strong> Approved T-shirt (Collegiate, House,
+Orientation, and P.E.), trousers/skirts and shoes.</p>
+<p><strong>Jackets / pullovers: </strong>Students are only allowed to wear
+any one of the following below.&nbsp;</p>
 <ol>
 <li>
 <p>ACJC pullover</p>
