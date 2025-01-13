@@ -17,16 +17,6 @@ sections:
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
   - infopic:
-      title: Open House 2025
-      id: infopic
-      description: In this open house, you will have the chance to tour the grounds of
-        ACJC and explore the wide variety of subjects and CCAs offered. Come
-        join us!
-      image: /images/InfoPic/Open_House_2025.png
-      alt: Image alt text
-      url: /events/open-house/
-      button: Click here
-  - infopic:
       title: CCA Achievements 2024
       description: We would like to congratulate the CCA groups on their achievements
         at the National Schools Games and the Singapore Youth Festival Arts
