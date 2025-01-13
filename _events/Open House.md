@@ -23,4 +23,6 @@ Follow us on our social media platforms for more updates.
 <b>#acjcopenhouse</b>
 <b>#RedBlueGoldWherePossibilitiesUnfold</b>
 
+Thank you.
+
 Thank you
