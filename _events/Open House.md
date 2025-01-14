@@ -25,4 +25,3 @@ Follow us on our social media platforms for more updates.
 
 Thank you.
 
-Thank you
