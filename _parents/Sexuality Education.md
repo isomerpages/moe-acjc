@@ -25,7 +25,7 @@ variant: markdown
 (c)  Make responsible decisions for yourself, your family and society; and <br>
 (d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
 ### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2024
 
