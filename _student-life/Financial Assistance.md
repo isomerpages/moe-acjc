@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <p><strong>Ministry of Education Financial Assistance Scheme</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,7 +51,12 @@ per month OR $750 per capita income.
 </table>
 <p><strong>ACJC Financial Assistance Scheme</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -87,7 +97,10 @@ does not exceed $4,400 per month or $1,100 per capita income,
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,7 +121,14 @@ may be rendered, on a case-by-case basis.</p>
 </table>
 <p><strong>ACJC College Bursaries</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,7 +159,7 @@ may be rendered, on a case-by-case basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Khoo Yang Tin Scholarship
+<p>Khoo Yang Tin Bursary
 <br>
 </p>
 </td>
@@ -193,7 +213,7 @@ may be rendered, on a case-by-case basis.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Su Lan Scholarship
+<p>Chen Su Lan Bursary
 <br>
 </p>
 </td>
