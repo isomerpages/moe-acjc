@@ -92,8 +92,6 @@ The following lessons from the Sexuality Education Programme will be taught:
 </tbody>
 </table>
 
-For more information about Growing Years click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education).
-
 ### eTeens Programme:
 
 **At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows:**
