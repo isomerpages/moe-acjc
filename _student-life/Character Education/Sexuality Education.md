@@ -81,13 +81,13 @@ The following lessons from the Sexuality Education Programme will be taught:
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’</td>
     <td style="border: 1px solid grey" class="tg-7yig">Why is Voyeurism Wrong?<br>(60 mins)</td>
     <td style="border: 1px solid grey" class="tg-ktyi">Is voyeurism wrong? Why?<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. <br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right.<span style="background-color:initial"> </span></td>
-    <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 1</td>
   </tr>
   <tr>
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’<br></td>
     <td style="border: 1px solid grey" class="tg-7yig">Overcoming Stereotypes<br>(60 mins)</td>
     <td style="border: 1px solid grey" class="tg-ktyi">How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?<br><br>In this lesson students will recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in), which can affect interactions and relationships in ways that are harmful to themselves and others.<span style="background-color:initial"></span></td>
-    <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 1</td>
   </tr>
 </tbody>
 </table>
