@@ -181,11 +181,11 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 
   
 
-9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_2024.pdf)**. The completed form is to be submitted by 02/04/2025.
+9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 02/04/2025.
 
   
 
-10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_2024.pdf)**. The completed form is to be submitted by02/04/2025.
+10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by02/04/2025.
 
   
 11\.  Parents can contact the school at 6775 0511 for discussion or to seek clarification about the school’s sexuality education programme.
