@@ -25,17 +25,17 @@ variant: markdown
 (c)  Make responsible decisions for yourself, your family and society; and <br>
 (d)  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2024
+### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2025
 
-4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 ### SEXUALITY EDUCATION
 
 5\. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
-### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2024:
+### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2025:
 
 The following lessons from the Sexuality Education Programme will be taught:
 
@@ -111,18 +111,17 @@ The following lessons from the Sexuality Education Programme will be taught:
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’</td>
     <td style="border: 1px solid grey" class="tg-7yig">Why is Voyeurism Wrong?<br>(60 mins)</td>
     <td style="border: 1px solid grey" class="tg-ktyi">Is voyeurism wrong? Why?<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. <br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right.<span style="background-color:initial"> </span></td>
-    <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 1</td>
   </tr>
   <tr>
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’<br></td>
     <td style="border: 1px solid grey" class="tg-7yig">Overcoming Stereotypes<br>(60 mins)</td>
     <td style="border: 1px solid grey" class="tg-ktyi">How does the media portray gender and relationships? How do societal influences affect our understanding of gender stereotypes?<br><br>In this lesson students will recognise that some segments of society may inaccurately reflect the efforts needed to maintain healthy relationships, leading to skewed assumptions of sexual messages and connotations within relationships. Students will understand how societal influences can skew one’s understanding of gender stereotypes (e.g. boys should not cry, and are to suppress emotional sensitivity so as not to seem weak; girls are physically weak and unathletic, and downplay achievements so as to fit in), which can affect interactions and relationships in ways that are harmful to themselves and others.<span style="background-color:initial"></span></td>
-    <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
+    <td style="border: 1px solid grey" class="tg-9hzb">Term 1</td>
   </tr>
 </tbody>
 </table>
 
-For more information about Growing Years click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education).
 
 ### eTeens Programme:
 
@@ -133,7 +132,7 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 7\.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 
-**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2024:**
+**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2025:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -181,11 +180,11 @@ For more information about Growing Years click&nbsp;[here](https://www.moe.gov.s
 
   
 
-9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_2024.pdf)**. The completed form is to be submitted by 05/04/2024.
+9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 02/04/2025.
 
   
 
-10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_2024.pdf)**. The completed form is to be submitted by 05/04/2024.
+10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by02/04/2025.
 
   
 11\.  Parents can contact the school at 6775 0511 for discussion or to seek clarification about the school’s sexuality education programme.
