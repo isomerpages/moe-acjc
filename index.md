@@ -16,6 +16,9 @@ sections:
         - title: SYF 2024
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
+        - title: APPEALS 2025
+          description: JAE Appeals Application
+          url: https://www.acjc.moe.edu.sg/about-us/admissions/
   - infopic:
       title: Orientation 2025
       id: infopic
