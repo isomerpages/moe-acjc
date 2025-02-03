@@ -43,7 +43,7 @@ The **deadline** for submission of appeal application is **7 February 2025, 5pm*
 
 ### DIRECT SCHOOL ADMISSION (DSA)
 
-The annual DSA Exercise is held from May to August each year. Click [here](https://www.acjc.moe.edu.sg/about-us/direct-school-admission-2024-application/) for the exact dates, eligibility criteria and application procedure.
+The annual DSA Exercise is held from May to August each year. 
 
 
 
