@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Faith CPA
 variant: markdown
 ---
-### **Rental Rates (wef 1st February 2025)**
+### **Rental Rates (wef 1st January 2025)**
 
 
 |  ||  |
