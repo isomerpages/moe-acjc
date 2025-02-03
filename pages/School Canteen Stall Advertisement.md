@@ -1,6 +1,6 @@
 ---
 title: School Canteen Stall Advertisement
-permalink: /about-us/school-canteen-stall-advertisement/
+permalink: /about-us/school-canteen-stall-advertisement/archive/
 description: ""
 variant: markdown
 ---

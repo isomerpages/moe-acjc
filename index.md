@@ -13,9 +13,19 @@ sections:
         - title: NSG 2024
           description: National Schools Games
           url: /c-c-a-competitions/national-school-games-2024-a-division/
+        - title: APPEALS 2025
+          description: JAE Appeals Application
+          url: /about-us/admissions/
         - title: SYF 2024
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
+  - infopic:
+      title: Orientation 2025
+      id: infopic
+      description: Congratulations to all JC1 students posted to ACJC!  We look
+        forward to welcoming you into our warm and vibrant AC community!
+      image: /images/InfoPic/Orientation_2025.jpg
+      alt: Orientation 2025
   - infopic:
       title: CCA Achievements 2024
       description: We would like to congratulate the CCA groups on their achievements
