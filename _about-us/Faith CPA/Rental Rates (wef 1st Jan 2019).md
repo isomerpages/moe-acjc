@@ -3,28 +3,29 @@ title: Rental Rates (wef 1st Jan 2019)
 permalink: /about-us/facilities/faith-cpa/rental-rates-w-e-f-1st-jan-2019/
 description: ""
 third_nav_title: Faith CPA
+variant: markdown
 ---
-### **Rental Rates (wef 1st Jan 2019)**
+### **Rental Rates (wef 1st February 2025)**
 
 
 |  ||  |
 | -------- | -------- | -------- |
-| **Performance**  | Mon-Fri 4hr block  | $1,600    |
+| **Performance**  | Mon-Fri 4hr block  | $1,800    |
 | **Performance**  | Rate in Excess of 4 hrs  | $500/hr   |
 | **Performance**  | Weekend (Fri to Sun) Surcharge per day  | $400/hr   |
 |  |  |  |
 
 |  ||  |
 | -------- | -------- | -------- |
-| **Non-Performance**  |Rehearsal / Set Up 4hr block  | $900   |
+| **Non-Performance**  |Rehearsal / Set Up / Competition 4hr block  | $1040   |
 | **Non-Performance**  | Rate in Excess of 4 hrs  | $500/hr   |
 | **Non-Performance**  | Weekend (Fri to Sun) Surcharge per day  | $400/hr   |
 |  |  |  |
 
 |  ||  |
 | -------- | -------- | -------- |
-| **Technician** |Weekday 4hr block  | $900   |
-| **Technician** | Weekend (Fri to Sun) / Public Holidays 4hr block  | $140/hr   |
+| **Technician** |Weekday 4hr block  | $120   |
+| **Technician** | Weekend (Fri to Sun) / Public Holidays 4hr block  | $140  |
 |**Technician**  | Weekday overtime Hourly Rate (min 4 hr)  | $35/hr   |
 |**Technician**  | Weekend (Fri to Sun) / Public Holidays overtime Hourly Rate (min 4 hr)  | $35/hr   |
 |  |  |  |
