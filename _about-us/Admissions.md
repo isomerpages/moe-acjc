@@ -21,7 +21,7 @@ Students who wish to submit an appeal should take note of the following:
 * Late and/or incomplete applications will not be considered. 
 * **Shortlisted** applicants will be **notified** of the result of the appeal application through the contact information provided **by 10 February 2025, 5pm**. 
 
-You are required to submit the following documents in PDF format as part of your online appeal application:
+You are required to submit the following **documents in PDF** format as part of your online appeal application:
 
 * GCE 'O' Level Results Slip
 * 2025 JAE Form A
@@ -34,9 +34,9 @@ Students who wish to submit an appeal are to do so through one of the following 
 For students who have **participated in the JAE**, submit your application here: 
 [https://go.gov.sg/acjc-jae-appeals](https://go.gov.sg/acjc-jae-appeals)
 
-For Singaporeans/PR who did not participate in the JAE, submit your application here: [ https://go.gov.sg/acjc-nonjae-appeals]( https://go.gov.sg/acjc-nonjae-appeals)
+For **Singaporeans/PR** who **did not participate** in the JAE, submit your application here: [ https://go.gov.sg/acjc-nonjae-appeals]( https://go.gov.sg/acjc-nonjae-appeals)
 
-For foreign students who did not participate in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals-foreigners](https://go.gov.sg/acjc-nonjae-appeals-foreigners)
+For **foreign students** who **did not participate** in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals-foreigners](https://go.gov.sg/acjc-nonjae-appeals-foreigners)
 
 The **deadline** for submission of appeal application is **7 February 2025, 5pm**.
 
