@@ -25,4 +25,12 @@ sections:
       url: /c-c-a-competitions/national-school-games-2024-a-division/
       alt: Image alt text
       image: /images/Others/CCA_UPDATES_5.jpg
+  - infopic:
+      title: Orientation 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Congratulations to all JC1 students posted to ACJC!  We look
+        forward to welcoming you into our warm and vibrant AC community!
+      image: /images/InfoPic/Orientation_2025.jpg
+      alt: Orientation 2025
 ---
