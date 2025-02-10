@@ -12,33 +12,9 @@ The Joint Admission Exercise (JAE) is conducted by the Ministry of Education aft
 
 ### APPEALS
 
-Appeal for admission to ACJC will begin once the Joint Admission Exercise (JAE) posting results have been released. The appeal application is done fully online. 
+The 2025 Appeal for admission to ACJC is now closed. Successful applicants have already been notified.  
 
-Students who wish to submit an appeal should take note of the following: 
-
-* Applicants must **meet the cut-off points** for the respective course (Science or Arts) for the appeal to be considered. The 2025 cut-off points for ACJC **Science is 8** and ACJC **Arts is 9**. 
-* If you are admitted to your posted school via Direct School Admissions (**DSA**), you are **not eligible** to participate in this exercise.
-* Late and/or incomplete applications will not be considered. 
-* **Shortlisted** applicants will be **notified** of the result of the appeal application through the contact information provided **by 10 February 2025, 5pm**. 
-
-You are required to submit the following **documents in PDF** format as part of your online appeal application:
-
-* GCE 'O' Level Results Slip
-* 2025 JAE Form A
-* JAE Verification Slip (JC Choices)
-* CCA Records
-* Other supporting documents (if applicable)
-
-Students who wish to submit an appeal are to do so through one of the following online forms:
-
-For students who have **participated in the JAE**, submit your application here: 
-[https://go.gov.sg/acjc-jae-appeals](https://go.gov.sg/acjc-jae-appeals)
-
-For **Singaporeans/PR** who **did not participate** in the JAE, submit your application here: [ https://go.gov.sg/acjc-nonjae-appeals]( https://go.gov.sg/acjc-nonjae-appeals)
-
-For **foreign students** who **did not participate** in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals-foreigners](https://go.gov.sg/acjc-nonjae-appeals-foreigners)
-
-The **deadline** for submission of appeal application is **7 February 2025, 5pm**.
+Thank you to the many students who have shown interest in applying to our college and we would like to wish you the very best in your educational journey.
 
 
 ### DIRECT SCHOOL ADMISSION (DSA)
