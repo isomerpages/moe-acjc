@@ -17,7 +17,7 @@ JC1 Promotional Examination Timetable. <font color="#A96324"><em>To be release a
 
 **<u>JC2</u>**
 
-JC2 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc2_assessment_schedule.pdf">here</a>&nbsp;for download.
+JC2 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/Assessment/jc2_ass_schedule_updated_10_feb.pdf">here</a>&nbsp;for download.
 
 [<font color="#A96324"><em>To be release at a later date.</em></font>]:#
 
