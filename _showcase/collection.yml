@@ -2,7 +2,9 @@ collections:
   showcase:
     output: true
     order:
-      - 2025.md
+      - 2025/ACJC Celebrates the Class of 2024!.md
+      - 2025/A Christmas Carol.md
+      - 2025/.keep
       - 2024/10th Asean Student Science Project Competition.md
       - 2024/ACJC Physical Theatre Festival 2024.md
       - 2024/Achievements in Mathematics at ACJC.md

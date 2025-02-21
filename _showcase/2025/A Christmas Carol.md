@@ -1,8 +1,9 @@
 ---
-title: "2025"
-permalink: /2025/
+title: A Christmas Carol
+permalink: /a-christmas-carol/
 variant: tiptap
 description: ""
+third_nav_title: "2025"
 ---
 <p><em>“I will honour Christmas in my heart, and try to keep it all the year!”</em>
 </p>
@@ -12,8 +13,7 @@ annual year-end production, a stage adaptation of Charles Dickens' novel,
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfhw-wRPjyj5l2Hi_KGwug_gMpMmNSnAY6DTqFcERpg7nu8bnh6-Rb6lsDSH-J87gmTmfm7ev0DGdt/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000"></iframe>
 </div>
-<p><em>         </em>
-</p>
+<p></p>
 <p>The play follows the story of Ebenezer Scrooge, a selfish, miserable man
 who despises Christmas. On Christmas Eve, he is visited by the Ghosts of
 Christmas, who teach him the consequences of his merciless actions. In
