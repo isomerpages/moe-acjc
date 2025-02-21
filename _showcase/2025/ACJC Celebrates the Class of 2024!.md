@@ -5,27 +5,28 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
-<p>On the 21st of February 2025, the GCE A-Level examination results for
-2024 were released. The Class of 2024 came home to ACJC to join their peers
-in receiving their ‘A’-level certificates.</p>
+<p>On the 21st of February 2025, ACJC received the GCE A-Level examination
+results for the Class of 2024.</p>
+<p>This graduating class has demonstrated exceptional academic strength,
+achieving excellent results across a wide range of subjects. Their dedication,
+resilience, and hard work have truly paid off, and we are immensely proud
+of their accomplishments.</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSYQoQMtlx8i7jMNhF1oip30ygJsR3T9GQ7rJyTpeYKnidKDwfT8ncNAlRjNB1FijrVP-Vb_TkQEJaM/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000"></iframe>
 </div>
-<p>During their time at ACJC, the members of the Class of 2024 distinguished
-themselves on the playing field, in performances, in clubs and societies,
-in academics, and in their service to others. Above all, they will carry
-with them the fruits of a holistic ACSian education. The College celebrates
-all of them and in the coming days we will share some of their stories
-.</p>
-<p>We give thanks for each and every member of the Class of 2024 and wish
-them all the best for the next phase of their journey. We know they will
-display true ACSian Integrity, Tenacity and Passion to make a difference
-in the world around them.</p>
-<p>The College would further like to thank all who have played a part in
-the success of the Class of 2023: our dedicated staff, the ever-supportive
-parents, and the wider ACS and Methodist family.</p>
-<p>Most of all, we give thanks to God for His infinite goodness.</p>
-<p>To God be the Glory! The Best is Yet to Be!</p>
+<p>Beyond their academic success, the Class of 2024 has left an indelible
+mark on ACJC. They excelled in co-curricular activities, whether it was
+in the sporting arena or the performing arts. They contributed countless
+hours to community service projects, demonstrating their commitment to
+making a positive impact. Their involvement in various clubs and societies
+and service CCAs enriched the vibrant tapestry of ACJC life.</p>
+<p>We congratulate the Class of 2024 and wish them all the best for their
+future endeavors. Their resilience, creativity, and commitment to excellence
+have left an indelible mark on ACJC.</p>
+<p>These achievements are exemplified by the inspiring journeys of our students-
+in the coming days we will be sharing some of their stories.</p>
+<p><em>To God be the Glory! The Best is Yet to Be!</em>
+</p>
 <p>
 <br>
 </p>
