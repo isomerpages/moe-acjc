@@ -185,7 +185,7 @@ in Olympiads and even creating resources for peers.&nbsp;</p>
 events like the C.B. Paul Science Quiz and workshops for children with
 autism.&nbsp; He also pursues his interest in Chinese language and culture,
 performing Chinese dance and coaching peers.&nbsp; Furthermore, Jun Jie
-demonstrates leadership through Values-In-Action projects, notably ‘Project
+demonstrated leadership through Values-In-Action projects, notably ‘Project
 Void Deck,’ where he supported at-risk youth.&nbsp; Across all these fields
 of endeavour, Jun Jie has demonstrated not just individual excellence but
 a consistent drive to reach out to help others in his areas of expertise.</p>
