@@ -19,18 +19,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<p><strong>Senior Teacher</strong>
-</p>
-<p>Mrs Susan Meow (Geography)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Geography</strong>
 </p>
 <p>Mr Benjamin Goh</p>
-<p>
-<br>
-</p>
-<p>
+<p>Mrs Susan Meow
 <br>
 </p>
 <p><strong>History</strong>
