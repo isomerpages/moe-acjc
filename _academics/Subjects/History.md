@@ -51,7 +51,7 @@ Assessment consists of one 3-hour paper where students are required to attempt:
 
   
 
-The H1 History syllabus is accessible&nbsp;[here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf).
+The H1 History syllabus is accessible&nbsp;[here](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8838_y26_sy.pdf).
 
 ### H2 HISTORY (SYLLABUS 9174)
 
@@ -113,7 +113,7 @@ Assessment for Paper 2 will consist of a 3-hour paper where students are require
 * 1 source-based case study premised on Regional Conflicts and Cooperation.
 * 2 essays on Forming Nation-States and Economic Change After Independence.&nbsp;
 
-The H2 History syllabus is accessible&nbsp;[here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf).  
+The H2 History syllabus is accessible&nbsp;[here](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9174_y26_sy.pdf).  
 
 ### H3 HISTORY (SYLLABUS 9823)
 
@@ -149,4 +149,4 @@ The assessment of History at the H3 level consists of a research essay of 3000-3
 
   
 
-The H3 History syllabus is accessible&nbsp;[here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9823_y24_sy.pdf).
+The H3 History syllabus is accessible&nbsp;[here](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9823_y26_sy.pdf).

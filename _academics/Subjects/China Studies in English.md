@@ -58,5 +58,4 @@ Key Issue 3: Chinese Society and Its Transformation
 
 Key Issue 4: China’s Foreign Policy and Its Implications
 
-The syllabus is accessible [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9628_y24_sy.pdf).
-
+The syllabus is accessible [here](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9628_y26_sy.pdf).

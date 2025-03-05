@@ -3,12 +3,13 @@ title: PAT Committee
 permalink: /parents/parents-action-team/pat-committee/
 description: ""
 third_nav_title: Parents Action Team
+variant: markdown
 ---
 <table style="border-collapse:collapse;border:none;">
     <tbody>
         <tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>PAT Team Lead</strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>PAT Chair</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Marc Wang</p>
@@ -20,26 +21,26 @@ third_nav_title: Parents Action Team
         </tr>
         <tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Treasurer</strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Admin/Funds</strong></p>
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Tan Mia Kee</p>
             </td>
             <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">billwinnie48@gmail.com</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Yolanda</p>
             </td>
         </tr>
         <tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Fathers’ Prayer</strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Prayer</strong></p>
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Gideon Mak</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Yolanda</p>
             </td>
             <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">gideonmakkt@gmail.com</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Richard</p>
             </td>
         </tr>
         <tr>
@@ -47,92 +48,33 @@ third_nav_title: Parents Action Team
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Exam Food Ministry</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Anna Chew</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Marc Jeffery</p>
             </td>
             <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Scarletstrengthhonor@gmail.com</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Audrey</p>
             </td>
         </tr>
         <tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
             </td>
-            <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Marlinda Darmali&nbsp;</p>
-            </td>
-            <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">mdcloud22@gmail.com</p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
-            </td>
-            <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Lim Hui Hui</p>
-            </td>
-            <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">okispring-hh@yahoo.com</p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
-            </td>
-            <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Alec Shapiro</p>
-            </td>
-            <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Alec.shapiro@gmail.com</p>
-            </td>
-        </tr>
-        <tr>
+        </tr><tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Teachers’ Day</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Mark Lee</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Audrey</p>
             </td>
-            <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">marknluci@hotmail.com</p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
-            </td>
-            <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Luci Goh</p>
-            </td>
-            <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">marknluci@hotmail.com</p>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
-            </td>
-            <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Pauline Koh</p>
-            </td>
-            <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">pokecity34@gmail.com</p>
-            </td>
-        </tr>
-        <tr>
+             </tr><tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Foreign Scholars Programme</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Jasmine Koh</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Simon Timothy</p>
             </td>
             <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">acjc.fsmp@gmail.com</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Regina</p>
             </td>
         </tr>
     </tbody>
 </table>
-
-
