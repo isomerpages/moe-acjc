@@ -3,14 +3,15 @@ title: PAT Programmes
 permalink: /parents/parents-action-team/pat-programmes/
 description: ""
 third_nav_title: Parents Action Team
+variant: markdown
 ---
-##### Exam Food Ministry
+##### Exam Food Ministry (EFM)
 
-As our students prepare for the year-end examinations, parents show their love and care for the students by providing nutritious meals to the students who stay back to study or seek consultations with their subject teachers. Past students have testified to the difference EFM has made to their learning journey and studying for the A level examination.&nbsp;This meaningful tradition of providing meals is only possible with the combined hard work and efforts of many parents. Your strong support will certainly count towards the success of EFM.&nbsp;
+As our students prepare for the year-end examinations, parents show their love and care for the students by providing nutritious meals to the students who stay back to study or seek consultations with their subject teachers. Past cohorts have testified to the difference that EFM has made to their learning journey and revision for the A-Level Examinations.&nbsp;This meaningful tradition of providing meals is only possible with the combined hard work and efforts of many parents. Your strong support will certainly count towards the success of EFM.&nbsp;
 
 ##### Foreign Scholars' Mentorship Programme
 
-We have students from foreign countries studying at ACJC.&nbsp; The Foreign Scholars’ Mentorship Programme matches these students to parent volunteers.&nbsp; The parent mentors lend their support to the students as they study in ACJC, either by by acting as a de-facto parent, as a provider of encouragement or by sharing a meal at critical periods like holidays, Birthday, or during the examination period.&nbsp; Often these students will feel a sense of belonging being cared for by their mentors.&nbsp; The lives of the mentors and their families are enriched by the experience too.
+We have students from other countries studying at ACJC.&nbsp; The Foreign Scholars’ Mentorship Programme matches these students to parent volunteers.&nbsp; These parent act as mentors, supporting the students as they study in ACJC, either by providing encouragement or by sharing a meal at critical periods like holidays, birthdays, or during the examination period.&nbsp; These students will feel a sense of belonging being cared for by their mentors.&nbsp; The lives of the mentors and their families are enriched by the experience too.
 
 ##### Teachers' Day Celebration
 
