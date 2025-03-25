@@ -31,7 +31,6 @@ tunes and rousing vocals. To top it all off, there was a tactile activity
 facilitated by the Art Department that encouraged free expression - Material
 Play: Exploring Emotions through Art. By combining unexpected prompts,
 participants created unique and thought-provoking artworks.</p>
-<p></p>
 <p>The audience was deeply engaged in all the performances, participating
 actively and cheering passionately. They even held up lights during the
 singing performances, creating a moving concert ambience. The riveting
@@ -39,11 +38,14 @@ performances at various venues on campus brought students and staff together
 through the Arts. This truly brightened up school life and added to the
 vibrant culture that is uniquely ACJC!&nbsp;</p>
 <p>We look forward to cultivating a love of the Arts further in future events
-and projects.&nbsp;
+and projects, and would like to thank all our performers and participants,
+both staff and students as well as Mr Kenrus Yee and Ms Clio Ding in particular
+for organising the Material Play segment, as well as our Teacher-Advisor
+Ms Lee Minwei for directing and guiding all of us through the production
+of the ACJC Fringe!
 <br>
 </p>
 <p>To God be the Glory, The Best is Yet to Be!</p>
-<p></p>
 <p>Written by: Claire Esther Choy (2AH) and Chloe Esmeralda Choy (2AH)</p>
 <p>
 <br>
