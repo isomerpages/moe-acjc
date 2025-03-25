@@ -3,16 +3,17 @@ title: Christian Ministry
 permalink: /about-us/faculty/christian-ministry/
 description: ""
 third_nav_title: Faculty
+variant: markdown
 ---
 **CHAPLAINS** <br>
-Rev Reuben Ng (Chaplain-in-charge) <br>
-Rev Eddie Ho <br>
-Rev John Foo  <br>
-Rev Peter Koh  <br>
-Rev Shannon Chan  <br>
-Rev Shawn Koh  
+Rev Eddie Ho (Chaplain-in-charge)<br>
+Rev Peter Koh (Point Chaplain)<br>
+Rev Kenneth Huang<br>
+Rev Glenn Tan<br>
+Rev Shannon Chan 
 
   
 
 **CHRISTIAN MINISTRY STAFF** <br>
-Mrs Grace Foo
+Mrs Grace Foo <br>
+Ms Hannah Yeo
