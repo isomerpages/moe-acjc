@@ -10,9 +10,9 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: NSG 2024
-          description: National Schools Games
-          url: /c-c-a-competitions/national-school-games-2024-a-division/
+        - title: National Schools Games 2025
+          description: NSG Calendar
+          url: https://calendar.google.com/calendar/embed?src=acjcsportsacademy%40gmail.com&ctz=Asia%2FSingapore
         - title: SYF 2024
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
