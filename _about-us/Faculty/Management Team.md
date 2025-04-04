@@ -138,7 +138,7 @@ variant: markdown
             <td valign="top">
                 <div>
                     <div><strong>HOD Physical Education / Co-Curricular Activities</strong></div>
-                    <div>Mr Mark Ng</div>
+                    <div></div>
                     <div></div>
                 </div>
             </td>
