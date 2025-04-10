@@ -13,9 +13,9 @@ sections:
         - title: National Schools Games 2025
           description: NSG Calendar
           url: https://calendar.google.com/calendar/embed?src=acjcsportsacademy%40gmail.com&ctz=Asia%2FSingapore
-        - title: SYF 2024
+        - title: SYF 2025
           description: Singapore Youth Festival
-          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
+          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
   - infopic:
       title: CCA Achievements 2024
       description: We would like to congratulate the CCA groups on their achievements
