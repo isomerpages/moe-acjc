@@ -4,10 +4,16 @@ permalink: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2024/
 description: ""
 variant: markdown
 ---
+<font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2025</b></font><br>
+The College would like to congratulate the following CCA group on their achievement in the Singapore Youth Festival Arts Presentation:
+
+**_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Indian Dance)<br><br>
+**To God be the Glory! The Best Is Yet To Be!**<br><br>
+<br>
 <font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2024</b></font><br>
 The College would like to congratulate the following CCA group on their achievement in the Singapore Youth Festival Arts Presentation:
 
-**_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Drama)<br><br>
+**_ACsian Theatre_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF Drama)<br><br>
 **To God be the Glory! The Best Is Yet To Be!**<br><br>
 <br>
 <font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2023</b></font><br>
