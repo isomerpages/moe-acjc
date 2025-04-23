@@ -16,4 +16,7 @@ sections:
         - title: SYF 2025
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
+        - title: DSA 2025
+          description: Direct School Admission
+          url: /direct-school-admission-2025/
 ---
