@@ -2,6 +2,7 @@
 title: Links
 permalink: /about-us/links/
 description: ""
+variant: markdown
 ---
 ### The ACS Family
 
@@ -44,6 +45,7 @@ MOE Video Clips - Making A Difference
 
 
 [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)<br>
+[DMPGS Assistant](https://go.gov.sg/dmpgs-assistant)&nbsp;(AI for Data Management Policy and Guidelines for Schools) <br>
 [HRP](https://www.hrp.gov.sg/hrp/#/)&nbsp;(consolidated portal for HRMS, Pac@Gov and others) <br>
 [ICONnect](https://icon.moe.edu.sg/)<br>
 [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)<br>
