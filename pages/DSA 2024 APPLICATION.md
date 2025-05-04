@@ -4,9 +4,9 @@ permalink: /dsaarchive1/
 description: ""
 variant: tiptap
 ---
-<h3>DSA(JC) Exercise 2024</h3>
-<p>Students who meet the eligibility criteria for the following SPORTS, PERFORMING
-ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
+<h3>DSA(JC) Exercise 2025</h3>
+<p>Students who meet the eligibility criteria for the following <strong>SPORTS, PERFORMING ARTS, DEBATES</strong> and <strong>selected</strong>  <strong>ACADEMIC AREAS</strong> are
+invited to apply for DSA into ACJC:</p>
 <hr>
 <p><strong>SPORTS</strong>
 </p>
@@ -46,7 +46,6 @@ ARTS and DEBATES are invited to apply for DSA into ACJC:</p>
 <br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2024</a> 
 <br>Theatre - <a href="/files/Dsa/Eligibility_Criteria_through_Theatre_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2024</a> 
 <br>English Debating - <a href="/files/Dsa/Eligibility_Criteria_through_English_Debating_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2024</a> 
-<br>
 <br>
 </p>
 <p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
