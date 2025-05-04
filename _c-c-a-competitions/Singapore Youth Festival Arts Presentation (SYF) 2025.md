@@ -13,6 +13,8 @@ The College would like to congratulate the following CCA group on their achievem
 
 **_Guitar Ensemble_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Guitar)<br>
 
+**_String Ensemble_**&nbsp;on attaining the&nbsp;**_Certificate_**&nbsp;**_of Distinction_**&nbsp;for SYF (Strings)
+
 **To God be the Glory! The Best Is Yet To Be!**<br><br>
 <br>
 <font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2024</b></font><br>
