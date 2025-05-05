@@ -40,14 +40,13 @@ invited to apply for DSA into ACJC:</p>
 <hr>
 <p><strong>PERFORMING ARTS AND DEBATE</strong>
 </p>
-<p>Concert Band - <a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2024 </a>
-<br>Choir - <a href="/files/Dsa/Eligibility_Criteria_through_Choir_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2024</a> 
-<br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2024</a> 
-<br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2024</a> 
-<br>Theatre - <a href="/files/Dsa/Eligibility_Criteria_through_Theatre_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2024</a> 
-<br>English Debating - <a href="/files/Dsa/Eligibility_Criteria_through_English_Debating_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2024</a> 
-<br>
-</p>
+<p>Concert Band - <a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2025 </a>
+<br>Choir - <a href="/files/Dsa/Eligibility_Criteria_through_Choir_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2025</a> 
+<br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2025</a> 
+<br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2025</a> 
+<br>Guitar Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_Theatre_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Guitar Ensemble 2025</a> 
+<br>Theatre - Selection Criteria Theatre 2025
+<br>English Debating - Selection Criteria English Debating 2025</p>
 <p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
 </p>
 <p><strong><a href="https://go.gov.sg/acjc-dsa-arts-debate" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-arts-debate</a></strong> 
@@ -67,9 +66,9 @@ invited to apply for DSA into ACJC:</p>
 </p>
 <p><strong>ACADEMIC AREAS APPLICATION FORMS</strong>
 </p>
-<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-drama-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2024</a> </strong>
-<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-music-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-music-2024</a></strong> 
-<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities-2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2024</a></strong> 
+<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-drama-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2025</a> </strong>
+<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-music-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-music-2025</a></strong> 
+<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2025</a></strong> 
 <br>Mathematics or Science or Infocomm Technology - <strong><a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm </a></strong>
 <br>
 <br>
@@ -87,8 +86,8 @@ all applications will automatically be considered for both phases.</p>
 it is strongly recommended that all applications are submitted well in
 advance of the official deadlines:
 <br>
-<br>DSA Phase 1:&nbsp;&nbsp;<strong>31 July 2024</strong> 
-<br>DSA Phase 2: &nbsp;<strong>29 August 2024</strong> 
+<br>DSA Phase 1:&nbsp;&nbsp;<strong>30 July 2025</strong> 
+<br>DSA Phase 2: &nbsp;<strong>26 August 2025</strong> 
 <br>
 <br>Please note that the DSA Selection process is <strong>by invitation only</strong>,
 based on applications submitted by candidates.</p>
@@ -97,8 +96,8 @@ based on applications submitted by candidates.</p>
 <p>Successful applicants will be informed of the outcome of their DSA application
 by the following dates:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>14 August 2024</strong> 
-<br>DSA Phase 2: <strong>05 September 2024</strong> 
+<br>DSA Phase 1: &nbsp;<strong>14 August 2025</strong> 
+<br>DSA Phase 2: <strong>12 September 2025</strong> 
 <br>
 </p>
 <p><strong>Acceptance of DSA Offer</strong>
@@ -106,8 +105,8 @@ by the following dates:
 <p>Successful applicants must accept the DSA offer by emailing the completed
 acceptance forms to ACJC within the following period as set out by MOE:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2024</strong> 
-<br>DSA Phase 2: &nbsp;<strong>06 - 11 September 2024</strong> 
+<br>DSA Phase 1: &nbsp;<strong>13 - 15 August 2025</strong> 
+<br>DSA Phase 2: &nbsp;<strong>09 - 12 September 2025</strong>
 <br>
 </p>
 <p><strong>Enquiries</strong>
