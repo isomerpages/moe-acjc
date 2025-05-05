@@ -60,7 +60,6 @@ invited to apply for DSA into ACJC:</p>
 </p>
 <p>Drama Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Drama_Elective_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2025</a> 
 <br>Music Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Music_Elective_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2025</a>
-<a href="/files/Dsa/Eligibility_Criteria_Music_Elective_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>Humanities Programme - <a href="/files/Dsa/Eligibility_Criteria_Humanities_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2025</a>
 <br>Mathematics or Science - <a href="/files/Dsa/Eligibility_Criteria_Mathematics_or_Science_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2025</a>
 <br>Information Technology (Computing) - <a href="/files/Dsa/Eligibility_Criteria_Infocomm_Technology__Computing__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2025</a> 
