@@ -19,7 +19,7 @@ Thank you to the many students who have shown interest in applying to our colle
 
 ### DIRECT SCHOOL ADMISSION (DSA)
 
-The annual DSA Exercise now open. Click here for information on DSA application.
+The annual DSA Exercise now open. Click [here](https://acjc.moe.edu.sg/dsa-2025-application/)for information on DSA application.
 
 
 
