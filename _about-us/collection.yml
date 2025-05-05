@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - DSA 2025 APPLICATION.md
       - Vision, Mission, Values.md
       - Principal's Message.md
       - Faculty/.keep
