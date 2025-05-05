@@ -4,7 +4,7 @@ permalink: /c-c-a-competitions/national-school-games-2025-a-division/
 description: ""
 variant: markdown
 ---
-<font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2025</b></font><br>
+<font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2025</b></font>
 The College would like to congratulate the Sports CCA groups on their achievements at the National Inter-School ‘A’ Division Championship. <br>
 To God be the  Glory! The Best Is Yet To Be!<br>
 
