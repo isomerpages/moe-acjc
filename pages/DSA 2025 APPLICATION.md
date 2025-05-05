@@ -27,7 +27,8 @@ invited to apply for DSA into ACJC:</p>
 <br>Volleyball
 <br>Waterpolo (Boys)
 <br>
-<br><a href="/files/Dsa/DSA_Sports_Eligibility_Criteria_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports Eligibility Criteria 2024 </a>
+<br><a href="/files/Dsa/DSA_Sports_Eligibility_Criteria_2025.pdf" rel="noopener nofollow" target="_blank">Sports Eligibility Criteria 2025</a>
+<a href="/files/Dsa/DSA_Sports_Eligibility_Criteria_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>
 <br>
 </p>
