@@ -41,13 +41,13 @@ invited to apply for DSA into ACJC:</p>
 <p><strong>PERFORMING ARTS AND DEBATE</strong>
 </p>
 <p>Concert Band - <a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2025</a>
-<a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>Choir - <a href="/files/Dsa/Eligibility_Criteria_through_Choir_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2025</a> 
 <br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2025</a> 
 <br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2025</a> 
 <br>Guitar Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_Guitar_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Guitar Ensemble 2025</a> 
 <br>Theatre - Selection Criteria Theatre 2025
 <br>English Debating - Selection Criteria English Debating 2025</p>
+<p></p>
 <p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
 </p>
 <p><strong><a href="https://go.gov.sg/acjc-dsa-arts-debate" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-arts-debate</a></strong> 
