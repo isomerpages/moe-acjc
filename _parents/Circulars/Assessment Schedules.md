@@ -23,9 +23,10 @@ JC2 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/Assessment/j
 
 
 
-JC2 Mid-Year Learning Checkpoint Timetable and Instructions for Students. <font color="#A96324"><em>To be released at a later date.</em></font>
+JC2 Mid-Year Learning Checkpoint Timetable and Instructions for Students. Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc2_mylcp__timetable.pdf">here</a>&nbsp;for download.
 
-[Click&nbsp;<a target="_blank" href="/files/Assessment/2024_j2_mid_year_lcp_timetable.pdf">here</a>&nbsp;for download.]:#
+[<font color="#A96324"><em>To be released at a later date.</em></font>]:#
+
 
   
 JC2 Preliminary Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
