@@ -45,8 +45,9 @@ invited to apply for DSA into ACJC:</p>
 <br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2025</a> 
 <br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2025</a> 
 <br>Guitar Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_Guitar_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Guitar Ensemble 2025</a> 
-<br>Theatre - Selection Criteria Theatre 2025
-<br>English Debating - Selection Criteria English Debating 2025</p>
+<br>Theatre - <a href="/files/Dsa/Eligibility_Criteria_through_Theatre_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2025</a> 
+<br>English Debating - <a href="/files/Dsa/Eligibility_Criteria_through_English_Debating_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2025</a>
+</p>
 <p></p>
 <p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
 </p>
@@ -57,11 +58,12 @@ invited to apply for DSA into ACJC:</p>
 <hr>
 <p><strong>ACADEMIC AREAS</strong>
 </p>
-<p>Drama Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Drama_Elective_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2024</a> 
-<br>Music Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Music_Elective_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2024 </a>
-<br>Humanities Programme - <a href="/files/Dsa/Eligibility_Criteria_Humanities_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2024 </a>
-<br>Mathematics or Science - <a href="/files/Dsa/Eligibility_Criteria_Mathematics_or_Science_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2024 </a>
-<br>Information Technology (Computing) - <a href="/files/Dsa/Eligibility_Criteria_Infocomm_Technology__Computing__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2024</a> 
+<p>Drama Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Drama_Elective_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2025</a> 
+<br>Music Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Music_Elective_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2025</a>
+<a href="/files/Dsa/Eligibility_Criteria_Music_Elective_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"></a>
+<br>Humanities Programme - <a href="/files/Dsa/Eligibility_Criteria_Humanities_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2025</a>
+<br>Mathematics or Science - <a href="/files/Dsa/Eligibility_Criteria_Mathematics_or_Science_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2025</a>
+<br>Information Technology (Computing) - <a href="/files/Dsa/Eligibility_Criteria_Infocomm_Technology__Computing__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2025</a> 
 <br>
 <br>
 </p>
