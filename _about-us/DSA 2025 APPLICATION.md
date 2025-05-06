@@ -1,6 +1,6 @@
 ---
 title: DSA 2025 APPLICATION
-permalink: /dsaarchive1/
+permalink: /dsa-2025-application/
 description: ""
 variant: tiptap
 ---

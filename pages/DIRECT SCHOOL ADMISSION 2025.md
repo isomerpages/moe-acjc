@@ -1,6 +1,6 @@
 ---
 title: DIRECT SCHOOL ADMISSION 2025
-permalink: /direct-school-admission-2025/
+permalink: /dsaarchive11/
 description: ""
 variant: markdown
 ---

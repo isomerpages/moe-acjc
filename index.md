@@ -15,7 +15,7 @@ sections:
           url: https://calendar.google.com/calendar/embed?src=acjcsportsacademy%40gmail.com&ctz=Asia%2FSingapore
         - title: DSA 2025
           description: Direct School Admission
-          url: /direct-school-admission-2025/
+          url: /dsa-2025-application
         - title: SYF 2025
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
