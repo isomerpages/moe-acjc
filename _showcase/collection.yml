@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2025/Arts Week 2025.md
       - 2025/A Barrel of Laughs.md
       - 2025/ACJC Fringe 2025.md
       - 2025/ACJC Celebrates the Class of 2024!.md
