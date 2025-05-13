@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2025/SYF Indian Dance 2025.md
       - 2025/ACJC Tezukayama High School Joint Concert.md
       - 2025/ACSian Theatre Presents Pride and Prejudice.md
       - 2025/Arts Week 2025.md
