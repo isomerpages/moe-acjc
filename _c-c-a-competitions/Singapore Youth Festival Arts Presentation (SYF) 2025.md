@@ -17,6 +17,8 @@ The College would like to congratulate the following CCA group on their achievem
 
 **_Concert Band_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (Concert Band)
 
+**_AC Dance_**&nbsp;on attaining the&nbsp;_**Certificate of Distinction**_&nbsp;for SYF (International Dance)
+
 **To God be the Glory! The Best Is Yet To Be!**<br><br>
 <br>
 <font color="#041FFB" size="5"> <b>SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION (SYF) 2024</b></font><br>
