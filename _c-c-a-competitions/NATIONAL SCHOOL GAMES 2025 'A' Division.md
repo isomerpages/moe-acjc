@@ -13,7 +13,9 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 |<font color="#808080" size="4"><b>SILVER</b></font>|<font color="#808080" size="4"><b>Bowling</b></font> |<font color="#808080" size="4"><b>Bowling</b></font>|
 ||<font color="#808080" size="4"><b>Waterpolo</b></font>||
 |<font color="#B45F06" size="4"><b>BRONZE</b></font>| <font color="#B45F06" size="4"><b>Canoeing</b></font>|<font color="#B45F06" size="4"><b>Canoeing</b></font>|
-||<font color="#B45F06" size="4"><b>Swimming</b></font> |<font color="#B45F06" size="4"><b>Swimming</b></font>|<br>
+||<font color="#B45F06" size="4"><b>Swimming</b></font> |<font color="#B45F06" size="4"><b>Swimming</b></font>|
+||<font color="#B45F06" size="4"><b>Squash</b></font> ||
+||<font color="#B45F06" size="4"><b>Rugby</b></font> ||<br>
 
 <br>
 <font color="#041FFB" size="5"> <b>NATIONAL INTER-SCHOOL 'A' DIVISION CHAMPIONSHIPS 2024</b></font><br>
