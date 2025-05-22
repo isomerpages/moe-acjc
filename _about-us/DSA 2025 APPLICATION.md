@@ -98,8 +98,8 @@ based on applications submitted by candidates.</p>
 <p>Successful applicants will be informed of the outcome of their DSA application
 by the following dates:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>14 August 2025</strong> 
-<br>DSA Phase 2: <strong>12 September 2025</strong> 
+<br>DSA Phase 1: &nbsp;<strong>12 August 2025</strong> 
+<br>DSA Phase 2: <strong>8 September 2025</strong> 
 <br>
 </p>
 <p><strong>Acceptance of DSA Offer</strong>
