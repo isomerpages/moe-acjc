@@ -10,7 +10,7 @@ To God be the  Glory! The Best Is Yet To Be!<br>
 
 |<font size="4">Award</font>|<font size="4">Boys</font>|<font size="4">Girls</font>|
 | -------- | -------- | -------- |
-|<font color="#E69138" size="4"><b>GOLD</b></font>||<font color="#E69138" size="4"><b>Softball</b></font>|
+|<font color="#E69138" size="4"><b>GOLD</b></font>|<font color="#E69138" size="4"><b>Basketball</b></font>|<font color="#E69138" size="4"><b>Softball</b></font>|
 |<font color="#808080" size="4"><b>SILVER</b></font>|<font color="#808080" size="4"><b>Bowling</b></font> |<font color="#808080" size="4"><b>Bowling</b></font>|
 ||<font color="#808080" size="4"><b>Waterpolo</b></font>||
 |<font color="#B45F06" size="4"><b>BRONZE</b></font>| <font color="#B45F06" size="4"><b>Canoeing</b></font>|<font color="#B45F06" size="4"><b>Canoeing</b></font>|
