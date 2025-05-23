@@ -27,6 +27,6 @@ sections:
         Presentation.
       button: Click here for details
       url: /c-c-a-competitions/national-school-games-2025-a-division/
-      image: /images/Others/CCA_UPDATES_2.jpg
+      image: /images/Others/CCA_UPDATES_3.jpg
       alt: Image alt text
 ---
