@@ -11,8 +11,8 @@ sections:
       background: /images/Banner.gif
       key_highlights:
         - title: National Schools Games 2025
-          description: NSG Calendar
-          url: https://calendar.google.com/calendar/embed?src=acjcsportsacademy%40gmail.com&ctz=Asia%2FSingapore
+          description: ""
+          url: /c-c-a-competitions/national-school-games-2025-a-division/
         - title: DSA 2025
           description: Direct School Admission
           url: /dsa-2025-application
