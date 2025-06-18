@@ -10,8 +10,8 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: National Schools Games 2025
-          description: ""
+        - title: NSG
+          description: National Schools Games
           url: /c-c-a-competitions/national-school-games-2025-a-division/
         - title: DSA 2025
           description: Direct School Admission
