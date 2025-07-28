@@ -29,7 +29,9 @@ JC2 Mid-Year Learning Checkpoint Timetable and Instructions for Students. Click&
 
 
   
-JC2 Preliminary Examination Timetable. <font color="#A96324"><em>To be released at a later date.</em></font>
+JC2 Preliminary Examination Timetable. Click&nbsp;<a target="_blank" href="/files/Assessment/2025_preliminary_examination_timetable.pdf">here</a>&nbsp;for download.
+
+[<font color="#A96324"><em>To be released at a later date.</em></font>]:#
 
 [Click&nbsp;<a target="_blank" href="/files/Assessment/2024_jc2_prelim_exam_timetable.pdf">here</a>&nbsp;for download.]:#
 
