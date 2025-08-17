@@ -39,6 +39,6 @@ Please click [here](https://sites.google.com/acjc.edu.sg/acjcccejc1/higher-educa
 
 ##### Overseas university applications
 
-Please click [here](/files/UCAS__Briefing_Slides__2025_Cycle_Students_Web.pdf) for information about UK university applications via UCAS for the 2024-25 cycle.
+Please click [here](https://drive.google.com/file/d/1Y-i4W5_LYZBmjSdMW0iI98lSo_B_VG0o/view?usp=sharing) for information about UK university applications via UCAS for the 2025-26 cycle.
 
 Please click [here](/files/US_University_Applications_2024_25.pdf) for information about US university applications via CommonApp for the 2024-25 cycle.
