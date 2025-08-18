@@ -2,6 +2,9 @@ collections:
   showcase:
     output: true
     order:
+      - 2025/Geography and the Urban Environment.md
+      - 2025/Achievements in Science Research.md
+      - 2025/InterACters in 2025.md
       - 2025/Assisi Fun Day VIA.md
       - 2025/ACSian Theatre OCIP Cambodia.md
       - 2025/ACSian Theatre @ NBA Rising Stars Invitationals.md
