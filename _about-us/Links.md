@@ -21,7 +21,7 @@ variant: markdown
 
 ### Ministry of Education
 
-[MOE Internet](https://www.moe.gov.sg/)<br>
+[MOE Internet](https://intranet.moe.gov.sg/Pages/Home.aspx)<br>
 [SEAB](https://www.seab.gov.sg/)<br>
 [News on Education by MOE](https://www.schoolbag.edu.sg/)<br>
 [MOE scholarships](https://www.moe.gov.sg/teach/OverviewScholarship.htm)<br>
