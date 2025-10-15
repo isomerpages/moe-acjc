@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: NSG
+        - title: NSG 2025
           description: National Schools Games
           url: /c-c-a-competitions/national-school-games-2025-a-division/
         - title: SYF 2025
