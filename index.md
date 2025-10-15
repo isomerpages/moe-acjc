@@ -10,12 +10,9 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: NSG
+        - title: NSG 2025
           description: National Schools Games
           url: /c-c-a-competitions/national-school-games-2025-a-division/
-        - title: DSA 2025
-          description: Direct School Admission
-          url: /dsa-2025-application
         - title: SYF 2025
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/

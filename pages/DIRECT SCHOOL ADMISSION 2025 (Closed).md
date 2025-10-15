@@ -1,5 +1,5 @@
 ---
-title: DIRECT SCHOOL ADMISSION 2025
+title: DIRECT SCHOOL ADMISSION 2025 (Closed)
 permalink: /dsaarchive11/
 description: ""
 variant: markdown
