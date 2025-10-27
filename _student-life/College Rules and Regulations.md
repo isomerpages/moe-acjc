@@ -395,6 +395,12 @@ voyeurism, sexual misconduct)</p>
 </tr>
 </tbody>
 </table>
+<p>Please see the following for the updated Enhanced Disciplinary Framework
+for Vaping Offences:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enhanced_Framework_Vaping_Offences.png">
+</div>
 <h3>VII. ACJC UNIFORM AND GROOMING MATTERS</h3>
 <p><u>i. Uniform matters</u>
 </p>
