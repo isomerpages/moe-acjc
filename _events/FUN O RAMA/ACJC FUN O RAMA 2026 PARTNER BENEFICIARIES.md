@@ -75,7 +75,7 @@ the quality of life for these underprivileged families in the constituency.</div
 <a rel="noopener noreferrer nofollow" href="https://www.cwa.org.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Caregiving Welfare Association" src="/images/FOR 2024/Beneficiary/CWA.png">
+<img style="width: 100%" height="auto" width="100%" alt="Caregiving Welfare Association" src="/images/FOR 2024/Beneficiary/CWA1.png">
 </div>
 </div>
 <div class="isomer-card-body">
