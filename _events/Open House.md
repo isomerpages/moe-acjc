@@ -4,9 +4,9 @@ permalink: /events/open-house/
 description: ""
 variant: markdown
 ---
-## ACJC Open House 2025
+## ACJC Open House 2026
 
-![Open House 2025](/images/InfoPic/Open_House_2026.jpeg)
+![](/images/InfoPic/Open_House_2026.jpg)
 
 ACJC’s Open House is back! We look forward to welcoming visitors and prospective students to 25 Dover Close East on 13th January 2026, from 12 pm to 5 pm!
 
