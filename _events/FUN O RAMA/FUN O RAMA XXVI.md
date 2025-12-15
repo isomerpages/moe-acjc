@@ -5,15 +5,12 @@ description: ""
 variant: markdown
 third_nav_title: FUN O RAMA
 ---
-### Fun-O-Rama XXVI
+### Fun-O-Rama XXVII
 
-![](/images/FOR%202024/FOR_Thank.jpg)
+![](/images/FOR%202024/FORXXVII/FOR_XXVII.jpg)
 
-Thank you to all for your support for this event and we look forward to your continued support for Fun-O-Rama XXVII in 2026. Thank you and God Bless.
 
-![](/images/FOR%202024/for26_p.png)
-
-Save the date for Fun-O-Rama XXVI on Saturday **23rd March 2024** from 9:30AM - 5:30PM.
+Save the date for Fun-O-Rama XXVII on Saturday **28th March 2026** from 9:30AM - 5:30PM.
 
 Fun-O-Rama is ACJC's traditional biennial funfair featuring thrilling games, tasty food and tremendous experiences.
 
