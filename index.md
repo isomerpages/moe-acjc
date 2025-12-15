@@ -43,4 +43,6 @@ sections:
         or use the QR code for more updates.
       image: /images/InfoPic/Open_House_2026.jpg
       alt: Image alt text
+      url: https://acjc.moe.edu.sg/events/open-house/
+      button: Click here for details.
 ---
