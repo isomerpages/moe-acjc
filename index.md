@@ -26,7 +26,6 @@ sections:
       image: /images/FOR 2024/FORXXVII/FOR_XXVII.jpg
       alt: FUN-O-RAMA XXVII
   - infopic:
-      subtitle: 2025 NSG and SYF Results
       id: infopic
       description: We would like to congratulate the CCA groups on their achievements
         at the National Schools Games and the Singapore Youth Festival Arts
@@ -35,4 +34,5 @@ sections:
       url: /c-c-a-competitions/national-school-games-2025-a-division/
       image: /images/Others/CCA_UPDATES_5.jpg
       alt: Image alt text
+      title: 2025 NSG and SYF Results
 ---
