@@ -25,6 +25,8 @@ sections:
         carnival!
       image: /images/FOR 2024/FORXXVII/FOR_XXVII.jpg
       alt: FUN-O-RAMA XXVII
+      url: /events/fun-o-rama/acjc-fun-o-rama-2026-partner-beneficiaries/
+      button: Click here for details.
   - infopic:
       id: infopic
       description: We would like to congratulate the CCA groups on their achievements
