@@ -2,16 +2,16 @@ collections:
   events:
     output: true
     order:
+      - FUN O RAMA/.keep
+      - FUN O RAMA/FUN O RAMA XXVII.md
+      - FUN O RAMA/ACJC FUN O RAMA 2026 PARTNER BENEFICIARIES.md
+      - Open House.md
       - AC Celebrations/.keep
       - AC Celebrations/AC Celebrations 2021.md
       - AC Celebrations/AC Celebrations 2020.md
-      - Baccalaureate Service.md
       - Founder's Day/.keep
       - Founder's Day/Founder's Day.md
       - Founder's Day/Methodist Walk 2021.md
       - Founder's Day/Founder's Day 2020.md
+      - Baccalaureate Service.md
       - Honours Day.md
-      - Open House.md
-      - FUN O RAMA/.keep
-      - FUN O RAMA/FUN O RAMA XXVII.md
-      - FUN O RAMA/ACJC FUN O RAMA 2026 PARTNER BENEFICIARIES.md
