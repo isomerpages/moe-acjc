@@ -71,6 +71,6 @@ at Dover caters mainly to the seniors with multiple care needs and respite
 care for caregiver area.</div>
 <div class="isomer-card-link">For more information.</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.cwa.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Caregiving Welfare Association" src="/images/FOR 2024/Beneficiary/CWA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Caregiving Welfare Association</div><div class="isomer-card-description">Caregiving Welfare Association (CWA) believe in empowering caregivers and enriching seniors’ lives, ensuring that ageing is dignified, independent, and filled with joy, whether at home or in the community.</div><div class="isomer-card-link">For more information.</div></div></a>
 </div>
 <p></p>
