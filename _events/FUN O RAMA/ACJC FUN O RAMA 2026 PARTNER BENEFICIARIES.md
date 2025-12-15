@@ -25,7 +25,7 @@ continue to bless these children through its Youth Fund Raising efforts.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Neighbouring Methodist Church Outreach" src="/images/FOR 2024/Beneficiary/Methodist_Church_in_Singapore.png">
+<img style="width: 100%" height="auto" width="100%" alt="Neighbouring Methodist Church Outreach" src="/images/FOR 2024/Beneficiary/methodist1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -54,14 +54,14 @@ rapport to equip these children with self-confidence and an excellence
 mindset.</div>
 <div class="isomer-card-link">For more information.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.cdac.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Development Assistance Council (CDAC)" src="/images/FOR 2024/Beneficiary/CDAC.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Development Assistance Council (CDAC)</div><div class="isomer-card-description">CDAC is a self-help group for the less successful individuals in the Chinese community. The CDAC manages programmes focusing on the education and development of students, the upgrading and employment of workers as well as the workfare and support of families.</div><div class="isomer-card-link">For more information.</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.cdac.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Development Assistance Council (CDAC)" src="/images/FOR 2024/Beneficiary/CDAC1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Development Assistance Council (CDAC)</div><div class="isomer-card-description">CDAC is a self-help group for the less successful individuals in the Chinese community. The CDAC manages programmes focusing on the education and development of students, the upgrading and employment of workers as well as the workfare and support of families.</div><div class="isomer-card-link">For more information.</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ulu Pandan Community Development Welfare Fund (CDWF)" src="/images/FOR 2024/Beneficiary/Ulu_Pandan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ulu Pandan Community Development Welfare Fund (CDWF)" src="/images/FOR 2024/Beneficiary/ulu_Pandan1.png">
 </div>
 </div>
 <div class="isomer-card-body">
