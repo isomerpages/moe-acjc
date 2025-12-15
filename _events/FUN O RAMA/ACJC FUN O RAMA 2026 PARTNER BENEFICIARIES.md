@@ -57,20 +57,34 @@ mindset.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.cdac.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Development Assistance Council (CDAC)" src="/images/FOR 2024/Beneficiary/CDAC.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Development Assistance Council (CDAC)</div><div class="isomer-card-description">CDAC is a self-help group for the less successful individuals in the Chinese community. The CDAC manages programmes focusing on the education and development of students, the upgrading and employment of workers as well as the workfare and support of families.</div><div class="isomer-card-link">For more information.</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/ulupandanyouths/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ulu Pandan Youth Network" src="/images/FOR 2024/Beneficiary/PAYM_Ulu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ulu Pandan Youth Network</div><div class="isomer-card-description">The Ulu Pandan Youth Network committee works with Ulu Pandan residents and students who require economic support. It works closely with Ulu Pandan grassroots organisations to support grassroots activities to improve the quality of life for these underprivileged families residing in the constituency.</div><div class="isomer-card-link">For more information.</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.samh.org.sg/st-andrews-senior-care/" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="St Andrew Senior Care (Dover)" src="/images/FOR 2024/Beneficiary/SAMH_Logo_Eng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ulu Pandan Community Development Welfare Fund (CDWF)" src="/images/FOR 2024/Beneficiary/Ulu_Pandan.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">St Andrew Senior Care (Dover)</div>
-<div class="isomer-card-description">Operated by St Andrew’s Community Hospital. The St Andrew Senior Care
-at Dover caters mainly to the seniors with multiple care needs and respite
-care for caregiver area.</div>
+<div class="isomer-card-title">Ulu Pandan Community Development Welfare Fund (CDWF)</div>
+<div class="isomer-card-description">The Ulu Pandan CDWF committee manages the education and welfare funds
+to support Ulu Pandan residents who require economic support. It works
+closely with grassroots organisations to support their activities to improve
+the quality of life for these underprivileged families in the constituency.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.samh.org.sg/st-andrews-senior-care/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="St Andrew Senior Care (Dover)" src="/images/FOR 2024/Beneficiary/SAMH_Logo_Eng.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">St Andrew Senior Care (Dover)</div><div class="isomer-card-description">Operated by St Andrew’s Community Hospital. The St Andrew Senior Care at Dover caters mainly to the seniors with multiple care needs and respite care for caregiver area.</div><div class="isomer-card-link">For more information.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.cwa.org.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Caregiving Welfare Association" src="/images/FOR 2024/Beneficiary/CWA.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Caregiving Welfare Association</div>
+<div class="isomer-card-description">Caregiving Welfare Association (CWA) believe in empowering caregivers
+and enriching seniors’ lives, ensuring that ageing is dignified, independent,
+and filled with joy, whether at home or in the community.</div>
 <div class="isomer-card-link">For more information.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.cwa.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Caregiving Welfare Association" src="/images/FOR 2024/Beneficiary/CWA.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Caregiving Welfare Association</div><div class="isomer-card-description">Caregiving Welfare Association (CWA) believe in empowering caregivers and enriching seniors’ lives, ensuring that ageing is dignified, independent, and filled with joy, whether at home or in the community.</div><div class="isomer-card-link">For more information.</div></div></a>
+</a>
 </div>
 <p></p>
