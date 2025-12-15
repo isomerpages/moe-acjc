@@ -34,5 +34,5 @@ sections:
       url: /c-c-a-competitions/national-school-games-2025-a-division/
       image: /images/Others/CCA_UPDATES_5.jpg
       alt: Image alt text
-      title: 2025 NSG and SYF Results
+      title: NSG and SYF Results
 ---
