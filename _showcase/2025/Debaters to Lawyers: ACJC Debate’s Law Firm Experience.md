@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaMuY2kMq02pPYPBcQpmB_Lse7A3wBUfyYWVR-QpQ0AUPV_H0NLP81xjI3DEEeFKPNyjkOtLQJB_cU/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <p>The grand escalator leading up to the Rajah &amp; Tann office perfectly
 set the tone for the firm’s impressive, polished environment. We were warmly
 welcomed into a spacious meeting room overlooking the city and treated
