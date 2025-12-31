@@ -45,10 +45,10 @@ variant: markdown
             </td>
             <td valign="top">
                 <div><strong>JC1 Year Head</strong></div>
-                <div>Ms Tham Peishan</div>
+                <div>Mr Patrick Sum</div>
                 <div><br></div>
                <div><strong>JC2 Year Head</strong></div>
-                <div>Mr Patrick Sum</div>
+                <div>Ms Tham Peishan</div>
                 <div></div>
             </td>
         </tr>
