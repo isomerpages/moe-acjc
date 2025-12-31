@@ -30,6 +30,7 @@ variant: tiptap
 <p><strong>History</strong>
 </p>
 <p>Ms Audrey Chia</p>
+<p>Mr Calvin Heng</p>
 <p>Mr Mohammad Hafiz</p>
 </td>
 </tr>
