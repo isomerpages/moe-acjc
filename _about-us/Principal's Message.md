@@ -2,23 +2,28 @@
 title: Principal's Message
 permalink: /about-us/principal-s-message/
 description: ""
+variant: markdown
 ---
-**A College of Choice and Distinction**
+As we step into 2026, I am deeply honoured to serve Anglo-Chinese Junior College (ACJC) as its 7th Principal. Having walked these very corridors as a student, ACJC holds a special place in my heart.&nbsp; It is truly a joy and a blessing to be able to return to lead this vibrant community as we continue to build upon the rich traditions and values that define the ACSian identity.
 
-Education in the 21st&nbsp;century demands depth of knowledge and breadth of skills.&nbsp; Anglo-Chinese Junior College (ACJC) is a college of choice and distinction that allows students to pursue their interests while experiencing an all-rounded education that prepares them well to take their place of pride in society.
+This is a significant year for our family, as we celebrate the 140th anniversary of the founding of Anglo-Chinese School (ACS). We thank God for His love, faithfulness and grace through these many years. Reflecting on our heritage, we recall the vision of our founder, Bishop William Fitzjames Oldham, who sought to nurture young people of character. He believed that education was not merely the acquisition of knowledge, but the shaping of a soul to be of service to God and others. Today, ACJC remains a steadfast steward of this legacy, committed to an all-round education of the highest standards based on Christian principles.
 
-ACJC is one of the seven educational institutions of the ACS Family of Schools. The Anglo-Chinese School was founded by Methodist missionary, William Fitzjames Oldham as he recognised the importance of education in uplifting lives and shaping society. &nbsp;Since our founding in 1886, we have provided all students with a holistic education&nbsp;of the highest standards based on Christian principles.
+In a rapidly evolving world, we are focused on helping our students become lifelong learners who genuinely enjoy the process of learning. We foster curiosity, cultivate creativity and develop tenacity that will serve them well beyond their time with us
 
-ACJC continues to grow from strength to strength, nurturing our students to possess&nbsp;Noble&nbsp;Ambition and&nbsp;Character, for the&nbsp;Service of God and nation. In a landscape of changing social norms, our students are taught to uphold strong moral values and principles. The values of Integrity, Tenacity and Passion undergird all aspects of College life, be it in academic pursuits or in the many co-curricular activities. In an increasingly polarised world, our students are encouraged to love and serve others, ultimately making a difference in the community.
+However, learning at ACJC is never an end in itself. We empower our students to direct their education and passions meaningfully into making a real difference in the lives of others — whether through the arts, sciences, sports, leadership or community service, and in their daily lives. We believe each of them has the potential to bring hope and positive change to the people and world around them.
 
-We are proud that many of our students and alumni have made their mark in society, impacting Singapore and the region through their contributions in the fields of Science, the Arts and Culture, Technology, Business, Politics, Sports and others. They uphold the legacy of service established by our founders.
+This belief is reflected in our theme for 2026, shared across all ACS schools: 'A Beacon of Truth and Light' guided by the theme verse found in Matthew 5:16: "In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven."
 
-ACJC moves into the 21st century with the commitment to nurture values-driven leaders and future-ready thinkers within a caring and collaborative community. Even as we strive towards our goal of enabling students to reach their full potential, all students can be assured of support at every stage in their growth at ACJC. They do not journey alone. Together with stakeholders who are actively involved in our mission, they are supported and cheered on by a committed faculty, supportive parents and caring alumni.
+At ACJC, we believe every student possesses unique strengths and talents and a desire to use them to make a difference. Our mission is to ensure that they discover and channel these purposefully with a spirit of excellence, a commitment to integrity, and a heart for service.&nbsp;
 
-Generations of ACSians have passed our gates and discovered their purpose and place in society. Many others will continue to receive the blessings of an education at ACJC. We pledge to do our utmost for the service of God and nation. To God be the Glory. The Best is Yet to Be.
+What makes ACJC truly special is our caring and collaborative community. Our students create our vibrant culture, supported by our dedicated staff, wonderful Parents' Action Team (PAT), and deeply loyal alumni network. Together, we build an enabling environment that nurtures noble ambition anchored on sound character and values.
 
-**Dr Shirleen Chee**
+As we celebrate this milestone year, we do so with deep appreciation for our past, grateful hearts for the present, and hopeful anticipation for the future. I look forward to working alongside all of you to grow and develop every ACSian to be a beacon of God’s light, carrying forward the values and passion that define us.
+
+To God be the Glory! The Best is Yet to Be!
+
+**Mrs Valarie Wilson**
 <br>
 **Principal**
 
-<img style="width: 20%;" src="/images/Dr%20Shirleen%20Chee.jpg" align="left">
+![](/images/Mrs_Wilson_Official_Shot.jpg)
