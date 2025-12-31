@@ -3,8 +3,9 @@ title: Music Elective Programme
 permalink: /about-us/faculty/music-elective-programme/
 description: ""
 third_nav_title: Faculty
+variant: markdown
 ---
 | Senior Teacher |  | 
 | -------- | -------- | 
-| Ms Leong Siew Chun	     | Mrs Lovy Tan     | 
-
+| Ms Deborah Gan	     | Mrs Lovy Tan     |
+| Ms Leong Siew Chun||
