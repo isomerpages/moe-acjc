@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 <p><strong>History</strong>
 </p>
-<p>Mr Jeremy Wong</p>
+<p>Ms Audrey Chia</p>
 <p>Mr Mohammad Hafiz</p>
 </td>
 </tr>
