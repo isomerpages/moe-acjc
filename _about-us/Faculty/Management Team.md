@@ -13,7 +13,6 @@ variant: markdown
             <td valign="top">
                 <div><strong>Principal</strong></div>
 								<div>Mrs Valarie Wilson</div>
-                <div>Dr Shirleen Chee</div>
                 <div></div>
             </td>
             <td><br><br></td>
@@ -46,10 +45,10 @@ variant: markdown
             </td>
             <td valign="top">
                 <div><strong>JC1 Year Head</strong></div>
-                <div>Ms Tham Peishan</div>
+                <div>Mr Patrick Sum</div>
                 <div><br></div>
                <div><strong>JC2 Year Head</strong></div>
-                <div>Mr Patrick Sum</div>
+                <div>Ms Tham Peishan</div>
                 <div></div>
             </td>
         </tr>
@@ -74,14 +73,14 @@ variant: markdown
             </td>
             <td valign="top">
                 <div><strong>Subject Head Economics</strong></div>
-                <div>Mr Mohd Mashren B Masood</div>
+                <div></div>
      <div>
             </div></td>
         </tr>
 			<tr>
             <td valign="top">
                 <div><strong>HOD English</strong></div>
-                <div>Ms Annie Yong</div>
+                <div></div>
             </td>
             <td valign="top">
                 <div><strong>Subject Head General Paper</strong></div>
