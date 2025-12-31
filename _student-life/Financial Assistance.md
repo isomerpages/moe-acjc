@@ -32,14 +32,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Full Subsidy of school fees &amp; 1st and 2nd tier miscellaneous fees.
-$1200 bursary and up to $204 per annum transport subsidies.
+<p>Full Subsidy of school fees, 1st tier and 2nd tier miscellaneous fees.
+$1600 bursary inclusive of transport subsidies.
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Citizen. Gross Monthly Household Income does not exceed $3,000
-per month OR $750 per capita income.
+<p>Singapore Citizen. Gross Monthly Household Income does not exceed $4000
+per month OR $1000 per capita income.
 <br>
 </p>
 </td>
@@ -84,7 +84,7 @@ or grant for educational needs.
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Citizen or Permanent Resident. Gross Monthly Household Income
-does not exceed $4,400 per month or $1,100 per capita income,
+does not exceed $5500 per month or $1375 per capita income.
 <br>
 </p>
 </td>
