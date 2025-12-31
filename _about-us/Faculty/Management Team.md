@@ -13,7 +13,6 @@ variant: markdown
             <td valign="top">
                 <div><strong>Principal</strong></div>
 								<div>Mrs Valarie Wilson</div>
-                <div>Dr Shirleen Chee</div>
                 <div></div>
             </td>
             <td><br><br></td>
