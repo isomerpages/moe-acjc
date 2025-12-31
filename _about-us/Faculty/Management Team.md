@@ -73,14 +73,14 @@ variant: markdown
             </td>
             <td valign="top">
                 <div><strong>Subject Head Economics</strong></div>
-                <div>Mr Mohd Mashren B Masood</div>
+                <div></div>
      <div>
             </div></td>
         </tr>
 			<tr>
             <td valign="top">
                 <div><strong>HOD English</strong></div>
-                <div>Ms Annie Yong</div>
+                <div></div>
             </td>
             <td valign="top">
                 <div><strong>Subject Head General Paper</strong></div>
