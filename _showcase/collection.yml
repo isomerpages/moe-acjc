@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - "2025/Debaters to Lawyers: ACJC Debate’s Law Firm Experience.md"
       - 2025/Geography and the Urban Environment.md
       - 2025/Achievements in Science Research.md
       - 2025/InterACters in 2025.md
