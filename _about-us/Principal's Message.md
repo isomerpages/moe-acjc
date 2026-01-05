@@ -26,4 +26,4 @@ To God be the Glory! The Best is Yet to Be!
 <br>
 **Principal**
 
-![](/images/Mrs_Wilson_Official_Shot.jpg)
+![](/images/Mrs_Wilson_Official_Shot__smaller_.jpg)
