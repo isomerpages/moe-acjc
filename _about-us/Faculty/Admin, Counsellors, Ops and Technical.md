@@ -24,33 +24,30 @@ Ms Cassandra Goh
 
 **OPERATIONS MANAGER** <br>
 Mr Sukumaran<br>
-Mr Sarazli Suratman<br>
 
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
-Mdm Norhaslinda
+Mdm Norhaslinda<br>
+Ms Sufina Abdul Hammed<br>
 
 **STEM INSTRUCTOR** <br>
 Mdm Angie Ng<br>
-Ms Nurin Sofiah<br>
+Mr Soh Thiam Poh <br>
 Ms Theresa
 
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
 
-
-
 **ICT EXECUTIVE** <br>
 Mr Gek Hon Joo
 
-  
-
 **DESKTOP ENGINEER** <br>
 Mr Breyon Yeo   <br>
-Mr Loki Lin
+Mr Mohammad Sahal <br>
 
 **AVA TECHNICIAN** <br>
 Mr Mohammad Ilham
+
 
 **ASSISTANT MANAGER (SPORTS COMPLEX)** <br>
 Ms Chan Lai Na
