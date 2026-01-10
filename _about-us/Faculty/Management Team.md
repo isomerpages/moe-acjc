@@ -229,7 +229,7 @@ variant: markdown
         </tr>
         <tr>
             <td valign="top">
-                <div><strong>HOD Education Technology &amp; Innovation</strong></div>
+                <div><strong>HOD Educational Technology &amp; Innovation</strong></div>
                 <div>Mr Lau Chee Keen</div>
                 <div></div>
             </td>
@@ -293,7 +293,7 @@ variant: markdown
             <td><br></td>
             <td valign="top">
                 <div>
-                    <div><strong>Subject Head National Education / Values in Action</strong></div>
+                    <div><strong>Subject Head National Education / Values-In-Action</strong></div>
                     <div>Ms Teo Shu May</div>
                 </div>
             </td>
@@ -309,7 +309,7 @@ variant: markdown
             </td>
            
 	         <td valign="top">
-                <div><strong>Subject Head Special Projects</strong></div>
+                <div><strong>Subject 21CC</strong></div>
 						 <div>Mr Nicholas Chee</div>
             </td>
         </tr>
