@@ -2,6 +2,7 @@ collections:
   showcase:
     output: true
     order:
+      - 2025/History Dialogic 2025.md
       - 2025/NTU Model UN.md
       - 2025/Sejarah Inquisition.md
       - "2025/History: Sharing by Dr Lin Hongxuan.md"
