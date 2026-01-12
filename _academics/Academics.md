@@ -2,6 +2,7 @@
 title: Academics
 permalink: /student-life/academics/
 description: ""
+variant: markdown
 ---
 _The College’s vision is for students to be ready for the complex and ambiguous world beyond school. We aim to build collaborative learning communities to equip our students with 21st century skills and dispositions to be successful._
 
@@ -17,6 +18,8 @@ The modes of instruction offered by the College aim to prepare students for work
 
 Students must adhere to the MOE prescribed standard of at least 3 H2 and 1 H1 content subjects (of which at least one must be a contrasting subject), General Paper, Project Work, and Mother Tongue Language (unless they qualify for an exemption). 
 
-  
+Students posted to the Arts stream must offer at least 2 H2 content-based subjects from the Humanities & Arts group.
+
+Students posted to the Science stream must offer at least 2 H2 content-based subjects from the Mathematics & Sciences group.
 
 Please [click here](/student-life/academics/subjects) for a list of the subjects offered at ACJC.
