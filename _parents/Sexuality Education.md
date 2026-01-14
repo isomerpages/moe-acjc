@@ -130,7 +130,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 7\.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 
-**At Anglo-Chinese Junior College, the <i>eTeens programme</i> will be implemented as follows in 2026:**
+**At Anglo-Chinese Junior College, the <i>eTeens </i> programme will be implemented as follows in 2026:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
