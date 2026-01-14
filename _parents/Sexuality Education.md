@@ -35,7 +35,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 5\. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
-### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2025:
+### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2026:
 
 ##### <center> JUNIOR COLLEGE 1 </center>
 
@@ -161,12 +161,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 <li style="font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;line-height:1.5">Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure to have pre-marital sex)</li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Managing relationships and risky situations in a healthy way, including avenues for help-seeking​ </li>
-<li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Consequences and impact of STI/HIV</li>
-<li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">State the ways of managing the impact of STIs</li>
-
+  font-weight:normal;line-height:1.5">Managing relationships and risky situations in a healthy way, including avenues for help-seeking</li>
 </ol></td>
     <td style="border: 1px solid grey" class="tg-9hzb">Term 3</td>
   </tr>
