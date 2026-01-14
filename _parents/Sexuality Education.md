@@ -23,12 +23,12 @@ variant: markdown
 
 #### OVERVIEW OF ACJC SEXUALITY EDUCATION PROGRAMME FOR 2026
 
-4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
+4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br>
 
 #### Sexuality Education
 5.	The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships. <br>
 
-At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2026:
+**At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2026:**
 ##### <center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br> JUNIOR COLLEGE 1 </center>
 
 <style type="text/css">
@@ -113,6 +113,9 @@ At Anglo-Chinese Junior College, the following Sexuality Education lessons will 
 </table>
 
 ### eTeens Programme:
+
+6.	eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
+7.	Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 **At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows:**
 
