@@ -47,7 +47,7 @@ The following lessons from the Sexuality Education Programme will be taught:
   <tr>
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</td>
     <td style="border: 1px solid grey" class="tg-7yig">If Not Now When (Part 2)<br>(60 mins)</td>
-    <td style="border: 1px solid grey" class="tg-ktyi">Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?<br><br>In this lesson, students examine issues related to abortion and the impact of sexually transmitted infections (STIs); understand that one has to make responsible decisions for both self and others, and consider sexual abstinence before marriage to remove any risks that come with casual sex. The lesson will also focus on being a source of support for others who may be pregnant or have STIs.<span style="background-color:initial"> </span></td>
+    <td style="border: 1px solid grey" class="tg-ktyi"><i>Is one’s personal choice more important than considering the impact and consequences of one’s choice on others?</i><br><br>In this lesson, students examine issues related to abortion and the impact of sexually transmitted infections (STIs), and understand that one has to make responsible decisions for both self and others.<br><br>Students are also taught to consider sexual abstinence before marriage to remove any risks that come with casual sex. The lesson will also focus on being a source of support for others who may be pregnant or have STIs.<span style="background-color:initial"> </span></td>
     <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
   </tr>
 </tbody>
