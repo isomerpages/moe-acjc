@@ -171,15 +171,15 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 ### Information for Parents
 
 
-8\.  Parents may opt their children out of Sexuality Education&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
+8\.  Parents may opt their children out of Sexuality Education&nbsp;and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
   
 
-9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 02/04/2025.
+9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 06/04/2026.
 
   
 
-10\.  Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by02/04/2025.
+10\.  Parents who wish to opt their children out of the&nbsp;**<i>eTeens</i> programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available &nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 06/04/2026.
 
   
-11\.  Parents can contact the school at 6775 0511 for discussion or to seek clarification about the school’s sexuality education programme.
+11\.  Parents can contact the school at 6775 0511 for discussion or to seek clarification about the school’s Sexuality Education programme.
