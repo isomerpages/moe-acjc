@@ -175,11 +175,11 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
   
 
-9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available&nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 06/04/2026.
+9\.  Parents who wish to opt their children out of the of Sexuality Education lessons&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available&nbsp;**[here](/files/Parents/sexuality_education_form.pdf)**. The completed form is to be submitted by 06/04/2026.
 
   
 
-10\.  Parents who wish to opt their children out of the&nbsp;**<i>eTeens</i> programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available &nbsp;**[here](/files/Parents/sexuality_education_form_2025.pdf)**. The completed form is to be submitted by 06/04/2026.
+10\.  Parents who wish to opt their children out of the&nbsp;**<i>eTeens</i> programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available &nbsp;**[here](/files/Parents/sexuality_education_form.pdf)**. The completed form is to be submitted by 06/04/2026.
 
   
 11\.  Parents can contact the school at 6775 0511 for discussion or to seek clarification about the school’s Sexuality Education programme.
