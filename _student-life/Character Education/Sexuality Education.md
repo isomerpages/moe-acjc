@@ -116,7 +116,10 @@ The following lessons from the Sexuality Education Programme will be taught:
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid grey" class="tg-f4yw">Mass Talk by HPB appointed vendor</td>
+    <td style="border: 1px solid grey" class="tg-f4yw">Mass Talk
+			<ul><li style="font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;line-height:1.5">by pre-recorded video from January 2026</li>
+		</ul></td>
     <td style="border: 1px solid grey" class="tg-ktyi"><ul>
 <li style="font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;line-height:1.5">Awareness of the different STI and HIV</li>
