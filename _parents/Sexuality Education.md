@@ -19,19 +19,17 @@ variant: markdown
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br><br>
 (c)	Make responsible decisions for yourself, your family and society; and<br><br>
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
- You may click  [here](https://go.gov.sg/moe-sexuality-education)  for more information on MOE Sexuality Education.
+ You may click  [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
+#### OVERVIEW OF ACJC SEXUALITY EDUCATION PROGRAMME FOR 2026
 
+4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
 
+#### Sexuality Education
+5.	The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships. <br>
 
-
-
-
-### Sexuality Education Programme&nbsp;
-
-The following lessons from the Sexuality Education Programme will be taught:  
-
-##### <center> JUNIOR COLLEGE 1 </center>
+At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2026:
+##### <center>2026 SEXUALITY EDUCATION LESSONS IN CCE <br> JUNIOR COLLEGE 1 </center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
