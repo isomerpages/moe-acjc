@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs and Societies/Chinese Cultural Society.md
       - Clubs and Societies/Christian Fellowship.md
       - Clubs and Societies/Debate and Oratorical Society.md
       - Clubs and Societies/Indian Cultural Society.md
