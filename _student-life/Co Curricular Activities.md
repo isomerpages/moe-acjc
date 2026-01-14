@@ -12,7 +12,7 @@ CCAs in ACJC is where you are developed beyond the formal teaching programme. It
 
 Students are strongly encouraged to take part actively in at least one major CCA. For their participation in a CCA to be recognised, members must fulfil eighty percent attendance. Students are expected to participate in the same CCA throughout their two years in JC.
 
-Students are not permitted to play for an external club or represent any external organisation in any activity without the prior approval of the Principal. For activities sanctioned by MOE, students are to submit their training programmes at the beginning of each year to the Sports Secretary or Head of Department/ PE and CCA for these to be recorded and recognised.
+Students who wish to represent external organisations in any activity should submit their participation record and/or training programmes at the beginning of each year to the Head of Department/Subject Head of PE and CCA for these to be recorded and recognised.
 
 ### Programme
 
