@@ -120,18 +120,14 @@ The following lessons from the Sexuality Education Programme will be taught:
 			<ul><li style="font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;line-height:1.5">by pre-recorded video from January 2026</li>
 		</ul></td>
-    <td style="border: 1px solid grey" class="tg-ktyi"><ul>
+    <td style="border: 1px solid grey" class="tg-ktyi"><ol type="a">
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Awareness of the different STI and HIV</li>
+  font-weight:normal;line-height:1.5">Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact of STIs/HIV</li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Modes of transmission for STI and HIV</li>
+  font-weight:normal;line-height:1.5">Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure to have pre-marital sex)</li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Modes of protection against infection, specifically abstinence and the correct use of condom</li>
-<li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Consequences and impact of STI/HIV</li>
-<li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">State the ways of managing the impact of STIs</li>
-</ul>
+  font-weight:normal;line-height:1.5">Managing relationships and risky situations in a healthy way, including avenues for help-seeking</li>
+</ol>
 </td>
     <td style="border: 1px solid grey" class="tg-9hzb">Term 3</td>
   </tr>
