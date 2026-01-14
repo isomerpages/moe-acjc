@@ -27,7 +27,7 @@ variant: markdown
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2025
+### Overview of Anglo-Chinese Junior College’s Sexuality Education Programme for 2026
 
 4\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -36,8 +36,6 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 5\. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
 
 ### At Anglo-Chinese Junior College, the following Sexuality Education lessons will be taught in 2025:
-
-The following lessons from the Sexuality Education Programme will be taught:
 
 ##### <center> JUNIOR COLLEGE 1 </center>
 
@@ -65,7 +63,7 @@ The following lessons from the Sexuality Education Programme will be taught:
   <tr>
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3B 'Sexual Health and Behaviour’</td>
     <td style="border: 1px solid grey" class="tg-7yig">What Are Your #relationshipgoals?<br>(60 mins)</td>
-    <td style="border: 1px solid grey" class="tg-ktyi">What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?<br><br>In this lesson, students will learn to navigate challenges in a dating relationship. This includes identifying unhealthy relationships, when to seek help, who to turn to for support and to appreciate that one can emerge stronger and be better prepared for future relationships. Students will have a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others<span style="background-color:initial">.</span></td>
+    <td style="border: 1px solid grey" class="tg-ktyi"><i>What are unhealthy relationships and who can I turn to if I need help? How does one manage aggression, both physical and emotional, in relationships?</i><br><br>In this lesson, students will learn to navigate challenges in a dating relationship. This includes identifying unhealthy relationships, when to seek help, who to turn to for support and to appreciate that one can emerge stronger and be better prepared for future relationships. <br><br>Students will have a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others<span style="background-color:initial">.</span></td>
     <td style="border: 1px solid grey" class="tg-9hzb">Term 2</td>
   </tr>
   <tr>
