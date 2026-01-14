@@ -17,15 +17,9 @@ Students are not permitted to play for an external club or represent any externa
 ### Programme
 
 *   **Clubs and Societies** <br>
-	[ACpress](/e-open-house/cca-showcase/clubs-and-societies/acpress)&nbsp;(Student Blog)  <br>
-	[Art Club](/e-open-house/cca-showcase/clubs-and-societies/art-club)  <br>
-	[Arts Council](/e-open-house/cca-showcase/clubs-and-societies/arts-council)&nbsp;(Non Sequitur, Economics Society, Geography Society, History Society)  <br>
-	[Chinese Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society)  <br>
-	[Christian Fellowship](/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship)   <br>
+		[Christian Fellowship](/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship)   <br>
 	[Debate and Oratorical Society](/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society)   <br>
-	[Indian Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society)   <br>
 	[Interact Club](/e-open-house/cca-showcase/clubs-and-societies/interact-club)  <br>
-	[Malay Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society)  <br>
 	[Pixel Labs (Digital Media &amp; Film Society)](/e-open-house/cca-showcase/clubs-and-societies/pixel-labs)  <br>
 	[STEM Council](/e-open-house/cca-showcase/clubs-and-societies/stem-council) &nbsp;(Science, Technology, Engineering and Mathematics) <br>
 	[AC Uniformed Groups](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)
