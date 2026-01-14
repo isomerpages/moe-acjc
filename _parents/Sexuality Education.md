@@ -124,13 +124,13 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 ### eTeens Programme:
 
 
-6\.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+6\.  eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
 
   
 7\.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 
-**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2025:**
+**At Anglo-Chinese Junior College, the <i>eTeens programme</i> will be implemented as follows in 2026:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -152,20 +152,22 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid grey" class="tg-f4yw">Mass Talk by HPB appointed vendor</td>
-    <td style="border: 1px solid grey" class="tg-ktyi"><ul>
+    <td style="border: 1px solid grey" class="tg-f4yw">Mass Talk
+			<ul><li>by pre-recorded video from January 2026</li></ul>
+		</td>
+    <td style="border: 1px solid grey" class="tg-ktyi"><ol type="a">
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Awareness of the different STI and HIV</li>
+  font-weight:normal;line-height:1.5">Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact of STIs/HIV</li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Modes of transmission for STI and HIV</li>
+  font-weight:normal;line-height:1.5">Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure to have pre-marital sex)</li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;line-height:1.5">Modes of protection against infection, specifically abstinence and the correct use of condom</li>
+  font-weight:normal;line-height:1.5">Managing relationships and risky situations in a healthy way, including avenues for help-seeking​ </li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;line-height:1.5">Consequences and impact of STI/HIV</li>
 <li style="font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;line-height:1.5">State the ways of managing the impact of STIs</li>
-</ul>
-</td>
+
+</ol></td>
     <td style="border: 1px solid grey" class="tg-9hzb">Term 3</td>
   </tr>
 </tbody>
