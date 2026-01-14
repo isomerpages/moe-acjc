@@ -108,7 +108,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
   <tr>
     <td style="border: 1px solid grey" class="tg-7yig">Developing Healthy Relationships/ Theme 3C ‘Society, Culture and the Law’</td>
     <td style="border: 1px solid grey" class="tg-7yig">Why is Voyeurism Wrong?<br>(60 mins)</td>
-    <td style="border: 1px solid grey" class="tg-ktyi">Is voyeurism wrong? Why?<br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. <br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right.<span style="background-color:initial"> </span></td>
+		<td style="border: 1px solid grey" class="tg-ktyi"><i>Is voyeurism wrong? Why?</i><br><br>In this lesson, students will examine the relationship between rights and responsibilities by exploring societal expectations, the laws that protect teenagers from sexual crimes, and the legal consequences of inappropriate sexual behaviour. <br><br>Students will examine what makes voyeurism wrong, learn the importance of the law as signposts for desired behaviours and conduct in society, and the importance of one’s moral compass in responsible decision-making and choosing to do what is right.<span style="background-color:initial"> </span></td>
     <td style="border: 1px solid grey" class="tg-9hzb">Term 1</td>
   </tr>
   <tr>
