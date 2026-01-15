@@ -19,8 +19,8 @@ variant: markdown
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br><br>
 (c)	Make responsible decisions for yourself, your family and society; and<br><br>
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
- You may click  [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
-
+ You may click  [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br>
+ 
 #### OVERVIEW OF ACJC SEXUALITY EDUCATION PROGRAMME FOR 2026
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br>
@@ -114,8 +114,8 @@ variant: markdown
 
 ### eTeens Programme:
 
-6. eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.
-7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
+6. eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.<br>
+7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. <br>
 
 **At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows:**
 
