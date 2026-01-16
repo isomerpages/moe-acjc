@@ -12,20 +12,14 @@ CCAs in ACJC is where you are developed beyond the formal teaching programme. It
 
 Students are strongly encouraged to take part actively in at least one major CCA. For their participation in a CCA to be recognised, members must fulfil eighty percent attendance. Students are expected to participate in the same CCA throughout their two years in JC.
 
-Students are not permitted to play for an external club or represent any external organisation in any activity without the prior approval of the Principal. For activities sanctioned by MOE, students are to submit their training programmes at the beginning of each year to the Sports Secretary or Head of Department/ PE and CCA for these to be recorded and recognised.
+Students who wish to represent external organisations in any activity should submit their participation record and/or training programmes at the beginning of each year to the Head of Department/Subject Head of PE and CCA for these to be recorded and recognised.
 
 ### Programme
 
 *   **Clubs and Societies** <br>
-	[ACpress](/e-open-house/cca-showcase/clubs-and-societies/acpress)&nbsp;(Student Blog)  <br>
-	[Art Club](/e-open-house/cca-showcase/clubs-and-societies/art-club)  <br>
-	[Arts Council](/e-open-house/cca-showcase/clubs-and-societies/arts-council)&nbsp;(Non Sequitur, Economics Society, Geography Society, History Society)  <br>
-	[Chinese Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/chinese-cultural-society)  <br>
-	[Christian Fellowship](/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship)   <br>
+		[Christian Fellowship](/e-open-house/cca-showcase/clubs-and-societies/christian-fellowship)   <br>
 	[Debate and Oratorical Society](/e-open-house/cca-showcase/clubs-and-societies/debate-and-oratorical-society)   <br>
-	[Indian Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/indian-cultural-society)   <br>
 	[Interact Club](/e-open-house/cca-showcase/clubs-and-societies/interact-club)  <br>
-	[Malay Cultural Society](/e-open-house/cca-showcase/clubs-and-societies/malay-cultural-society)  <br>
 	[Pixel Labs (Digital Media &amp; Film Society)](/e-open-house/cca-showcase/clubs-and-societies/pixel-labs)  <br>
 	[STEM Council](/e-open-house/cca-showcase/clubs-and-societies/stem-council) &nbsp;(Science, Technology, Engineering and Mathematics) <br>
 	[AC Uniformed Groups](/e-open-house/cca-showcase/clubs-and-societies/ac-uniformed-groups)

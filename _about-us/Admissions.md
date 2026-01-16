@@ -12,9 +12,9 @@ The Joint Admission Exercise (JAE) is conducted by the Ministry of Education aft
 
 ### APPEALS
 
-The 2025 Appeal for admission to ACJC is now closed. Successful applicants have already been notified.  
+The 2026 Appeal for admission into ACJC will begin upon the release of the Joint Admission Exercise (JAE) posting results.
 
-Thank you to the many students who have shown interest in applying to our college and we would like to wish you the very best in your educational journey.
+The online form will be made available here on the same day, together with the list of required documents.
 
 
 ### DIRECT SCHOOL ADMISSION (DSA)
