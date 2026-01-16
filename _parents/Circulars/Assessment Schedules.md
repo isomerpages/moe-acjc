@@ -9,7 +9,7 @@ variant: markdown
 
 JC1 Assessment Schedule. <font color="#A96324">To be released at a later date.</font>
 
-[<em>Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc1_assessment_schedule.pdf">here</a>&nbsp;for download.</em>]:#
+[<em>Click&nbsp;<a target="_blank" href="/files/Assessment/2026_jc2_assessment_schedule.pdf">here</a>&nbsp;for download.</em>]:#
 
 
 
