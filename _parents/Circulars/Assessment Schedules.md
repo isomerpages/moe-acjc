@@ -9,9 +9,7 @@ variant: markdown
 
 JC1 Assessment Schedule. <font color="#A96324">To be released at a later date.</font>
 
-[<em>Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc1_assessment_schedule.pdf">here</a>&nbsp;for download.</em>]:#
-
-
+[<em>Click&nbsp;<a target="_blank" href="/files/Assessment/2026_jc2_assessment_schedule.pdf">here</a>&nbsp;for download.</em>]:#
 
 
 JC1 Promotional Examination Timetable. <font color="#A96324">To be released at a later date.</font>
@@ -19,19 +17,16 @@ JC1 Promotional Examination Timetable. <font color="#A96324">To be released at a
 [<font color="#A96324"><em>Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc1_promo_timetable_schedule.pdf">here</a>&nbsp;for download.</em></font>]:#
 
 
-
 **<u>JC2</u>**
 
-JC2 Assessment Schedule. <font color="#A96324">To be released at a later date.</font>
+JC2 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/Assessment/2026_jc2_assessment_schedule.pdf">here</a>&nbsp;for download.
 
-[<font color="#A96324"><em>Click&nbsp;<a target="_blank" href="/files/Assessment/jc2_ass_schedule_updated_10_feb.pdf">here</a>&nbsp;for download.</em></font>]:#
+[<font color="#A96324">To be released at a later date.</font>]:#
 
 
 JC2 Mid-Year Learning Checkpoint Timetable and Instructions for Students. <font color="#A96324">To be released at a later date.</font>
 
-[<font color="#A96324"><em>Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc2_mylcp__timetable.pdf">here</a>&nbsp;for download.</em></font>]:#
-
-
+[<font color="#A96324">Click&nbsp;<a target="_blank" href="/files/Assessment/2025_jc2_mylcp__timetable.pdf">here</a>&nbsp;for download.</font>]:#
 
 
   
