@@ -22,9 +22,9 @@ JC1 Promotional Examination Timetable. <font color="#A96324">To be released at a
 
 **<u>JC2</u>**
 
-JC2 Assessment Schedule. <font color="#A96324">To be released at a later date.</font>
+JC2 Assessment Schedule. Click&nbsp;<a target="_blank" href="/files/Assessment/jc2_ass_schedule_updated_10_feb.pdf">here</a>&nbsp;for download.
 
-[<font color="#A96324"><em>Click&nbsp;<a target="_blank" href="/files/Assessment/jc2_ass_schedule_updated_10_feb.pdf">here</a>&nbsp;for download.</em></font>]:#
+[<font color="#A96324">To be released at a later date.</font>]:#
 
 
 JC2 Mid-Year Learning Checkpoint Timetable and Instructions for Students. <font color="#A96324">To be released at a later date.</font>
