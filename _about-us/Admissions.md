@@ -12,7 +12,7 @@ The Joint Admission Exercise (JAE) is conducted by the Ministry of Education aft
 
 ### APPEALS
 
-The 2026 Appeal for admission into ACJC will begin upon the release of the Joint Admission Exercise (JAE) posting results.
+The 2026 Appeal for admission into ACJC will begin on 3 February 2026, upon the release of the Joint Admission Exercise (JAE) posting results.
 
 The online form will be made available here on the same day, together with the list of required documents.
 
