@@ -9,6 +9,14 @@ variant: markdown
 Heads</p>
 <p>
 <br>
+	
+
+| Principal<br>Mrs Valarie Wilson |  |  
+| -------- | -------- | 
+|<b>Vice-Principals (Education)</b><br>Mr Ang Yuan Peng<br>Ms Quek Si Min  |<b> Vice-Principal (Admin)</b><br>Ms Callista Lim    |
+
+
+	
 </p><pre><code>         &lt;td valign="top"&gt;
             &lt;div&gt;&lt;strong&gt;Subject Head Project Work&lt;/strong&gt;&lt;/div&gt;
 					 &lt;div&gt;Mr Mori Toshiyuki&lt;/div&gt;
