@@ -7,98 +7,67 @@ variant: markdown
 ---
 <p>Principal, Vice-Principals, Heads of Department, Subject Heads and Level
 Heads</p>
-<p>
-<br>
-</p><pre><code> </code></pre>
-<p></p>
+
 <table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
-</p>
-<p>Mrs Valarie Wilson</p>
+<tbody><tr><td rowspan="1" colspan="1">
+<strong>Principal</strong><br>
+Mrs Valarie Wilson
 </td>
 <td rowspan="1" colspan="1">
-<p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>Vice-Principals (Education)</strong><br>
+Mr Ang Yuan Peng<br>
+Ms Quek Si Min
+</td>
+<td rowspan="1" colspan="1">
+<strong>Vice-Principal (Admin)</strong><br>
+Ms Callista Lim
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>School Staff Developer</strong><br>
+Mr Fong Chun Kin
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>Senior Year Head</strong><br>
+Mr Calvin Choo
+</td>
+<td rowspan="1" colspan="1">
+<strong>JC1 Year Head</strong><br>
+Mr Patrick Sum<br>
 <br>
-<br>
-</p>
+<strong>JC2 Year Head</strong><br>
+Ms Tham Peishan
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principals (Education)</strong>
-</p>
-<p>Mr Ang Yuan Peng</p>
-<p>Ms Quek Si Min</p>
+<strong>HOD Arts</strong><br>
+Mrs Geetha Creffield
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Admin)</strong>
-</p>
-<p>Ms Callista Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-</p>
-<p>Mr Fong Chun Kin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<strong>Subject Head Humanities</strong><br>
+Mr George Fu
+<br><br>
+<strong>Subject Head English Literature</strong><br>
+Mr Sanjay Cheriyan Mathew
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior Year Head</strong>
-</p>
-<p>Mr Calvin Choo</p>
+<strong>HOD Economics</strong><br>
+Ms Kuek Xiao Bin
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>JC1 Year Head</strong>
-</p>
-<p>Mr Patrick Sum</p>
-<p>
-<br>
-</p>
-<p><strong>JC2 Year Head</strong>
-</p>
-<p>Ms Tham Peishan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD Arts</strong>
-</p>
-<p>Mrs Geetha Creffield</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head Humanities</strong>
-</p>
-<p>Mr George Fu</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Subject Head English Literature</strong>
-</p>
-<p>Mr Sanjay Cheriyan Mathew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD Economics</strong>
-</p>
-<p>Ms Kuek Xiao Bin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head Economics</strong>
-</p>
+<strong>Subject Head Economics</strong>
 </td>
 </tr>
 <tr>
