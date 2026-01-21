@@ -5,313 +5,192 @@ description: ""
 third_nav_title: Faculty
 variant: markdown
 ---
-<div>Principal, Vice-Principals, Heads of Department, Subject Heads and Level Heads</div>
-<div><br></div>
-<table>
-    <tbody>
-        <tr>
-            <td valign="top">
-                <div><strong>Principal</strong></div>
-								<div>Mrs Valarie Wilson</div>
-                <div></div>
-            </td>
-            <td><br><br></td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div><strong>Vice-Principals (Education)</strong></div>
-                <div>Mr Ang Yuan Peng</div>
-                <div>Ms Quek Si Min</div>
-								<div></div>
-                <div></div>
-            </td>
-            <td valign="top">
-                <div><strong>Vice-Principal (Admin)</strong></div>
-                <div>Ms Callista Lim</div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div><strong>School Staff Developer</strong></div>
-                <div>Mr Fong Chun Kin</div>
-                <div></div>
-            </td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div><strong>Senior Year Head</strong></div>
-                <div>Mr Calvin Choo</div>
-            </td>
-            <td valign="top">
-                <div><strong>JC1 Year Head</strong></div>
-                <div>Mr Patrick Sum</div>
-                <div><br></div>
-               <div><strong>JC2 Year Head</strong></div>
-                <div>Ms Tham Peishan</div>
-                <div></div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div><strong>HOD Arts</strong></div>
-                <div>Mrs Geetha Creffield</div>
-            </td>
-            <td valign="top">
-                    <div><strong>Subject Head Humanities</strong></div>
-                    <div>Mr George Fu</div>
-                <div><strong><br></strong></div>
-                <div><strong>Subject Head English Literature</strong></div>
-                <div>Mr Sanjay Cheriyan Mathew</div>
-                <div></div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div><strong>HOD Economics</strong></div>
-                <div>Ms Kuek Xiao Bin</div>
-            </td>
-            <td valign="top">
-                <div><strong>Subject Head Economics</strong></div>
-                <div></div>
-     <div>
-            </div></td>
-        </tr>
-			<tr>
-            <td valign="top">
-                <div><strong>HOD English</strong></div>
-                <div></div>
-            </td>
-            <td valign="top">
-                <div><strong>Subject Head General Paper</strong></div>
-                <div>Ms Deborah Fernandez</div>
-                <div>Ms Ong Xin Yi</div>
-                <div></div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD Mathematics</strong></div>
-                    <div>Mr Kayden Lim</div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div>
-                            <div>
-                                <div><strong>Subject Head Mathematics</strong></div>
-                                <div>Dr Ng Boon Leong</div>
-                            </div>
-                            <div>Mr Yeo Kaixiang</div>
-                            <div></div>
-                        </div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div><strong>HOD Mother Tongue Languages</strong><br></div>
-                        <div>Ms Hoe Mei Hwee<br></div>
-                    </div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div>
-                            <div>
-                                <div><strong>Subject Head Mother Tongue Languages</strong></div>
-                                <div>Ms Jiang Bin</div>
-                                <div></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD Physical Education / Co-Curricular Activities</strong></div>
-                    <div></div>
-                    <div></div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div>
-                            <div><strong>Subject Head Physical Education/Co-Curricular Activities</strong></div>
-                            <div>Mr David Tan</div>
-                        </div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>Project Work</strong></div>
-                    <div></div>
-                    <div></div>
-                </div>
-            </td>
-           
-	         <td valign="top">
-                <div><strong>Subject Head Project Work</strong></div>
-						 <div>Mr Mori Toshiyuki</div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD Science</strong></div>
-                    <div>Ms Tan Ying Ling</div>
-                    <div><br></div>
-                    <div>
-                        <div><br></div>
-                    </div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div>
-                            <div>
-                                <div><strong>Subject Head Biology</strong></div>
-                                <div>
-                                    <div>Mr Jackson Koh</div>
-                                    <div><br></div>
-                                </div>
-                            </div>
-                            <div><strong>Subject Head Chemistry</strong></div>
-                            <div>
-                                <div>Mr Kunasegaran</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div>
-                        <div>Ms So Zhao Ying</div>
-                        <div><br></div>
-                    </div>
-                    <div></div>
-                        <div>
-                            <div><strong>Subject Head Physics</strong></div>
-                          <div>Mr Koo Guowen</div>  
-													<div>Mr Bertram Lim</div>
-                            <div></div>
-                        </div>
-                        <div><br></div><strong>
+<p>Principal, Vice-Principals, Heads of Department, Subject Heads and Level
+Heads</p>
 
-            </strong></div></td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD Information Technology</strong></div>
-                    <div>Mrs Sharon Loh</div>
-                    <div><br></div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div><strong>Subject Head Management of Information</strong></div>
-                        <div>Ms Yue Yin Wah</div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div><strong>HOD Educational Technology &amp; Innovation</strong></div>
-                <div>Mr Lau Chee Keen</div>
-                <div></div>
-            </td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD Outreach and Relations</strong></div>
-                    <div>Ms Ganga Jayaram</div>
-                    <div><br></div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div>
-                        <div><strong>Subject Head Higher Education and Career Guidance</strong></div>
-                        <div>Mrs Daphne Teo</div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD Student Leadership and Management</strong></div>
-                    <div>Ms Rosalind Huang</div>
-                    <div><br></div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div><strong>Subject Head&nbsp;</strong><strong>Student Management</strong></div>
-                    <div>Mr Lau Chee Kheong</div>
-                    <div></div>
-                    <div><br></div>
-                    <div>
-                        <div><strong>Subject Head Student Leadership</strong></div>
-                        <div>Mr Bryan Lee</div>
-                        <div></div>
-                    </div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>HOD C</strong><strong>CE &amp; PCC</strong></div>
-                    <div>Mr Leong Jenn Yeoong</div>
-                </div>
-            </td>
-            <td valign="top">
-                <div>
-                    <div><strong>Subject Head Pastoral Care &amp; Counselling</strong></div>
-                    <div>Mr Calvin Xie</div>
-                    <div></div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td><br></td>
-            <td valign="top">
-                <div>
-                    <div><strong>Subject Head National Education / Values-In-Action</strong></div>
-                    <div>Ms Teo Shu May</div>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <div>
-                    <div><strong>SPECIAL PROJECTS
-											</strong></div>
-                    <div></div>
-                    <div></div>
-                </div>
-            </td>
-           
-	         <td valign="top">
-                <div><strong>Subject 21CC</strong></div>
-						 <div>Mr Nicholas Chee</div>
-            </td>
-        </tr>
-    </tbody>
+<table style="minWidth: 50px">
+<tbody><tr><td rowspan="1" colspan="1">
+<strong>Principal</strong><br>
+Mrs Valarie Wilson
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>Vice-Principals (Education)</strong><br>
+Mr Ang Yuan Peng<br>
+Ms Quek Si Min
+</td>
+<td rowspan="1" colspan="1">
+<strong>Vice-Principal (Admin)</strong><br>
+Ms Callista Lim
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>School Staff Developer</strong><br>
+Mr Fong Chun Kin
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>Senior Year Head</strong><br>
+Mr Calvin Choo
+</td>
+<td rowspan="1" colspan="1">
+<strong>JC1 Year Head</strong><br>
+Mr Patrick Sum<br>
+<br>
+<strong>JC2 Year Head</strong><br>
+Ms Tham Peishan
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Arts</strong><br>
+Mrs Geetha Creffield
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Humanities</strong><br>
+Mr George Fu
+<br><br>
+<strong>Subject Head English Literature</strong><br>
+Mr Sanjay Cheriyan Mathew
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Economics</strong><br>
+Ms Kuek Xiao Bin
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Economics</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD English</strong>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head General Paper</strong><br>
+Ms Deborah Fernandez<br>
+Ms Ong Xin Yi
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Mathematics</strong><br>
+Mr Kayden Lim
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Mathematics</strong><br>
+Dr Ng Boon Leong<br>
+Mr Yeo Kaixiang
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Mother Tongue Languages</strong>
+<br>
+Ms Hoe Mei Hwee
+<br>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Mother Tongue Languages</strong><br>
+Ms Jiang Bin
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Physical Education / Co-Curricular Activities</strong>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Physical Education/Co-Curricular Activities</strong><br>
+Mr David Tan
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>Project Work</strong>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Project Work</strong><br>
+Mr Mori Toshiyuki
+</td>
+</tr><tr>
+</tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Science</strong><br>
+Ms Tan Ying Ling<br>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Biology</strong><br>
+Mr Jackson Koh<br><br>
+<strong>Subject Head Chemistry</strong><br>
+Mr Kunasegaran<br>
+Ms So Zhao Ying<br><br>
+<strong>Subject Head Physics</strong><br>
+Mr Koo Guowen<br>
+Mr Bertram Lim<br>
+</td>
+</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Information Technology</strong><br>
+Mrs Sharon Loh
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Management of Information</strong><br>
+Ms Yue Yin Wah<br>
+	</td>
+	</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Educational Technology &amp; Information</strong><br>
+Mr Lau Chee Keen
+</td>
+<td rowspan="1" colspan="1">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Outreach and Relations</strong><br>
+Ms Ganga Jayaram
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Higher Education and Career Guidance</strong><br>
+Mrs Daphne Teo<br>
+</td>
+	</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Student Leadership Management</strong><br>
+Ms Rosalind Huang<br>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Student Management</strong><br>
+Mr Lau Chee Kheong<br><br>
+<strong>Subject Head Student Leadership</strong><br>
+Mr Bryan Lee<br>
+	</td></tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD CCE &amp; PCC</strong><br>
+Mr Leong Jenn Yeoong
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Pastoral Care &amp; Counselling</strong><br>
+Mr Calvin Xie<br><br>
+	<strong>Subject Head National Education / Values-In-Action</strong><br>
+Ms Teo Shu May<br>
+</td>
+</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>Special Project</strong>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head 21CC</strong><br>
+Mr Nicholas Chee
+</td>
+</tr></tbody>
 </table>
+<p></p>
