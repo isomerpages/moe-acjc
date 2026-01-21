@@ -72,64 +72,125 @@ Ms Kuek Xiao Bin
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD English</strong>
-</p>
+<strong>HOD English</strong>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head General Paper</strong>
-</p>
-<p>Ms Deborah Fernandez</p>
-<p>Ms Ong Xin Yi</p>
+<strong>Subject Head General Paper</strong><br>
+Ms Deborah Fernandez<br>
+Ms Ong Xin Yi
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mathematics</strong>
-</p>
-<p>Mr Kayden Lim</p>
+<strong>HOD Mathematics</strong><br>
+Mr Kayden Lim
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Mathematics</strong>
-</p>
-<p>Dr Ng Boon Leong</p>
-<p>Mr Yeo Kaixiang</p>
+<strong>Subject Head Mathematics</strong><br>
+Dr Ng Boon Leong<br>
+Mr Yeo Kaixiang
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Mother Tongue Languages</strong>
+<strong>HOD Mother Tongue Languages</strong>
 <br>
-</p>
-<p>Ms Hoe Mei Hwee
+Ms Hoe Mei Hwee
 <br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Mother Tongue Languages</strong>
-</p>
-<p>Ms Jiang Bin</p>
+<strong>Subject Head Mother Tongue Languages</strong><br>
+Ms Jiang Bin
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD Physical Education / Co-Curricular Activities</strong>
-</p>
+<strong>HOD Physical Education / Co-Curricular Activities</strong>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head Physical Education/Co-Curricular Activities</strong>
-</p>
-<p>Mr David Tan</p>
+<strong>Subject Head Physical Education/Co-Curricular Activities</strong><br>
+Mr David Tan
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Project Work</strong>
-</p>
+<strong>Project Work</strong>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<strong>Subject Head Project Work</strong><br>
+Mr Mori Toshiyuki
+</td>
+</tr><tr>
+</tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Science</strong><br>
+Ms Tan Ying Ling<br>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Biology</strong><br>
+Mr Jackson Koh<br><br>
+<strong>Subject Head Chemistry</strong><br>
+Mr Kunasegaran<br>
+Ms So Zhao Ying<br><br>
+<strong>Subject Head Physics</strong><br>
+Mr Koo Guowen<br>
+Mr Bertram Lim<br>
+</td>
+</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Information Technology</strong><br>
+Mrs Sharon Loh
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Management of Information</strong><br>
+Ms Yue Yin Wah<br>
+	</td>
+	</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Educational Technology &amp; Information</strong><br>
+Mr Lau Chee Keen
+</td>
+<td rowspan="1" colspan="1">
 </td>
 </tr>
-</tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<strong>HOD Outreach and Relations</strong><br>
+Ms Ganga Jayaram
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Higher Education and Career Guidance</strong><br>
+Mrs Daphne Teo<br>
+</td>
+	</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD Student Leadership Management</strong><br>
+Ms Rosalind Huang<br>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Student Management</strong><br>
+Mr Lau Chee Kheong<br><br>
+<strong>Subject Head Student Leadership</strong><br>
+Mr Bryan Lee<br>
+	</td></tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>HOD CCE &amp; PCC</strong><br>
+Mr Leong Jenn Yeoong
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head Pastoral Care &amp; Counselling</strong><br>
+Mr Calvin Xie<br><br>
+	<strong>Subject Head National Education / Values-In-Action</strong><br>
+Ms Teo Shu May<br>
+</td>
+</tr><tr></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>Special Project</strong>
+</td>
+<td rowspan="1" colspan="1">
+<strong>Subject Head 21CC</strong><br>
+Mr Nicholas Chee
+</td>
+</tr></tbody>
 </table>
 <p></p>
