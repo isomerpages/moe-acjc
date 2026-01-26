@@ -17,16 +17,6 @@ sections:
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
   - infopic:
-      title: ACJC Open House 2026
-      subtitle: Add an image and text
-      id: infopic
-      description: ACJC’s Open House is back!  Follow us on our social media platforms
-        or use the QR code for more updates.
-      image: /images/InfoPic/Open_House_2026.jpg
-      alt: Image alt text
-      url: /events/open-house/
-      button: Click here for details.
-  - infopic:
       title: FUN-O-RAMA XXVII
       subtitle: 2026 FUN-O-RAMA XXVII
       id: infopic
