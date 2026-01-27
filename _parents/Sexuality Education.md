@@ -117,7 +117,7 @@ variant: markdown
 6. eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.<br>
 7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. <br>
 
-**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows:**
+**At Anglo-Chinese Junior College, the eTeens programme will be implemented as follows in 2026:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
