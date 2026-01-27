@@ -160,5 +160,5 @@ variant: markdown
 #### INFORMATION FOR PARENTS
 8. Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br><br>
 9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available here [here](/files/Parents/sexuality_education_form.pdf). The completed form is to be submitted by 06/04/2026. <br><br>
-10. Parents who wish to opt their children out of the eTeens In italics programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](/files/Parents/sexuality_education_form.pdf). The completed form is to be submitted by 06/04/2026.<br><br>
-11. Parents can contact the school at (please provide school contact details, either generic email address or telephone number) for discussion or to seek clarification about the school’s Sexuality Education programme.
+10. Parents who wish to opt their children out of the <b>eTeens</b> programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available [here](/files/Parents/sexuality_education_form.pdf). The completed form is to be submitted by 06/04/2026.<br><br>
+11. Parents can contact the school at 675 0511 for discussion or to seek clarification about the school’s Sexuality Education programme.
