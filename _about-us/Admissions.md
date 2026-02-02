@@ -15,7 +15,7 @@ Appeal for admission to ACJC will begin once the Joint Admission Exercise (JAE) 
 
 Students who wish to submit an appeal should take note of the following:
 
-* Applicants must meet the cut-off points for the respective course (Science or Arts) for the appeal to be considered.
+* Applicants must meet the cut-off points for the respective course (Science or Arts) for the appeal to be considered. **The 2026 cut-off points for ACJC Science is 7 and ACJC Arts is 9.**
 * If you are admitted to your posted school via Direct School Admissions (DSA), you are not eligible to participate in this exercise.
 * Late and/or incomplete applications will not be considered. 
 * Shortlisted applicants will be notified of the result of the appeal application through the contact information provided by 9 February 2026, 5pm. 
