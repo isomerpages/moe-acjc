@@ -20,17 +20,6 @@ sections:
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
   - infopic:
-      title: JC1 Orientation 2026
-      subtitle: Add an image and text
-      id: infopic
-      description: Congratulations to JC1 students posted to Anglo-Chinese Junior
-        College! We are looking forward to seeing you! Orientation for JC1s will
-        be on 4-6 February.
-      button: Click here for details
-      url: /jc1-orientation-2026
-      image: /images/InfoPic/OGL_2026.jpg
-      alt: Image alt text
-  - infopic:
       title: FUN-O-RAMA XXVII
       subtitle: 2026 FUN-O-RAMA XXVII
       id: infopic
@@ -41,6 +30,17 @@ sections:
       alt: FUN-O-RAMA XXVII
       url: /events/fun-o-rama-xxvii/
       button: Click here for details.
+  - infopic:
+      title: JC1 Orientation 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Congratulations to JC1 students posted to Anglo-Chinese Junior
+        College! We are looking forward to seeing you! Orientation for JC1s will
+        be on 4-6 February.
+      button: Click here for details
+      url: /jc1-orientation-2026
+      image: /images/InfoPic/OGL_2026.jpg
+      alt: Image alt text
   - infopic:
       id: infopic
       description: We would like to congratulate the CCA groups on their achievements
