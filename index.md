@@ -32,7 +32,6 @@ sections:
       button: Click here for details.
   - infopic:
       title: JC1 Orientation 2026
-      subtitle: Add an image and text
       id: infopic
       description: Congratulations to JC1 students posted to Anglo-Chinese Junior
         College! We are looking forward to seeing you! Orientation for JC1s will
