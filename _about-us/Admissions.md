@@ -6,16 +6,34 @@ variant: markdown
 ---
 ### JOINT ADMISSION EXERCISE (JAE)
 
-The Joint Admission Exercise (JAE) is conducted by the Ministry of Education after the release of the GCE “O” Level examination results. For more information regarding the JAE (timeline, schoolfinder), you may refer to the Ministry of Education's JAE website [here](https://www.moe.gov.sg/jae).
+The Joint Admission Exercise (JAE) is conducted by the Ministry of Education after the release of the GCE “O” Level examination results. For more information regarding the JAE (timeline, schoolfinder), you may refer to the Ministry of Education's JAE website (https://www.moe.gov.sg/jae).
 
-   
 
 ### APPEALS
 
-The 2026 Appeal for admission into ACJC will begin on 3 February 2026, upon the release of the Joint Admission Exercise (JAE) posting results.
+Appeal for admission to ACJC will begin once the Joint Admission Exercise (JAE) posting results have been released. The appeal application is done fully online.
 
-The online form will be made available here on the same day, together with the list of required documents.
+Students who wish to submit an appeal should take note of the following:
 
+* Applicants must meet the cut-off points for the respective course (Science or Arts) for the appeal to be considered.
+* If you are admitted to your posted school via Direct School Admissions (DSA), you are not eligible to participate in this exercise.
+* Late and/or incomplete applications will not be considered. 
+* Shortlisted applicants will be notified of the result of the appeal application through the contact information provided by 9 February 2026, 5pm. 
+
+You are required to submit the following documents in PDF format as part of your online appeal application:
+
+* GCE 'O' Level Results Slip
+* 2026 JAE Form A
+* JAE Verification Slip (JC Choices)
+* CCA Records
+* Other supporting documents (if applicable)
+
+Students who wish to submit an appeal are to do so through one of the following online forms:
+* For students who have participated in the JAE, submit your application here: [https://go.gov.sg/acjc-jae-appeals](https://go.gov.sg/acjc-jae-appeals)
+* For Singaporeans/PR who did not participate in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals](https://go.gov.sg/acjc-nonjae-appeals)
+* For foreign students who did not participate in the JAE, submit your application here: [https://go.gov.sg/acjc-nonjae-appeals-foreigners](https://go.gov.sg/acjc-nonjae-appeals-foreigners)
+ 
+The **deadline** for submission of appeal application is **6 February 2026, 5pm**.
 
 ### DIRECT SCHOOL ADMISSION (DSA)
 
