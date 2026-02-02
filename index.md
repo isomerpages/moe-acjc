@@ -40,4 +40,15 @@ sections:
       image: /images/Others/CCA_UPDATES_5.jpg
       alt: Image alt text
       title: NSG and SYF Results
+  - infopic:
+      title: JC1 Orientation 2026
+      subtitle: Add an image and text
+      id: infopic
+      description: Congratulations to JC1 students posted to Anglo-Chinese Junior
+        College! We are looking forward to seeing you! Orientation for JC1s will
+        be on 4-6 February.
+      button: Click here for details
+      url: /jc1_orientation_2026
+      image: /images/InfoPic/OGL_2026.jpg
+      alt: Image alt text
 ---
