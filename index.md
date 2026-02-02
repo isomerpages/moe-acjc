@@ -40,4 +40,12 @@ sections:
       image: /images/Others/CCA_UPDATES_5.jpg
       alt: Image alt text
       title: NSG and SYF Results
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Test
+      button: Button Text
+      url: /archogl/
+      alt: Image alt text
 ---
