@@ -18,4 +18,4 @@ _<center>"Together, Touching lives"</center>_
 
 We are a group of parents, of past and present students, working in close collaboration with the College’s leaders, families and community to ensure that our students develop and receive the maximum guidance and help they need to navigate confidently through life. Capitalising on the diverse strengths and experiences of our parents, PAT’s mission is to support the College to achieve the desired outcomes as set out in the College’s mission, vision and values.
 
-PAT strives to serve the community of students, staff, and fellow parents by organising various key activities and programmes to build relationships of mutual trust and create a healthy and sustainable environment where our students will thrive.
+The PAT strives to serve the community of students, staff, and fellow parents by organising various key activities and programmes to build relationships of mutual trust and create a healthy and sustainable environment where our students will thrive.
