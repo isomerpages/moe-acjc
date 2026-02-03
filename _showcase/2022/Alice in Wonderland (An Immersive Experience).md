@@ -3,6 +3,7 @@ title: Alice in Wonderland (An Immersive Experience)
 permalink: /showcase/2022/alice-in-wonderland-an-immersive-experience/
 description: ""
 third_nav_title: "2022"
+variant: markdown
 ---
 ## <center> Alice in Wonderland- An Immersive Experience </center>
 
@@ -16,7 +17,7 @@ In February 2022, JC2 DEP students participated in an immersive experience that 
 
   
 
-Using innovative theatre practices from immersive theatre, this student learning experience provided the space for student actors to experiment through the process of improvisation. Prior to the experience, students were given a character write-up which summarised the key traits of the fantastical characters of Wonderland. Students and teachers changed into the costumes of the various characters, including the hot-tempered Queen of Hearts, the zany Mad Hatter, the sleepy Dormouse and the curious Alice.&nbsp;
+Using innovative theatre practices from immersive theatre, this student learning experience provided the space for student actors to experiment through a process of improvisation. Prior to the experience, students were given a character write-up which summarised the key traits of the fantastical characters of Wonderland. Students and teachers changed into the costumes of the various characters, including the hot-tempered Queen of Hearts, the zany Mad Hatter, the sleepy Dormouse and the curious Alice.&nbsp;
 
   
 
