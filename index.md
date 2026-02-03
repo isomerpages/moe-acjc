@@ -31,6 +31,16 @@ sections:
       url: /events/fun-o-rama-xxvii/
       button: Click here for details.
   - infopic:
+      title: JC1 Orientation 2026
+      id: infopic
+      description: Congratulations to JC1 students posted to Anglo-Chinese Junior
+        College! We are looking forward to seeing you! Orientation for JC1s will
+        be on 4-6 February.
+      button: Click here for details
+      url: /jc1-orientation-2026
+      image: /images/InfoPic/OGL_2026.jpg
+      alt: Image alt text
+  - infopic:
       id: infopic
       description: We would like to congratulate the CCA groups on their achievements
         at the National Schools Games and the Singapore Youth Festival Arts
