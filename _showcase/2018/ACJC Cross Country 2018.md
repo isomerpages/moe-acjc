@@ -3,6 +3,7 @@ title: ACJC Cross Country 2018
 permalink: /showcase/2018/acjc-cross-country-2018/
 description: ""
 third_nav_title: "2018"
+variant: markdown
 ---
 <style>  
 img {  
@@ -16,7 +17,7 @@ img {
 <br>
 <figcaption style="text-align:center;"><em>Congratulations to the ACJC Cross Country Girls for placing in the Top 4!</em></figcaption>
 
-The ACJC Cross Country teams of 8 boys and 8 girls participated in the A-Division Cross Country Championships on 21st March this year where the girls ran 3.8 km and the boys ran 4.8 km. Both the boys and girls team fought hard to compete with 143 runners and 152 runners respectively with more than 16 teams per category.
+The ACJC Cross Country teams of 8 boys and 8 girls participated in the A-Division Cross Country Championships on 21st March this year where the girls ran 3.8 km and the boys ran 4.8 km. Both the boys and girls team fought hard to compete among 143 runners and 152 runners respectively with more than 16 teams per category.
 
 The Girls' A division team has managed to achieve a commendable 4th team placing amid fierce competition in the 2018 National School Games.
 
