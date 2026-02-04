@@ -44,11 +44,11 @@ variant: markdown
         </tr>
         <tr>
 <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Fathers' Prayer Group</strong></p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Fathers Prayer Group</strong></p>
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>&nbsp;</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Gideon Maki</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Gideon Mak</p>
             </td>
             <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
             </td>
@@ -74,7 +74,7 @@ variant: markdown
             </td>
              </tr><tr>
             <td style="width: 179.75pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Foreign Scholars' Mentorship Programme</strong></p><br>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Foreign Scholars Mentorship Programme</strong></p><br>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Wendy Teo</p>
@@ -88,7 +88,7 @@ variant: markdown
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;"><strong>Fun-O-Rama</strong></p>
             </td>
             <td style="width: 113.5pt;padding: 0in 5.4pt;vertical-align: top;">
-                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Carol Tan</p>
+                <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Carol Teo</p>
             </td>
             <td style="width: 174.25pt;padding: 0in 5.4pt;vertical-align: top;">
                 <p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:0in;text-align:left;line-height:normal;font-size:15px;font-family:&quot;Arial&quot;,sans-serif;">Tracy Lim</p>
