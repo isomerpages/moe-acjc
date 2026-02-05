@@ -4,6 +4,10 @@ permalink: /about-us/principal-s-message/
 description: ""
 variant: markdown
 ---
+|  |  |  |  |  |  | |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|<img width="50" alt="Description of image" src="/images/Others/Principal1.jpg">| <font color="white">..........</font>|<font color="white">..........</font>|<font color="white">..........</font>  |<font color="white">..........</font> |<font color="white">..........</font> |<font color="white">..........</font> |
+
 As we step into 2026, I am deeply honoured to serve Anglo-Chinese Junior College (ACJC) as its 7th Principal. Having walked these very corridors as a student, ACJC holds a special place in my heart.&nbsp; It is truly a joy and a blessing to be able to return to lead this vibrant community as we continue to build upon the rich traditions and values that define the ACSian identity.
 
 This is a significant year for our family, as we celebrate the 140th anniversary of the founding of the Anglo-Chinese School (ACS). We thank God for His love, faithfulness and grace through these many years. Reflecting on our heritage, we recall the vision of our founder, Bishop William Fitzjames Oldham, who sought to nurture young people of character. He believed that education was not merely the acquisition of knowledge, but the shaping of a soul to be of service to God and others. Today, ACJC remains a steadfast steward of this legacy, committed to an all-round education of the highest standards based on Christian principles.
