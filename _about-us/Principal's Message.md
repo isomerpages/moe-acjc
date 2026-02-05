@@ -27,9 +27,10 @@ To God be the Glory! The Best is Yet to Be!
 **Principal**
 
 
-|  || |
-| -------- | -------- | -------- |
-|   | <img width="50" alt="Description of image" src="/images/WhatsApp_Image_2026_01_29_at_10_08_21.jpg"> |     |
+
+|  |  |  |  |  |
+| -------- | -------- | -------- | -------- | -------- |
+|........| ........|  <img width="50" alt="Description of image" src="/images/Others/Principal1.jpg">| ........    |........  |
 
 
 
