@@ -29,7 +29,7 @@ To God be the Glory! The Best is Yet to Be!
 
 |  |  |  |  |  |
 | -------- | -------- | -------- | -------- | -------- |
-|...........| ...........|  <img width="50" alt="Description of image" src="/images/Others/Principal1.jpg">| ...........    |...........  |
+|<font color="white">..........</font>|<font color="white">..........</font>|  <img width="50" alt="Description of image" src="/images/Others/Principal1.jpg">|<font color="white">..........</font> |<font color="white">..........</font> |
 
 
 ![](/images/WhatsApp_Image_2026_01_29_at_10_08_21.jpg)
