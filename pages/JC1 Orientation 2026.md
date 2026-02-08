@@ -1,6 +1,6 @@
 ---
 title: JC1 Orientation 2026
-permalink: /jc1-orientation-2026/
+permalink: /archiveorient/
 description: ""
 variant: tiptap
 ---
