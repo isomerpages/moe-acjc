@@ -8,26 +8,27 @@ variant: markdown
 ### **Rental Rates (wef 1st January 2026)**
 
 
-|  ||  |
+|**Performance Package**  ||  |
 | -------- | -------- | -------- |
-| **Performance**  | Mon-Fri 4hr block  | $1,900    |
-| **Performance**  | Rate in Excess of 4 hrs  | $500/hr   |
-| **Performance**  | Weekend (Fri to Sun) Surcharge per day  | $500/hr   |
+| Monday to Sunday, 4-hour block  |  $2,600   |   |
+| Weekend (Friday to Sunday) Surcharge per day |  $500  |  |
 |  |  |  |
 
-|  ||  |
+|**Non-Performance (Rehearsal / Competition) Package**|  ||  
 | -------- | -------- | -------- |
-| **Non-Performance**  |Rehearsal / Set Up / Competition 4hr block  | $1200   |
-| **Non-Performance**  | Rate in Excess of 4 hrs  | $500/hr   |
-| **Non-Performance**  | Weekend (Fri to Sun) Surcharge per day  | $500/hr   |
+| 4-hour block   |$1,700  |   |
+| Weekend (Friday to Sunday) Surcharge per day  | $500   |   |
 |  |  |  |
 
-|  ||  |
+|**Additional hour (Performance / Rehearsal / Bump In &amp; Out / Setup)**|  ||  
 | -------- | -------- | -------- |
-| **Technician** |Weekday 4hr block  | $140   |
-| **Technician** | Weekend (Fri to Sun) / Public Holidays 4hr block  | $160  |
-|**Technician**  | Weekday overtime Hourly Rate (min 4 hr)  | $45/hr   |
-|**Technician**  | Weekend (Fri to Sun) / Public Holidays overtime Hourly Rate (min 4 hr)  | $45/hr   |
+| Monday to Sunday |$300 per hour  |   |
+
+
+|**Technician Fees**  ||  |
+| -------- | -------- | -------- |
+|Monday to Sunday, 4-hour block per person |$112   |   |
+|Monday to Sunday, overtime hourly rate (minimum 4 hours) per person | $28 |    |
 |  |  |  |
 
 <p style="font-family:Arial, sans-serif;font-size:16px;
