@@ -8,6 +8,10 @@ third_nav_title: "2026"
 <p>On the 27th of February 2026, ACJC was proud to welcome the Class of 2025
 home as they received their GCE A-Level examination results - a milestone
 that marks the culmination of their remarkable learning journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hall_Wefie_final_2026.jpg">
+</div>
 <p>The cohort has demonstrated remarkable intellectual growth and deep engagement
 with learning across a wide range of disciplines. Their dedication, resilience,
 and hard work in pursuing knowledge and understanding have truly flourished,
@@ -28,8 +32,8 @@ whom we have had the privilege of teaching, learning with and serving alongside!
 <p>We congratulate the Class of 2025 and wish them all the best for their
 future endeavours. Their resilience, creativity, and commitment to lifelong
 learning have left an indelible mark on ACJC. We know they will continue
-to live out our College values of Integrity, Tenacity and Passion daily,
-using the knowledge, skills and character they have developed to make a
-difference in whichever path they choose to take.</p>
+to live out our College values of Integrity, Tenacity and Passion, using
+the knowledge, skills and character they have developed to make a difference
+in whichever path they choose to take.</p>
 <p><em>To God be the Glory! The Best is Yet to Be!</em>
 </p>
