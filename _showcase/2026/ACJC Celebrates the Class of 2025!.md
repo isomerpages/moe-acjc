@@ -31,4 +31,5 @@ learning have left an indelible mark on ACJC. We know they will continue
 to live out our College values of Integrity, Tenacity and Passion daily,
 using the knowledge, skills and character they have developed to make a
 difference in whichever path they choose to take.</p>
-<p>To God be the Glory! The Best is Yet to Be!</p>
+<p><em>To God be the Glory! The Best is Yet to Be!</em>
+</p>
