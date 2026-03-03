@@ -21,7 +21,7 @@ third_nav_title: FUN O RAMA
 </p>
 </li>
 <li>
-<p><a href="https://www.brmc.org.sg/" class="ng-star-inserted" rel="noopener" target="_blank">Oasis BRMC Mission</a>
+<p><a href="https://www.brmc.org.sg/get-involved/serve/oasis/" class="ng-star-inserted" rel="noopener" target="_blank">Oasis BRMC Mission</a>
 </p>
 </li>
 <li>
@@ -37,7 +37,7 @@ third_nav_title: FUN O RAMA
 </p>
 </li>
 <li>
-<p><a href="https://www.tjyouthnetwork.sg/" class="ng-star-inserted" rel="noopener" target="_blank">Tiong Bahru Youth Network</a>
+<p><a href="https://linktr.ee/tiongbahruyn" class="ng-star-inserted" rel="noopener" target="_blank">Tiong Bahru Youth Network</a>
 </p>
 </li>
 <li>
