@@ -43,7 +43,7 @@ in whichever path they choose to take.</p>
 time at ACJC. Here, we'd like to take the time to share a sampling of these
 diverse stories...</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCcEcb6u3unGzmKsjNYwEnSk2Pqf9EN1vrIsqqfQ-Wgu_2Pw8qDXrtKPyDz-158yE9c3Sox4DWclgE/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQCcEcb6u3unGzmKsjNYwEnSk2Pqf9EN1vrIsqqfQ-Wgu_2Pw8qDXrtKPyDz-158yE9c3Sox4DWclgE/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Alyssa Cheong Xuan Min exemplified excellence through a strong passion
 in the Humanities, coupled with a deep commitment to leadership and service.
