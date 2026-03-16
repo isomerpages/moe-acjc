@@ -8,4 +8,4 @@ variant: markdown
 | Senior Teacher |  | 
 | -------- | -------- | 
 | Ms Deborah Gan	     | Mrs Lovy Tan     |
-| Ms Leong Siew Chun||
+| Ms Leong Siew Chun|Ms Erika Poh|
