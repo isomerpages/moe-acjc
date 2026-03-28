@@ -17,17 +17,6 @@ sections:
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
   - infopic:
-      title: FUN-O-RAMA XXVII
-      subtitle: 2026 FUN-O-RAMA XXVII
-      id: infopic
-      description: Today is the Day! To all ACSians, come back for a taste of
-        nostalgia and relive the good 'ol FOR frenzy and for all, don't miss out
-        on this colossal carnival!
-      image: /images/FOR 2024/FORXXVII/FOR_XXVII_Today.jpg
-      alt: FUN-O-RAMA XXVII
-      url: /events/fun-o-rama-xxvii/
-      button: Click here for details.
-  - infopic:
       id: infopic
       description: We would like to congratulate the CCA groups on their achievements
         at the National Schools Games and the Singapore Youth Festival Arts
