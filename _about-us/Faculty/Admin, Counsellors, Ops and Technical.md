@@ -24,6 +24,7 @@ Ms Cassandra Goh
 
 **OPERATIONS MANAGER** <br>
 Mr Sukumaran<br>
+Mr Joe Chua<br>
 
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
