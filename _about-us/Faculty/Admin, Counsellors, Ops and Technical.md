@@ -27,7 +27,6 @@ Mr Sukumaran<br>
 
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
-Mdm Norhaslinda<br>
 Ms Sufina Abdul Hammed<br>
 
 **STEM INSTRUCTOR** <br>
