@@ -18,12 +18,9 @@ sections:
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
   - infopic:
       id: infopic
-      description: We would like to congratulate the CCA groups on their achievements
-        at the National Schools Games and the Singapore Youth Festival Arts
-        Presentation.
       button: Click here for details
-      url: /c-c-a-competitions/national-school-games-2025-a-division/
-      image: /images/Others/CCA_UPDATES_5.jpg
+      url: /c-c-a-competitions/cca-competition-and-concert-calendar/
+      image: /images/Others/CCA_Calendar.jpg
       alt: Image alt text
-      title: NSG and SYF Results
+      title: NSG, SYF and Performing Arts Calendar
 ---
