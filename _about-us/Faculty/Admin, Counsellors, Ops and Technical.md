@@ -33,7 +33,8 @@ Ms Sufina Abdul Hammed<br>
 **STEM INSTRUCTOR** <br>
 Mdm Angie Ng<br>
 Mr Soh Thiam Poh <br>
-Ms Theresa
+Ms Theresa<br>
+Mr Neo Keng Hwee
 
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
