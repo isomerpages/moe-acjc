@@ -24,16 +24,17 @@ Ms Cassandra Goh
 
 **OPERATIONS MANAGER** <br>
 Mr Sukumaran<br>
+Mr Joe Chua<br>
 
 **CORPORATE SUPPORT OFFICERS** <br>
 Ms Joyce Lee<br>
-Mdm Norhaslinda<br>
 Ms Sufina Abdul Hammed<br>
 
 **STEM INSTRUCTOR** <br>
 Mdm Angie Ng<br>
 Mr Soh Thiam Poh <br>
-Ms Theresa
+Ms Theresa<br>
+Mr Neo Keng Hwee
 
 **LIBRARIAN** <br>
 Mr Ghazli Sulaiman
