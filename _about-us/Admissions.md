@@ -10,16 +10,17 @@ The Joint Admission Exercise (JAE) is conducted by the Ministry of Education aft
 
 
 ### APPEALS
-
-
-
-
-### DIRECT SCHOOL ADMISSION (DSA)
-
 The 2026 Appeal for admission to ACJC is now closed. 
 
 Successful applicants have already been notified.  Thank you to the many students who have shown interest in applying to our college and we would like to wish you the very best in your educational journey.
 
+
+### DIRECT SCHOOL ADMISSION (DSA)
+Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS, DEBATES and ACADEMIC AREAS are invited to apply for DSA into ACJC.
+
+The selection criteria and process for the talent areas will be updated in May, when applications open.
+
+Click [here](https://www.acjc.moe.edu.sg/about-us/direct-school-admission-2026/) for more information.
 
 ### RETURNING SINGAPOREANS
 
