@@ -20,7 +20,7 @@ Students who meet the eligibility criteria for the following SPORTS, PERFORMING 
 
 The selection criteria and process for the talent areas will be updated in May, when applications open.
 
-Click [here](https://www.acjc.moe.edu.sg/about-us/direct-school-admission-2026/) for more information.
+Click [here](https://www.acjc.moe.edu.sg/direct-school-admission-2026/) for more information.
 
 ### RETURNING SINGAPOREANS
 
