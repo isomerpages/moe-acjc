@@ -16,7 +16,7 @@ Successful applicants have already been notified.  Thank you to the many stude
 
 
 ### DIRECT SCHOOL ADMISSION (DSA)
-Students who meet the eligibility criteria for the following SPORTS, PERFORMING ARTS, DEBATES and ACADEMIC AREAS are invited to apply for DSA into ACJC.
+Students who meet the eligibility criteria for selected Talent Areas are invited to apply for DSA into ACJC.
 
 The selection criteria and process for the talent areas will be updated in May, when applications open.
 
