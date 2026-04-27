@@ -23,7 +23,7 @@ sections:
       id: infopic
       button: Click here for events calendar
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
-      image: /images/Others/CCA_Calendar.jpg
+      image: /images/Others/CCA_UPDATES_01a.jpg
       alt: Image alt text
       title: National School Games Championships
       subtitle: Congratulations!
