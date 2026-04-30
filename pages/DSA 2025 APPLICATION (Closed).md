@@ -4,7 +4,7 @@ permalink: /dsaarchive25/
 description: ""
 variant: tiptap
 ---
-<h3>DSA(JC) Exercise 2025</h3>
+<h3>DSA(JC) Exercise 2026</h3>
 <p>Students who meet the eligibility criteria for the following <strong>SPORTS, PERFORMING ARTS, DEBATES</strong> and <strong>selected</strong>  <strong>ACADEMIC AREAS</strong> are
 invited to apply for DSA into ACJC:</p>
 <hr>
@@ -27,8 +27,7 @@ invited to apply for DSA into ACJC:</p>
 <br>Volleyball
 <br>Waterpolo (Boys)
 <br>
-<br><a href="/files/Dsa/DSA_Sports_Eligibility_Criteria_2025.pdf" rel="noopener nofollow" target="_blank">Sports Eligibility Criteria 2025</a>
-<br>
+<br><strong><a href="/files/Dsa/DSA_Sports_Eligibility_Criteria_2025.pdf" rel="noopener nofollow" target="_blank">DSA_Sports_Eligibility_Criteria_2026</a></strong>
 <br>
 </p>
 <p><strong>SPORTS APPLICATION FORM</strong>
@@ -40,13 +39,13 @@ invited to apply for DSA into ACJC:</p>
 <hr>
 <p><strong>PERFORMING ARTS AND DEBATE</strong>
 </p>
-<p>Concert Band - <a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2025</a>
-<br>Choir - <a href="/files/Dsa/Eligibility_Criteria_through_Choir_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2025</a> 
-<br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2025</a> 
-<br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2025</a> 
-<br>Guitar Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_Guitar_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Guitar Ensemble 2025</a> 
-<br>Theatre - <a href="/files/Dsa/Eligibility_Criteria_through_Theatre_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2025</a> 
-<br>English Debating - <a href="/files/Dsa/Eligibility_Criteria_through_English_Debating_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria English Debating 2025</a>
+<p>Concert Band - <a href="/files/Dsa/2026/Eligibility_Criteria_Concert_Band_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Concert_Band_2026</a>
+<br>Choir - <a href="/files/Dsa/2026/Eligibility_Criteria_Choir_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Choir_2026</a> 
+<br>String Ensemble - <a href="/files/Dsa/2026/Eligibility_Criteria_String_Ensemble_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Guitar_Ensemble_2026</a>
+<br>Modern Dance - <a href="/files/Dsa/2026/Eligibility_Criteria_Modern_Dance_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Modern_Dance_2026</a> 
+<br>Guitar Ensemble - <a href="/files/Dsa/2026/Eligibility_Criteria_Guitar_Ensemble_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Guitar_Ensemble_2026</a> 
+<br>Theatre - <a href="/files/Dsa/2026/Eligibility_Criteria_Theatre_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Theatre_2026</a> 
+<br>English Debating - <a href="/files/Dsa/2026/Eligibility_Criteria_English_Debating_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_English_Debating_2026</a>
 </p>
 <p></p>
 <p><strong>PERFORMING ARTS AND DEBATE APPLICATION FORM</strong>
@@ -58,20 +57,20 @@ invited to apply for DSA into ACJC:</p>
 <hr>
 <p><strong>ACADEMIC AREAS</strong>
 </p>
-<p>Drama Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Drama_Elective_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Drama Elective Programme 2025</a> 
-<br>Music Elective Programme - <a href="/files/Dsa/Eligibility_Criteria_Music_Elective_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Music Elective Programme 2025</a>
-<br>Humanities Programme - <a href="/files/Dsa/Eligibility_Criteria_Humanities_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Humanities Programme 2025</a>
-<br>Mathematics or Science - <a href="/files/Dsa/Eligibility_Criteria_Mathematics_or_Science_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Mathematics Or Science 2025</a>
-<br>Information Technology (Computing) - <a href="/files/Dsa/Eligibility_Criteria_Infocomm_Technology__Computing__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Eligibility Criteria Infocomm Technology (Computing) 2025</a> 
+<p>Drama Elective Programme - <a href="/files/Dsa/2026/Eligibility_Criteria_Drama_Elective_Programme_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Drama_Elective_Programme_2026</a> 
+<br>Music Elective Programme - <a href="/files/Dsa/2026/Eligibility_Criteria_Music_Elective_Programme_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Music_Elective_Programme_2026</a>
+<br>Humanities Programme - <a href="/files/Dsa/2026/Eligibility_Criteria_Humanities_Programme_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Humanities_Programme_2026</a>
+<br>Mathematics or Science - <a href="/files/Dsa/2026/Eligibility_Criteria_Mathematics_or_Science_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Mathematics_or_Science_2026</a>
+<br>Information Technology (Computing) - <a href="/files/Dsa/2026/eligibility_criteria_infocomm_technology_computing_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_criteria_infocomm_technology_computing_2026</a> 
 <br>
 <br>
 </p>
 <p><strong>ACADEMIC AREAS APPLICATION FORMS</strong>
 </p>
-<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-drama-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2025</a> </strong>
-<br>Music Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-music-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-music-2025</a></strong> 
-<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjc-dsa-humanities-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-humanities-2025</a></strong> 
-<br>Mathematics or Science or Infocomm Technology - <strong><a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm </a></strong>
+<p>Drama Elective Programme - <strong><a href="https://go.gov.sg/acjc-dsa-drama-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-drama-2026</a> </strong>
+<br>Music Elective Programme -<a href="https://go.gov.sg/acjc-dsa-music-2026" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="https://go.gov.sg/acjc-dsa-music-2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acjc-dsa-music-2026</a></strong> 
+<br>Humanities Programme - <strong><a href="https://go.gov.sg/acjchumanitiesdsa" rel="noopener nofollow" target="_blank">https://go.gov.sg/acjchumanitiesdsa</a></strong>
+<br>Mathematics or Science or Infocomm Technology -<strong> <a href="https://go.gov.sg/acjc-dsa-math-science-infocomm" rel="noopener nofollow" target="_blank">https://go.gov.sg/acjc-dsa-math-science-infocomm</a></strong>
 <br>
 <br>
 </p>
