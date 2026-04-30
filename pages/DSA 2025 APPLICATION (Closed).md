@@ -42,8 +42,7 @@ invited to apply for DSA into ACJC:</p>
 </p>
 <p>Concert Band - <a href="/files/Dsa/Eligibility_Criteria_through_Concert_Band_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Concert Band 2025</a>
 <br>Choir - <a href="/files/Dsa/Eligibility_Criteria_through_Choir_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Choir 2025</a> 
-<br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Cr</a>
-<a href="/files/Dsa/2026/Eligibility_Criteria_String_Ensemble_2026.pdf" rel="noopener nofollow" target="_blank">Test</a><a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">iteria String Ensemble 2025</a> 
+<br>String Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_String_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria String Ensemble 2025</a> 
 <br>Modern Dance - <a href="/files/Dsa/Eligibility_Criteria_through_Modern_Dance_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Modern Dance 2025</a> 
 <br>Guitar Ensemble - <a href="/files/Dsa/Eligibility_Criteria_through_Guitar_Ensemble_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Guitar Ensemble 2025</a> 
 <br>Theatre - <a href="/files/Dsa/Eligibility_Criteria_through_Theatre_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Selection Criteria Theatre 2025</a> 
