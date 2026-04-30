@@ -88,18 +88,18 @@ all applications will automatically be considered for both phases.</p>
 it is strongly recommended that all applications are submitted well in
 advance of the official deadlines:
 <br>
-<br>DSA Phase 1:&nbsp;&nbsp;<strong>30 July 2025</strong> 
-<br>DSA Phase 2: &nbsp;<strong>26 August 2025</strong> 
+<br>DSA Phase 1:&nbsp;&nbsp;<strong>31 July 2026</strong> 
+<br>DSA Phase 2: &nbsp;<strong>28 August 2026</strong> 
 <br>
 <br>Please note that the DSA Selection process is <strong>by invitation only</strong>,
 based on applications submitted by candidates.</p>
 <p><strong>Results of DSA Applications</strong>
 </p>
-<p>Successful applicants will be informed of the outcome of their DSA application
-by the following dates:
+<p>All shortlisted applicants who have participated in the DSA Exercise will
+be informed of the outcome by the following dates:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>12 August 2025</strong> 
-<br>DSA Phase 2: <strong>8 September 2025</strong> 
+<br>DSA Phase 1: &nbsp;<strong>Between 28 Jul and 11 Aug 2026 </strong>
+<br>DSA Phase 2: <strong>Between 24 Aug and 7 Sep 2026 </strong>
 <br>
 </p>
 <p><strong>Acceptance of DSA Offer</strong>
@@ -107,8 +107,8 @@ by the following dates:
 <p>Successful applicants must accept the DSA offer by emailing the completed
 acceptance forms to ACJC within the following period as set out by MOE:
 <br>
-<br>DSA Phase 1: &nbsp;<strong>13 - 15 August 2025</strong> 
-<br>DSA Phase 2: &nbsp;<strong>09 - 12 September 2025</strong>
+<br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2026</strong> 
+<br>DSA Phase 2: &nbsp;<strong>08 - 11 September 2026</strong>
 <br>
 </p>
 <p><strong>Enquiries</strong>
