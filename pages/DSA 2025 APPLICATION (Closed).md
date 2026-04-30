@@ -27,7 +27,7 @@ invited to apply for DSA into ACJC:</p>
 <br>Volleyball
 <br>Waterpolo (Boys)
 <br>
-<br><strong><a href="/files/Dsa/DSA_Sports_Eligibility_Criteria_2025.pdf" rel="noopener nofollow" target="_blank">DSA_Sports_Eligibility_Criteria_2026</a></strong>
+<br><strong><a href="/files/Dsa/2026/DSA_Sports_Eligibility_Criteria_2026.pdf" rel="noopener nofollow" target="_blank">DSA_Sports_Eligibility_Criteria_2026</a></strong>
 <br>
 </p>
 <p><strong>SPORTS APPLICATION FORM</strong>
@@ -41,7 +41,7 @@ invited to apply for DSA into ACJC:</p>
 </p>
 <p>Concert Band - <a href="/files/Dsa/2026/Eligibility_Criteria_Concert_Band_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Concert_Band_2026</a>
 <br>Choir - <a href="/files/Dsa/2026/Eligibility_Criteria_Choir_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Choir_2026</a> 
-<br>String Ensemble - <a href="/files/Dsa/2026/Eligibility_Criteria_String_Ensemble_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Guitar_Ensemble_2026</a>
+<br>String Ensemble - <a href="/files/Dsa/2026/Eligibility_Criteria_String_Ensemble_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_String_Ensemble_2026</a>
 <br>Modern Dance - <a href="/files/Dsa/2026/Eligibility_Criteria_Modern_Dance_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Modern_Dance_2026</a> 
 <br>Guitar Ensemble - <a href="/files/Dsa/2026/Eligibility_Criteria_Guitar_Ensemble_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Guitar_Ensemble_2026</a> 
 <br>Theatre - <a href="/files/Dsa/2026/Eligibility_Criteria_Theatre_2026.pdf" rel="noopener nofollow" target="_blank">Eligibility_Criteria_Theatre_2026</a> 
