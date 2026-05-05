@@ -16,17 +16,18 @@ sections:
         - title: DSA 2026
           description: Direct School Admission
           url: /direct-school-admission-2026/
-        - title: SYF 2025
+        - title: SYF 2026
           description: Singapore Youth Festival
-          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
+          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2026/
   - infopic:
       id: infopic
       button: Click here for events calendar
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
-      image: /images/Others/CCA_UPDATES_01a.jpg
+      image: /images/Others/CCA_UPDATES_02.jpg
       alt: Image alt text
-      title: National School Games Championships
+      title: NSG Championships and SYF Arts Performance
       subtitle: Congratulations!
-      description: "Congratulations to our CCA teams: Canoeing, Swimming and Bowling
-        for their performance at the National School Games Championships."
+      description: "Congratulations to our CCA teams: ACsian Theatre, Cross-Country,
+        Squash, Rugby for their performances at the NSG Championships and SYF
+        Arts Performances."
 ---
