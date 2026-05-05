@@ -4,7 +4,7 @@ permalink: /dsa2026application/
 description: ""
 variant: tiptap
 ---
-<h3>DSA(JC) Exercise 2026 (under construction)</h3>
+<h3>DSA(JC) Exercise 2026</h3>
 <p>Students who meet the eligibility criteria for the following <strong>SPORTS, PERFORMING ARTS, DEBATES</strong> and <strong>selected</strong>  <strong>ACADEMIC AREAS</strong> are
 invited to apply for DSA into ACJC:</p>
 <hr>
