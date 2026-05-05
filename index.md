@@ -25,8 +25,9 @@ sections:
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
       image: /images/Others/CCA_UPDATES_02.jpg
       alt: Image alt text
-      title: National Schools Games Championships
+      title: NSG Championships and SYF Arts Performance
       subtitle: Congratulations!
-      description: "Congratulations to our CCA teams: Canoeing, Swimming and Bowling
-        for their performance at the National School Games Championships."
+      description: "Congratulations to our CCA teams: ACsian Theatre, Cross-Country,
+        Squash, Rugby for their performances at the NSG Championships and SYF
+        Arts Performances."
 ---
