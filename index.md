@@ -23,9 +23,9 @@ sections:
       id: infopic
       button: Click here for events calendar
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
-      image: /images/Others/CCA_UPDATES_01a.jpg
+      image: /images/Others/CCA_UPDATES_02.jpg
       alt: Image alt text
-      title: National School Games Championships
+      title: National Schools Games Championships
       subtitle: Congratulations!
       description: "Congratulations to our CCA teams: Canoeing, Swimming and Bowling
         for their performance at the National School Games Championships."
