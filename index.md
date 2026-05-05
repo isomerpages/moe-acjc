@@ -16,9 +16,9 @@ sections:
         - title: DSA 2026
           description: Direct School Admission
           url: /direct-school-admission-2026/
-        - title: SYF 2025
+        - title: SYF 2026
           description: Singapore Youth Festival
-          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2025/
+          url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2026/
   - infopic:
       id: infopic
       button: Click here for events calendar
