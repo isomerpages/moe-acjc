@@ -15,7 +15,7 @@ sections:
           url: /c-c-a-competitions/national-school-games-2026-a-division/
         - title: DSA 2026
           description: Direct School Admission
-          url: /direct-school-admission-2026/
+          url: /dsa2026application/
         - title: SYF 2026
           description: Singapore Youth Festival
           url: /c-c-a-competitions/singapore-youth-festival-arts-presentation-2026/
