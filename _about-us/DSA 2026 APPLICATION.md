@@ -103,8 +103,8 @@ be informed of the outcome by the following dates:
 </p>
 <p><strong>Acceptance of DSA Offer</strong>
 </p>
-<p>Successful applicants must accept the DSA offer by emailing the completed
-acceptance forms to ACJC within the following period as set out by MOE:
+<p>Successful applicants must accept the DSA offer by submitting the completed
+acceptance forms within the following period as set out by MOE:
 <br>
 <br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2026</strong> 
 <br>DSA Phase 2: &nbsp;<strong>08 - 11 September 2026</strong>
