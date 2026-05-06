@@ -15,7 +15,7 @@ invited to apply for DSA into ACJC:</p>
 <br>Bowling
 <br>Canoeing
 <br>Cross Country
-<br>Floorball (Boys)
+<br>Floorball
 <br>Football (Boys)
 <br>Hockey (Girls)
 <br>Netball
