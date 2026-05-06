@@ -5,6 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h3>DSA(JC) Exercise 2026</h3>
+<p>Anglo-Chinese Junior College welcomes students with outstanding talent
+in Sport, the Performing Arts, Debates, and selected Academic areas to
+apply for Direct School Admission. ACJC firmly believes in holistic education
+and aims to provide an excellent environment which nurtures your abilities
+and enables you to reach your fullest potential. We warmly invite you to
+join our family of multi-talented students to hone your sporting, artistic,
+and intellectual talents.&nbsp;</p>
+<p>Successful applicants will gain admission into ACJC in 2027 for their
+JC education as long as they qualify for the two-year Junior College course
+based on their GCE 'O' Level examination results. The detailed criteria
+can be found on the Ministry of Education’s website at <a href="https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges- and-millennia-institute" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae/junior-colleges- and-millennia-institute</a>
+</p>
+<p>Please direct all queries on the DSA(JC) Exercise to <a href="mailto:acjc@acjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">acjc@acjc.edu.sg</a>.</p>
 <p>Students who meet the eligibility criteria for the following <strong>SPORTS, PERFORMING ARTS, DEBATES</strong> and <strong>selected</strong>  <strong>ACADEMIC AREAS</strong> are
 invited to apply for DSA into ACJC:</p>
 <hr>
@@ -103,8 +116,8 @@ be informed of the outcome by the following dates:
 </p>
 <p><strong>Acceptance of DSA Offer</strong>
 </p>
-<p>Successful applicants must accept the DSA offer by emailing the completed
-acceptance forms to ACJC within the following period as set out by MOE:
+<p>Successful applicants must accept the DSA offer by submitting the completed
+acceptance forms within the following period as set out by MOE:
 <br>
 <br>DSA Phase 1: &nbsp;<strong>12 - 14 August 2026</strong> 
 <br>DSA Phase 2: &nbsp;<strong>08 - 11 September 2026</strong>
