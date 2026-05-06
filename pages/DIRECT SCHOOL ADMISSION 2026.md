@@ -1,6 +1,6 @@
 ---
 title: DIRECT SCHOOL ADMISSION 2026
-permalink: /direct-school-admission-2026/
+permalink: /archivedsa/
 description: ""
 variant: markdown
 ---
