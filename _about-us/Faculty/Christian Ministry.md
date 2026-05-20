@@ -7,13 +7,13 @@ variant: markdown
 ---
 **CHAPLAINS** <br>
 Rev Eddie Ho (Chaplain-in-charge)<br>
-Rev Peter Koh (Point Chaplain)<br>
-Rev Kenneth Huang<br>
-Rev Glenn Tan<br>
-Rev Shannon Chan 
+Ps Anthony Peh (Point Chaplain)<br>
+Rev Stanley Chua<br>
+Rev Shannon Chan<br>
+Rev Irman Halim
+
 
   
 
 **CHRISTIAN MINISTRY STAFF** <br>
-Mrs Grace Foo <br>
 Ms Hannah Yeo
