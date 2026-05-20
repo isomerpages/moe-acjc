@@ -7,9 +7,9 @@ variant: markdown
 ---
 | Subject Head Humanities |Geography  | 
 | -------- | -------- | 
-| Mr George Fu     | Mr Bejamin Goh     |
-| |Mr Calvin Heng|
+| Mr George Fu     | Mr Benjamin Goh     |
 | |Mrs Susan Meow|
 ||**History**|
 ||Ms Audrey Chia|
+| |Mr Calvin Heng|
 ||Mr Mohammad Hafiz|
