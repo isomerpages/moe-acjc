@@ -23,11 +23,10 @@ sections:
       id: infopic
       button: Click here for events calendar
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
-      image: /images/Others/CCA_UPDATES_02.jpg
+      image: /images/Others/CCA_UPDATES_03.jpg
       alt: Image alt text
       title: NSG Championships and SYF Arts Performance
       subtitle: Congratulations!
-      description: "Congratulations to our CCA teams: ACsian Theatre, Cross-Country,
-        Squash, Rugby for their performances at the NSG Championships and SYF
-        Arts Performances."
+      description: "Congratulations to our CCA teams: Softball, Tennis and Hockey for
+        their performances at the NSG Championships."
 ---
