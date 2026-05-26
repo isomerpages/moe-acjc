@@ -23,10 +23,10 @@ sections:
       id: infopic
       button: Click here for events calendar
       url: /c-c-a-competitions/cca-competition-and-concert-calendar/
-      image: /images/Others/CCA_UPDATES_03.jpg
+      image: /images/Others/CCA_UPDATES_04.jpg
       alt: Image alt text
       title: NSG Championships and SYF Arts Performance
       subtitle: Congratulations!
-      description: "Congratulations to our CCA teams: Softball, Tennis and Hockey for
-        their performances at the NSG Championships."
+      description: "Congratulations to our CCA teams: Netball, Softball, Tennis and
+        Hockey for their performances at the NSG Championships."
 ---
