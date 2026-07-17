@@ -39,6 +39,7 @@ Please click [here](https://sites.google.com/acjc.edu.sg/acjcccejc1/higher-educa
 
 ##### Overseas university applications
 
-Please click [here](/files/UCAS__Briefing_Slides__2026_Cycle__3_.pdf) for information about UK university applications via UCAS for the 2025-26 cycle.
+Please click [here](https://drive.google.com/file/d/1wiPMx5WuxSDdDGnJs5lv3XykFfAkeSGf/view?usp=sharing) for information about UK university applications via UCAS for the 2026-27 cycle.
+For information specifically about Oxbridge Medicine, Dentistry and Veterinary Sciences courses please click [here](https://drive.google.com/file/d/16c-burVPg0Hrb3rED2dBSn_rb_LTuR2l/view?usp=sharing).
 
-Please click [here](/files/US_University_Applications_2024_25.pdf) for information about US university applications via CommonApp for the 2024-25 cycle.
+Please click [here](/files/US_University_Applications_2024_25.pdf) for information about US university applications via CommonApp for the 2025-26 cycle.
